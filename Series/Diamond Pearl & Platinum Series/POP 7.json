@@ -1,0 +1,113 @@
+{
+  "version": 1.0,
+  "cardVariants": [
+    "core",
+    "reverse"
+  ],
+  "coreCards": [
+    {
+      "id": "pop7-1",
+      "rarity": "Rare",
+      "name": "Ampharos",
+      "number": "1"
+    },
+    {
+      "id": "pop7-2",
+      "rarity": "Rare",
+      "name": "Gallade",
+      "number": "2"
+    },
+    {
+      "id": "pop7-3",
+      "rarity": "Rare",
+      "name": "Latias",
+      "number": "3"
+    },
+    {
+      "id": "pop7-4",
+      "rarity": "Rare",
+      "name": "Latios",
+      "number": "4"
+    },
+    {
+      "id": "pop7-5",
+      "rarity": "Rare",
+      "name": "Mothim",
+      "number": "5"
+    },
+    {
+      "id": "pop7-6",
+      "rarity": "Uncommon",
+      "name": "Delibird",
+      "number": "6"
+    },
+    {
+      "id": "pop7-7",
+      "rarity": "Uncommon",
+      "name": "Flaaffy",
+      "number": "7"
+    },
+    {
+      "id": "pop7-8",
+      "rarity": "Uncommon",
+      "name": "Kirlia",
+      "number": "8"
+    },
+    {
+      "id": "pop7-9",
+      "rarity": "Uncommon",
+      "name": "Stantler",
+      "number": "9"
+    },
+    {
+      "id": "pop7-10",
+      "rarity": "Uncommon",
+      "name": "Wormadam Sandy Cloak",
+      "number": "10"
+    },
+    {
+      "id": "pop7-11",
+      "rarity": "Common",
+      "name": "Burmy Plant Cloak",
+      "number": "11"
+    },
+    {
+      "id": "pop7-12",
+      "rarity": "Common",
+      "name": "Burmy Sandy Cloak",
+      "number": "12"
+    },
+    {
+      "id": "pop7-13",
+      "rarity": "Common",
+      "name": "Corsola",
+      "number": "13"
+    },
+    {
+      "id": "pop7-14",
+      "rarity": "Common",
+      "name": "Mareep",
+      "number": "14"
+    },
+    {
+      "id": "pop7-15",
+      "rarity": "Common",
+      "name": "Ralts",
+      "number": "15"
+    },
+    {
+      "id": "pop7-16",
+      "rarity": "Common",
+      "name": "Sentret",
+      "number": "16"
+    },
+    {
+      "id": "pop7-17",
+      "rarity": "Common",
+      "name": "Spinda",
+      "number": "17"
+    }
+  ],
+  "additionalCards": [],
+  "other": []
+}

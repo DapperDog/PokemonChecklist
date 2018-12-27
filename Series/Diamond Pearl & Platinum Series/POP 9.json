@@ -1,0 +1,113 @@
+{
+  "version": 1.0,
+  "cardVariants": [
+    "core",
+    "reverse"
+  ],
+  "coreCards": [
+    {
+      "id": "pop9-1",
+      "rarity": "Rare",
+      "name": "Garchomp",
+      "number": "1"
+    },
+    {
+      "id": "pop9-2",
+      "rarity": "Rare",
+      "name": "Manaphy",
+      "number": "2"
+    },
+    {
+      "id": "pop9-3",
+      "rarity": "Rare",
+      "name": "Raichu",
+      "number": "3"
+    },
+    {
+      "id": "pop9-4",
+      "rarity": "Rare",
+      "name": "Regigigas",
+      "number": "4"
+    },
+    {
+      "id": "pop9-5",
+      "rarity": "Rare",
+      "name": "Rotom",
+      "number": "5"
+    },
+    {
+      "id": "pop9-6",
+      "rarity": "Uncommon",
+      "name": "Buizel",
+      "number": "6"
+    },
+    {
+      "id": "pop9-7",
+      "rarity": "Uncommon",
+      "name": "Croagunk",
+      "number": "7"
+    },
+    {
+      "id": "pop9-8",
+      "rarity": "Uncommon",
+      "name": "Gabite",
+      "number": "8"
+    },
+    {
+      "id": "pop9-9",
+      "rarity": "Uncommon",
+      "name": "Lopunny",
+      "number": "9"
+    },
+    {
+      "id": "pop9-10",
+      "rarity": "Uncommon",
+      "name": "Pachirisu",
+      "number": "10"
+    },
+    {
+      "id": "pop9-11",
+      "rarity": "Uncommon",
+      "name": "Pichu",
+      "number": "11"
+    },
+    {
+      "id": "pop9-12",
+      "rarity": "Common",
+      "name": "Buneary",
+      "number": "12"
+    },
+    {
+      "id": "pop9-13",
+      "rarity": "Common",
+      "name": "Chimchar",
+      "number": "13"
+    },
+    {
+      "id": "pop9-14",
+      "rarity": "Common",
+      "name": "Gible",
+      "number": "14"
+    },
+    {
+      "id": "pop9-15",
+      "rarity": "Common",
+      "name": "Pikachu",
+      "number": "15"
+    },
+    {
+      "id": "pop9-16",
+      "rarity": "Common",
+      "name": "Piplup",
+      "number": "16"
+    },
+    {
+      "id": "pop9-17",
+      "rarity": "Common",
+      "name": "Turtwig",
+      "number": "17"
+    }
+  ],
+  "additionalCards": [],
+  "other": []
+}

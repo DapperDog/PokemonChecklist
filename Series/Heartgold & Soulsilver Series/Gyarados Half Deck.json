@@ -1,13 +1,17 @@
-[
-  {
-    "id": "placeholder-1",
-    "name": "placeholder pkmn",
-    "imageUrl": "https://images.pokemontcg.io/xy7/1.png",
-    "subtype": "Basic",
-    "supertype": "Pokémon",
-    "number": "1",
-    "rarity": "Common",
-    "series": "test",
-    "set": "placeholder"
-  }
-]
+{
+  "version": 1.0,
+  "cardVariants": [
+    "core",
+    "reverse"
+  ],
+  "coreCards": [
+    {
+      "id": "placeholder-1",
+      "rarity": "Common",
+      "name": "placeholder pkmn",
+      "number": "1"
+    }
+  ],
+  "additionalCards": [],
+  "other": []
+}

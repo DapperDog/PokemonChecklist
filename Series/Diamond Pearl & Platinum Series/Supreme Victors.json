@@ -1,0 +1,929 @@
+{
+  "version": 1.0,
+  "cardVariants": [
+    "core",
+    "reverse"
+  ],
+  "coreCards": [
+    {
+      "id": "pl3-1",
+      "rarity": "Rare Holo",
+      "name": "Absol G",
+      "number": "1"
+    },
+    {
+      "id": "pl3-2",
+      "rarity": "Rare Holo",
+      "name": "Blaziken FB",
+      "number": "2"
+    },
+    {
+      "id": "pl3-3",
+      "rarity": "Rare Holo",
+      "name": "Drifblim FB",
+      "number": "3"
+    },
+    {
+      "id": "pl3-4",
+      "rarity": "Rare Holo",
+      "name": "Electivire FB",
+      "number": "4"
+    },
+    {
+      "id": "pl3-5",
+      "rarity": "Rare Holo",
+      "name": "Garchomp",
+      "number": "5"
+    },
+    {
+      "id": "pl3-6",
+      "rarity": "Rare Holo",
+      "name": "Magmortar",
+      "number": "6"
+    },
+    {
+      "id": "pl3-7",
+      "rarity": "Rare Holo",
+      "name": "Metagross",
+      "number": "7"
+    },
+    {
+      "id": "pl3-8",
+      "rarity": "Rare Holo",
+      "name": "Rayquaza C",
+      "number": "8"
+    },
+    {
+      "id": "pl3-9",
+      "rarity": "Rare Holo",
+      "name": "Regigigas FB",
+      "number": "9"
+    },
+    {
+      "id": "pl3-10",
+      "rarity": "Rare Holo",
+      "name": "Rhyperior",
+      "number": "10"
+    },
+    {
+      "id": "pl3-11",
+      "rarity": "Rare Holo",
+      "name": "Staraptor FB",
+      "number": "11"
+    },
+    {
+      "id": "pl3-12",
+      "rarity": "Rare Holo",
+      "name": "Swampert",
+      "number": "12"
+    },
+    {
+      "id": "pl3-13",
+      "rarity": "Rare Holo",
+      "name": "Venusaur",
+      "number": "13"
+    },
+    {
+      "id": "pl3-14",
+      "rarity": "Rare Holo",
+      "name": "Yanmega",
+      "number": "14"
+    },
+    {
+      "id": "pl3-15",
+      "rarity": "Rare",
+      "name": "Arcanine G",
+      "number": "15"
+    },
+    {
+      "id": "pl3-16",
+      "rarity": "Rare",
+      "name": "Articuno",
+      "number": "16"
+    },
+    {
+      "id": "pl3-17",
+      "rarity": "Rare",
+      "name": "Butterfree FB",
+      "number": "17"
+    },
+    {
+      "id": "pl3-18",
+      "rarity": "Rare",
+      "name": "Camerupt",
+      "number": "18"
+    },
+    {
+      "id": "pl3-19",
+      "rarity": "Rare",
+      "name": "Camerupt G",
+      "number": "19"
+    },
+    {
+      "id": "pl3-20",
+      "rarity": "Rare",
+      "name": "Charizard G",
+      "number": "20"
+    },
+    {
+      "id": "pl3-21",
+      "rarity": "Rare",
+      "name": "Chimecho",
+      "number": "21"
+    },
+    {
+      "id": "pl3-22",
+      "rarity": "Rare",
+      "name": "Claydol",
+      "number": "22"
+    },
+    {
+      "id": "pl3-23",
+      "rarity": "Rare",
+      "name": "Crawdaunt G",
+      "number": "23"
+    },
+    {
+      "id": "pl3-24",
+      "rarity": "Rare",
+      "name": "Dewgong",
+      "number": "24"
+    },
+    {
+      "id": "pl3-25",
+      "rarity": "Rare",
+      "name": "Dodrio",
+      "number": "25"
+    },
+    {
+      "id": "pl3-26",
+      "rarity": "Rare",
+      "name": "Dusknoir FB",
+      "number": "26"
+    },
+    {
+      "id": "pl3-27",
+      "rarity": "Rare",
+      "name": "Empoleon FB",
+      "number": "27"
+    },
+    {
+      "id": "pl3-28",
+      "rarity": "Rare",
+      "name": "Exploud",
+      "number": "28"
+    },
+    {
+      "id": "pl3-29",
+      "rarity": "Rare",
+      "name": "Honchkrow",
+      "number": "29"
+    },
+    {
+      "id": "pl3-30",
+      "rarity": "Rare",
+      "name": "Lickilicky C",
+      "number": "30"
+    },
+    {
+      "id": "pl3-31",
+      "rarity": "Rare",
+      "name": "Lucario C",
+      "number": "31"
+    },
+    {
+      "id": "pl3-32",
+      "rarity": "Rare",
+      "name": "Lunatone",
+      "number": "32"
+    },
+    {
+      "id": "pl3-33",
+      "rarity": "Rare",
+      "name": "Mawile",
+      "number": "33"
+    },
+    {
+      "id": "pl3-34",
+      "rarity": "Rare",
+      "name": "Medicham",
+      "number": "34"
+    },
+    {
+      "id": "pl3-35",
+      "rarity": "Rare",
+      "name": "Milotic C",
+      "number": "35"
+    },
+    {
+      "id": "pl3-36",
+      "rarity": "Rare",
+      "name": "Moltres",
+      "number": "36"
+    },
+    {
+      "id": "pl3-37",
+      "rarity": "Rare",
+      "name": "Mr. Mime",
+      "number": "37"
+    },
+    {
+      "id": "pl3-38",
+      "rarity": "Rare",
+      "name": "Parasect",
+      "number": "38"
+    },
+    {
+      "id": "pl3-39",
+      "rarity": "Rare",
+      "name": "Primeape",
+      "number": "39"
+    },
+    {
+      "id": "pl3-40",
+      "rarity": "Rare",
+      "name": "Roserade C",
+      "number": "40"
+    },
+    {
+      "id": "pl3-41",
+      "rarity": "Rare",
+      "name": "Sableye G",
+      "number": "41"
+    },
+    {
+      "id": "pl3-42",
+      "rarity": "Rare",
+      "name": "Sandslash",
+      "number": "42"
+    },
+    {
+      "id": "pl3-43",
+      "rarity": "Rare",
+      "name": "Seaking",
+      "number": "43"
+    },
+    {
+      "id": "pl3-44",
+      "rarity": "Rare",
+      "name": "Shedinja",
+      "number": "44"
+    },
+    {
+      "id": "pl3-45",
+      "rarity": "Rare",
+      "name": "Solrock",
+      "number": "45"
+    },
+    {
+      "id": "pl3-46",
+      "rarity": "Rare",
+      "name": "Spinda",
+      "number": "46"
+    },
+    {
+      "id": "pl3-47",
+      "rarity": "Rare",
+      "name": "Wailord",
+      "number": "47"
+    },
+    {
+      "id": "pl3-48",
+      "rarity": "Rare",
+      "name": "Zapdos",
+      "number": "48"
+    },
+    {
+      "id": "pl3-49",
+      "rarity": "Uncommon",
+      "name": "Altaria C",
+      "number": "49"
+    },
+    {
+      "id": "pl3-50",
+      "rarity": "Uncommon",
+      "name": "Arcanine",
+      "number": "50"
+    },
+    {
+      "id": "pl3-51",
+      "rarity": "Uncommon",
+      "name": "Bibarel",
+      "number": "51"
+    },
+    {
+      "id": "pl3-52",
+      "rarity": "Uncommon",
+      "name": "Breloom",
+      "number": "52"
+    },
+    {
+      "id": "pl3-53",
+      "rarity": "Uncommon",
+      "name": "Carnivine",
+      "number": "53"
+    },
+    {
+      "id": "pl3-54",
+      "rarity": "Uncommon",
+      "name": "Chatot G",
+      "number": "54"
+    },
+    {
+      "id": "pl3-55",
+      "rarity": "Uncommon",
+      "name": "Cherrim",
+      "number": "55"
+    },
+    {
+      "id": "pl3-56",
+      "rarity": "Uncommon",
+      "name": "Dragonite FB",
+      "number": "56"
+    },
+    {
+      "id": "pl3-57",
+      "rarity": "Uncommon",
+      "name": "Drifblim",
+      "number": "57"
+    },
+    {
+      "id": "pl3-58",
+      "rarity": "Uncommon",
+      "name": "Floatzel",
+      "number": "58"
+    },
+    {
+      "id": "pl3-59",
+      "rarity": "Uncommon",
+      "name": "Gabite",
+      "number": "59"
+    },
+    {
+      "id": "pl3-60",
+      "rarity": "Uncommon",
+      "name": "Garchomp C",
+      "number": "60"
+    },
+    {
+      "id": "pl3-61",
+      "rarity": "Uncommon",
+      "name": "Hippopotas",
+      "number": "61"
+    },
+    {
+      "id": "pl3-62",
+      "rarity": "Uncommon",
+      "name": "Ivysaur",
+      "number": "62"
+    },
+    {
+      "id": "pl3-63",
+      "rarity": "Uncommon",
+      "name": "Lopunny",
+      "number": "63"
+    },
+    {
+      "id": "pl3-64",
+      "rarity": "Uncommon",
+      "name": "Loudred",
+      "number": "64"
+    },
+    {
+      "id": "pl3-65",
+      "rarity": "Uncommon",
+      "name": "Magmar",
+      "number": "65"
+    },
+    {
+      "id": "pl3-66",
+      "rarity": "Uncommon",
+      "name": "Manectric G",
+      "number": "66"
+    },
+    {
+      "id": "pl3-67",
+      "rarity": "Uncommon",
+      "name": "Marshtomp",
+      "number": "67"
+    },
+    {
+      "id": "pl3-68",
+      "rarity": "Uncommon",
+      "name": "Masquerain",
+      "number": "68"
+    },
+    {
+      "id": "pl3-69",
+      "rarity": "Uncommon",
+      "name": "Metang",
+      "number": "69"
+    },
+    {
+      "id": "pl3-70",
+      "rarity": "Uncommon",
+      "name": "Milotic",
+      "number": "70"
+    },
+    {
+      "id": "pl3-71",
+      "rarity": "Uncommon",
+      "name": "Minun",
+      "number": "71"
+    },
+    {
+      "id": "pl3-72",
+      "rarity": "Uncommon",
+      "name": "Murkrow",
+      "number": "72"
+    },
+    {
+      "id": "pl3-73",
+      "rarity": "Uncommon",
+      "name": "Ninjask",
+      "number": "73"
+    },
+    {
+      "id": "pl3-74",
+      "rarity": "Uncommon",
+      "name": "Numel",
+      "number": "74"
+    },
+    {
+      "id": "pl3-75",
+      "rarity": "Uncommon",
+      "name": "Pinsir",
+      "number": "75"
+    },
+    {
+      "id": "pl3-76",
+      "rarity": "Uncommon",
+      "name": "Plusle",
+      "number": "76"
+    },
+    {
+      "id": "pl3-77",
+      "rarity": "Uncommon",
+      "name": "Raichu",
+      "number": "77"
+    },
+    {
+      "id": "pl3-78",
+      "rarity": "Uncommon",
+      "name": "Raticate G",
+      "number": "78"
+    },
+    {
+      "id": "pl3-79",
+      "rarity": "Uncommon",
+      "name": "Relicanth",
+      "number": "79"
+    },
+    {
+      "id": "pl3-80",
+      "rarity": "Uncommon",
+      "name": "Rhydon",
+      "number": "80"
+    },
+    {
+      "id": "pl3-81",
+      "rarity": "Uncommon",
+      "name": "Roserade",
+      "number": "81"
+    },
+    {
+      "id": "pl3-82",
+      "rarity": "Uncommon",
+      "name": "Rotom",
+      "number": "82"
+    },
+    {
+      "id": "pl3-83",
+      "rarity": "Uncommon",
+      "name": "Skarmory FB",
+      "number": "83"
+    },
+    {
+      "id": "pl3-84",
+      "rarity": "Uncommon",
+      "name": "Spiritomb C",
+      "number": "84"
+    },
+    {
+      "id": "pl3-85",
+      "rarity": "Uncommon",
+      "name": "Staravia",
+      "number": "85"
+    },
+    {
+      "id": "pl3-86",
+      "rarity": "Uncommon",
+      "name": "Togekiss C",
+      "number": "86"
+    },
+    {
+      "id": "pl3-87",
+      "rarity": "Uncommon",
+      "name": "Wailmer",
+      "number": "87"
+    },
+    {
+      "id": "pl3-88",
+      "rarity": "Uncommon",
+      "name": "Yanma",
+      "number": "88"
+    },
+    {
+      "id": "pl3-89",
+      "rarity": "Common",
+      "name": "Baltoy",
+      "number": "89"
+    },
+    {
+      "id": "pl3-90",
+      "rarity": "Common",
+      "name": "Beldum",
+      "number": "90"
+    },
+    {
+      "id": "pl3-91",
+      "rarity": "Common",
+      "name": "Bidoof",
+      "number": "91"
+    },
+    {
+      "id": "pl3-92",
+      "rarity": "Common",
+      "name": "Buizel",
+      "number": "92"
+    },
+    {
+      "id": "pl3-93",
+      "rarity": "Common",
+      "name": "Bulbasaur",
+      "number": "93"
+    },
+    {
+      "id": "pl3-94",
+      "rarity": "Common",
+      "name": "Buneary",
+      "number": "94"
+    },
+    {
+      "id": "pl3-95",
+      "rarity": "Common",
+      "name": "Chatot",
+      "number": "95"
+    },
+    {
+      "id": "pl3-96",
+      "rarity": "Common",
+      "name": "Cherubi",
+      "number": "96"
+    },
+    {
+      "id": "pl3-97",
+      "rarity": "Common",
+      "name": "Chimchar",
+      "number": "97"
+    },
+    {
+      "id": "pl3-98",
+      "rarity": "Common",
+      "name": "Chingling",
+      "number": "98"
+    },
+    {
+      "id": "pl3-99",
+      "rarity": "Common",
+      "name": "Combee",
+      "number": "99"
+    },
+    {
+      "id": "pl3-100",
+      "rarity": "Common",
+      "name": "Corphish",
+      "number": "100"
+    },
+    {
+      "id": "pl3-101",
+      "rarity": "Common",
+      "name": "Croagunk",
+      "number": "101"
+    },
+    {
+      "id": "pl3-102",
+      "rarity": "Common",
+      "name": "Doduo",
+      "number": "102"
+    },
+    {
+      "id": "pl3-103",
+      "rarity": "Common",
+      "name": "Drifloon",
+      "number": "103"
+    },
+    {
+      "id": "pl3-104",
+      "rarity": "Common",
+      "name": "Feebas",
+      "number": "104"
+    },
+    {
+      "id": "pl3-105",
+      "rarity": "Common",
+      "name": "Geodude",
+      "number": "105"
+    },
+    {
+      "id": "pl3-106",
+      "rarity": "Common",
+      "name": "Gible",
+      "number": "106"
+    },
+    {
+      "id": "pl3-107",
+      "rarity": "Common",
+      "name": "Goldeen",
+      "number": "107"
+    },
+    {
+      "id": "pl3-108",
+      "rarity": "Common",
+      "name": "Growlithe",
+      "number": "108"
+    },
+    {
+      "id": "pl3-109",
+      "rarity": "Common",
+      "name": "Kricketot",
+      "number": "109"
+    },
+    {
+      "id": "pl3-110",
+      "rarity": "Common",
+      "name": "Magikarp",
+      "number": "110"
+    },
+    {
+      "id": "pl3-111",
+      "rarity": "Common",
+      "name": "Magnemite",
+      "number": "111"
+    },
+    {
+      "id": "pl3-112",
+      "rarity": "Common",
+      "name": "Mankey",
+      "number": "112"
+    },
+    {
+      "id": "pl3-113",
+      "rarity": "Common",
+      "name": "Meditite",
+      "number": "113"
+    },
+    {
+      "id": "pl3-114",
+      "rarity": "Common",
+      "name": "Meowth",
+      "number": "114"
+    },
+    {
+      "id": "pl3-115",
+      "rarity": "Common",
+      "name": "Mime Jr.",
+      "number": "115"
+    },
+    {
+      "id": "pl3-116",
+      "rarity": "Common",
+      "name": "Mudkip",
+      "number": "116"
+    },
+    {
+      "id": "pl3-117",
+      "rarity": "Common",
+      "name": "Nincada",
+      "number": "117"
+    },
+    {
+      "id": "pl3-118",
+      "rarity": "Common",
+      "name": "Pachirisu",
+      "number": "118"
+    },
+    {
+      "id": "pl3-119",
+      "rarity": "Common",
+      "name": "Paras",
+      "number": "119"
+    },
+    {
+      "id": "pl3-120",
+      "rarity": "Common",
+      "name": "Pikachu",
+      "number": "120"
+    },
+    {
+      "id": "pl3-121",
+      "rarity": "Common",
+      "name": "Piplup",
+      "number": "121"
+    },
+    {
+      "id": "pl3-122",
+      "rarity": "Common",
+      "name": "Rhyhorn",
+      "number": "122"
+    },
+    {
+      "id": "pl3-123",
+      "rarity": "Common",
+      "name": "Roselia",
+      "number": "123"
+    },
+    {
+      "id": "pl3-124",
+      "rarity": "Common",
+      "name": "Sandshrew",
+      "number": "124"
+    },
+    {
+      "id": "pl3-125",
+      "rarity": "Common",
+      "name": "Seel",
+      "number": "125"
+    },
+    {
+      "id": "pl3-126",
+      "rarity": "Common",
+      "name": "Shinx",
+      "number": "126"
+    },
+    {
+      "id": "pl3-127",
+      "rarity": "Common",
+      "name": "Shroomish",
+      "number": "127"
+    },
+    {
+      "id": "pl3-128",
+      "rarity": "Common",
+      "name": "Skorupi",
+      "number": "128"
+    },
+    {
+      "id": "pl3-129",
+      "rarity": "Common",
+      "name": "Starly",
+      "number": "129"
+    },
+    {
+      "id": "pl3-130",
+      "rarity": "Common",
+      "name": "Surskit",
+      "number": "130"
+    },
+    {
+      "id": "pl3-131",
+      "rarity": "Common",
+      "name": "Turtwig",
+      "number": "131"
+    },
+    {
+      "id": "pl3-132",
+      "rarity": "Common",
+      "name": "Whismur",
+      "number": "132"
+    },
+    {
+      "id": "pl3-133",
+      "rarity": "Common",
+      "name": "Zubat",
+      "number": "133"
+    },
+    {
+      "id": "pl3-134",
+      "rarity": "Uncommon",
+      "name": "Battle Tower",
+      "number": "134"
+    },
+    {
+      "id": "pl3-135",
+      "rarity": "Uncommon",
+      "name": "Champion's Room",
+      "number": "135"
+    },
+    {
+      "id": "pl3-136",
+      "rarity": "Uncommon",
+      "name": "Cynthia's Guidance",
+      "number": "136"
+    },
+    {
+      "id": "pl3-137",
+      "rarity": "Uncommon",
+      "name": "Cyrus's Initiative",
+      "number": "137"
+    },
+    {
+      "id": "pl3-138",
+      "rarity": "Uncommon",
+      "name": "Night Teleporter",
+      "number": "138"
+    },
+    {
+      "id": "pl3-139",
+      "rarity": "Uncommon",
+      "name": "Palmer's Contribution",
+      "number": "139"
+    },
+    {
+      "id": "pl3-140",
+      "rarity": "Uncommon",
+      "name": "VS Seeker",
+      "number": "140"
+    },
+    {
+      "id": "pl3-141",
+      "rarity": "Rare Holo Lv.X",
+      "name": "Absol G",
+      "number": "141"
+    },
+    {
+      "id": "pl3-142",
+      "rarity": "Rare Holo Lv.X",
+      "name": "Blaziken FB",
+      "number": "142"
+    },
+    {
+      "id": "pl3-143",
+      "rarity": "Rare Holo Lv.X",
+      "name": "Charizard G",
+      "number": "143"
+    },
+    {
+      "id": "pl3-144",
+      "rarity": "Rare Holo Lv.X",
+      "name": "Electivire FB",
+      "number": "144"
+    },
+    {
+      "id": "pl3-145",
+      "rarity": "Rare Holo Lv.X",
+      "name": "Garchomp C",
+      "number": "145"
+    },
+    {
+      "id": "pl3-146",
+      "rarity": "Rare Holo Lv.X",
+      "name": "Rayquaza C",
+      "number": "146"
+    },
+    {
+      "id": "pl3-147",
+      "rarity": "Rare Holo Lv.X",
+      "name": "Staraptor FB",
+      "number": "147"
+    },
+    {
+      "id": "pl3-148",
+      "rarity": "Rare Holo",
+      "name": "Articuno",
+      "number": "148"
+    },
+    {
+      "id": "pl3-149",
+      "rarity": "Rare Holo",
+      "name": "Moltres",
+      "number": "149"
+    },
+    {
+      "id": "pl3-150",
+      "rarity": "Rare Holo",
+      "name": "Zapdos",
+      "number": "150"
+    },
+    {
+      "id": "pl3-SH7",
+      "rarity": "Rare",
+      "name": "Milotic",
+      "number": "SH7"
+    },
+    {
+      "id": "pl3-SH8",
+      "rarity": "Rare",
+      "name": "Relicanth",
+      "number": "SH8"
+    },
+    {
+      "id": "pl3-SH9",
+      "rarity": "Rare",
+      "name": "Yanma",
+      "number": "SH9"
+    }
+  ],
+  "additionalCards": [],
+  "other": []
+}

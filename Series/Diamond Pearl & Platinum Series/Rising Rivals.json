@@ -1,0 +1,731 @@
+{
+  "version": 1.0,
+  "cardVariants": [
+    "core",
+    "reverse"
+  ],
+  "coreCards": [
+    {
+      "id": "pl2-1",
+      "rarity": "Rare Holo",
+      "name": "Arcanine",
+      "number": "1"
+    },
+    {
+      "id": "pl2-2",
+      "rarity": "Rare Holo",
+      "name": "Bastiodon GL",
+      "number": "2"
+    },
+    {
+      "id": "pl2-3",
+      "rarity": "Rare Holo",
+      "name": "Darkrai G",
+      "number": "3"
+    },
+    {
+      "id": "pl2-4",
+      "rarity": "Rare Holo",
+      "name": "Floatzel GL",
+      "number": "4"
+    },
+    {
+      "id": "pl2-5",
+      "rarity": "Rare Holo",
+      "name": "Flygon",
+      "number": "5"
+    },
+    {
+      "id": "pl2-6",
+      "rarity": "Rare Holo",
+      "name": "Froslass GL",
+      "number": "6"
+    },
+    {
+      "id": "pl2-7",
+      "rarity": "Rare Holo",
+      "name": "Jirachi",
+      "number": "7"
+    },
+    {
+      "id": "pl2-8",
+      "rarity": "Rare Holo",
+      "name": "Lucario GL",
+      "number": "8"
+    },
+    {
+      "id": "pl2-9",
+      "rarity": "Rare Holo",
+      "name": "Luxray GL",
+      "number": "9"
+    },
+    {
+      "id": "pl2-10",
+      "rarity": "Rare Holo",
+      "name": "Mismagius GL",
+      "number": "10"
+    },
+    {
+      "id": "pl2-11",
+      "rarity": "Rare Holo",
+      "name": "Rampardos GL",
+      "number": "11"
+    },
+    {
+      "id": "pl2-12",
+      "rarity": "Rare Holo",
+      "name": "Roserade GL",
+      "number": "12"
+    },
+    {
+      "id": "pl2-13",
+      "rarity": "Rare Holo",
+      "name": "Shiftry",
+      "number": "13"
+    },
+    {
+      "id": "pl2-14",
+      "rarity": "Rare",
+      "name": "Aggron",
+      "number": "14"
+    },
+    {
+      "id": "pl2-15",
+      "rarity": "Rare",
+      "name": "Beedrill",
+      "number": "15"
+    },
+    {
+      "id": "pl2-16",
+      "rarity": "Rare",
+      "name": "Bronzong 4",
+      "number": "16"
+    },
+    {
+      "id": "pl2-17",
+      "rarity": "Rare",
+      "name": "Drapion 4",
+      "number": "17"
+    },
+    {
+      "id": "pl2-18",
+      "rarity": "Rare",
+      "name": "Espeon 4",
+      "number": "18"
+    },
+    {
+      "id": "pl2-19",
+      "rarity": "Rare",
+      "name": "Flareon",
+      "number": "19"
+    },
+    {
+      "id": "pl2-20",
+      "rarity": "Rare",
+      "name": "Gallade 4",
+      "number": "20"
+    },
+    {
+      "id": "pl2-21",
+      "rarity": "Rare",
+      "name": "Gastrodon East Sea",
+      "number": "21"
+    },
+    {
+      "id": "pl2-22",
+      "rarity": "Rare",
+      "name": "Gastrodon West Sea",
+      "number": "22"
+    },
+    {
+      "id": "pl2-23",
+      "rarity": "Rare",
+      "name": "Golem 4",
+      "number": "23"
+    },
+    {
+      "id": "pl2-24",
+      "rarity": "Rare",
+      "name": "Heracross 4",
+      "number": "24"
+    },
+    {
+      "id": "pl2-25",
+      "rarity": "Rare",
+      "name": "Hippowdon",
+      "number": "25"
+    },
+    {
+      "id": "pl2-26",
+      "rarity": "Rare",
+      "name": "Jolteon",
+      "number": "26"
+    },
+    {
+      "id": "pl2-27",
+      "rarity": "Rare",
+      "name": "Mamoswine GL",
+      "number": "27"
+    },
+    {
+      "id": "pl2-28",
+      "rarity": "Rare",
+      "name": "Mr. Mime 4",
+      "number": "28"
+    },
+    {
+      "id": "pl2-29",
+      "rarity": "Rare",
+      "name": "Nidoking",
+      "number": "29"
+    },
+    {
+      "id": "pl2-30",
+      "rarity": "Rare",
+      "name": "Nidoqueen",
+      "number": "30"
+    },
+    {
+      "id": "pl2-31",
+      "rarity": "Rare",
+      "name": "Raichu GL",
+      "number": "31"
+    },
+    {
+      "id": "pl2-32",
+      "rarity": "Rare",
+      "name": "Rhyperior 4",
+      "number": "32"
+    },
+    {
+      "id": "pl2-33",
+      "rarity": "Rare",
+      "name": "Snorlax",
+      "number": "33"
+    },
+    {
+      "id": "pl2-34",
+      "rarity": "Rare",
+      "name": "Vaporeon",
+      "number": "34"
+    },
+    {
+      "id": "pl2-35",
+      "rarity": "Rare",
+      "name": "Vespiquen 4",
+      "number": "35"
+    },
+    {
+      "id": "pl2-36",
+      "rarity": "Rare",
+      "name": "Walrein",
+      "number": "36"
+    },
+    {
+      "id": "pl2-37",
+      "rarity": "Rare",
+      "name": "Yanmega 4",
+      "number": "37"
+    },
+    {
+      "id": "pl2-38",
+      "rarity": "Uncommon",
+      "name": "Alakazam 4",
+      "number": "38"
+    },
+    {
+      "id": "pl2-39",
+      "rarity": "Uncommon",
+      "name": "Electrode G",
+      "number": "39"
+    },
+    {
+      "id": "pl2-40",
+      "rarity": "Uncommon",
+      "name": "Gengar GL",
+      "number": "40"
+    },
+    {
+      "id": "pl2-41",
+      "rarity": "Uncommon",
+      "name": "Glaceon",
+      "number": "41"
+    },
+    {
+      "id": "pl2-42",
+      "rarity": "Uncommon",
+      "name": "Hippowdon 4",
+      "number": "42"
+    },
+    {
+      "id": "pl2-43",
+      "rarity": "Uncommon",
+      "name": "Infernape 4",
+      "number": "43"
+    },
+    {
+      "id": "pl2-44",
+      "rarity": "Uncommon",
+      "name": "Lairon",
+      "number": "44"
+    },
+    {
+      "id": "pl2-45",
+      "rarity": "Uncommon",
+      "name": "Leafeon",
+      "number": "45"
+    },
+    {
+      "id": "pl2-46",
+      "rarity": "Uncommon",
+      "name": "Machamp GL",
+      "number": "46"
+    },
+    {
+      "id": "pl2-47",
+      "rarity": "Uncommon",
+      "name": "Rapidash 4",
+      "number": "47"
+    },
+    {
+      "id": "pl2-48",
+      "rarity": "Uncommon",
+      "name": "Scizor 4",
+      "number": "48"
+    },
+    {
+      "id": "pl2-49",
+      "rarity": "Uncommon",
+      "name": "Sharpedo",
+      "number": "49"
+    },
+    {
+      "id": "pl2-50",
+      "rarity": "Uncommon",
+      "name": "Starmie",
+      "number": "50"
+    },
+    {
+      "id": "pl2-51",
+      "rarity": "Uncommon",
+      "name": "Steelix GL",
+      "number": "51"
+    },
+    {
+      "id": "pl2-52",
+      "rarity": "Uncommon",
+      "name": "Tropius",
+      "number": "52"
+    },
+    {
+      "id": "pl2-53",
+      "rarity": "Uncommon",
+      "name": "Vibrava",
+      "number": "53"
+    },
+    {
+      "id": "pl2-54",
+      "rarity": "Uncommon",
+      "name": "Whiscash 4",
+      "number": "54"
+    },
+    {
+      "id": "pl2-55",
+      "rarity": "Common",
+      "name": "Aerodactyl GL",
+      "number": "55"
+    },
+    {
+      "id": "pl2-56",
+      "rarity": "Common",
+      "name": "Ambipom G",
+      "number": "56"
+    },
+    {
+      "id": "pl2-57",
+      "rarity": "Common",
+      "name": "Aron",
+      "number": "57"
+    },
+    {
+      "id": "pl2-58",
+      "rarity": "Common",
+      "name": "Carvanha",
+      "number": "58"
+    },
+    {
+      "id": "pl2-59",
+      "rarity": "Common",
+      "name": "Eevee",
+      "number": "59"
+    },
+    {
+      "id": "pl2-60",
+      "rarity": "Common",
+      "name": "Flareon 4",
+      "number": "60"
+    },
+    {
+      "id": "pl2-61",
+      "rarity": "Common",
+      "name": "Forretress G",
+      "number": "61"
+    },
+    {
+      "id": "pl2-62",
+      "rarity": "Common",
+      "name": "Gliscor 4",
+      "number": "62"
+    },
+    {
+      "id": "pl2-63",
+      "rarity": "Common",
+      "name": "Growlithe",
+      "number": "63"
+    },
+    {
+      "id": "pl2-64",
+      "rarity": "Common",
+      "name": "Hippopotas",
+      "number": "64"
+    },
+    {
+      "id": "pl2-65",
+      "rarity": "Common",
+      "name": "Houndoom 4",
+      "number": "65"
+    },
+    {
+      "id": "pl2-66",
+      "rarity": "Common",
+      "name": "Kakuna",
+      "number": "66"
+    },
+    {
+      "id": "pl2-67",
+      "rarity": "Common",
+      "name": "Kecleon",
+      "number": "67"
+    },
+    {
+      "id": "pl2-68",
+      "rarity": "Common",
+      "name": "Koffing",
+      "number": "68"
+    },
+    {
+      "id": "pl2-69",
+      "rarity": "Common",
+      "name": "Munchlax",
+      "number": "69"
+    },
+    {
+      "id": "pl2-70",
+      "rarity": "Common",
+      "name": "Munchlax",
+      "number": "70"
+    },
+    {
+      "id": "pl2-71",
+      "rarity": "Common",
+      "name": "Nidoran\u2640",
+      "number": "71"
+    },
+    {
+      "id": "pl2-72",
+      "rarity": "Common",
+      "name": "Nidoran\u2642",
+      "number": "72"
+    },
+    {
+      "id": "pl2-73",
+      "rarity": "Common",
+      "name": "Nidorina",
+      "number": "73"
+    },
+    {
+      "id": "pl2-74",
+      "rarity": "Common",
+      "name": "Nidorino",
+      "number": "74"
+    },
+    {
+      "id": "pl2-75",
+      "rarity": "Common",
+      "name": "Nuzleaf",
+      "number": "75"
+    },
+    {
+      "id": "pl2-76",
+      "rarity": "Common",
+      "name": "Quagsire GL",
+      "number": "76"
+    },
+    {
+      "id": "pl2-77",
+      "rarity": "Common",
+      "name": "Sealeo",
+      "number": "77"
+    },
+    {
+      "id": "pl2-78",
+      "rarity": "Common",
+      "name": "Seedot",
+      "number": "78"
+    },
+    {
+      "id": "pl2-79",
+      "rarity": "Common",
+      "name": "Shellos East Sea",
+      "number": "79"
+    },
+    {
+      "id": "pl2-80",
+      "rarity": "Common",
+      "name": "Shellos West Sea",
+      "number": "80"
+    },
+    {
+      "id": "pl2-81",
+      "rarity": "Common",
+      "name": "Snorlax",
+      "number": "81"
+    },
+    {
+      "id": "pl2-82",
+      "rarity": "Common",
+      "name": "Spheal",
+      "number": "82"
+    },
+    {
+      "id": "pl2-83",
+      "rarity": "Common",
+      "name": "Staryu",
+      "number": "83"
+    },
+    {
+      "id": "pl2-84",
+      "rarity": "Common",
+      "name": "Trapinch",
+      "number": "84"
+    },
+    {
+      "id": "pl2-85",
+      "rarity": "Common",
+      "name": "Turtwig GL",
+      "number": "85"
+    },
+    {
+      "id": "pl2-86",
+      "rarity": "Common",
+      "name": "Weedle",
+      "number": "86"
+    },
+    {
+      "id": "pl2-87",
+      "rarity": "Common",
+      "name": "Weezing",
+      "number": "87"
+    },
+    {
+      "id": "pl2-88",
+      "rarity": "Uncommon",
+      "name": "Aaron's Collection",
+      "number": "88"
+    },
+    {
+      "id": "pl2-89",
+      "rarity": "Uncommon",
+      "name": "Bebe's Search",
+      "number": "89"
+    },
+    {
+      "id": "pl2-90",
+      "rarity": "Uncommon",
+      "name": "Bertha's Warmth",
+      "number": "90"
+    },
+    {
+      "id": "pl2-91",
+      "rarity": "Uncommon",
+      "name": "Flint's Willpower",
+      "number": "91"
+    },
+    {
+      "id": "pl2-92",
+      "rarity": "Uncommon",
+      "name": "Lucian's Assignment",
+      "number": "92"
+    },
+    {
+      "id": "pl2-93",
+      "rarity": "Uncommon",
+      "name": "Pok\u00e9mon Contest Hall",
+      "number": "93"
+    },
+    {
+      "id": "pl2-94",
+      "rarity": "Uncommon",
+      "name": "Sunyshore City Gym",
+      "number": "94"
+    },
+    {
+      "id": "pl2-95",
+      "rarity": "Uncommon",
+      "name": "Team Galactic's Invention G-107 Technical Machine",
+      "number": "95"
+    },
+    {
+      "id": "pl2-96",
+      "rarity": "Uncommon",
+      "name": "Team Galactic's Invention G-109 SP Radar",
+      "number": "96"
+    },
+    {
+      "id": "pl2-97",
+      "rarity": "Uncommon",
+      "name": "Underground Expedition",
+      "number": "97"
+    },
+    {
+      "id": "pl2-98",
+      "rarity": "Uncommon",
+      "name": "Volkner's Philosophy",
+      "number": "98"
+    },
+    {
+      "id": "pl2-99",
+      "rarity": "Uncommon",
+      "name": "Darkness Energy",
+      "number": "99"
+    },
+    {
+      "id": "pl2-100",
+      "rarity": "Uncommon",
+      "name": "Metal Energy",
+      "number": "100"
+    },
+    {
+      "id": "pl2-101",
+      "rarity": "Uncommon",
+      "name": "SP Energy",
+      "number": "101"
+    },
+    {
+      "id": "pl2-102",
+      "rarity": "Uncommon",
+      "name": "Upper Energy",
+      "number": "102"
+    },
+    {
+      "id": "pl2-103",
+      "rarity": "Rare Holo Lv.X",
+      "name": "Alakazam 4",
+      "number": "103"
+    },
+    {
+      "id": "pl2-104",
+      "rarity": "Rare Holo Lv.X",
+      "name": "Floatzel GL",
+      "number": "104"
+    },
+    {
+      "id": "pl2-105",
+      "rarity": "Rare Holo Lv.X",
+      "name": "Flygon",
+      "number": "105"
+    },
+    {
+      "id": "pl2-106",
+      "rarity": "Rare Holo Lv.X",
+      "name": "Gallade 4",
+      "number": "106"
+    },
+    {
+      "id": "pl2-107",
+      "rarity": "Rare Holo Lv.X",
+      "name": "Hippowdon",
+      "number": "107"
+    },
+    {
+      "id": "pl2-108",
+      "rarity": "Rare Holo Lv.X",
+      "name": "Infernape 4",
+      "number": "108"
+    },
+    {
+      "id": "pl2-109",
+      "rarity": "Rare Holo Lv.X",
+      "name": "Luxray GL",
+      "number": "109"
+    },
+    {
+      "id": "pl2-110",
+      "rarity": "Rare Holo Lv.X",
+      "name": "Mismagius GL",
+      "number": "110"
+    },
+    {
+      "id": "pl2-111",
+      "rarity": "Rare Holo Lv.X",
+      "name": "Snorlax",
+      "number": "111"
+    },
+    {
+      "id": "pl2-112",
+      "rarity": "Rare Holo",
+      "name": "Pikachu",
+      "number": "112"
+    },
+    {
+      "id": "pl2-113",
+      "rarity": "Rare Holo",
+      "name": "Flying Pikachu",
+      "number": "113"
+    },
+    {
+      "id": "pl2-114",
+      "rarity": "Rare Holo",
+      "name": "Surfing Pikachu",
+      "number": "114"
+    },
+    {
+      "id": "pl2-RT1",
+      "rarity": "Rare",
+      "name": "Fan Rotom",
+      "number": "RT1"
+    },
+    {
+      "id": "pl2-RT2",
+      "rarity": "Rare",
+      "name": "Frost Rotom",
+      "number": "RT2"
+    },
+    {
+      "id": "pl2-RT3",
+      "rarity": "Rare",
+      "name": "Heat Rotom",
+      "number": "RT3"
+    },
+    {
+      "id": "pl2-RT4",
+      "rarity": "Rare",
+      "name": "Mow Rotom",
+      "number": "RT4"
+    },
+    {
+      "id": "pl2-RT5",
+      "rarity": "Rare",
+      "name": "Wash Rotom",
+      "number": "RT5"
+    },
+    {
+      "id": "pl2-RT6",
+      "rarity": "Rare",
+      "name": "Charon's Choice",
+      "number": "RT6"
+    }
+  ],
+  "additionalCards": [],
+  "other": []
+}

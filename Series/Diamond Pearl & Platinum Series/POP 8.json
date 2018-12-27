@@ -1,0 +1,113 @@
+{
+  "version": 1.0,
+  "cardVariants": [
+    "core",
+    "reverse"
+  ],
+  "coreCards": [
+    {
+      "id": "pop8-1",
+      "rarity": "Rare",
+      "name": "Heatran",
+      "number": "1"
+    },
+    {
+      "id": "pop8-2",
+      "rarity": "Rare",
+      "name": "Lucario",
+      "number": "2"
+    },
+    {
+      "id": "pop8-3",
+      "rarity": "Rare",
+      "name": "Luxray",
+      "number": "3"
+    },
+    {
+      "id": "pop8-4",
+      "rarity": "Rare",
+      "name": "Probopass",
+      "number": "4"
+    },
+    {
+      "id": "pop8-5",
+      "rarity": "Rare",
+      "name": "Yanmega",
+      "number": "5"
+    },
+    {
+      "id": "pop8-6",
+      "rarity": "Uncommon",
+      "name": "Cherrim",
+      "number": "6"
+    },
+    {
+      "id": "pop8-7",
+      "rarity": "Uncommon",
+      "name": "Carnivine",
+      "number": "7"
+    },
+    {
+      "id": "pop8-8",
+      "rarity": "Uncommon",
+      "name": "Luxio",
+      "number": "8"
+    },
+    {
+      "id": "pop8-9",
+      "rarity": "Uncommon",
+      "name": "Night Maintenance",
+      "number": "9"
+    },
+    {
+      "id": "pop8-10",
+      "rarity": "Uncommon",
+      "name": "Rare Candy",
+      "number": "10"
+    },
+    {
+      "id": "pop8-11",
+      "rarity": "Uncommon",
+      "name": "Roseanne's Research",
+      "number": "11"
+    },
+    {
+      "id": "pop8-12",
+      "rarity": "Common",
+      "name": "Chimchar",
+      "number": "12"
+    },
+    {
+      "id": "pop8-13",
+      "rarity": "Common",
+      "name": "Croagunk",
+      "number": "13"
+    },
+    {
+      "id": "pop8-14",
+      "rarity": "Common",
+      "name": "Happiny",
+      "number": "14"
+    },
+    {
+      "id": "pop8-15",
+      "rarity": "Common",
+      "name": "Piplup",
+      "number": "15"
+    },
+    {
+      "id": "pop8-16",
+      "rarity": "Common",
+      "name": "Riolu",
+      "number": "16"
+    },
+    {
+      "id": "pop8-17",
+      "rarity": "Common",
+      "name": "Turtwig",
+      "number": "17"
+    }
+  ],
+  "additionalCards": [],
+  "other": []
+}

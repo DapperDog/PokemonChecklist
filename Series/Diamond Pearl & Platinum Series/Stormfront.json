@@ -1,0 +1,647 @@
+{
+  "version": 1.0,
+  "cardVariants": [
+    "core",
+    "reverse"
+  ],
+  "coreCards": [
+    {
+      "id": "dp7-1",
+      "rarity": "Rare Holo",
+      "name": "Dusknoir",
+      "number": "1"
+    },
+    {
+      "id": "dp7-2",
+      "rarity": "Rare Holo",
+      "name": "Empoleon",
+      "number": "2"
+    },
+    {
+      "id": "dp7-3",
+      "rarity": "Rare Holo",
+      "name": "Infernape",
+      "number": "3"
+    },
+    {
+      "id": "dp7-4",
+      "rarity": "Rare Holo",
+      "name": "Lumineon",
+      "number": "4"
+    },
+    {
+      "id": "dp7-5",
+      "rarity": "Rare Holo",
+      "name": "Magnezone",
+      "number": "5"
+    },
+    {
+      "id": "dp7-6",
+      "rarity": "Rare Holo",
+      "name": "Magnezone",
+      "number": "6"
+    },
+    {
+      "id": "dp7-7",
+      "rarity": "Rare Holo",
+      "name": "Mismagius",
+      "number": "7"
+    },
+    {
+      "id": "dp7-8",
+      "rarity": "Rare Holo",
+      "name": "Raichu",
+      "number": "8"
+    },
+    {
+      "id": "dp7-9",
+      "rarity": "Rare Holo",
+      "name": "Regigigas",
+      "number": "9"
+    },
+    {
+      "id": "dp7-10",
+      "rarity": "Rare Holo",
+      "name": "Sceptile",
+      "number": "10"
+    },
+    {
+      "id": "dp7-11",
+      "rarity": "Rare Holo",
+      "name": "Torterra",
+      "number": "11"
+    },
+    {
+      "id": "dp7-12",
+      "rarity": "Rare",
+      "name": "Abomasnow",
+      "number": "12"
+    },
+    {
+      "id": "dp7-13",
+      "rarity": "Rare",
+      "name": "Bronzong",
+      "number": "13"
+    },
+    {
+      "id": "dp7-14",
+      "rarity": "Rare",
+      "name": "Cherrim",
+      "number": "14"
+    },
+    {
+      "id": "dp7-15",
+      "rarity": "Rare",
+      "name": "Drapion",
+      "number": "15"
+    },
+    {
+      "id": "dp7-16",
+      "rarity": "Rare",
+      "name": "Drifblim",
+      "number": "16"
+    },
+    {
+      "id": "dp7-17",
+      "rarity": "Rare",
+      "name": "Dusknoir",
+      "number": "17"
+    },
+    {
+      "id": "dp7-18",
+      "rarity": "Rare",
+      "name": "Gengar",
+      "number": "18"
+    },
+    {
+      "id": "dp7-19",
+      "rarity": "Rare",
+      "name": "Gyarados",
+      "number": "19"
+    },
+    {
+      "id": "dp7-20",
+      "rarity": "Rare",
+      "name": "Machamp",
+      "number": "20"
+    },
+    {
+      "id": "dp7-21",
+      "rarity": "Rare",
+      "name": "Mamoswine",
+      "number": "21"
+    },
+    {
+      "id": "dp7-22",
+      "rarity": "Rare",
+      "name": "Rapidash",
+      "number": "22"
+    },
+    {
+      "id": "dp7-23",
+      "rarity": "Rare",
+      "name": "Roserade",
+      "number": "23"
+    },
+    {
+      "id": "dp7-24",
+      "rarity": "Rare",
+      "name": "Salamence",
+      "number": "24"
+    },
+    {
+      "id": "dp7-25",
+      "rarity": "Rare",
+      "name": "Scizor",
+      "number": "25"
+    },
+    {
+      "id": "dp7-26",
+      "rarity": "Rare",
+      "name": "Skuntank",
+      "number": "26"
+    },
+    {
+      "id": "dp7-27",
+      "rarity": "Rare",
+      "name": "Staraptor",
+      "number": "27"
+    },
+    {
+      "id": "dp7-28",
+      "rarity": "Rare",
+      "name": "Steelix",
+      "number": "28"
+    },
+    {
+      "id": "dp7-29",
+      "rarity": "Rare",
+      "name": "Tangrowth",
+      "number": "29"
+    },
+    {
+      "id": "dp7-30",
+      "rarity": "Rare",
+      "name": "Tyranitar",
+      "number": "30"
+    },
+    {
+      "id": "dp7-31",
+      "rarity": "Rare",
+      "name": "Vespiquen",
+      "number": "31"
+    },
+    {
+      "id": "dp7-32",
+      "rarity": "Uncommon",
+      "name": "Bibarel",
+      "number": "32"
+    },
+    {
+      "id": "dp7-33",
+      "rarity": "Uncommon",
+      "name": "Budew",
+      "number": "33"
+    },
+    {
+      "id": "dp7-34",
+      "rarity": "Uncommon",
+      "name": "Dusclops",
+      "number": "34"
+    },
+    {
+      "id": "dp7-35",
+      "rarity": "Uncommon",
+      "name": "Dusclops",
+      "number": "35"
+    },
+    {
+      "id": "dp7-36",
+      "rarity": "Uncommon",
+      "name": "Electrode",
+      "number": "36"
+    },
+    {
+      "id": "dp7-37",
+      "rarity": "Uncommon",
+      "name": "Electrode",
+      "number": "37"
+    },
+    {
+      "id": "dp7-38",
+      "rarity": "Uncommon",
+      "name": "Farfetch'd",
+      "number": "38"
+    },
+    {
+      "id": "dp7-39",
+      "rarity": "Uncommon",
+      "name": "Grovyle",
+      "number": "39"
+    },
+    {
+      "id": "dp7-40",
+      "rarity": "Uncommon",
+      "name": "Haunter",
+      "number": "40"
+    },
+    {
+      "id": "dp7-41",
+      "rarity": "Uncommon",
+      "name": "Machoke",
+      "number": "41"
+    },
+    {
+      "id": "dp7-42",
+      "rarity": "Uncommon",
+      "name": "Magneton",
+      "number": "42"
+    },
+    {
+      "id": "dp7-43",
+      "rarity": "Uncommon",
+      "name": "Magneton",
+      "number": "43"
+    },
+    {
+      "id": "dp7-44",
+      "rarity": "Uncommon",
+      "name": "Miltank",
+      "number": "44"
+    },
+    {
+      "id": "dp7-45",
+      "rarity": "Uncommon",
+      "name": "Pichu",
+      "number": "45"
+    },
+    {
+      "id": "dp7-46",
+      "rarity": "Uncommon",
+      "name": "Piloswine",
+      "number": "46"
+    },
+    {
+      "id": "dp7-47",
+      "rarity": "Uncommon",
+      "name": "Pupitar",
+      "number": "47"
+    },
+    {
+      "id": "dp7-48",
+      "rarity": "Uncommon",
+      "name": "Sableye",
+      "number": "48"
+    },
+    {
+      "id": "dp7-49",
+      "rarity": "Uncommon",
+      "name": "Scyther",
+      "number": "49"
+    },
+    {
+      "id": "dp7-50",
+      "rarity": "Uncommon",
+      "name": "Shelgon",
+      "number": "50"
+    },
+    {
+      "id": "dp7-51",
+      "rarity": "Uncommon",
+      "name": "Skarmory",
+      "number": "51"
+    },
+    {
+      "id": "dp7-52",
+      "rarity": "Uncommon",
+      "name": "Staravia",
+      "number": "52"
+    },
+    {
+      "id": "dp7-53",
+      "rarity": "Common",
+      "name": "Bagon",
+      "number": "53"
+    },
+    {
+      "id": "dp7-54",
+      "rarity": "Common",
+      "name": "Bidoof",
+      "number": "54"
+    },
+    {
+      "id": "dp7-55",
+      "rarity": "Common",
+      "name": "Bronzor",
+      "number": "55"
+    },
+    {
+      "id": "dp7-56",
+      "rarity": "Common",
+      "name": "Cherubi",
+      "number": "56"
+    },
+    {
+      "id": "dp7-57",
+      "rarity": "Common",
+      "name": "Combee",
+      "number": "57"
+    },
+    {
+      "id": "dp7-58",
+      "rarity": "Common",
+      "name": "Drifloon",
+      "number": "58"
+    },
+    {
+      "id": "dp7-59",
+      "rarity": "Common",
+      "name": "Duskull",
+      "number": "59"
+    },
+    {
+      "id": "dp7-60",
+      "rarity": "Common",
+      "name": "Duskull",
+      "number": "60"
+    },
+    {
+      "id": "dp7-61",
+      "rarity": "Common",
+      "name": "Finneon",
+      "number": "61"
+    },
+    {
+      "id": "dp7-62",
+      "rarity": "Common",
+      "name": "Gastly",
+      "number": "62"
+    },
+    {
+      "id": "dp7-63",
+      "rarity": "Common",
+      "name": "Larvitar",
+      "number": "63"
+    },
+    {
+      "id": "dp7-64",
+      "rarity": "Common",
+      "name": "Machop",
+      "number": "64"
+    },
+    {
+      "id": "dp7-65",
+      "rarity": "Common",
+      "name": "Magikarp",
+      "number": "65"
+    },
+    {
+      "id": "dp7-66",
+      "rarity": "Common",
+      "name": "Magnemite",
+      "number": "66"
+    },
+    {
+      "id": "dp7-67",
+      "rarity": "Common",
+      "name": "Magnemite",
+      "number": "67"
+    },
+    {
+      "id": "dp7-68",
+      "rarity": "Common",
+      "name": "Misdreavus",
+      "number": "68"
+    },
+    {
+      "id": "dp7-69",
+      "rarity": "Common",
+      "name": "Onix",
+      "number": "69"
+    },
+    {
+      "id": "dp7-70",
+      "rarity": "Common",
+      "name": "Pikachu",
+      "number": "70"
+    },
+    {
+      "id": "dp7-71",
+      "rarity": "Common",
+      "name": "Ponyta",
+      "number": "71"
+    },
+    {
+      "id": "dp7-72",
+      "rarity": "Common",
+      "name": "Roselia",
+      "number": "72"
+    },
+    {
+      "id": "dp7-73",
+      "rarity": "Common",
+      "name": "Skorupi",
+      "number": "73"
+    },
+    {
+      "id": "dp7-74",
+      "rarity": "Common",
+      "name": "Snover",
+      "number": "74"
+    },
+    {
+      "id": "dp7-75",
+      "rarity": "Common",
+      "name": "Starly",
+      "number": "75"
+    },
+    {
+      "id": "dp7-76",
+      "rarity": "Common",
+      "name": "Stunky",
+      "number": "76"
+    },
+    {
+      "id": "dp7-77",
+      "rarity": "Common",
+      "name": "Swinub",
+      "number": "77"
+    },
+    {
+      "id": "dp7-78",
+      "rarity": "Common",
+      "name": "Tangela",
+      "number": "78"
+    },
+    {
+      "id": "dp7-79",
+      "rarity": "Common",
+      "name": "Treecko",
+      "number": "79"
+    },
+    {
+      "id": "dp7-80",
+      "rarity": "Common",
+      "name": "Voltorb",
+      "number": "80"
+    },
+    {
+      "id": "dp7-81",
+      "rarity": "Common",
+      "name": "Voltorb",
+      "number": "81"
+    },
+    {
+      "id": "dp7-82",
+      "rarity": "Uncommon",
+      "name": "Conductive Quarry",
+      "number": "82"
+    },
+    {
+      "id": "dp7-83",
+      "rarity": "Uncommon",
+      "name": "Energy Link",
+      "number": "83"
+    },
+    {
+      "id": "dp7-84",
+      "rarity": "Uncommon",
+      "name": "Energy Switch",
+      "number": "84"
+    },
+    {
+      "id": "dp7-85",
+      "rarity": "Uncommon",
+      "name": "Great Ball",
+      "number": "85"
+    },
+    {
+      "id": "dp7-86",
+      "rarity": "Uncommon",
+      "name": "Luxury Ball",
+      "number": "86"
+    },
+    {
+      "id": "dp7-87",
+      "rarity": "Uncommon",
+      "name": "Marley's Request",
+      "number": "87"
+    },
+    {
+      "id": "dp7-88",
+      "rarity": "Uncommon",
+      "name": "Pok\u00e9 Blower +",
+      "number": "88"
+    },
+    {
+      "id": "dp7-89",
+      "rarity": "Uncommon",
+      "name": "Pok\u00e9 Drawer +",
+      "number": "89"
+    },
+    {
+      "id": "dp7-90",
+      "rarity": "Uncommon",
+      "name": "Pok\u00e9 Healer +",
+      "number": "90"
+    },
+    {
+      "id": "dp7-91",
+      "rarity": "Uncommon",
+      "name": "Premier Ball",
+      "number": "91"
+    },
+    {
+      "id": "dp7-92",
+      "rarity": "Common",
+      "name": "Potion",
+      "number": "92"
+    },
+    {
+      "id": "dp7-93",
+      "rarity": "Common",
+      "name": "Switch",
+      "number": "93"
+    },
+    {
+      "id": "dp7-94",
+      "rarity": "Uncommon",
+      "name": "Cyclone Energy",
+      "number": "94"
+    },
+    {
+      "id": "dp7-95",
+      "rarity": "Uncommon",
+      "name": "Warp Energy",
+      "number": "95"
+    },
+    {
+      "id": "dp7-96",
+      "rarity": "Rare Holo Lv.X",
+      "name": "Dusknoir",
+      "number": "96"
+    },
+    {
+      "id": "dp7-97",
+      "rarity": "Rare Holo Lv.X",
+      "name": "Heatran",
+      "number": "97"
+    },
+    {
+      "id": "dp7-98",
+      "rarity": "Rare Holo Lv.X",
+      "name": "Machamp",
+      "number": "98"
+    },
+    {
+      "id": "dp7-99",
+      "rarity": "Rare Holo Lv.X",
+      "name": "Raichu",
+      "number": "99"
+    },
+    {
+      "id": "dp7-100",
+      "rarity": "Rare Holo Lv.X",
+      "name": "Regigigas",
+      "number": "100"
+    },
+    {
+      "id": "dp7-101",
+      "rarity": "Rare Holo",
+      "name": "Charmander",
+      "number": "101"
+    },
+    {
+      "id": "dp7-102",
+      "rarity": "Rare Holo",
+      "name": "Charmeleon",
+      "number": "102"
+    },
+    {
+      "id": "dp7-103",
+      "rarity": "Rare Holo",
+      "name": "Charizard",
+      "number": "103"
+    },
+    {
+      "id": "dp7-SH1",
+      "rarity": "Rare Holo",
+      "name": "Drifloon",
+      "number": "SH1"
+    },
+    {
+      "id": "dp7-SH2",
+      "rarity": "Rare Holo",
+      "name": "Duskull",
+      "number": "SH2"
+    },
+    {
+      "id": "dp7-SH3",
+      "rarity": "Rare Holo",
+      "name": "Voltorb",
+      "number": "SH3"
+    }
+  ],
+  "additionalCards": [],
+  "other": []
+}
