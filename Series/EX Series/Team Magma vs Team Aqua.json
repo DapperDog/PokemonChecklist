@@ -537,45 +537,81 @@
       "id": "ex4-89",
       "rarity": "Rare Holo EX",
       "name": "Blaziken ex",
-      "number": "89"
+      "number": "89",
+      "variants":["core"]
     },
     {
       "id": "ex4-90",
       "rarity": "Rare Holo EX",
       "name": "Cradily ex",
-      "number": "90"
+      "number": "90",
+      "variants":["core"]
     },
     {
       "id": "ex4-91",
       "rarity": "Rare Holo EX",
       "name": "Entei ex",
-      "number": "91"
+      "number": "91",
+      "variants":["core"]
     },
     {
       "id": "ex4-92",
       "rarity": "Rare Holo EX",
       "name": "Raikou ex",
-      "number": "92"
+      "number": "92",
+      "variants":["core"]
     },
     {
       "id": "ex4-93",
       "rarity": "Rare Holo EX",
       "name": "Sceptile ex",
-      "number": "93"
+      "number": "93",
+      "variants":["core"]
     },
     {
       "id": "ex4-94",
       "rarity": "Rare Holo EX",
       "name": "Suicune ex",
-      "number": "94"
+      "number": "94",
+      "variants":["core"]
     },
     {
       "id": "ex4-95",
       "rarity": "Rare Holo EX",
       "name": "Swampert ex",
-      "number": "95"
+      "number": "95",
+      "variants":["core"]
+    },
+    {
+      "id": "ex4-96",
+      "rarity": "Ultra Rare",
+      "name": "Absol",
+      "number": "96",
+      "variants":["core"]
+    },
+    {
+      "id": "ex4-97",
+      "rarity": "Ultra Rare",
+      "name": "Jirachi",
+      "number": "97",
+      "variants":["core"]
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "Team Aquas Kyogre",
+      "number": 3,
+      "rarity": "",
+      "id": "ex4-ac-3",
+      "Description": "Aqua Theme Deck exclusive"
+    },
+    {
+      "name": "Team Magmas Groudon",
+      "number": 9,
+      "rarity": "",
+      "id": "ex4-ac-9",
+      "Description": "Magma Theme Deck Exclusive"
+    }
+  ],
+  "misprints": []
 }

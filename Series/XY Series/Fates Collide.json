@@ -121,7 +121,7 @@
     },
     {
       "id": "xy10-20",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Glaceon-EX",
       "number": "20"
     },
@@ -151,13 +151,13 @@
     },
     {
       "id": "xy10-25",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Alakazam-EX",
       "number": "25"
     },
     {
       "id": "xy10-26",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "M Alakazam-EX",
       "number": "26"
     },
@@ -259,13 +259,13 @@
     },
     {
       "id": "xy10-43",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Regirock-EX",
       "number": "43"
     },
     {
       "id": "xy10-43a",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Regirock-EX",
       "number": "43a"
     },
@@ -331,19 +331,19 @@
     },
     {
       "id": "xy10-54",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Zygarde-EX",
       "number": "54"
     },
     {
       "id": "xy10-54a",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Zygarde-EX",
       "number": "54a"
     },
     {
       "id": "xy10-55",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Umbreon-EX",
       "number": "55"
     },
@@ -397,7 +397,7 @@
     },
     {
       "id": "xy10-64",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Genesect-EX",
       "number": "64"
     },
@@ -427,7 +427,7 @@
     },
     {
       "id": "xy10-69",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "M Altaria-EX",
       "number": "69"
     },
@@ -445,13 +445,13 @@
     },
     {
       "id": "xy10-72",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Diancie-EX",
       "number": "72"
     },
     {
       "id": "xy10-73",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Kingdra-EX",
       "number": "73"
     },
@@ -511,19 +511,19 @@
     },
     {
       "id": "xy10-83",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Altaria-EX",
       "number": "83"
     },
     {
       "id": "xy10-84",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Audino-EX",
       "number": "84"
     },
     {
       "id": "xy10-85",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "M Audino-EX",
       "number": "85"
     },
@@ -649,7 +649,7 @@
     },
     {
       "id": "xy10-105a",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "N",
       "number": "105a"
     },
@@ -721,55 +721,55 @@
     },
     {
       "id": "xy10-116",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Glaceon-EX",
       "number": "116"
     },
     {
       "id": "xy10-117",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Alakazam-EX",
       "number": "117"
     },
     {
       "id": "xy10-118",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "M Alakazam-EX",
       "number": "118"
     },
     {
       "id": "xy10-119",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Umbreon-EX",
       "number": "119"
     },
     {
       "id": "xy10-120",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Genesect-EX",
       "number": "120"
     },
     {
       "id": "xy10-121",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "M Altaria-EX",
       "number": "121"
     },
     {
       "id": "xy10-122",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Kingdra-EX",
       "number": "122"
     },
     {
       "id": "xy10-123",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Altaria-EX",
       "number": "123"
     },
     {
       "id": "xy10-124",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Team Rocket's Handiwork",
       "number": "124"
     },

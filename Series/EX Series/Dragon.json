@@ -537,57 +537,214 @@
       "id": "ex3-89",
       "rarity": "Rare Holo EX",
       "name": "Ampharos ex",
-      "number": "89"
+      "number": "89",
+      "variants":["core"]
     },
     {
       "id": "ex3-90",
       "rarity": "Rare Holo EX",
       "name": "Dragonite ex",
-      "number": "90"
+      "number": "90",
+      "variants":["core"]
     },
     {
       "id": "ex3-91",
       "rarity": "Rare Holo EX",
       "name": "Golem ex",
-      "number": "91"
+      "number": "91",
+      "variants":["core"]
     },
     {
       "id": "ex3-92",
       "rarity": "Rare Holo EX",
       "name": "Kingdra ex",
-      "number": "92"
+      "number": "92",
+      "variants":["core"]
     },
     {
       "id": "ex3-93",
       "rarity": "Rare Holo EX",
       "name": "Latias ex",
-      "number": "93"
+      "number": "93",
+      "variants":["core"]
     },
     {
       "id": "ex3-94",
       "rarity": "Rare Holo EX",
       "name": "Latios ex",
-      "number": "94"
+      "number": "94",
+      "variants":["core"]
     },
     {
       "id": "ex3-95",
       "rarity": "Rare Holo EX",
       "name": "Magcargo ex",
-      "number": "95"
+      "number": "95",
+      "variants":["core"]
     },
     {
       "id": "ex3-96",
       "rarity": "Rare Holo EX",
       "name": "Muk ex",
-      "number": "96"
+      "number": "96",
+      "variants":["core"]
     },
     {
       "id": "ex3-97",
       "rarity": "Rare Holo EX",
       "name": "Rayquaza ex",
-      "number": "97"
+      "number": "97",
+      "variants":["core"]
+    },
+    {
+      "id": "ex3-98",
+      "rarity": "Ultra Rare",
+      "name": "Charmander",
+      "number": "98",
+      "variants":["core"]
+    },
+    {
+      "id": "ex3-99",
+      "rarity": "Ultra Rare",
+      "name": "Charmeleon",
+      "number": "99",
+      "variants":["core"]
+    },
+    {
+      "id": "ex3-100",
+      "rarity": "Ultra Rare",
+      "name": "Charizard",
+      "number": "100",
+      "variants":["core"]
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "Flygon",
+      "number": 15,
+      "rarity": "",
+      "id": "ex3-ac-15-1",
+      "Description": "League Promo"
+    },
+    {
+      "name": "Flygon",
+      "number": 15,
+      "rarity": "",
+      "id": "ex3-ac-15-2",
+      "Description": "Winner Stamped League Promo"
+    },
+    {
+      "name": "Salamence",
+      "number": 19,
+      "rarity": "",
+      "id": "ex3-ac-19-1",
+      "Description": "League Promo"
+    },
+    {
+      "name": "Salamence",
+      "number": 19,
+      "rarity": "",
+      "id": "ex3-ac-19-2",
+      "Description": "Winner Stamped League Promo"
+    },
+    {
+      "name": "Camerupt",
+      "number": 24,
+      "rarity": "",
+      "id": "ex3-ac-24",
+      "Description": "EX Battle Stadium / Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "Cmbusken",
+      "number": 25,
+      "rarity": "",
+      "id": "ex3-ac-25",
+      "Description": "EX Battle Stadium / Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "Seadra",
+      "number": 29,
+      "rarity": "",
+      "id": "ex3-ac-29",
+      "Description": "EX Battle Stadium / Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "Bagon",
+      "number": 50,
+      "rarity": "",
+      "id": "ex3-ac-50-1",
+      "Description": "Scrye Magazine Promo"
+    },
+    {
+      "name": "Bagon",
+      "number": 50,
+      "rarity": "",
+      "id": "ex3-ac-50-2",
+      "Description": "Gencon Magazine Promo"
+    },
+    {
+      "name": "Bagon",
+      "number": 50,
+      "rarity": "",
+      "id": "ex3-ac-50-3",
+      "Description": "Inquest Magazine Promo"
+    },
+    {
+      "name": "Bagon",
+      "number": 50,
+      "rarity": "",
+      "id": "ex3-ac-50-5",
+      "Description": "Black Star"
+    },
+    {
+      "name": "Horsea",
+      "number": 58,
+      "rarity": "",
+      "id": "ex3-ac-58",
+      "Description": "EX Battle Stadium / Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "Numel",
+      "number": 69,
+      "rarity": "",
+      "id": "ex3-ac-69",
+      "Description": "EX Battle Stadium / Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "High Pressure System",
+      "number": 85,
+      "rarity": "",
+      "id": "ex3-ac-85",
+      "Description": "EX Battle Stadium / Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "Tv Reporter",
+      "number": 88,
+      "rarity": "",
+      "id": "ex3-ac-88",
+      "Description": "EX Battle Stadium / Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "Charmander",
+      "number": 98,
+      "rarity": "",
+      "id": "ex3-ac-98",
+      "Description": "City Championships Promo"
+    },
+    {
+      "name": "Charmeleon",
+      "number": 99,
+      "rarity": "",
+      "id": "ex3-ac-99",
+      "Description": "State Championships Promo"
+    },
+    {
+      "name": "Charizard",
+      "number": 100,
+      "rarity": "",
+      "id": "ex3-ac-100",
+      "Description": "Regional Championships Promo"
+    }
+  ],
+  "misprints": []
 }

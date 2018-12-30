@@ -1,17 +1,190 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "have"
   ],
   "coreCards": [
     {
-      "id": "placeholder-1",
+      "name": "Spoink",
+      "number": "1/30",
       "rarity": "Common",
-      "name": "placeholder pkmn",
-      "number": "1"
+      "id": "xy-noivern-1"
+    },
+    {
+      "name": "Gourgeist",
+      "number": "2/30",
+      "rarity": "Common",
+      "id": "xy-noivern-2"
+    },
+    {
+      "name": "Arbok",
+      "number": "3/30",
+      "rarity": "Common",
+      "id": "xy-noivern-3"
+    },
+    {
+      "name": "Bunnelby",
+      "number": "4/30",
+      "rarity": "Common",
+      "id": "xy-noivern-4"
+    },
+    {
+      "name": "Psychic Energy",
+      "number": "5/30",
+      "rarity": "Common",
+      "id": "xy-noivern-5"
+    },
+    {
+      "name": "Psychic Energy",
+      "number": "6/30",
+      "rarity": "Common",
+      "id": "xy-noivern-6"
+    },
+    {
+      "name": "Psychic Energy",
+      "number": "7/30",
+      "rarity": "Common",
+      "id": "xy-noivern-7"
+    },
+    {
+      "name": "Psychic Energy",
+      "number": "8/30",
+      "rarity": "Common",
+      "id": "xy-noivern-8"
+    },
+    {
+      "name": "Psychic Energy",
+      "number": "9/30",
+      "rarity": "Common",
+      "id": "xy-noivern-9"
+    },
+    {
+      "name": "Psychic Energy",
+      "number": "10/30",
+      "rarity": "Common",
+      "id": "xy-noivern-10"
+    },
+    {
+      "name": "Pumpkaboo",
+      "number": "11/30",
+      "rarity": "Common",
+      "id": "xy-noivern-11"
+    },
+    {
+      "name": "Noibat",
+      "number": "12/30",
+      "rarity": "Common",
+      "id": "xy-noivern-12"
+    },
+    {
+      "name": "Noivern",
+      "number": "13/30",
+      "rarity": "Common",
+      "id": "xy-noivern-13"
+    },
+    {
+      "name": "Pokémon Catcher",
+      "number": "14/30",
+      "rarity": "Common",
+      "id": "xy-noivern-14"
+    },
+    {
+      "name": "Potion",
+      "number": "15/30",
+      "rarity": "Common",
+      "id": "xy-noivern-15"
+    },
+    {
+      "name": "Ekans",
+      "number": "16/30",
+      "rarity": "Common",
+      "id": "xy-noivern-16"
+    },
+    {
+      "name": "Psychic Energy",
+      "number": "17/30",
+      "rarity": "Common",
+      "id": "xy-noivern-17"
+    },
+    {
+      "name": "Pumpkaboo",
+      "number": "18/30",
+      "rarity": "Common",
+      "id": "xy-noivern-18"
+    },
+    {
+      "name": "Darkness Energy",
+      "number": "19/30",
+      "rarity": "Common",
+      "id": "xy-noivern-19"
+    },
+    {
+      "name": "Furfrou",
+      "number": "20/30",
+      "rarity": "Common",
+      "id": "xy-noivern-20"
+    },
+    {
+      "name": "Poké Ball",
+      "number": "21/30",
+      "rarity": "Common",
+      "id": "xy-noivern-21"
+    },
+    {
+      "name": "Darkness Energy",
+      "number": "22/30",
+      "rarity": "Common",
+      "id": "xy-noivern-22"
+    },
+    {
+      "name": "Noibat",
+      "number": "23/30",
+      "rarity": "Common",
+      "id": "xy-noivern-23"
+    },
+    {
+      "name": "Professor's Letter",
+      "number": "24/30",
+      "rarity": "Common",
+      "id": "xy-noivern-24"
+    },
+    {
+      "name": "Psychic Energy",
+      "number": "25/30",
+      "rarity": "Common",
+      "id": "xy-noivern-25"
+    },
+    {
+      "name": "Darkness Energy",
+      "number": "26/30",
+      "rarity": "Common",
+      "id": "xy-noivern-26"
+    },
+    {
+      "name": "Potion",
+      "number": "27/30",
+      "rarity": "Common",
+      "id": "xy-noivern-27"
+    },
+    {
+      "name": "Darkness Energy",
+      "number": "28/30",
+      "rarity": "Common",
+      "id": "xy-noivern-28"
+    },
+    {
+      "name": "Switch",
+      "number": "29/30",
+      "rarity": "Common",
+      "id": "xy-noivern-29"
+    },
+    {
+      "name": "Noivern",
+      "number": "30/30",
+      "rarity": "Common",
+      "id": "xy-noivern-30"
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }

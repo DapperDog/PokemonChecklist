@@ -579,49 +579,57 @@
       "id": "ex1-96",
       "rarity": "Rare Holo EX",
       "name": "Chansey ex",
-      "number": "96"
+      "number": "96",
+      "variants":["core"]
     },
     {
       "id": "ex1-97",
       "rarity": "Rare Holo EX",
       "name": "Electabuzz ex",
-      "number": "97"
+      "number": "97",
+      "variants":["core"]
     },
     {
       "id": "ex1-98",
       "rarity": "Rare Holo EX",
       "name": "Hitmonchan ex",
-      "number": "98"
+      "number": "98",
+      "variants":["core"]
     },
     {
       "id": "ex1-99",
       "rarity": "Rare Holo EX",
       "name": "Lapras ex",
-      "number": "99"
+      "number": "99",
+      "variants":["core"]
     },
     {
       "id": "ex1-100",
       "rarity": "Rare Holo EX",
       "name": "Magmar ex",
-      "number": "100"
+      "number": "100",
+      "variants":["core"]
     },
     {
       "id": "ex1-101",
       "rarity": "Rare Holo EX",
       "name": "Mewtwo ex",
-      "number": "101"
+      "number": "101",
+      "variants":["core"]
     },
     {
       "id": "ex1-102",
       "rarity": "Rare Holo EX",
       "name": "Scyther ex",
-      "number": "102"
+      "number": "102",
+      "variants":["core"]
     },
     {
       "id": "ex1-103",
       "rarity": "Rare Holo EX",
       "name": "Sneasel ex",
-      "number": "103"
+      "number": "103",
+      "variants":["core"]
     },
     {
       "id": "ex1-104",
@@ -660,6 +668,434 @@
       "number": "109"
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "Blaziken",
+      "number": 3,
+      "rarity": "",
+      "id": "ex1-ac-3-1",
+      "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "Blaziken",
+      "number": 3,
+      "rarity": "",
+      "id": "ex1-ac-3-2",
+      "Description": "Holo EX Battle Stadium Exclusive"
+    },
+    {
+      "name": "Gardevoir",
+      "number": 7,
+      "rarity": "",
+      "id": "ex1-ac-7-1",
+      "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "Gardevoir",
+      "number": 7,
+      "rarity": "",
+      "id": "ex1-ac-7-2",
+      "Description": "Holo EX Battle Stadium Exclusive"
+    },
+    {
+      "name": "Seaking",
+      "number": 21,
+      "rarity": "",
+      "id": "ex1-ac-21",
+      "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "Delcatty",
+      "number": 29,
+      "rarity": "",
+      "id": "ex1-ac-29",
+      "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "Hariyama",
+      "number": 33,
+      "rarity": "",
+      "id": "ex1-ac-33",
+      "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "Kirlia",
+      "number": 34,
+      "rarity": "",
+      "id": "ex1-ac-34",
+      "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "Swellow",
+      "number": 46,
+      "rarity": "",
+      "id": "ex1-ac-46",
+      "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "Goldeen",
+      "number": 55,
+      "rarity": "",
+      "id": "ex1-ac-55",
+      "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "Makuhita",
+      "number": 57,
+      "rarity": "",
+      "id": "ex1-ac-57",
+      "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "Numel",
+      "number": 61,
+      "rarity": "",
+      "id": "ex1-ac-61",
+      "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "Taillow",
+      "number": 72,
+      "rarity": "",
+      "id": "ex1-ac-72",
+      "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "Torchic",
+      "number": 73,
+      "rarity": "",
+      "id": "ex1-ac-73",
+      "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "Energy removal 2",
+      "number": 80,
+      "rarity": "",
+      "id": "ex1-ac-80",
+      "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "Lady Outing",
+      "number": 83,
+      "rarity": "",
+      "id": "ex1-ac-83",
+      "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "Oran Berry",
+      "number": 85,
+      "rarity": "",
+      "id": "ex1-ac-85-1",
+      "Description": "Winner Stamped League Promo"
+    },
+    {
+      "name": "Oran Berry",
+      "number": 85,
+      "rarity": "",
+      "id": "ex1-ac-85-2",
+      "Description": "Non holo winner stamped league promo"
+    },
+    {
+      "name": "Pokenav",
+      "number": 88,
+      "rarity": "",
+      "id": "ex1-ac-88",
+      "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "Professors Birch",
+      "number": 89,
+      "rarity": "",
+      "id": "ex1-ac-89",
+      "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "Energy Search",
+      "number": 90,
+      "rarity": "",
+      "id": "ex1-ac-90-1",
+      "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "Energy Search",
+      "number": 90,
+      "rarity": "",
+      "id": "ex1-ac-90-2",
+      "Description": "2005 EX Emerald and EX Deoxys Theme deck exclusive"
+    },
+    {
+      "name": "Potion",
+      "number": 91,
+      "rarity": "",
+      "id": "ex1-ac-91",
+      "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "Switch",
+      "number": 92,
+      "rarity": "",
+      "id": "ex1-ac-92",
+      "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "Darkness Energy",
+      "number": 93,
+      "rarity": "",
+      "id": "ex1-ac-93-1",
+      "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "Darkness Energy",
+      "number": 93,
+      "rarity": "",
+      "id": "ex1-ac-93-2",
+      "Description": "Leage Promo"
+    },
+    {
+      "name": "Darkness Energy",
+      "number": 93,
+      "rarity": "",
+      "id": "ex1-ac-93-3",
+      "Description": "Winner stamped league promo"
+    },
+    {
+      "name": "Metal energy",
+      "number": 94,
+      "rarity": "",
+      "id": "ex1-ac-94-1",
+      "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "Metal energy",
+      "number": 94,
+      "rarity": "",
+      "id": "ex1-ac-94-2",
+      "Description": "league promo"
+    },
+    {
+      "name": "Metal energy",
+      "number": 94,
+      "rarity": "",
+      "id": "ex1-ac-94-3",
+      "Description": "winner stamped league promo"
+    },
+    {
+      "name": "Metal energy",
+      "number": 94,
+      "rarity": "",
+      "id": "ex1-ac-94-4",
+      "Description": "non holo winner stamped league promo"
+    },
+    {
+      "name": "Grass Energy",
+      "number": 104,
+      "rarity": "",
+      "id": "ex1-ac-104-1",
+      "Description": "2003 non ereader foring theme deck exclusive"
+    },
+    {
+      "name": "Grass Energy",
+      "number": 104,
+      "rarity": "",
+      "id": "ex1-ac-104-2",
+      "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "Grass Energy",
+      "number": 104,
+      "rarity": "",
+      "id": "ex1-ac-104-3",
+      "Description": "2005 non e reader - ex emerald and ex deoxys theme deck exclusive"
+    },
+    {
+      "name": "Grass Energy",
+      "number": 104,
+      "rarity": "",
+      "id": "ex1-ac-104-4",
+      "Description": "2004-2005 professor program stamped promo"
+    },
+    {
+      "name": "Grass Energy",
+      "number": 104,
+      "rarity": "",
+      "id": "ex1-ac-104-5",
+      "Description": "2003 non-e-reader foreing theme deck exclusive"
+    },
+    {
+      "name": "Fighting energy",
+      "number": 105,
+      "rarity": "",
+      "id": "ex1-ac-105-1",
+      "Description": "2003 non ereader foring theme deck exclusive"
+    },
+    {
+      "name": "Fighting energy",
+      "number": 105,
+      "rarity": "",
+      "id": "ex1-ac-105-2",
+      "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "Fighting energy",
+      "number": 105,
+      "rarity": "",
+      "id": "ex1-ac-105-3",
+      "Description": "2005 non e reader - ex emerald and ex deoxys theme deck exclusive"
+    },
+    {
+      "name": "Fighting energy",
+      "number": 105,
+      "rarity": "",
+      "id": "ex1-ac-105-4",
+      "Description": "2004-2005 professor program stamped promo"
+    },
+    {
+      "name": "Fighting energy",
+      "number": 105,
+      "rarity": "",
+      "id": "ex1-ac-105-5",
+      "Description": "2003 non-e-reader foreing theme deck exclusive"
+    },
+    {
+      "name": "Water Energy",
+      "number": 106,
+      "rarity": "",
+      "id": "ex1-ac-106-1",
+      "Description": "2003 non ereader foring theme deck exclusive"
+    },
+    {
+      "name": "Water Energy",
+      "number": 106,
+      "rarity": "",
+      "id": "ex1-ac-106-2",
+      "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "Water Energy",
+      "number": 106,
+      "rarity": "",
+      "id": "ex1-ac-106-3",
+      "Description": "2005 non e reader - ex emerald and ex deoxys theme deck exclusive"
+    },
+    {
+      "name": "Water Energy",
+      "number": 106,
+      "rarity": "",
+      "id": "ex1-ac-106-4",
+      "Description": "2004-2005 professor program stamped promo"
+    },
+    {
+      "name": "Water Energy",
+      "number": 106,
+      "rarity": "",
+      "id": "ex1-ac-106-5",
+      "Description": "2003 non-e-reader foreing theme deck exclusive"
+    },
+    {
+      "name": "Psychic Energy",
+      "number": 107,
+      "rarity": "",
+      "id": "ex1-ac-107-1",
+      "Description": "2003 non ereader foring theme deck exclusive"
+    },
+    {
+      "name": "Psychic Energy",
+      "number": 107,
+      "rarity": "",
+      "id": "ex1-ac-107-2",
+      "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "Psychic Energy",
+      "number": 107,
+      "rarity": "",
+      "id": "ex1-ac-107-3",
+      "Description": "2005 non e reader - ex emerald and ex deoxys theme deck exclusive"
+    },
+    {
+      "name": "Psychic Energy",
+      "number": 107,
+      "rarity": "",
+      "id": "ex1-ac-107-4",
+      "Description": "2004-2005 professor program stamped promo"
+    },
+    {
+      "name": "Psychic Energy",
+      "number": 107,
+      "rarity": "",
+      "id": "ex1-ac-107-5",
+      "Description": "2003 non-e-reader foreing theme deck exclusive"
+    },
+    {
+      "name": "Fire Energy",
+      "number": 108,
+      "rarity": "",
+      "id": "ex1-ac-108-1",
+      "Description": "2003 non ereader foring theme deck exclusive"
+    },
+    {
+      "name": "Fire Energy",
+      "number": 108,
+      "rarity": "",
+      "id": "ex1-ac-108-2",
+      "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "Fire Energy",
+      "number": 108,
+      "rarity": "",
+      "id": "ex1-ac-108-3",
+      "Description": "2005 non e reader - ex emerald and ex deoxys theme deck exclusive"
+    },
+    {
+      "name": "Fire Energy",
+      "number": 108,
+      "rarity": "",
+      "id": "ex1-ac-108-4",
+      "Description": "2004-2005 professor program stamped promo"
+    },
+    {
+      "name": "Fire Energy",
+      "number": 108,
+      "rarity": "",
+      "id": "ex1-ac-108-5",
+      "Description": "2003 non-e-reader foreing theme deck exclusive"
+    },
+    {
+      "name": "Lightning Energy",
+      "number": 109,
+      "rarity": "",
+      "id": "ex1-ac-109-1",
+      "Description": "2003 non ereader foring theme deck exclusive"
+    },
+    {
+      "name": "Lightning Energy",
+      "number": 109,
+      "rarity": "",
+      "id": "ex1-ac-109-2",
+      "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
+    },
+    {
+      "name": "Lightning Energy",
+      "number": 109,
+      "rarity": "",
+      "id": "ex1-ac-109-3",
+      "Description": "2005 non e reader - ex emerald and ex deoxys theme deck exclusive"
+    },
+    {
+      "name": "Lightning Energy",
+      "number": 109,
+      "rarity": "",
+      "id": "ex1-ac-109-4",
+      "Description": "2004-2005 professor program stamped promo"
+    },
+    {
+      "name": "Lightning Energy",
+      "number": 109,
+      "rarity": "",
+      "id": "ex1-ac-109-5",
+      "Description": "2003 non-e-reader foreing theme deck exclusive"
+    }
+  ],
+  "misprints": []
 }

@@ -1,17 +1,190 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "have"
   ],
   "coreCards": [
     {
-      "id": "placeholder-1",
-      "rarity": "Common",
-      "name": "placeholder pkmn",
-      "number": "1"
+      "name": "Fletchling",
+      "number": "1/30",
+      "rarity": "",
+      "id": "xy-sylveon-1"
+    },
+    {
+      "name": "Fairy Energy",
+      "number": "2/30",
+      "rarity": "",
+      "id": "xy-sylveon-2"
+    },
+    {
+      "name": "Fairy Energy",
+      "number": "3/30",
+      "rarity": "",
+      "id": "xy-sylveon-3"
+    },
+    {
+      "name": "Switch",
+      "number": "4/30",
+      "rarity": "",
+      "id": "xy-sylveon-4"
+    },
+    {
+      "name": "Fairy Energy",
+      "number": "5/30",
+      "rarity": "",
+      "id": "xy-sylveon-5"
+    },
+    {
+      "name": "Fairy Energy",
+      "number": "6/30",
+      "rarity": "",
+      "id": "xy-sylveon-6"
+    },
+    {
+      "name": "Fairy Energy",
+      "number": "7/30",
+      "rarity": "",
+      "id": "xy-sylveon-7"
+    },
+    {
+      "name": "Fairy Energy",
+      "number": "8/30",
+      "rarity": "",
+      "id": "xy-sylveon-8"
+    },
+    {
+      "name": "Fairy Energy",
+      "number": "9/30",
+      "rarity": "",
+      "id": "xy-sylveon-9"
+    },
+    {
+      "name": "Fairy Energy",
+      "number": "10/30",
+      "rarity": "",
+      "id": "xy-sylveon-10"
+    },
+    {
+      "name": "Snubbull",
+      "number": "11/30",
+      "rarity": "",
+      "id": "xy-sylveon-11"
+    },
+    {
+      "name": "Fairy Energy",
+      "number": "12/30",
+      "rarity": "",
+      "id": "xy-sylveon-12"
+    },
+    {
+      "name": "Eevee",
+      "number": "13/30",
+      "rarity": "",
+      "id": "xy-sylveon-13"
+    },
+    {
+      "name": "Granbull",
+      "number": "14/30",
+      "rarity": "",
+      "id": "xy-sylveon-14"
+    },
+    {
+      "name": "Sylveon",
+      "number": "15/30",
+      "rarity": "",
+      "id": "xy-sylveon-15"
+    },
+    {
+      "name": "Furfrou",
+      "number": "16/30",
+      "rarity": "",
+      "id": "xy-sylveon-16"
+    },
+    {
+      "name": "Fairy Energy",
+      "number": "17/30",
+      "rarity": "",
+      "id": "xy-sylveon-17"
+    },
+    {
+      "name": "Fairy Energy",
+      "number": "18/30",
+      "rarity": "",
+      "id": "xy-sylveon-18"
+    },
+    {
+      "name": "Fletchling",
+      "number": "19/30",
+      "rarity": "",
+      "id": "xy-sylveon-19"
+    },
+    {
+      "name": "Potion",
+      "number": "20/30",
+      "rarity": "",
+      "id": "xy-sylveon-20"
+    },
+    {
+      "name": "Eevee",
+      "number": "21/30",
+      "rarity": "",
+      "id": "xy-sylveon-21"
+    },
+    {
+      "name": "Furfrou",
+      "number": "22/30",
+      "rarity": "",
+      "id": "xy-sylveon-22"
+    },
+    {
+      "name": "Pokémon Catcher",
+      "number": "23/30",
+      "rarity": "",
+      "id": "xy-sylveon-23"
+    },
+    {
+      "name": "Potion",
+      "number": "24/30",
+      "rarity": "",
+      "id": "xy-sylveon-24"
+    },
+    {
+      "name": "Fairy Energy",
+      "number": "25/30",
+      "rarity": "",
+      "id": "xy-sylveon-25"
+    },
+    {
+      "name": "Poké Ball",
+      "number": "26/30",
+      "rarity": "",
+      "id": "xy-sylveon-26"
+    },
+    {
+      "name": "Snubbull",
+      "number": "27/30",
+      "rarity": "",
+      "id": "xy-sylveon-27"
+    },
+    {
+      "name": "Professor's Letter",
+      "number": "28/30",
+      "rarity": "",
+      "id": "xy-sylveon-28"
+    },
+    {
+      "name": "Granbull",
+      "number": "29/30",
+      "rarity": "",
+      "id": "xy-sylveon-29"
+    },
+    {
+      "name": "Sylveon",
+      "number": "30/30",
+      "rarity": "",
+      "id": "xy-sylveon-30"
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }

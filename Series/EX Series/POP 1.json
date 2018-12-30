@@ -1,8 +1,8 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "nonholo",
+    "holo"
   ],
   "coreCards": [
     {
@@ -39,75 +39,87 @@
       "id": "pop1-6",
       "rarity": "Rare",
       "name": "Beautifly",
-      "number": "6"
+      "number": "6",
+      "variants":["nonholo"]
     },
     {
       "id": "pop1-7",
       "rarity": "Uncommon",
       "name": "Masquerain",
-      "number": "7"
+      "number": "7",
+      "variants":["nonholo"]
     },
     {
       "id": "pop1-8",
       "rarity": "Uncommon",
       "name": "Murkrow",
-      "number": "8"
+      "number": "8",
+      "variants":["nonholo"]
     },
     {
       "id": "pop1-9",
       "rarity": "Uncommon",
       "name": "Pupitar",
-      "number": "9"
+      "number": "9",
+      "variants":["nonholo"]
     },
     {
       "id": "pop1-10",
       "rarity": "Uncommon",
       "name": "Torkoal",
-      "number": "10"
+      "number": "10",
+      "variants":["nonholo"]
     },
     {
       "id": "pop1-11",
       "rarity": "Common",
       "name": "Larvitar",
-      "number": "11"
+      "number": "11",
+      "variants":["nonholo"]
     },
     {
       "id": "pop1-12",
       "rarity": "Common",
       "name": "Minun",
-      "number": "12"
+      "number": "12",
+      "variants":["nonholo"]
     },
     {
       "id": "pop1-13",
       "rarity": "Common",
       "name": "Plusle",
-      "number": "13"
+      "number": "13",
+      "variants":["nonholo"]
     },
     {
       "id": "pop1-14",
       "rarity": "Common",
       "name": "Surskit",
-      "number": "14"
+      "number": "14",
+      "variants":["nonholo"]
     },
     {
       "id": "pop1-15",
       "rarity": "Common",
       "name": "Swellow",
-      "number": "15"
+      "number": "15",
+      "variants":["nonholo"]
     },
     {
       "id": "pop1-16",
       "rarity": "Rare",
       "name": "Armaldo ex",
-      "number": "16"
+      "number": "16",
+      "variants":["nonholo"]
     },
     {
       "id": "pop1-17",
       "rarity": "Rare",
       "name": "Tyranitar ex",
-      "number": "17"
+      "number": "17",
+      "variants":["nonholo"]
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }

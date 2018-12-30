@@ -7,13 +7,13 @@
   "coreCards": [
     {
       "id": "xy12-1",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Venusaur-EX",
       "number": "1"
     },
     {
       "id": "xy12-2",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "M Venusaur-EX",
       "number": "2"
     },
@@ -73,13 +73,13 @@
     },
     {
       "id": "xy12-12",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Charizard-EX",
       "number": "12"
     },
     {
       "id": "xy12-13",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "M Charizard-EX",
       "number": "13"
     },
@@ -127,13 +127,13 @@
     },
     {
       "id": "xy12-21",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Blastoise-EX",
       "number": "21"
     },
     {
       "id": "xy12-22",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "M Blastoise-EX",
       "number": "22"
     },
@@ -157,13 +157,13 @@
     },
     {
       "id": "xy12-26",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Slowbro-EX",
       "number": "26"
     },
     {
       "id": "xy12-27",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "M Slowbro-EX",
       "number": "27"
     },
@@ -313,7 +313,7 @@
     },
     {
       "id": "xy12-52",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Mewtwo-EX",
       "number": "52"
     },
@@ -385,13 +385,13 @@
     },
     {
       "id": "xy12-64",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Pidgeot-EX",
       "number": "64"
     },
     {
       "id": "xy12-65",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "M Pidgeot-EX",
       "number": "65"
     },
@@ -433,7 +433,7 @@
     },
     {
       "id": "xy12-72",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Dragonite-EX",
       "number": "72"
     },
@@ -601,55 +601,55 @@
     },
     {
       "id": "xy12-100",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "M Venusaur-EX",
       "number": "100"
     },
     {
       "id": "xy12-101",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "M Charizard-EX",
       "number": "101"
     },
     {
       "id": "xy12-102",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "M Blastoise-EX",
       "number": "102"
     },
     {
       "id": "xy12-103",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Mewtwo-EX",
       "number": "103"
     },
     {
       "id": "xy12-104",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Pidgeot-EX",
       "number": "104"
     },
     {
       "id": "xy12-105",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "M Pidgeot-EX",
       "number": "105"
     },
     {
       "id": "xy12-106",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Dragonite-EX",
       "number": "106"
     },
     {
       "id": "xy12-107",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Brock's Grit",
       "number": "107"
     },
     {
       "id": "xy12-108",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Misty's Determination",
       "number": "108"
     },

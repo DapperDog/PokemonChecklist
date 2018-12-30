@@ -139,19 +139,19 @@
     },
     {
       "id": "xy4-23",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Manectric-EX",
       "number": "23"
     },
     {
       "id": "xy4-24",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "M Manectric-EX",
       "number": "24"
     },
     {
       "id": "xy4-24a",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "M Manectric-EX",
       "number": "24a"
     },
@@ -211,13 +211,13 @@
     },
     {
       "id": "xy4-34",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Gengar-EX",
       "number": "34"
     },
     {
       "id": "xy4-35",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "M Gengar-EX",
       "number": "35"
     },
@@ -355,7 +355,7 @@
     },
     {
       "id": "xy4-58",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Malamar-EX",
       "number": "58"
     },
@@ -379,7 +379,7 @@
     },
     {
       "id": "xy4-62",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Dialga-EX",
       "number": "62"
     },
@@ -397,13 +397,13 @@
     },
     {
       "id": "xy4-65",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Aegislash-EX",
       "number": "65"
     },
     {
       "id": "xy4-65a",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Aegislash-EX",
       "number": "65a"
     },
@@ -415,7 +415,7 @@
     },
     {
       "id": "xy4-67",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Florges-EX",
       "number": "67"
     },
@@ -691,43 +691,43 @@
     },
     {
       "id": "xy4-113",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Manectric-EX",
       "number": "113"
     },
     {
       "id": "xy4-114",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Gengar-EX",
       "number": "114"
     },
     {
       "id": "xy4-115",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Malamar-EX",
       "number": "115"
     },
     {
       "id": "xy4-116",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Florges-EX",
       "number": "116"
     },
     {
       "id": "xy4-117",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "AZ",
       "number": "117"
     },
     {
       "id": "xy4-118",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Lysandre's Trump Card",
       "number": "118"
     },
     {
       "id": "xy4-119",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Xerosic",
       "number": "119"
     }

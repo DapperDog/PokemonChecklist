@@ -43,13 +43,13 @@
     },
     {
       "id": "xyp-XY07",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Xerneas-EX",
       "number": "XY07"
     },
     {
       "id": "xyp-XY08",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Yveltal-EX",
       "number": "XY08"
     },
@@ -169,19 +169,19 @@
     },
     {
       "id": "xyp-XY28",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Venusaur-EX",
       "number": "XY28"
     },
     {
       "id": "xyp-XY29",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Charizard-EX",
       "number": "XY29"
     },
     {
       "id": "xyp-XY30",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Blastoise-EX",
       "number": "XY30"
     },
@@ -247,13 +247,13 @@
     },
     {
       "id": "xyp-XY41",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Kyogre-EX",
       "number": "XY41"
     },
     {
       "id": "xyp-XY42",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Groudon-EX",
       "number": "XY42"
     },
@@ -433,19 +433,19 @@
     },
     {
       "id": "xyp-XY71",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Hoopa-EX",
       "number": "XY71"
     },
     {
       "id": "xyp-XY72",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Latios-EX",
       "number": "XY72"
     },
     {
       "id": "xyp-XY73",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Rayquaza-EX",
       "number": "XY73"
     },
@@ -643,19 +643,19 @@
     },
     {
       "id": "xyp-XY106",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Gyarados-EX",
       "number": "XY106"
     },
     {
       "id": "xyp-XY107",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Mewtwo-EX",
       "number": "XY107"
     },
     {
       "id": "xyp-XY108",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Machamp-EX",
       "number": "XY108"
     },
@@ -739,13 +739,13 @@
     },
     {
       "id": "xyp-XY122",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Blastoise-EX",
       "number": "XY122"
     },
     {
       "id": "xyp-XY123",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Venusaur-EX",
       "number": "XY123"
     },
@@ -757,13 +757,13 @@
     },
     {
       "id": "xyp-XY125",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Mewtwo-EX",
       "number": "XY125"
     },
     {
       "id": "xyp-XY126",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Mew-EX",
       "number": "XY126"
     },
@@ -901,25 +901,25 @@
     },
     {
       "id": "xyp-XY149",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Xerneas-EX",
       "number": "XY149"
     },
     {
       "id": "xyp-XY150",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Yveltal-EX",
       "number": "XY150"
     },
     {
       "id": "xyp-XY150a",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Yveltal-EX",
       "number": "XY150a"
     },
     {
       "id": "xyp-XY151",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Zygarde-EX",
       "number": "XY151"
     },
@@ -1033,7 +1033,7 @@
     },
     {
       "id": "xyp-XY173",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Volcanion-EX",
       "number": "XY173"
     },
@@ -1045,7 +1045,7 @@
     },
     {
       "id": "xyp-XY175",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Magearna-EX",
       "number": "XY175"
     },
@@ -1087,7 +1087,7 @@
     },
     {
       "id": "xyp-XY183",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Mewtwo-EX",
       "number": "XY183"
     }

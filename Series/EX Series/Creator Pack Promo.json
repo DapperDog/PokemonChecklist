@@ -1,17 +1,47 @@
 {
-  "version": 1.0, 
+  "version": 1.0,
   "cardVariants": [
     "core",
     "reverse"
   ],
   "coreCards": [
     {
-      "id": "placeholder-1",
+      "name": "Treecko",
+      "number": 1,
       "rarity": "Common",
-      "name": "placeholder pkmn",
-      "number": "1"
+      "id": "creator-1"
+    },
+    {
+      "name": "Wurmple",
+      "number": 2,
+      "rarity": "Common",
+      "id": "creator-2"
+    },
+    {
+      "name": "Torchic",
+      "number": 3,
+      "rarity": "Common",
+      "id": "creator-3"
+    },
+    {
+      "name": "Mudkip",
+      "number": 4,
+      "rarity": "Common",
+      "id": "creator-4"
+    },
+    {
+      "name": "Pikachu",
+      "number": 5,
+      "rarity": "Common",
+      "id": "creator-5"
+    },
+    {
+      "name": "Pikachu",
+      "number": 6,
+      "rarity": "Common",
+      "id": "creator-6"
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }

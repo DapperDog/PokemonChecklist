@@ -561,57 +561,116 @@
       "id": "ex5-93",
       "rarity": "Rare Holo EX",
       "name": "Groudon ex",
-      "number": "93"
+      "number": "93",
+      "variants":["core"]
     },
     {
       "id": "ex5-94",
       "rarity": "Rare Holo EX",
       "name": "Kyogre ex",
-      "number": "94"
+      "number": "94",
+      "variants":["core"]
     },
     {
       "id": "ex5-95",
       "rarity": "Rare Holo EX",
       "name": "Metagross ex",
-      "number": "95"
+      "number": "95",
+      "variants":["core"]
     },
     {
       "id": "ex5-96",
       "rarity": "Rare Holo EX",
       "name": "Ninetales ex",
-      "number": "96"
+      "number": "96",
+      "variants":["core"]
     },
     {
       "id": "ex5-97",
       "rarity": "Rare Holo EX",
       "name": "Regice ex",
-      "number": "97"
+      "number": "97",
+      "variants":["core"]
     },
     {
       "id": "ex5-98",
       "rarity": "Rare Holo EX",
       "name": "Regirock ex",
-      "number": "98"
+      "number": "98",
+      "variants":["core"]
     },
     {
       "id": "ex5-99",
       "rarity": "Rare Holo EX",
       "name": "Registeel ex",
-      "number": "99"
+      "number": "99",
+      "variants":["core"]
     },
     {
       "id": "ex5-100",
       "rarity": "Rare Holo EX",
       "name": "Vileplume ex",
-      "number": "100"
+      "number": "100",
+      "variants":["core"]
     },
     {
       "id": "ex5-101",
       "rarity": "Rare Holo EX",
       "name": "Wigglytuff ex",
-      "number": "101"
+      "number": "101",
+      "variants":["core"]
+    },
+    {
+      "id": "ex5-102",
+      "rarity": "Rare Holo EX",
+      "name": "Groudon",
+      "number": "102",
+      "variants":["core"]
     }
   ],
-  "additionalCards": [],
+  "additionalCards": [
+    {
+      "name": "Machamp",
+      "number": 9,
+      "rarity": "",
+      "id": "ex5-ac-9-1",
+      "Description": "National Championships Promo"
+    },
+    {
+      "name": "Machamp",
+      "number": 9,
+      "rarity": "",
+      "id": "ex5-ac-9-2",
+      "Description": "Staff National Championships Promo"
+    },
+    {
+      "name": "Metagross",
+      "number": 11,
+      "rarity": "",
+      "id": "ex5-ac-11",
+      "Description": "Wishmaker theme deck exclusive"
+    },
+    {
+      "name": "Beldum",
+      "number": 29,
+      "rarity": "",
+      "id": "ex5-ac-29",
+      "Description": "Gym Challenge Promo"
+    },
+    {
+      "name": "Machoke",
+      "number": 41,
+      "rarity": "",
+      "id": "ex5-ac-41",
+      "Description": "State Championships Promo"
+    },
+    {
+      "name": "Machop",
+      "number": 64,
+      "rarity": "",
+      "id": "ex5-ac-64",
+      "Description": "City Championships Promo"
+    }
+  ],
   "other": []
 }

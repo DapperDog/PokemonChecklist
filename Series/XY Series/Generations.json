@@ -7,13 +7,13 @@
   "coreCards": [
     {
       "id": "g1-1",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Venusaur-EX",
       "number": "1"
     },
     {
       "id": "g1-2",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "M Venusaur-EX",
       "number": "2"
     },
@@ -61,25 +61,25 @@
     },
     {
       "id": "g1-10",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Leafeon-EX",
       "number": "10"
     },
     {
       "id": "g1-11",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Charizard-EX",
       "number": "11"
     },
     {
       "id": "g1-12",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "M Charizard-EX",
       "number": "12"
     },
     {
       "id": "g1-13",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Ninetales-EX",
       "number": "13"
     },
@@ -103,13 +103,13 @@
     },
     {
       "id": "g1-17",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Blastoise-EX",
       "number": "17"
     },
     {
       "id": "g1-18",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "M Blastoise-EX",
       "number": "18"
     },
@@ -145,13 +145,13 @@
     },
     {
       "id": "g1-24",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Vaporeon-EX",
       "number": "24"
     },
     {
       "id": "g1-25",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Articuno",
       "number": "25"
     },
@@ -169,19 +169,19 @@
     },
     {
       "id": "g1-28",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Jolteon-EX",
       "number": "28"
     },
     {
       "id": "g1-28a",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Jolteon-EX",
       "number": "28a"
     },
     {
       "id": "g1-29",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Zapdos",
       "number": "29"
     },
@@ -229,7 +229,7 @@
     },
     {
       "id": "g1-37",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Meowstic-EX",
       "number": "37"
     },
@@ -283,7 +283,7 @@
     },
     {
       "id": "g1-46",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Golem-EX",
       "number": "46"
     },
@@ -547,7 +547,7 @@
     },
     {
       "id": "g1-rc6",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Flareon-EX",
       "number": "RC6"
     },
@@ -637,7 +637,7 @@
     },
     {
       "id": "g1-rc21",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Sylveon-EX",
       "number": "RC21"
     },
@@ -679,31 +679,31 @@
     },
     {
       "id": "g1-rc28",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Flareon-EX",
       "number": "RC28"
     },
     {
       "id": "g1-rc29",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Pikachu",
       "number": "RC29"
     },
     {
       "id": "g1-rc30",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Gardevoir-EX",
       "number": "RC30"
     },
     {
       "id": "g1-rc31",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "M Gardevoir-EX",
       "number": "RC31"
     },
     {
       "id": "g1-rc32",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Sylveon-EX",
       "number": "RC32"
     }

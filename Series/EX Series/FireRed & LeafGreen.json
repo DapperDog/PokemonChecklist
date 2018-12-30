@@ -627,57 +627,116 @@
       "id": "ex6-104",
       "rarity": "Rare Holo EX",
       "name": "Blastoise ex",
-      "number": "104"
+      "number": "104",
+      "variants":["core"]
     },
     {
       "id": "ex6-105",
       "rarity": "Rare Holo EX",
       "name": "Charizard ex",
-      "number": "105"
+      "number": "105",
+      "variants":["core"]
     },
     {
       "id": "ex6-106",
       "rarity": "Rare Holo EX",
       "name": "Clefable ex",
-      "number": "106"
+      "number": "106",
+      "variants":["core"]
     },
     {
       "id": "ex6-107",
       "rarity": "Rare Holo EX",
       "name": "Electrode ex",
-      "number": "107"
+      "number": "107",
+      "variants":["core"]
     },
     {
       "id": "ex6-108",
       "rarity": "Rare Holo EX",
       "name": "Gengar ex",
-      "number": "108"
+      "number": "108",
+      "variants":["core"]
     },
     {
       "id": "ex6-109",
       "rarity": "Rare Holo EX",
       "name": "Gyarados ex",
-      "number": "109"
+      "number": "109",
+      "variants":["core"]
     },
     {
       "id": "ex6-110",
       "rarity": "Rare Holo EX",
       "name": "Mr. Mime ex",
-      "number": "110"
+      "number": "110",
+      "variants":["core"]
     },
     {
       "id": "ex6-111",
       "rarity": "Rare Holo EX",
       "name": "Mr. Mime ex",
-      "number": "111"
+      "number": "111",
+      "variants":["core"]
     },
     {
       "id": "ex6-112",
       "rarity": "Rare Holo EX",
       "name": "Venusaur ex",
-      "number": "112"
+      "number": "112",
+      "variants":["core"]
+    },
+    {
+      "id": "ex6-113",
+      "rarity": "Holo Rare",
+      "name": "Charmander",
+      "number": "113",
+      "variants":["core"]
+    },
+    {
+      "id": "ex6-114",
+      "rarity": "Rare Holo EX",
+      "name": "Articuno ex",
+      "number": "114",
+      "variants":["core"]
+    },
+    {
+      "id": "ex6-115",
+      "rarity": "Rare Holo EX",
+      "name": "Moltres ex",
+      "number": "115",
+      "variants":["core"]
+    },
+    {
+      "id": "ex6-116",
+      "rarity": "Rare Holo EX",
+      "name": "Zapdos ex",
+      "number": "116",
+      "variants":["core"]
     }
   ],
-  "additionalCards": [],
+  "additionalCards": [
+    {
+      "name": "Prof Oaks Research",
+      "number": 98,
+      "rarity": "",
+      "id": "ex6-ac-98",
+      "Description": "Professor Program 2004-2005 stamped promo"
+    },
+    {
+      "name": "Potion",
+      "number": 101,
+      "rarity": "",
+      "id": "ex6-ac-101",
+      "Description": "EX Emeralnd and Deoxys Theme Deck Exclusive"
+    },
+    {
+      "name": "Switch",
+      "number": 102,
+      "rarity": "",
+      "id": "ex6-c-102",
+      "Description": "EX Emeralnd and Deoxys Theme Deck Exclusive"
+    }
+  ],
   "other": []
 }
