@@ -1,8 +1,7 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "unlimited"
   ],
   "coreCards": [
     {
@@ -786,6 +785,14 @@
       "number": "130"
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "Wartortle",
+      "number": 63,
+      "rarity": "",
+      "id": "base4-ac-63",
+      "description": "W Stamped"
+    }
+  ],
+  "misprints": []
 }

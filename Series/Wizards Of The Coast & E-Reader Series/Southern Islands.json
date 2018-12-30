@@ -1,17 +1,118 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "have"
   ],
   "coreCards": [
     {
-      "id": "placeholder-1",
-      "rarity": "Common",
-      "name": "placeholder pkmn",
-      "number": "1"
+      "name": "Mew",
+      "number": 1,
+      "rarity": "Promo",
+      "id": "south-1"
+    },
+    {
+      "name": "Pidgeot",
+      "number": 2,
+      "rarity": "Promo",
+      "id": "south-2"
+    },
+    {
+      "name": "Onix",
+      "number": 3,
+      "rarity": "Promo",
+      "id": "south-3"
+    },
+    {
+      "name": "Togepi",
+      "number": 4,
+      "rarity": "Promo",
+      "id": "south-4"
+    },
+    {
+      "name": "Ivysaur",
+      "number": 5,
+      "rarity": "Promo",
+      "id": "south-5"
+    },
+    {
+      "name": "Raticate",
+      "number": 6,
+      "rarity": "Promo",
+      "id": "south-6"
+    },
+    {
+      "name": "Ledyba",
+      "number": 7,
+      "rarity": "Promo",
+      "id": "south-7"
+    },
+    {
+      "name": "Jigglypuff",
+      "number": 8,
+      "rarity": "Promo",
+      "id": "south-8"
+    },
+    {
+      "name": "Butterfree",
+      "number": 9,
+      "rarity": "Promo",
+      "id": "south-9"
+    },
+    {
+      "name": "Tentacruel",
+      "number": 10,
+      "rarity": "Promo",
+      "id": "south-10"
+    },
+    {
+      "name": "Marill",
+      "number": 11,
+      "rarity": "Promo",
+      "id": "south-11"
+    },
+    {
+      "name": "Lapras",
+      "number": 12,
+      "rarity": "Promo",
+      "id": "south-12"
+    },
+    {
+      "name": "Exeggutor",
+      "number": 13,
+      "rarity": "Promo",
+      "id": "south-13"
+    },
+    {
+      "name": "Slowking",
+      "number": 14,
+      "rarity": "Promo",
+      "id": "south-14"
+    },
+    {
+      "name": "Wartortle",
+      "number": 15,
+      "rarity": "Promo",
+      "id": "south-15"
+    },
+    {
+      "name": "Lickitung",
+      "number": 16,
+      "rarity": "Promo",
+      "id": "south-16"
+    },
+    {
+      "name": "Vileplume",
+      "number": 17,
+      "rarity": "Promo",
+      "id": "south-17"
+    },
+    {
+      "name": "Primeape",
+      "number": 18,
+      "rarity": "Promo",
+      "id": "south-18"
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }

@@ -1,17 +1,70 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "have"
   ],
   "coreCards": [
     {
-      "id": "placeholder-1",
-      "rarity": "Common",
-      "name": "placeholder pkmn",
-      "number": "1"
+      "name": "Hoppip",
+      "number": "2",
+      "rarity": "common",
+      "id": "eread-2"
+    },
+    {
+      "name": "Koffing",
+      "number": "4",
+      "rarity": "common",
+      "id": "eread-4"
+    },
+    {
+      "name": "Pikachu",
+      "number": "16",
+      "rarity": "common",
+      "id": "eread-16"
+    },
+    {
+      "name": "Gastly",
+      "number": "19",
+      "rarity": "common",
+      "id": "eread-19"
+    },
+    {
+      "name": "Machop",
+      "number": "21",
+      "rarity": "common",
+      "id": "eread-21"
+    },
+    {
+      "name": "Machoke",
+      "number": "42",
+      "rarity": "uncommon",
+      "id": "eread-42"
+    },
+    {
+      "name": "Chansey",
+      "number": "48",
+      "rarity": "uncommon",
+      "id": "eread-48"
+    },
+    {
+      "name": "Rapidash",
+      "number": "74",
+      "rarity": "rare",
+      "id": "eread-74"
+    },
+    {
+      "name": "Pichu",
+      "number": "83",
+      "rarity": "rare",
+      "id": "eread-83"
+    },
+    {
+      "name": "Machamp",
+      "number": "88",
+      "rarity": "rare",
+      "id": "eread-88"
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }

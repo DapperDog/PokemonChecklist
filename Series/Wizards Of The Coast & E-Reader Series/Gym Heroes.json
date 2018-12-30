@@ -1,8 +1,8 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "unlimited",
+    "1st edition"
   ],
   "coreCards": [
     {
@@ -798,6 +798,21 @@
       "number": "132"
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "Seadra",
+      "number": 9,
+      "rarity": "prerelease",
+      "id": "gym1-ac-9",
+      "description": "Holo Prerelease"
+    },
+    {
+      "name": "Misty's Psyduck",
+      "number": 54,
+      "rarity": "promo",
+      "id": "gym1-ac-54",
+      "description": "W Stamped"
+    }
+  ],
+  "misprints": []
 }

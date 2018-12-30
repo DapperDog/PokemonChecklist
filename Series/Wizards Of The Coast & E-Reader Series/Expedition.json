@@ -963,39 +963,60 @@
       "id": "ecard1-160",
       "rarity": "Common",
       "name": "Fighting Energy",
-      "number": "160"
+      "number": "160",
+      "variants":["core"]
     },
     {
       "id": "ecard1-161",
       "rarity": "Common",
       "name": "Fire Energy",
-      "number": "161"
+      "number": "161",
+      "variants":["core"]
     },
     {
       "id": "ecard1-162",
       "rarity": "Common",
       "name": "Grass Energy",
-      "number": "162"
+      "number": "162",
+      "variants":["core"]
     },
     {
       "id": "ecard1-163",
       "rarity": "Common",
       "name": "Lightning Energy",
-      "number": "163"
+      "number": "163",
+      "variants":["core"]
     },
     {
       "id": "ecard1-164",
       "rarity": "Common",
       "name": "Psychic Energy",
-      "number": "164"
+      "number": "164",
+      "variants":["core"]
     },
     {
       "id": "ecard1-165",
       "rarity": "Common",
       "name": "Water Energy",
-      "number": "165"
+      "number": "165",
+      "variants":["core"]
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": [
+    {
+      "name": "Pichu",
+      "number": 58,
+      "rarity": "",
+      "id": "ecard1-mp-58",
+      "description": "Japanese Back Printed - E3 2002 Promo"
+    },
+    {
+      "name": "Hoppip",
+      "number": 112,
+      "rarity": "",
+      "id": "ecard1-mp-112",
+      "description": "Japanese Back Printed - E3 2002 Promo"
+    }
+  ]
 }

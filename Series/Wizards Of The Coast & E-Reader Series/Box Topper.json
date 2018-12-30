@@ -1,17 +1,82 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "have"
   ],
   "coreCards": [
     {
-      "id": "placeholder-1",
-      "rarity": "Common",
-      "name": "placeholder pkmn",
-      "number": "1"
+      "name": "Alakazam",
+      "number": 1,
+      "rarity": "Oversized",
+      "id": "boxtop-1"
+    },
+    {
+      "name": "Feraligatr",
+      "number": 2,
+      "rarity": "Oversized",
+      "id": "boxtop-2"
+    },
+    {
+      "name": "Tyranitar",
+      "number": 3,
+      "rarity": "Oversized",
+      "id": "boxtop-3"
+    },
+    {
+      "name": "Venusaur",
+      "number": 4,
+      "rarity": "Oversized",
+      "id": "boxtop-4"
+    },
+    {
+      "name": "Entei",
+      "number": 5,
+      "rarity": "Oversized",
+      "id": "boxtop-5"
+    },
+    {
+      "name": "Espeon",
+      "number": 6,
+      "rarity": "Oversized",
+      "id": "boxtop-6"
+    },
+    {
+      "name": "Scizor",
+      "number": 7,
+      "rarity": "Oversized",
+      "id": "boxtop-7"
+    },
+    {
+      "name": "Suicune",
+      "number": 8,
+      "rarity": "Oversized",
+      "id": "boxtop-8"
+    },
+    {
+      "name": "Charizard",
+      "number": 9,
+      "rarity": "Oversized",
+      "id": "boxtop-9"
+    },
+    {
+      "name": "Crobat",
+      "number": 10,
+      "rarity": "Oversized",
+      "id": "boxtop-10"
+    },
+    {
+      "name": "Ho-oh",
+      "number": 11,
+      "rarity": "Oversized",
+      "id": "boxtop-11"
+    },
+    {
+      "name": "Kabutops",
+      "number": 12,
+      "rarity": "Oversized",
+      "id": "boxtop-12"
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }

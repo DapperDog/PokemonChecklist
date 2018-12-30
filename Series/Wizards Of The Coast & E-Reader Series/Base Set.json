@@ -1,8 +1,10 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "1st edition",
+    "shadowless",
+    "unlimited",
+    "1999-2000"
   ],
   "coreCards": [
     {
@@ -51,7 +53,8 @@
       "id": "base1-8",
       "rarity": "Rare",
       "name": "Machamp",
-      "number": "8"
+      "number": "8",
+      "variants":["1st edition","shadowless","1999-2000"]
     },
     {
       "id": "base1-9",
@@ -618,6 +621,436 @@
       "number": "102"
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards":
+  [
+    {
+      "name": "Blastoise",
+      "number": 2,
+      "rarity": "Unlimited",
+      "id": "base1-ac-2",
+      "description": "Trainer Deck B Exclusive Black Red Border and red Lettering"
+    },
+    {
+      "name": "Charizard",
+      "number": 4,
+      "rarity": "Oversized promo",
+      "id": "base1-ac-4",
+      "description": "Non holo shadowless edition - japanese Promo"
+    },
+    {
+      "name": "Machamp",
+      "number": 8,
+      "rarity": "Unlimited",
+      "id": "base1-ac-u-8",
+      "description": "holo background in the Japanese Galaxy style"
+    },
+    {
+      "name": "Machamp",
+      "number": 8,
+      "rarity": "Unlimited",
+      "id": "base1-ac-tda-8",
+      "description": "Trainer Deck A Exclusive - Back Red Border and Red Lettering"
+    },
+    {
+      "name": "Pidgeotto",
+      "number": 22,
+      "rarity": "base1-ac-tdb-22",
+      "id": "",
+      "description": "Trainer Deck B Exclusive Black Red Border and red Lettering"
+    },
+    {
+      "name": "Machoke",
+      "number": 34,
+      "rarity": "base1-ac-tdb-34",
+      "id": "",
+      "description": "Trainer Deck B Exclusive Black Red Border and red Lettering"
+    },
+    {
+      "name": "raticate",
+      "number": 40,
+      "rarity": "base1-ac-tda-40",
+      "id": "",
+      "description": "Trainer Deck A Exclusive - Back Red Border and Red Lettering"
+    },
+    {
+      "name": "Seel",
+      "number": 41,
+      "rarity": "base1-ac-tdb-41",
+      "id": "",
+      "description": "Trainer Deck B Exclusive Black Red Border and red Lettering"
+    },
+    {
+      "name": "Wartortle",
+      "number": 42,
+      "rarity": "Unlimited",
+      "id": "base1-ac-tdb-42",
+      "description": "Trainer Deck B Exclusive Black Red Border and red Lettering"
+    },
+    {
+      "name": "Machop",
+      "number": 52,
+      "rarity": "Unlimited",
+      "id": "base1-ac-tda-52",
+      "description": "Trainer Deck A Exclusive - Back Red Border and Red Lettering"
+    },
+    {
+      "name": "Onyx",
+      "number": 56,
+      "rarity": "Unlimited",
+      "id": "base1-ac-tda-56",
+      "description": "Trainer Deck A Exclusive - Back Red Border and Red Lettering"
+    },
+    {
+      "name": "Pidgy",
+      "number": 57,
+      "rarity": "Unlimited",
+      "id": "base1-ac-tdb-57",
+      "description": "Trainer Deck B Exclusive Black Red Border and red Lettering"
+    },
+    {
+      "name": "Pikachu",
+      "number": 58,
+      "rarity": "1st Edition",
+      "id": "base1-ac-red-58",
+      "description": "red cheeks"
+    },
+    {
+      "name": "Pikachu",
+      "number": 58,
+      "rarity": "Shadowless",
+      "id": "base1-ac-red-s-58",
+      "description": "red cheeks"
+    },
+    {
+      "name": "Pikachu",
+      "number": 58,
+      "rarity": "Unlimited",
+      "id": "base1-ac-e3-58",
+      "description": "E3 symbol"
+    },
+    {
+      "name": "Rattata",
+      "number": 61,
+      "rarity": "Unlimited",
+      "id": "base1-ac-tda-61",
+      "description": "Trainer Deck A Exclusive - Back Red Border and Red Lettering"
+    },
+    {
+      "name": "Sandshrew",
+      "number": 62,
+      "rarity": "Shadowless",
+      "id": "base1-ac-tda-62",
+      "description": "Trainer Deck A Exclusive - Back Red Border and Red Lettering"
+    },
+    {
+      "name": "Squirtle",
+      "number": 63,
+      "rarity": "Unlimited",
+      "id": "base1-ac-tdb-63",
+      "description": "Trainer Deck B Exclusive Black Red Border and red Lettering"
+    },
+    {
+      "name": "Starmie",
+      "number": 64,
+      "rarity": "Unlimited",
+      "id": "base1-ac-tdb-64",
+      "description": "Trainer Deck B Exclusive Black Red Border and red Lettering"
+    },
+    {
+      "name": "Staryu",
+      "number": 65,
+      "rarity": "Unlimited",
+      "id": "base1-ac-tdb-65",
+      "description": "Trainer Deck B Exclusive Black Red Border and red Lettering"
+    },
+    {
+      "name": "Computer Search",
+      "number": 71,
+      "rarity": "Unlimited",
+      "id": "base1-ac-tdb-71",
+      "description": "Trainer Deck B Exclusive Black Red Border and red Lettering"
+    },
+    {
+      "name": "Pokemon Trader",
+      "number": 77,
+      "rarity": "Unlimited",
+      "id": "base1-ac-tdb-77",
+      "description": "Trainer Deck B Exclusive Black Red Border and red Lettering"
+    },
+    {
+      "name": "Defender",
+      "number": 80,
+      "rarity": "Unlimited",
+      "id": "base1-ac-tda-80",
+      "description": "Trainer Deck A Exclusive - Back Red Border and Red Lettering"
+    },
+    {
+      "name": "Super Potion",
+      "number": 90,
+      "rarity": "Unlimited",
+      "id": "base1-ac-tda-90",
+      "description": "Trainer Deck A Exclusive - Back Red Border and Red Lettering"
+    },
+    {
+      "name": "Energy Removal",
+      "number": 92,
+      "rarity": "Unlimited",
+      "id": "base1-ac-tdb-92",
+      "description": "Trainer Deck B Exclusive Black Red Border and red Lettering"
+    },
+    {
+      "name": "Potion",
+      "number": 94,
+      "rarity": "Unlimited",
+      "id": "base1-ac-tda-94",
+      "description": "Trainer Deck A Exclusive - Back Red Border and Red Lettering"
+    },
+    {
+      "name": "Switch",
+      "number": 95,
+      "rarity": "Unlimited",
+      "id": "base1-ac-tda-95",
+      "description": "Trainer Deck A Exclusive - Back Red Border and Red Lettering"
+    },
+    {
+      "name": "Switch",
+      "number": 95,
+      "rarity": "Unlimited",
+      "id": "base1-ac-tdb-95",
+      "description": "Trainer Deck B Exclusive Black Red Border and red Lettering"
+    },
+    {
+      "name": "Fighting Energy",
+      "number": 97,
+      "rarity": "Unlimited",
+      "id": "base1-ac-tda-97",
+      "description": "Trainer Deck A Exclusive - Back Red Border and Red Lettering"
+    },
+    {
+      "name": "Water Energy",
+      "number": 102,
+      "rarity": "Unlimited",
+      "id": "base1-ac-tdb-102",
+      "description": "Trainer Deck B Exclusive Black Red Border and red Lettering"
+    }
+  ],
+  "misprints": [
+    {
+      "name": "Alakazam",
+      "number": 1,
+      "rarity": "Unlimited",
+      "id": "base1-mp-1-1",
+      "description": "Square Cut Misprint"
+    },
+    {
+      "name": "Alakazam",
+      "number": 1,
+      "rarity": "Unlimited",
+      "id": "base1-mp-1-2",
+      "description": "Non holographic version (maybe a mistake?)"
+    },
+    {
+      "name": "Blastoise",
+      "number": 2,
+      "rarity": "Unlimited",
+      "id": "base1-mp-2-1",
+      "description": "Missing word \"stage"
+    },
+    {
+      "name": "Blastoise",
+      "number": 2,
+      "rarity": "Unlimited",
+      "id": "base1-mp-2-2",
+      "description": "Square Cut Misprint"
+    },
+    {
+      "name": "Gyarados",
+      "number": 6,
+      "rarity": "Unlimited",
+      "id": "base1-mp-6",
+      "description": "Printed with the \"6/102\" too far to the left."
+    },
+    {
+      "name": "Ninetales",
+      "number": 12,
+      "rarity": "Shadowless",
+      "id": "base1-mp-12",
+      "description": "Printed Without the damage done for their attacks."
+    },
+    {
+      "name": "Raichu",
+      "number": 14,
+      "rarity": "Unlimited",
+      "id": "base1-mp-14",
+      "description": "Pre-Release stamp on the card (Extremely Rare)"
+    },
+    {
+      "name": "Growlithe",
+      "number": 28,
+      "rarity": "Unlimited",
+      "id": "",
+      "description": "Flavor text typo extra apos \"Very prote'ctive of its territory."
+    },
+    {
+      "name": "Kakuna",
+      "number": 33,
+      "rarity": "1st Edition",
+      "id": "base1-mp-33-1",
+      "description": "This card has the word length repeated twice"
+    },
+    {
+      "name": "Kakuna",
+      "number": 33,
+      "rarity": "Shadowless",
+      "id": "base1-mp-33-2",
+      "description": "This card has the word length repeated twice"
+    },
+    {
+      "name": "Wartortle",
+      "number": 42,
+      "rarity": "Unlimited",
+      "id": "base1-mp-42",
+      "description": "Printed with a pictures of Wartortle in its evolution box"
+    },
+    {
+      "name": "Bulbasaur",
+      "number": 44,
+      "rarity": "1st Edition",
+      "id": "base1-mp-44-1",
+      "description": "This card has the word \"length\" repeated twice."
+    },
+    {
+      "name": "Bulbasaur",
+      "number": 44,
+      "rarity": "Shadowless",
+      "id": "base1-mp-44-2",
+      "description": "This card has the word \"length\" repeated twice."
+    },
+    {
+      "name": "Caterpie",
+      "number": 45,
+      "rarity": "1st Edition",
+      "id": "base1-mp-45-1",
+      "description": "HP ## instead of ## HP."
+    },
+    {
+      "name": "Caterpie",
+      "number": 45,
+      "rarity": "Shadowless",
+      "id": "base1-mp-45-2",
+      "description": "HP ## instead of ## HP."
+    },
+    {
+      "name": "Diglett",
+      "number": 47,
+      "rarity": "Unlimited",
+      "id": "base1-mp-47",
+      "description": "attack energy cost symbols rotated 90 degrees."
+    },
+    {
+      "name": "Metapod",
+      "number": 54,
+      "rarity": "1st Edition",
+      "id": "base1-mp-54",
+      "description": "HP ## instead of ## HP."
+    },
+    {
+      "name": "Pikachu",
+      "number": 58,
+      "rarity": "Unlimited",
+      "id": "base1-mp-58-1",
+      "description": "Albino Border Misprint"
+    },
+    {
+      "name": "Pikachu",
+      "number": 58,
+      "rarity": "1st Edition",
+      "id": "base1-mp-58-2",
+      "description": "English Shadowless Thin 1st edition misprint"
+    },
+    {
+      "name": "Pikachu",
+      "number": 58,
+      "rarity": "1st Edition",
+      "id": "base1-mp-58-3",
+      "description": "Square Cut Misprint"
+    },
+    {
+      "name": "Pikachu",
+      "number": 58,
+      "rarity": "1st Edition",
+      "id": "base1-mp-58-4",
+      "description": "red cheeks - Grey stamp 1st edition."
+    },
+    {
+      "name": "Pikachu",
+      "number": 58,
+      "rarity": "1st Edition",
+      "id": "base1-mp-58-5",
+      "description": "1st\" and the letter d\" in \"edition\" missing"
+    },
+    {
+      "name": "Sandshrew",
+      "number": 62,
+      "rarity": "Shadowless",
+      "id": "base1-mp-62-1",
+      "description": "Attack says \"this attack does nothing\" 'this vs that'"
+    },
+    {
+      "name": "Sandshrew",
+      "number": 62,
+      "rarity": "1st Edition",
+      "id": "base1-mp-62-2",
+      "description": "Attack says \"this attack does nothing\" 'this vs that'"
+    },
+    {
+      "name": "Staryu",
+      "number": 65,
+      "rarity": "1st Edition",
+      "id": "base1-mp-65",
+      "description": "5 typos present in description"
+    },
+    {
+      "name": "Voltorb",
+      "number": 67,
+      "rarity": "1st Edition",
+      "id": "base1-mp-67-1",
+      "description": "Monster Ball, it's flavor text"
+    },
+    {
+      "name": "Voltorb",
+      "number": 67,
+      "rarity": "Shadowless",
+      "id": "base1-mp-67-2",
+      "description": "Monster Ball, in it's flavor text"
+    },
+    {
+      "name": "Vulpix",
+      "number": 68,
+      "rarity": "1st Edition",
+      "id": "base1-mp-68-1",
+      "description": "HP ## instead of ## HP."
+    },
+    {
+      "name": "Vulpix",
+      "number": 68,
+      "rarity": "Shadowless",
+      "id": "base1-mp-68-2",
+      "description": "HP ## instead of ## HP."
+    },
+    {
+      "name": "Vulpix",
+      "number": 68,
+      "rarity": "Unlimited",
+      "id": "base1-mp-68-3",
+      "description": "HP ## instead of ## HP."
+    },
+    {
+      "name": "Water Energy",
+      "number": 102,
+      "rarity": "Unlimited",
+      "id": "base1-mp-102",
+      "description": "no space between the margin and the water symbol, along with \"ENERGY\"."
+    }
+  ]
 }

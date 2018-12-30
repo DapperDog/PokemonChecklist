@@ -666,6 +666,56 @@
       "number": "110"
     }
   ],
-  "additionalCards": [],
+  "additionalCards": [
+    {
+      "name": "Charizard",
+      "number": 3,
+      "rarity": "",
+      "id": "base6-ac-3",
+      "description": "Lava Theme Deck Exclusive"
+    },
+    {
+      "name": "Dark Blastoise",
+      "number": 4,
+      "rarity": "",
+      "id": "base6-ac-4",
+      "description": "Turmoil Theme Deck Exclusive"
+    },
+    {
+      "name": "Dark Raichu",
+      "number": 7,
+      "rarity": "",
+      "id": "base6-ac-7",
+      "description": "Turmoil Theme Deck Exclusive"
+    },
+    {
+      "name": "Charizard",
+      "number": "S1",
+      "rarity": "",
+      "id": "base6-ac-S1",
+      "description": "Reverse Holo Exclusive in Legendary collection Booster Box"
+    },
+    {
+      "name": "Dark Blastoise",
+      "number": "S2",
+      "rarity": "",
+      "id": "base6-ac-S2",
+      "description": "Reverse Holo Exclusive in Legendary collection Booster Box"
+    },
+    {
+      "name": "Dark Raichu",
+      "number": "S3",
+      "rarity": "",
+      "id": "base6-ac-S3",
+      "description": "Reverse Holo Exclusive in Legendary collection Booster Box"
+    },
+    {
+      "name": "Mewtwo",
+      "number": "S4",
+      "rarity": "",
+      "id": "base6-ac-S4",
+      "description": "Reverse Holo Exclusive in Legendary collection Booster Box"
+    }
+  ],
   "other": []
 }

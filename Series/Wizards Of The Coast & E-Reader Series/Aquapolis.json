@@ -12,22 +12,10 @@
       "number": "1"
     },
     {
-      "id": "ecard2-151",
-      "rarity": "Rare",
-      "name": "Ampharos",
-      "number": "H1"
-    },
-    {
       "id": "ecard2-2",
       "rarity": "Rare",
       "name": "Arcanine",
       "number": "2"
-    },
-    {
-      "id": "ecard2-152",
-      "rarity": "Rare",
-      "name": "Arcanine",
-      "number": "H2"
     },
     {
       "id": "ecard2-3",
@@ -36,22 +24,10 @@
       "number": "3"
     },
     {
-      "id": "ecard2-153",
-      "rarity": "Rare",
-      "name": "Ariados",
-      "number": "H3"
-    },
-    {
       "id": "ecard2-4",
       "rarity": "Rare",
       "name": "Azumarill",
       "number": "4"
-    },
-    {
-      "id": "ecard2-154",
-      "rarity": "Rare",
-      "name": "Azumarill",
-      "number": "H4"
     },
     {
       "id": "ecard2-5",
@@ -60,28 +36,10 @@
       "number": "5"
     },
     {
-      "id": "ecard2-155",
-      "rarity": "Rare",
-      "name": "Bellossom",
-      "number": "H5"
-    },
-    {
       "id": "ecard2-6",
       "rarity": "Rare",
       "name": "Blissey",
       "number": "6"
-    },
-    {
-      "id": "ecard2-156",
-      "rarity": "Rare",
-      "name": "Blissey",
-      "number": "H6"
-    },
-    {
-      "id": "ecard2-157",
-      "rarity": "Rare",
-      "name": "Electrode",
-      "number": "H7"
     },
     {
       "id": "ecard2-7",
@@ -90,22 +48,10 @@
       "number": "7"
     },
     {
-      "id": "ecard2-158",
-      "rarity": "Rare",
-      "name": "Entei",
-      "number": "H8"
-    },
-    {
       "id": "ecard2-8",
       "rarity": "Rare",
       "name": "Electrode",
       "number": "8"
-    },
-    {
-      "id": "ecard2-159",
-      "rarity": "Rare",
-      "name": "Espeon",
-      "number": "H9"
     },
     {
       "id": "ecard2-9",
@@ -120,18 +66,6 @@
       "number": "10"
     },
     {
-      "id": "ecard2-160",
-      "rarity": "Rare",
-      "name": "Exeggutor",
-      "number": "H10"
-    },
-    {
-      "id": "ecard2-161",
-      "rarity": "Rare",
-      "name": "Houndoom",
-      "number": "H11"
-    },
-    {
       "id": "ecard2-11",
       "rarity": "Rare",
       "name": "Espeon",
@@ -142,18 +76,6 @@
       "rarity": "Rare",
       "name": "Exeggutor",
       "number": "12"
-    },
-    {
-      "id": "ecard2-162",
-      "rarity": "Rare",
-      "name": "Hypno",
-      "number": "H12"
-    },
-    {
-      "id": "ecard2-163",
-      "rarity": "Rare",
-      "name": "Jumpluff",
-      "number": "H13"
     },
     {
       "id": "ecard2-13",
@@ -168,22 +90,10 @@
       "number": "14"
     },
     {
-      "id": "ecard2-164",
-      "rarity": "Rare",
-      "name": "Kingdra",
-      "number": "H14"
-    },
-    {
       "id": "ecard2-15",
       "rarity": "Rare",
       "name": "Houndoom",
       "number": "15"
-    },
-    {
-      "id": "ecard2-165",
-      "rarity": "Rare",
-      "name": "Lanturn",
-      "number": "H15"
     },
     {
       "id": "ecard2-16",
@@ -192,22 +102,10 @@
       "number": "16"
     },
     {
-      "id": "ecard2-166",
-      "rarity": "Rare",
-      "name": "Magneton",
-      "number": "H16"
-    },
-    {
       "id": "ecard2-17",
       "rarity": "Rare",
       "name": "Jumpluff",
       "number": "17"
-    },
-    {
-      "id": "ecard2-167",
-      "rarity": "Rare",
-      "name": "Muk",
-      "number": "H17"
     },
     {
       "id": "ecard2-18",
@@ -216,22 +114,10 @@
       "number": "18"
     },
     {
-      "id": "ecard2-168",
-      "rarity": "Rare",
-      "name": "Nidoking",
-      "number": "H18"
-    },
-    {
       "id": "ecard2-19",
       "rarity": "Rare",
       "name": "Kingdra",
       "number": "19"
-    },
-    {
-      "id": "ecard2-169",
-      "rarity": "Rare",
-      "name": "Ninetales",
-      "number": "H19"
     },
     {
       "id": "ecard2-20",
@@ -240,22 +126,10 @@
       "number": "20"
     },
     {
-      "id": "ecard2-170",
-      "rarity": "Rare",
-      "name": "Octillery",
-      "number": "H20"
-    },
-    {
       "id": "ecard2-21",
       "rarity": "Rare",
       "name": "Lanturn",
       "number": "21"
-    },
-    {
-      "id": "ecard2-171",
-      "rarity": "Rare",
-      "name": "Scizor",
-      "number": "H21"
     },
     {
       "id": "ecard2-22",
@@ -264,28 +138,10 @@
       "number": "22"
     },
     {
-      "id": "ecard2-172",
-      "rarity": "Rare",
-      "name": "Slowking",
-      "number": "H22"
-    },
-    {
       "id": "ecard2-23",
       "rarity": "Rare",
       "name": "Muk",
       "number": "23"
-    },
-    {
-      "id": "ecard2-173",
-      "rarity": "Rare",
-      "name": "Steelix",
-      "number": "H23"
-    },
-    {
-      "id": "ecard2-174",
-      "rarity": "Rare",
-      "name": "Sudowoodo",
-      "number": "H24"
     },
     {
       "id": "ecard2-24",
@@ -300,28 +156,10 @@
       "number": "25"
     },
     {
-      "id": "ecard2-175",
-      "rarity": "Rare",
-      "name": "Suicune",
-      "number": "H25"
-    },
-    {
-      "id": "ecard2-176",
-      "rarity": "Rare",
-      "name": "Tentacruel",
-      "number": "H26"
-    },
-    {
       "id": "ecard2-26",
       "rarity": "Rare",
       "name": "Octillery",
       "number": "26"
-    },
-    {
-      "id": "ecard2-177",
-      "rarity": "Rare",
-      "name": "Togetic",
-      "number": "H27"
     },
     {
       "id": "ecard2-27",
@@ -336,18 +174,6 @@
       "number": "28"
     },
     {
-      "id": "ecard2-178",
-      "rarity": "Rare",
-      "name": "Tyranitar",
-      "number": "H28"
-    },
-    {
-      "id": "ecard2-179",
-      "rarity": "Rare",
-      "name": "Umbreon",
-      "number": "H29"
-    },
-    {
       "id": "ecard2-29",
       "rarity": "Rare",
       "name": "Primeape",
@@ -360,28 +186,10 @@
       "number": "30"
     },
     {
-      "id": "ecard2-180",
-      "rarity": "Rare",
-      "name": "Victreebel",
-      "number": "H30"
-    },
-    {
-      "id": "ecard2-181",
-      "rarity": "Rare",
-      "name": "Vileplume",
-      "number": "H31"
-    },
-    {
       "id": "ecard2-31",
       "rarity": "Rare",
       "name": "Rapidash",
       "number": "31"
-    },
-    {
-      "id": "ecard2-182",
-      "rarity": "Rare",
-      "name": "Zapdos",
-      "number": "H32"
     },
     {
       "id": "ecard2-32",
@@ -1083,21 +891,248 @@
       "id": "ecard2-148",
       "rarity": "Rare",
       "name": "Kingdra",
-      "number": "148"
+      "number": "148",
+      "variants":["core"]
     },
     {
       "id": "ecard2-149",
       "rarity": "Rare",
       "name": "Lugia",
-      "number": "149"
+      "number": "149",
+      "variants":["core"]
     },
     {
       "id": "ecard2-150",
       "rarity": "Rare",
       "name": "Nidoking",
-      "number": "150"
+      "number": "150",
+      "variants":["core"]
+    },
+    {
+      "id": "ecard2-151",
+      "rarity": "Rare",
+      "name": "Ampharos",
+      "number": "H1",
+      "variants":["core"]
+    },
+    {
+      "id": "ecard2-152",
+      "rarity": "Rare",
+      "name": "Arcanine",
+      "number": "H2",
+      "variants":["core"]
+    },
+    {
+      "id": "ecard2-153",
+      "rarity": "Rare",
+      "name": "Ariados",
+      "number": "H3",
+      "variants":["core"]
+    },
+    {
+      "id": "ecard2-154",
+      "rarity": "Rare",
+      "name": "Azumarill",
+      "number": "H4",
+      "variants":["core"]
+    },
+    {
+      "id": "ecard2-155",
+      "rarity": "Rare",
+      "name": "Bellossom",
+      "number": "H5",
+      "variants":["core"]
+    },
+    {
+      "id": "ecard2-156",
+      "rarity": "Rare",
+      "name": "Blissey",
+      "number": "H6",
+      "variants":["core"]
+    },
+    {
+      "id": "ecard2-157",
+      "rarity": "Rare",
+      "name": "Electrode",
+      "number": "H7",
+      "variants":["core"]
+    },
+    {
+      "id": "ecard2-158",
+      "rarity": "Rare",
+      "name": "Entei",
+      "number": "H8",
+      "variants":["core"]
+    },
+    {
+      "id": "ecard2-159",
+      "rarity": "Rare",
+      "name": "Espeon",
+      "number": "H9",
+      "variants":["core"]
+    },
+    {
+      "id": "ecard2-160",
+      "rarity": "Rare",
+      "name": "Exeggutor",
+      "number": "H10",
+      "variants":["core"]
+    },
+    {
+      "id": "ecard2-161",
+      "rarity": "Rare",
+      "name": "Houndoom",
+      "number": "H11",
+      "variants":["core"]
+    },
+    {
+      "id": "ecard2-162",
+      "rarity": "Rare",
+      "name": "Hypno",
+      "number": "H12",
+      "variants":["core"]
+    },
+    {
+      "id": "ecard2-163",
+      "rarity": "Rare",
+      "name": "Jumpluff",
+      "number": "H13",
+      "variants":["core"]
+    },
+    {
+      "id": "ecard2-164",
+      "rarity": "Rare",
+      "name": "Kingdra",
+      "number": "H14",
+      "variants":["core"]
+    },
+    {
+      "id": "ecard2-165",
+      "rarity": "Rare",
+      "name": "Lanturn",
+      "number": "H15",
+      "variants":["core"]
+    },
+    {
+      "id": "ecard2-166",
+      "rarity": "Rare",
+      "name": "Magneton",
+      "number": "H16",
+      "variants":["core"]
+    },
+    {
+      "id": "ecard2-167",
+      "rarity": "Rare",
+      "name": "Muk",
+      "number": "H17",
+      "variants":["core"]
+    },
+    {
+      "id": "ecard2-168",
+      "rarity": "Rare",
+      "name": "Nidoking",
+      "number": "H18",
+      "variants":["core"]
+    },
+    {
+      "id": "ecard2-169",
+      "rarity": "Rare",
+      "name": "Ninetales",
+      "number": "H19",
+      "variants":["core"]
+    },
+    {
+      "id": "ecard2-170",
+      "rarity": "Rare",
+      "name": "Octillery",
+      "number": "H20",
+      "variants":["core"]
+    },
+    {
+      "id": "ecard2-171",
+      "rarity": "Rare",
+      "name": "Scizor",
+      "number": "H21",
+      "variants":["core"]
+    },
+    {
+      "id": "ecard2-172",
+      "rarity": "Rare",
+      "name": "Slowking",
+      "number": "H22",
+      "variants":["core"]
+    },
+    {
+      "id": "ecard2-173",
+      "rarity": "Rare",
+      "name": "Steelix",
+      "number": "H23",
+      "variants":["core"]
+    },
+    {
+      "id": "ecard2-174",
+      "rarity": "Rare",
+      "name": "Sudowoodo",
+      "number": "H24",
+      "variants":["core"]
+    },
+    {
+      "id": "ecard2-175",
+      "rarity": "Rare",
+      "name": "Suicune",
+      "number": "H25",
+      "variants":["core"]
+    },
+    {
+      "id": "ecard2-176",
+      "rarity": "Rare",
+      "name": "Tentacruel",
+      "number": "H26",
+      "variants":["core"]
+    },
+    {
+      "id": "ecard2-177",
+      "rarity": "Rare",
+      "name": "Togetic",
+      "number": "H27",
+      "variants":["core"]
+    },
+    {
+      "id": "ecard2-178",
+      "rarity": "Rare",
+      "name": "Tyranitar",
+      "number": "H28",
+      "variants":["core"]
+    },
+    {
+      "id": "ecard2-179",
+      "rarity": "Rare",
+      "name": "Umbreon",
+      "number": "H29",
+      "variants":["core"]
+    },
+    {
+      "id": "ecard2-180",
+      "rarity": "Rare",
+      "name": "Victreebel",
+      "number": "H30",
+      "variants":["core"]
+    },
+    {
+      "id": "ecard2-181",
+      "rarity": "Rare",
+      "name": "Vileplume",
+      "number": "H31",
+      "variants":["core"]
+    },
+    {
+      "id": "ecard2-182",
+      "rarity": "Rare",
+      "name": "Zapdos",
+      "number": "H32",
+      "variants":["core"]
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }

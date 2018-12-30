@@ -1,8 +1,8 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "unlimited",
+    "1st edition"
   ],
   "coreCards": [
     {
@@ -798,6 +798,22 @@
       "number": "132"
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "Brock's Vulpix",
+      "number": 37,
+      "rarity": "promo",
+      "id": "gym2-ac-37",
+      "description": "W Stamped"
+    }
+  ],
+  "misprints": [
+    {
+      "name": "Blain'es Charizard",
+      "number": 2,
+      "rarity": "misprint",
+      "id": "gym2-mp-2",
+      "description": "Majority of these cards have 'discard a fighting energy' in its first attack, later corrected to discard a fire energy (this card)"
+    }
+  ]
 }

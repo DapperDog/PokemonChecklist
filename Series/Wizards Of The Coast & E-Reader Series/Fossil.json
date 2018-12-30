@@ -1,99 +1,115 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "unlimited",
+    "1st edition",
+    "1999-2000"
   ],
   "coreCards": [
     {
       "id": "base3-1",
       "rarity": "Rare",
       "name": "Aerodactyl",
-      "number": "1"
+      "number": "1",
+      "variants":["unlimited","1st edition"]
     },
     {
       "id": "base3-2",
       "rarity": "Rare",
       "name": "Articuno",
-      "number": "2"
+      "number": "2",
+      "variants":["unlimited","1st edition"]
     },
     {
       "id": "base3-3",
       "rarity": "Rare",
       "name": "Ditto",
-      "number": "3"
+      "number": "3",
+      "variants":["unlimited","1st edition"]
     },
     {
       "id": "base3-4",
       "rarity": "Rare",
       "name": "Dragonite",
-      "number": "4"
+      "number": "4",
+      "variants":["unlimited","1st edition"]
     },
     {
       "id": "base3-5",
       "rarity": "Rare",
       "name": "Gengar",
-      "number": "5"
+      "number": "5",
+      "variants":["unlimited","1st edition"]
     },
     {
       "id": "base3-6",
       "rarity": "Rare",
       "name": "Haunter",
-      "number": "6"
+      "number": "6",
+      "variants":["unlimited","1st edition"]
     },
     {
       "id": "base3-7",
       "rarity": "Rare",
       "name": "Hitmonlee",
-      "number": "7"
+      "number": "7",
+      "variants":["unlimited","1st edition"]
     },
     {
       "id": "base3-8",
       "rarity": "Rare",
       "name": "Hypno",
-      "number": "8"
+      "number": "8",
+      "variants":["unlimited","1st edition"]
     },
     {
       "id": "base3-9",
       "rarity": "Rare",
       "name": "Kabutops",
-      "number": "9"
+      "number": "9",
+      "variants":["unlimited","1st edition"]
     },
     {
       "id": "base3-10",
       "rarity": "Rare",
       "name": "Lapras",
-      "number": "10"
+      "number": "10",
+      "variants":["unlimited","1st edition"]
     },
     {
       "id": "base3-11",
       "rarity": "Rare",
       "name": "Magneton",
-      "number": "11"
+      "number": "11",
+      "variants":["unlimited","1st edition"]
     },
     {
       "id": "base3-12",
       "rarity": "Rare",
       "name": "Moltres",
-      "number": "12"
+      "number": "12",
+      "variants":["unlimited","1st edition"]
     },
     {
       "id": "base3-13",
       "rarity": "Rare",
       "name": "Muk",
-      "number": "13"
+      "number": "13",
+      "variants":["unlimited","1st edition"]
     },
     {
       "id": "base3-14",
       "rarity": "Rare",
       "name": "Raichu",
-      "number": "14"
+      "number": "14",
+      "variants":["unlimited","1st edition"]
     },
     {
       "id": "base3-15",
       "rarity": "Rare",
       "name": "Zapdos",
-      "number": "15"
+      "number": "15",
+      "variants":["unlimited","1st edition"]
     },
     {
       "id": "base3-16",
@@ -378,6 +394,29 @@
       "number": "62"
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "Aerodactyl",
+      "number": 1,
+      "rarity": "",
+      "id": "base3-ac-1",
+      "description": "1st edition pre-release"
+    },
+    {
+      "name": "Kabuto",
+      "number": 50,
+      "rarity": "",
+      "id": "base3-ac-50",
+      "description": "W Stamped"
+    }
+  ],
+  "misprints": [
+    {
+      "name": "Krabby",
+      "number": 51,
+      "rarity": "",
+      "id": "base3-mp-51",
+      "description": "Set Symbol Error - Partially Erased"
+    }
+  ]
 }

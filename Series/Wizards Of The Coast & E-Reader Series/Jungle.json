@@ -1,8 +1,8 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "unlimited",
+    "1st edition"
   ],
   "coreCards": [
     {
@@ -390,6 +390,148 @@
       "number": "64"
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "Clefable",
+      "number": 1,
+      "rarity": "",
+      "id": "base-ac-1",
+      "description": "Pre-release"
+    },
+    {
+      "name": "Meowth",
+      "number": 56,
+      "rarity": "",
+      "id": "base-ac-56",
+      "description": "Gold Border - Pokemon Rolls Promo"
+    },
+    {
+      "name": "Pikachu",
+      "number": 60,
+      "rarity": "",
+      "id": "base-ac-60",
+      "description": "W Stamped"
+    }
+  ],
+  "misprints": [
+    {
+      "name": "Clefable",
+      "number": 1,
+      "rarity": "",
+      "id": "base-mp-1",
+      "description": "Holo Standard Edition - Missing Set symbol"
+    },
+    {
+      "name": "Electrode",
+      "number": 2,
+      "rarity": "",
+      "id": "base-mp-2",
+      "description": "Holo Standard Edition - Missing Set symbol"
+    },
+    {
+      "name": "Flareon",
+      "number": 3,
+      "rarity": "",
+      "id": "base-mp-3",
+      "description": "Holo Standard Edition - Missing Set symbol"
+    },
+    {
+      "name": "Jolteon",
+      "number": 4,
+      "rarity": "",
+      "id": "base-mp-4",
+      "description": "Holo Standard Edition - Missing Set symbol"
+    },
+    {
+      "name": "Kangaskhan",
+      "number": 5,
+      "rarity": "",
+      "id": "base-mp-5",
+      "description": "Holo Standard Edition - Missing Set symbol"
+    },
+    {
+      "name": "Mr Mime",
+      "number": 6,
+      "rarity": "",
+      "id": "base-mp-6",
+      "description": "Holo Standard Edition - Missing Set symbol"
+    },
+    {
+      "name": "Nidoqueen",
+      "number": 7,
+      "rarity": "",
+      "id": "base-mp-7",
+      "description": "Holo Standard Edition - Missing Set symbol"
+    },
+    {
+      "name": "Pidgeot",
+      "number": 8,
+      "rarity": "",
+      "id": "base-mp-8",
+      "description": "Holo Standard Edition - Missing Set symbol"
+    },
+    {
+      "name": "Pinsir",
+      "number": 9,
+      "rarity": "",
+      "id": "base-mp-9",
+      "description": "Holo Standard Edition - Missing Set symbol"
+    },
+    {
+      "name": "Scyther",
+      "number": 10,
+      "rarity": "",
+      "id": "base-mp-10",
+      "description": "Holo Standard Edition - Missing Set symbol"
+    },
+    {
+      "name": "Snorlax",
+      "number": 11,
+      "rarity": "",
+      "id": "base-mp-11",
+      "description": "Holo Standard Edition - Missing Set symbol"
+    },
+    {
+      "name": "Vaporeon",
+      "number": 12,
+      "rarity": "",
+      "id": "base-mp-12",
+      "description": "Holo Standard Edition - Missing Set symbol"
+    },
+    {
+      "name": "Venomoth",
+      "number": 13,
+      "rarity": "",
+      "id": "base-mp-13",
+      "description": "Holo Standard Edition - Missing Set symbol"
+    },
+    {
+      "name": "Victreebel",
+      "number": 14,
+      "rarity": "",
+      "id": "base-mp-14",
+      "description": "Holo Standard Edition - Missing Set symbol"
+    },
+    {
+      "name": "Vileplume",
+      "number": 15,
+      "rarity": "",
+      "id": "base-mp-15",
+      "description": "Holo Standard Edition - Missing Set symbol"
+    },
+    {
+      "name": "Wigglytuff",
+      "number": 16,
+      "rarity": "",
+      "id": "base-mp-16",
+      "description": "Holo Standard Edition - Missing Set symbol"
+    },
+    {
+      "name": "Butterfree",
+      "number": 33,
+      "rarity": "",
+      "id": "base-mp-33",
+      "description": "Non holo first edition - error in 1st edition logo, 'd' intead of '1'"
+    }
+  ]
 }

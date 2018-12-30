@@ -1,8 +1,8 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "unlimited",
+    "1st edition"
   ],
   "coreCards": [
     {
@@ -504,6 +504,36 @@
       "number": "83"
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "Dark Gyarados",
+      "number": 8,
+      "rarity": "Pre-release",
+      "id": "base5-ac-8",
+      "description": "Prerelease stamp"
+    },
+    {
+      "name": "Arbok",
+      "number": 19,
+      "rarity": "",
+      "id": "base5-ac-19",
+      "description": "W Stamped"
+    },
+    {
+      "name": "Dark Charmeleon",
+      "number": 32,
+      "rarity": "",
+      "id": "base5-ac-32",
+      "description": "W Stamped"
+    }
+  ],
+  "misprints": [
+    {
+      "name": "Dark Dragonite",
+      "number": 5,
+      "rarity": "non-holo misprint",
+      "id": "base5-mp-5",
+      "description": "non-holo version with #5 instead of 22"
+    }
+  ]
 }

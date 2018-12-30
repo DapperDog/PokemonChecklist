@@ -1,8 +1,8 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "unlimited",
+    "1st edition"
   ],
   "coreCards": [
     {
@@ -457,5 +457,5 @@
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }

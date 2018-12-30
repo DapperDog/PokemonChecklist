@@ -12,6 +12,63 @@
       "number": "1"
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "Electabuzz",
+      "number": 1,
+      "rarity": "Oversized Promo",
+      "id": "",
+      "description": "Non-Holo Winner Stamped - BattleZone Tournaments Promo"
+    },
+    {
+      "name": "Hitmonchan",
+      "number": 2,
+      "rarity": "Oversized Promo",
+      "id": "",
+      "description": "Non-Holo Winner Stamped - BattleZone Tournaments Promo"
+    },
+    {
+      "name": "Rocket's Scizor",
+      "number": 4,
+      "rarity": "Oversized Promo",
+      "id": "",
+      "description": "Non-Holo Winner Stamped - BattleZone Tournaments Promo"
+    },
+    {
+      "name": "Rocket's Sneasel",
+      "number": 5,
+      "rarity": "Oversized Promo",
+      "id": "",
+      "description": "Non-Holo Winner Stamped - BattleZone Tournaments Promo"
+    },
+    {
+      "name": "Dark Ivysaur",
+      "number": 6,
+      "rarity": "Oversized Promo",
+      "id": "",
+      "description": "Non-Holo Winner Stamped - BattleZone Tournaments Promo"
+    },
+    {
+      "name": "Dark Venusaur",
+      "number": 7,
+      "rarity": "Oversized Promo",
+      "id": "",
+      "description": "Non-Holo Winner Stamped - BattleZone Tournaments Promo"
+    },
+    {
+      "name": "Rocket's Mewtwo (Winner)",
+      "number": 8,
+      "rarity": "Oversized Promo",
+      "id": "",
+      "description": "Non-Holo Winner Stamped - BattleZone Tournaments Promo"
+    },
+    {
+      "name": "Rocket's Hitmonchan (Winner)",
+      "number": 9,
+      "rarity": "Oversized Promo",
+      "id": "",
+      "description": "Non-Holo Winner Stamped - BattleZone Tournaments Promo"
+    }
+  ],
+  "misprints": []
 }
