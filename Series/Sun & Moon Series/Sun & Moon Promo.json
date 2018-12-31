@@ -1,8 +1,7 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Have"
   ],
   "coreCards": [
     {
@@ -834,6 +833,455 @@
       "number": "SM156"
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "Rowlet",
+      "number": "SM01",
+      "rarity": "Promo",
+      "id": "smp-ac-1",
+      "Description": "Cinnamon Holo"
+    },
+    {
+      "name": "Litten",
+      "number": "SM02",
+      "rarity": "Promo",
+      "id": "smp-ac-2",
+      "Description": "Cinnamon Holo"
+    },
+    {
+      "name": "Popplio",
+      "number": "SM03",
+      "rarity": "Promo",
+      "id": "smp-ac-3",
+      "Description": "Cinnamon Holo"
+    },
+    {
+      "name": "Pikachu",
+      "number": "SM04",
+      "rarity": "Promo",
+      "id": "smp-ac-4",
+      "Description": "Cinnamon Holo"
+    },
+    {
+      "name": "SnorlaxGX",
+      "number": "SM05",
+      "rarity": "Oversized Promo",
+      "id": "smp-ac-5",
+      "Description": "Oversized Promo"
+    },
+    {
+      "name": "Shiinotic [Staff]",
+      "number": "SM10",
+      "rarity": "Promo",
+      "id": "smp-ac-10",
+      "Description": ""
+    },
+    {
+      "name": "Bruxish [Staff]",
+      "number": "SM11",
+      "rarity": "Promo",
+      "id": "smp-ac-11",
+      "Description": ""
+    },
+    {
+      "name": "Passimian [Staff]",
+      "number": "SM12",
+      "rarity": "Promo",
+      "id": "smp-ac-12",
+      "Description": ""
+    },
+    {
+      "name": "Oranguru [Staff]",
+      "number": "SM13",
+      "rarity": "Promo",
+      "id": "smp-ac-13",
+      "Description": ""
+    },
+    {
+      "name": "LycanrocGX",
+      "number": "SM14",
+      "rarity": "Oversized Promo",
+      "id": "smp-ac-14",
+      "Description": "Oversized Promo"
+    },
+    {
+      "name": "Alolan Sandslash [Staff]",
+      "number": "SM18",
+      "rarity": "Promo",
+      "id": "smp-ac-18",
+      "Description": ""
+    },
+    {
+      "name": "Oricorio [Staff]",
+      "number": "SM19",
+      "rarity": "Promo",
+      "id": "smp-ac-19",
+      "Description": ""
+    },
+    {
+      "name": "Mudsdale [Staff]",
+      "number": "SM20",
+      "rarity": "Promo",
+      "id": "smp-ac-20",
+      "Description": ""
+    },
+    {
+      "name": "Drampa [Staff]",
+      "number": "SM21",
+      "rarity": "Promo",
+      "id": "smp-ac-21",
+      "Description": ""
+    },
+    {
+      "name": "BewearGX",
+      "number": "SM34",
+      "rarity": "oversized Promo",
+      "id": "smp-ac-34",
+      "Description": "Oversized Promo"
+    },
+    {
+      "name": "EspeonGX",
+      "number": "SM35",
+      "rarity": "oversized Promo",
+      "id": "smp-ac-35",
+      "Description": "Oversized Promo"
+    },
+    {
+      "name": "UmbreonGX",
+      "number": "SM36",
+      "rarity": "oversized Promo",
+      "id": "smp-ac-36",
+      "Description": "Oversized Promo"
+    },
+    {
+      "name": "DecidueyeGX",
+      "number": "SM37",
+      "rarity": "oversized Promo",
+      "id": "smp-ac-37",
+      "Description": "Oversized Promo"
+    },
+    {
+      "name": "IncineroarGX",
+      "number": "SM38",
+      "rarity": "oversized Promo",
+      "id": "smp-ac-38",
+      "Description": "Oversized Promo"
+    },
+    {
+      "name": "PrimarinaGX",
+      "number": "SM39",
+      "rarity": "oversized Promo",
+      "id": "smp-ac-39",
+      "Description": "Oversized Promo"
+    },
+    {
+      "name": "Seviper [Staff]",
+      "number": "SM46",
+      "rarity": "Promo",
+      "id": "smp-ac-46",
+      "Description": ""
+    },
+    {
+      "name": "Crabominable [Staff]",
+      "number": "SM47",
+      "rarity": "Promo",
+      "id": "smp-ac-47",
+      "Description": ""
+    },
+    {
+      "name": "Zygarde [Staff]",
+      "number": "SM48",
+      "rarity": "Promo",
+      "id": "smp-ac-48",
+      "Description": ""
+    },
+    {
+      "name": "Bewear [Staff]",
+      "number": "SM49",
+      "rarity": "Promo",
+      "id": "smp-ac-49",
+      "Description": ""
+    },
+    {
+      "name": "Tapu KokoGX",
+      "number": "SM50",
+      "rarity": "oversized Promo",
+      "id": "smp-ac-50",
+      "Description": "Oversized Promo"
+    },
+    {
+      "name": "CharizardGX",
+      "number": "SM60",
+      "rarity": "oversized Promo",
+      "id": "smp-ac-60",
+      "Description": "Oversized Promo"
+    },
+    {
+      "name": "Alolan Raichu",
+      "number": "SM65",
+      "rarity": "oversized Promo",
+      "id": "smp-ac-65",
+      "Description": "Oversized Promo"
+    },
+    {
+      "name": "PheromosaGX",
+      "number": "SM66",
+      "rarity": "oversized Promo",
+      "id": "smp-ac-66",
+      "Description": "Oversized Promo"
+    },
+    {
+      "name": "BuzzwoleGX",
+      "number": "SM69",
+      "rarity": "oversized Promo",
+      "id": "smp-ac-69",
+      "Description": "Oversized Promo"
+    },
+    {
+      "name": "Kommo-oGX",
+      "number": "SM71",
+      "rarity": "oversized Promo",
+      "id": "smp-ac-71",
+      "Description": "Oversized Promo"
+    },
+    {
+      "name": "Alolan Raichu [Staff]",
+      "number": "SM72",
+      "rarity": "Promo",
+      "id": "smp-ac-72",
+      "Description": ""
+    },
+    {
+      "name": "Salazzle [Staff]",
+      "number": "SM73",
+      "rarity": "Promo",
+      "id": "smp-ac-73",
+      "Description": ""
+    },
+    {
+      "name": "Regirock [Staff]",
+      "number": "SM74",
+      "rarity": "Promo",
+      "id": "smp-ac-74",
+      "Description": ""
+    },
+    {
+      "name": "Registeel [Staff]",
+      "number": "SM75",
+      "rarity": "Promo",
+      "id": "smp-ac-75",
+      "Description": ""
+    },
+    {
+      "name": "Champions Festival",
+      "number": "SM78",
+      "rarity": "Promo",
+      "id": "smp-ac-78-1",
+      "Description": "Staff Worlds"
+    },
+    {
+      "name": "Champions Festival",
+      "number": "SM78",
+      "rarity": "Promo",
+      "id": "smp-ac-78-2",
+      "Description": "Top 32"
+    },
+    {
+      "name": "Champions Festival",
+      "number": "SM78",
+      "rarity": "Promo",
+      "id": "smp-ac-78-3",
+      "Description": "Top 16"
+    },
+    {
+      "name": "Champions Festival",
+      "number": "SM78",
+      "rarity": "Promo",
+      "id": "smp-ac-78-4",
+      "Description": "Quarter Finalist"
+    },
+    {
+      "name": "Champions Festival",
+      "number": "SM78",
+      "rarity": "Promo",
+      "id": "smp-ac-78-5",
+      "Description": "Semi Finalist"
+    },
+    {
+      "name": "Champions Festival",
+      "number": "SM78",
+      "rarity": "Promo",
+      "id": "smp-ac-78-6",
+      "Description": "Finalist"
+    },
+    {
+      "name": "Champions Festival",
+      "number": "SM78",
+      "rarity": "Promo",
+      "id": "smp-ac-78-7",
+      "Description": "Champion"
+    },
+    {
+      "name": "ZoroarkGX",
+      "number": "SM84",
+      "rarity": "oversized Promo",
+      "id": "smp-ac-84",
+      "Description": "Oversized Promo"
+    },
+    {
+      "name": "SilvallyGX",
+      "number": "SM91",
+      "rarity": "oversized Promo",
+      "id": "smp-ac-91",
+      "Description": "Oversized Promo"
+    },
+    {
+      "name": "Wash Rotom (STAFF)",
+      "number": "SM94",
+      "rarity": "Promo",
+      "id": "smp-ac-94",
+      "Description": ""
+    },
+    {
+      "name": "Lucario(STAFF)",
+      "number": "SM95",
+      "rarity": "Promo",
+      "id": "smp-ac-95",
+      "Description": ""
+    },
+    {
+      "name": "Heatran(STAFF)",
+      "number": "SM96",
+      "rarity": "Promo",
+      "id": "smp-ac-96",
+      "Description": ""
+    },
+    {
+      "name": "Gumshoos(STAFF)",
+      "number": "SM97",
+      "rarity": "Promo",
+      "id": "smp-ac-97",
+      "Description": ""
+    },
+    {
+      "name": "Alolan Sandslash half deck exclusive (30)",
+      "number": "SM127",
+      "rarity": "Promo",
+      "id": "smp-ac-127",
+      "Description": "holo half deck exclusive"
+    },
+    {
+      "name": "Alolan Ninetails",
+      "number": "SM128",
+      "rarity": "Promo",
+      "id": "smp-ac-128",
+      "Description": "holo half deck exclusive"
+    },
+    {
+      "name": "Kyogre (STAFF)",
+      "number": "SM129",
+      "rarity": "Promo",
+      "id": "smp-ac-129",
+      "Description": ""
+    },
+    {
+      "name": "Manectric (STAFF)",
+      "number": "SM130",
+      "rarity": "Promo",
+      "id": "smp-ac-130",
+      "Description": ""
+    },
+    {
+      "name": "Celesteela (STAFF)",
+      "number": "SM131",
+      "rarity": "Promo",
+      "id": "smp-ac-131",
+      "Description": ""
+    },
+    {
+      "name": "Delcatty (STAFF)",
+      "number": "SM132",
+      "rarity": "Promo",
+      "id": "smp-ac-132",
+      "Description": ""
+    },
+    {
+      "name": "Champions Festival (World champ 2018)",
+      "number": "SM148",
+      "rarity": "Promo",
+      "id": "smp-ac-148-1",
+      "Description": "Top 32"
+    },
+    {
+      "name": "Champions Festival (World champ 2018)",
+      "number": "SM148",
+      "rarity": "Promo",
+      "id": "smp-ac-148-2",
+      "Description": "Top 16"
+    },
+    {
+      "name": "Champions Festival (World champ 2018)",
+      "number": "SM148",
+      "rarity": "Promo",
+      "id": "smp-ac-148-3",
+      "Description": "Quarter Finalist"
+    },
+    {
+      "name": "Champions Festival (World champ 2018)",
+      "number": "SM148",
+      "rarity": "Promo",
+      "id": "smp-ac-148-4",
+      "Description": "Semi Finalist"
+    },
+    {
+      "name": "Champions Festival (World champ 2018)",
+      "number": "SM148",
+      "rarity": "Promo",
+      "id": "smp-ac-148-5",
+      "Description": "Finalist"
+    },
+    {
+      "name": "Champions Festival (World champ 2018)",
+      "number": "SM148",
+      "rarity": "Promo",
+      "id": "smp-ac-148-6",
+      "Description": "Champion"
+    },
+    {
+      "name": "Champions Festival (World champ 2018)",
+      "number": "SM148",
+      "rarity": "Promo",
+      "id": "smp-ac-148-7",
+      "Description": "STAFF"
+    },
+    {
+      "name": "Suicune Pre-release",
+      "number": "SM149",
+      "rarity": "",
+      "id": "smp-ac-149",
+      "Description": "STAFF"
+    },
+    {
+      "name": "Raikou Pre-release",
+      "number": "SM150",
+      "rarity": "",
+      "id": "smp-ac-150",
+      "Description": "STAFF"
+    },
+    {
+      "name": "Giratina Pre-release",
+      "number": "SM151",
+      "rarity": "",
+      "id": "smp-ac-151",
+      "Description": "STAFF"
+    },
+    {
+      "name": "Tapu Lele Pre-release",
+      "number": "SM152",
+      "rarity": "",
+      "id": "smp-ac-152",
+      "Description": "STAFF"
+    }
+  ],
+  "misprints": []
 }

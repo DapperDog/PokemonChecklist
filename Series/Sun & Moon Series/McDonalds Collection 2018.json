@@ -1,17 +1,82 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Have"
   ],
   "coreCards": [
     {
-      "id": "placeholder-1",
-      "rarity": "Common",
-      "name": "placeholder pkmn",
-      "number": "1"
+      "name": "Growlith",
+      "number": "1/12",
+      "rarity": "Promo",
+      "id": "mcd2018-1"
+    },
+    {
+      "name": "Psyduck",
+      "number": "2/12",
+      "rarity": "Promo",
+      "id": "mcd2018-2"
+    },
+    {
+      "name": "Horsea",
+      "number": "3/12",
+      "rarity": "Promo",
+      "id": "mcd2018-3"
+    },
+    {
+      "name": "Pikachu",
+      "number": "4/12",
+      "rarity": "Promo",
+      "id": "mcd2018-4"
+    },
+    {
+      "name": "Slowpoke",
+      "number": "5/12",
+      "rarity": "Promo",
+      "id": "mcd2018-5"
+    },
+    {
+      "name": "Machop",
+      "number": "6/12",
+      "rarity": "Promo",
+      "id": "mcd2018-6"
+    },
+    {
+      "name": "Cubone",
+      "number": "7/12",
+      "rarity": "Promo",
+      "id": "mcd2018-7"
+    },
+    {
+      "name": "Magnemite",
+      "number": "8/12",
+      "rarity": "Promo",
+      "id": "mcd2018-8"
+    },
+    {
+      "name": "Dratini",
+      "number": "9/12",
+      "rarity": "Promo",
+      "id": "mcd2018-9"
+    },
+    {
+      "name": "Chansey",
+      "number": "10/12",
+      "rarity": "Promo",
+      "id": "mcd2018-10"
+    },
+    {
+      "name": "Eevee",
+      "number": "11/12",
+      "rarity": "Promo",
+      "id": "mcd2018-11"
+    },
+    {
+      "name": "Porygon",
+      "number": "12/12",
+      "rarity": "Promo",
+      "id": "mcd2018-12"
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }

@@ -1,17 +1,190 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Have"
   ],
   "coreCards": [
     {
-      "id": "placeholder-1",
+      "name": "Lightning Energy",
+      "number": "1/30",
       "rarity": "Common",
-      "name": "placeholder pkmn",
-      "number": "1"
+      "id": "sm-aloraichu-1"
+    },
+    {
+      "name": "Lightning Energy",
+      "number": "2/30",
+      "rarity": "Common",
+      "id": "sm-aloraichu-2"
+    },
+    {
+      "name": "Lightning Energy",
+      "number": "3/30",
+      "rarity": "Common",
+      "id": "sm-aloraichu-3"
+    },
+    {
+      "name": "Stufful",
+      "number": "4/30",
+      "rarity": "Common",
+      "id": "sm-aloraichu-4"
+    },
+    {
+      "name": "Lightning Energy",
+      "number": "5/30",
+      "rarity": "Common",
+      "id": "sm-aloraichu-5"
+    },
+    {
+      "name": "Golbat",
+      "number": "6/30",
+      "rarity": "Common",
+      "id": "sm-aloraichu-6"
+    },
+    {
+      "name": "Lightning Energy",
+      "number": "7/30",
+      "rarity": "Common",
+      "id": "sm-aloraichu-7"
+    },
+    {
+      "name": "Lightning Energy",
+      "number": "8/30",
+      "rarity": "Common",
+      "id": "sm-aloraichu-8"
+    },
+    {
+      "name": "Lightning Energy",
+      "number": "9/30",
+      "rarity": "Common",
+      "id": "sm-aloraichu-9"
+    },
+    {
+      "name": "Lightning Energy",
+      "number": "10/30",
+      "rarity": "Common",
+      "id": "sm-aloraichu-10"
+    },
+    {
+      "name": "Zubat",
+      "number": "11/30",
+      "rarity": "Common",
+      "id": "sm-aloraichu-11"
+    },
+    {
+      "name": "Lightning Energy",
+      "number": "12/30",
+      "rarity": "Common",
+      "id": "sm-aloraichu-12"
+    },
+    {
+      "name": "Spearow",
+      "number": "13/30",
+      "rarity": "Common",
+      "id": "sm-aloraichu-13"
+    },
+    {
+      "name": "Pikachu",
+      "number": "14/30",
+      "rarity": "Common",
+      "id": "sm-aloraichu-14"
+    },
+    {
+      "name": "Potion",
+      "number": "15/30",
+      "rarity": "Common",
+      "id": "sm-aloraichu-15"
+    },
+    {
+      "name": "Grubbin",
+      "number": "16/30",
+      "rarity": "Common",
+      "id": "sm-aloraichu-16"
+    },
+    {
+      "name": "Alolan Raichu",
+      "number": "17/30",
+      "rarity": "Common",
+      "id": "sm-aloraichu-17"
+    },
+    {
+      "name": "Bewear",
+      "number": "18/30",
+      "rarity": "Common",
+      "id": "sm-aloraichu-18"
+    },
+    {
+      "name": "Hau",
+      "number": "19/30",
+      "rarity": "Common",
+      "id": "sm-aloraichu-19"
+    },
+    {
+      "name": "Psychic Energy",
+      "number": "20/30",
+      "rarity": "Common",
+      "id": "sm-aloraichu-20"
+    },
+    {
+      "name": "Great Ball",
+      "number": "21/30",
+      "rarity": "Common",
+      "id": "sm-aloraichu-21"
+    },
+    {
+      "name": "Drowzee",
+      "number": "22/30",
+      "rarity": "Common",
+      "id": "sm-aloraichu-22"
+    },
+    {
+      "name": "Hau",
+      "number": "23/30",
+      "rarity": "Common",
+      "id": "sm-aloraichu-23"
+    },
+    {
+      "name": "Psychic Energy",
+      "number": "24/30",
+      "rarity": "Common",
+      "id": "sm-aloraichu-24"
+    },
+    {
+      "name": "Great Ball",
+      "number": "25/30",
+      "rarity": "Common",
+      "id": "sm-aloraichu-25"
+    },
+    {
+      "name": "Togedemaru",
+      "number": "26/30",
+      "rarity": "Common",
+      "id": "sm-aloraichu-26"
+    },
+    {
+      "name": "Psychic Energy",
+      "number": "27/30",
+      "rarity": "Common",
+      "id": "sm-aloraichu-27"
+    },
+    {
+      "name": "Psychic Energy",
+      "number": "28/30",
+      "rarity": "Common",
+      "id": "sm-aloraichu-28"
+    },
+    {
+      "name": "Pikachu",
+      "number": "29/30",
+      "rarity": "Common",
+      "id": "sm-aloraichu-29"
+    },
+    {
+      "name": "Alolan Raichu",
+      "number": "30/30",
+      "rarity": "Common",
+      "id": "sm-aloraichu-30"
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }

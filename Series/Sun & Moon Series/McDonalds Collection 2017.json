@@ -1,17 +1,82 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Have"
   ],
   "coreCards": [
     {
-      "id": "placeholder-1",
-      "rarity": "Common",
-      "name": "placeholder pkmn",
-      "number": "1"
+      "name": "Rowlet",
+      "number": 1,
+      "rarity": "Promo",
+      "id": "mcd2017-1"
+    },
+    {
+      "name": "Grubbin",
+      "number": 2,
+      "rarity": "Promo",
+      "id": "mcd2017-2"
+    },
+    {
+      "name": "Litten",
+      "number": 3,
+      "rarity": "Promo",
+      "id": "mcd2017-3"
+    },
+    {
+      "name": "Popplio",
+      "number": 4,
+      "rarity": "Promo",
+      "id": "mcd2017-4"
+    },
+    {
+      "name": "Pikachu",
+      "number": 5,
+      "rarity": "Promo",
+      "id": "mcd2017-5"
+    },
+    {
+      "name": "Cosmog",
+      "number": 6,
+      "rarity": "Promo",
+      "id": "mcd2017-6"
+    },
+    {
+      "name": "Crabrawler",
+      "number": 7,
+      "rarity": "Promo",
+      "id": "mcd2017-7"
+    },
+    {
+      "name": "Alolan Meowth",
+      "number": 8,
+      "rarity": "Promo",
+      "id": "mcd2017-8"
+    },
+    {
+      "name": "Alolan Diglett",
+      "number": 9,
+      "rarity": "Promo",
+      "id": "mcd2017-9"
+    },
+    {
+      "name": "Cutiefly",
+      "number": 10,
+      "rarity": "Promo",
+      "id": "mcd2017-10"
+    },
+    {
+      "name": "Pikipek",
+      "number": 11,
+      "rarity": "Promo",
+      "id": "mcd2017-11"
+    },
+    {
+      "name": "Yungoos",
+      "number": 12,
+      "rarity": "Promo",
+      "id": "mcd2017-12"
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }

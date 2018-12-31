@@ -1,479 +1,494 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Core",
+    "Reverse"
   ],
   "coreCards": [
     {
       "id": "sm35-1",
       "rarity": "Common",
       "name": "Bulbasaur",
-      "number": "1"
+      "number": "1/73"
     },
     {
       "id": "sm35-2",
       "rarity": "Common",
       "name": "Ivysaur",
-      "number": "2"
+      "number": "2/73"
     },
     {
       "id": "sm35-3",
       "rarity": "Uncommon",
       "name": "Venusaur",
-      "number": "3"
+      "number": "3/73"
     },
     {
       "id": "sm35-4",
       "rarity": "Common",
       "name": "Shroomish",
-      "number": "4"
+      "number": "4/73"
     },
     {
       "id": "sm35-5",
       "rarity": "Common",
       "name": "Breloom",
-      "number": "5"
+      "number": "5/73"
     },
     {
       "id": "sm35-6",
       "rarity": "Uncommon",
       "name": "Carnivine",
-      "number": "6"
+      "number": "6/73"
     },
     {
       "id": "sm35-7",
       "rarity": "Rare Holo",
       "name": "Shaymin (Sky Forme)",
-      "number": "7"
+      "number": "7/73"
     },
     {
       "id": "sm35-8",
       "rarity": "Rare Holo",
       "name": "Virizion",
-      "number": "8"
+      "number": "8/73"
     },
     {
       "id": "sm35-9",
       "rarity": "Shining",
       "name": "Shining Genesect",
-      "number": "9"
+      "number": "9/73"
     },
     {
       "id": "sm35-10",
-      "rarity": "Rare Holo GX",
+      "rarity": "GX",
       "name": "Entei-GX",
-      "number": "10"
+      "number": "10/73"
     },
     {
       "id": "sm35-11",
       "rarity": "Common",
       "name": "Torkoal",
-      "number": "11"
+      "number": "11/73"
     },
     {
       "id": "sm35-12",
       "rarity": "Common",
       "name": "Larvesta",
-      "number": "12"
+      "number": "12/73"
     },
     {
       "id": "sm35-13",
       "rarity": "Uncommon",
       "name": "Volcarona",
-      "number": "13"
+      "number": "13/73"
     },
     {
       "id": "sm35-14",
       "rarity": "Rare Holo",
       "name": "Reshiram",
-      "number": "14"
+      "number": "14/73"
     },
     {
       "id": "sm35-15",
       "rarity": "Common",
       "name": "Litten",
-      "number": "15"
+      "number": "15/73"
     },
     {
       "id": "sm35-16",
       "rarity": "Common",
       "name": "Torracat",
-      "number": "16"
+      "number": "16/73"
     },
     {
       "id": "sm35-17",
       "rarity": "Uncommon",
       "name": "Incineroar",
-      "number": "17"
+      "number": "17/73"
     },
     {
       "id": "sm35-18",
       "rarity": "Common",
       "name": "Totodile",
-      "number": "18"
+      "number": "18/73"
     },
     {
       "id": "sm35-19",
       "rarity": "Common",
       "name": "Croconaw",
-      "number": "19"
+      "number": "19/73"
     },
     {
       "id": "sm35-20",
       "rarity": "Uncommon",
       "name": "Feraligatr",
-      "number": "20"
+      "number": "20/73"
     },
     {
       "id": "sm35-21",
       "rarity": "Common",
       "name": "Qwilfish",
-      "number": "21"
+      "number": "21/73"
     },
     {
       "id": "sm35-22",
       "rarity": "Common",
       "name": "Buizel",
-      "number": "22"
+      "number": "22/73"
     },
     {
       "id": "sm35-23",
       "rarity": "Uncommon",
       "name": "Floatzel",
-      "number": "23"
+      "number": "23/73"
     },
     {
       "id": "sm35-24",
       "rarity": "Rare Holo",
       "name": "Palkia",
-      "number": "24"
+      "number": "24/73"
     },
     {
       "id": "sm35-25",
       "rarity": "Rare Holo",
       "name": "Manaphy",
-      "number": "25"
+      "number": "25/73"
     },
     {
       "id": "sm35-26",
       "rarity": "Rare Holo",
       "name": "Keldeo",
-      "number": "26"
+      "number": "26/73"
     },
     {
       "id": "sm35-27",
       "rarity": "Shining",
       "name": "Shining Volcanion",
-      "number": "27"
+      "number": "27/73"
     },
     {
       "id": "sm35-28",
       "rarity": "Common",
       "name": "Pikachu",
-      "number": "28"
+      "number": "28/73"
     },
     {
       "id": "sm35-29",
-      "rarity": "Rare Holo GX",
+      "rarity": "GX",
       "name": "Raichu-GX",
-      "number": "29"
+      "number": "29/73"
     },
     {
       "id": "sm35-30",
       "rarity": "Common",
       "name": "Voltorb",
-      "number": "30"
+      "number": "30/73"
     },
     {
       "id": "sm35-31",
       "rarity": "Uncommon",
       "name": "Electrode",
-      "number": "31"
+      "number": "31/73"
     },
     {
       "id": "sm35-32",
       "rarity": "Rare Holo",
       "name": "Raikou",
-      "number": "32"
+      "number": "32/73"
     },
     {
       "id": "sm35-33",
       "rarity": "Common",
       "name": "Plusle",
-      "number": "33"
+      "number": "33/73"
     },
     {
       "id": "sm35-34",
       "rarity": "Common",
       "name": "Minun",
-      "number": "34"
+      "number": "34/73"
     },
     {
       "id": "sm35-35",
       "rarity": "Rare Holo",
       "name": "Zekrom",
-      "number": "35"
+      "number": "35/73"
     },
     {
       "id": "sm35-36",
       "rarity": "Common",
       "name": "Ekans",
-      "number": "36"
+      "number": "36/73"
     },
     {
       "id": "sm35-37",
       "rarity": "Uncommon",
       "name": "Arbok",
-      "number": "37"
+      "number": "37/73"
     },
     {
       "id": "sm35-38",
       "rarity": "Common",
       "name": "Jynx",
-      "number": "38"
+      "number": "38/73"
     },
     {
       "id": "sm35-39",
-      "rarity": "Rare Holo GX",
+      "rarity": "GX",
       "name": "Mewtwo-GX",
-      "number": "39"
+      "number": "39/73"
     },
     {
       "id": "sm35-40",
       "rarity": "Shining",
       "name": "Shining Mew",
-      "number": "40"
+      "number": "40/73"
     },
     {
       "id": "sm35-41",
       "rarity": "Rare Holo",
       "name": "Latios",
-      "number": "41"
+      "number": "41/73"
     },
     {
       "id": "sm35-42",
       "rarity": "Shining",
       "name": "Shining Jirachi",
-      "number": "42"
+      "number": "42/73"
     },
     {
       "id": "sm35-43",
       "rarity": "Common",
       "name": "Golett",
-      "number": "43"
+      "number": "43/73"
     },
     {
       "id": "sm35-44",
       "rarity": "Uncommon",
       "name": "Golurk",
-      "number": "44"
+      "number": "44/73"
     },
     {
       "id": "sm35-45",
       "rarity": "Rare Holo",
       "name": "Marshadow",
-      "number": "45"
+      "number": "45/73"
     },
     {
       "id": "sm35-46",
       "rarity": "Common",
       "name": "Stunfisk",
-      "number": "46"
+      "number": "46/73"
     },
     {
       "id": "sm35-47",
       "rarity": "Uncommon",
       "name": "Spiritomb",
-      "number": "47"
+      "number": "47/73"
     },
     {
       "id": "sm35-48",
       "rarity": "Common",
       "name": "Purrloin",
-      "number": "48"
+      "number": "48/73"
     },
     {
       "id": "sm35-49",
       "rarity": "Uncommon",
       "name": "Liepard",
-      "number": "49"
+      "number": "49/73"
     },
     {
       "id": "sm35-50",
       "rarity": "Common",
       "name": "Scraggy",
-      "number": "50"
+      "number": "50/73"
     },
     {
       "id": "sm35-51",
       "rarity": "Uncommon",
       "name": "Scrafty",
-      "number": "51"
+      "number": "51/73"
     },
     {
       "id": "sm35-52",
       "rarity": "Common",
       "name": "Zorua",
-      "number": "52"
+      "number": "52/73"
     },
     {
       "id": "sm35-53",
-      "rarity": "Rare Holo GX",
+      "rarity": "GX",
       "name": "Zoroark-GX",
-      "number": "53"
+      "number": "53/73"
     },
     {
       "id": "sm35-54",
       "rarity": "Rare Holo",
       "name": "Yveltal",
-      "number": "54"
+      "number": "54/73"
     },
     {
       "id": "sm35-55",
       "rarity": "Rare Holo",
       "name": "Hoopa(Hoopa Unbound)",
-      "number": "55"
+      "number": "55/73"
     },
     {
       "id": "sm35-56",
       "rarity": "Shining",
       "name": "Shining Rayquaza",
-      "number": "56"
+      "number": "56/73"
     },
     {
       "id": "sm35-57",
       "rarity": "Shining",
       "name": "Shining Arceus",
-      "number": "57"
+      "number": "57/73"
     },
     {
       "id": "sm35-58",
       "rarity": "Uncommon",
       "name": "Damage Mover",
-      "number": "58"
+      "number": "58/73"
     },
     {
       "id": "sm35-59",
       "rarity": "Uncommon",
       "name": "Energy Retrieval",
-      "number": "59"
+      "number": "59/73"
     },
     {
       "id": "sm35-60",
       "rarity": "Uncommon",
       "name": "Great Ball",
-      "number": "60"
+      "number": "60/73"
     },
     {
       "id": "sm35-61",
       "rarity": "Uncommon",
       "name": "Hau",
-      "number": "61"
+      "number": "61/73"
     },
     {
       "id": "sm35-62",
       "rarity": "Uncommon",
       "name": "Lillie",
-      "number": "62"
+      "number": "62/73"
     },
     {
       "id": "sm35-63",
       "rarity": "Uncommon",
       "name": "Pok\u00e9mon Breeder",
-      "number": "63"
+      "number": "63/73"
     },
     {
       "id": "sm35-64",
       "rarity": "Uncommon",
       "name": "Pok\u00e9mon Catcher",
-      "number": "64"
+      "number": "64/73"
     },
     {
       "id": "sm35-65",
       "rarity": "Uncommon",
       "name": "Sophocles",
-      "number": "65"
+      "number": "65/73"
     },
     {
       "id": "sm35-66",
       "rarity": "Uncommon",
       "name": "Super Scoop Up",
-      "number": "66"
+      "number": "66/73"
     },
     {
       "id": "sm35-67",
       "rarity": "Uncommon",
       "name": "Switch",
-      "number": "67"
+      "number": "67/73"
     },
     {
       "id": "sm35-68",
       "rarity": "Uncommon",
       "name": "Ultra Ball",
-      "number": "68"
+      "number": "68/73"
     },
     {
       "id": "sm35-69",
       "rarity": "Uncommon",
       "name": "Double Colorless Energy",
-      "number": "69"
+      "number": "69/73"
     },
     {
       "id": "sm35-70",
       "rarity": "Uncommon",
       "name": "Warp Energy",
-      "number": "70"
+      "number": "70/73"
     },
     {
       "id": "sm35-71",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Entei-GX",
-      "number": "71"
+      "number": "71/73"
     },
     {
       "id": "sm35-72",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Mewtwo-GX",
-      "number": "72"
+      "number": "72/73"
     },
     {
       "id": "sm35-73",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Pok\u00e9mon Breeder",
-      "number": "73"
+      "number": "73/73"
     },
     {
       "id": "sm35-74",
-      "rarity": "Rare Secret",
+      "rarity": "Secret Rare",
       "name": "Entei-GX",
-      "number": "74"
+      "number": "74/73"
     },
     {
       "id": "sm35-75",
-      "rarity": "Rare Secret",
+      "rarity": "Secret Rare",
       "name": "Raichu-GX",
-      "number": "75"
+      "number": "75/73"
     },
     {
       "id": "sm35-76",
-      "rarity": "Rare Secret",
+      "rarity": "Secret Rare",
       "name": "Mewtwo-GX",
-      "number": "76"
+      "number": "76/73"
     },
     {
       "id": "sm35-77",
-      "rarity": "Rare Secret",
+      "rarity": "Secret Rare",
       "name": "Zoroark-GX",
-      "number": "77"
+      "number": "77/73"
     },
     {
       "id": "sm35-78",
-      "rarity": "Rare Secret",
+      "rarity": "Secret Rare",
       "name": "Mewtwo-GX",
-      "number": "78"
+      "number": "78/73"
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "Entei GX",
+      "number": "10a/73",
+      "rarity": "",
+      "id": "sm35-ac-10a",
+      "Description": "Johto GX Premium Colelction Promo"
+    },
+    {
+      "name": "Pikachu",
+      "number": "28/111",
+      "rarity": "",
+      "id": "sm35-ac-28",
+      "Description": "Water Web Holo Shining Legends Special Collection—Raichu-GX exclusive"
+    }
+  ],
+  "misprints": []
 }

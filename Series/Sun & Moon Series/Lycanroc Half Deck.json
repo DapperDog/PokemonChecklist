@@ -1,17 +1,190 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Have"
   ],
   "coreCards": [
     {
-      "id": "placeholder-1",
+      "name": "Caterpie",
+      "number": "1/30",
       "rarity": "Common",
-      "name": "placeholder pkmn",
-      "number": "1"
+      "id": "sm-lycanroc-1"
+    },
+    {
+      "name": "Fighting Energy",
+      "number": "2/30",
+      "rarity": "Common",
+      "id": "sm-lycanroc-2"
+    },
+    {
+      "name": "Fighting Energy",
+      "number": "3/30",
+      "rarity": "Common",
+      "id": "sm-lycanroc-3"
+    },
+    {
+      "name": "Trumbeak",
+      "number": "4/30",
+      "rarity": "Common",
+      "id": "sm-lycanroc-4"
+    },
+    {
+      "name": "Fighting Energy",
+      "number": "5/30",
+      "rarity": "Common",
+      "id": "sm-lycanroc-5"
+    },
+    {
+      "name": "Fighting Energy",
+      "number": "6/30",
+      "rarity": "Common",
+      "id": "sm-lycanroc-6"
+    },
+    {
+      "name": "Fighting Energy",
+      "number": "7/30",
+      "rarity": "Common",
+      "id": "sm-lycanroc-7"
+    },
+    {
+      "name": "Fighting Energy",
+      "number": "8/30",
+      "rarity": "Common",
+      "id": "sm-lycanroc-8"
+    },
+    {
+      "name": "Fighting Energy",
+      "number": "9/30",
+      "rarity": "Common",
+      "id": "sm-lycanroc-9"
+    },
+    {
+      "name": "Fighting Energy",
+      "number": "10/30",
+      "rarity": "Common",
+      "id": "sm-lycanroc-10"
+    },
+    {
+      "name": "Fletchling",
+      "number": "11/30",
+      "rarity": "Common",
+      "id": "sm-lycanroc-11"
+    },
+    {
+      "name": "Yungoos",
+      "number": "12/30",
+      "rarity": "Common",
+      "id": "sm-lycanroc-12"
+    },
+    {
+      "name": "Fletchinder",
+      "number": "13/30",
+      "rarity": "Common",
+      "id": "sm-lycanroc-13"
+    },
+    {
+      "name": "Rockruff",
+      "number": "14/30",
+      "rarity": "Common",
+      "id": "sm-lycanroc-14"
+    },
+    {
+      "name": "Pikipek",
+      "number": "15/30",
+      "rarity": "Common",
+      "id": "sm-lycanroc-15"
+    },
+    {
+      "name": "Lycanroc",
+      "number": "16/30",
+      "rarity": "Common",
+      "id": "sm-lycanroc-16"
+    },
+    {
+      "name": "Fighting Energy",
+      "number": "17/30",
+      "rarity": "Common",
+      "id": "sm-lycanroc-17"
+    },
+    {
+      "name": "Makuhita",
+      "number": "18/30",
+      "rarity": "Common",
+      "id": "sm-lycanroc-18"
+    },
+    {
+      "name": "Hau",
+      "number": "19/30",
+      "rarity": "Common",
+      "id": "sm-lycanroc-19"
+    },
+    {
+      "name": "Fighting Energy",
+      "number": "20/30",
+      "rarity": "Common",
+      "id": "sm-lycanroc-20"
+    },
+    {
+      "name": "Great Ball",
+      "number": "21/30",
+      "rarity": "Common",
+      "id": "sm-lycanroc-21"
+    },
+    {
+      "name": "Toucannon",
+      "number": "22/30",
+      "rarity": "Common",
+      "id": "sm-lycanroc-22"
+    },
+    {
+      "name": "Hau",
+      "number": "23/30",
+      "rarity": "Common",
+      "id": "sm-lycanroc-23"
+    },
+    {
+      "name": "Fighting Energy",
+      "number": "24/30",
+      "rarity": "Common",
+      "id": "sm-lycanroc-24"
+    },
+    {
+      "name": "Great Ball",
+      "number": "25/30",
+      "rarity": "Common",
+      "id": "sm-lycanroc-25"
+    },
+    {
+      "name": "Fighting Energy",
+      "number": "26/30",
+      "rarity": "Common",
+      "id": "sm-lycanroc-26"
+    },
+    {
+      "name": "Big Malasada",
+      "number": "27/30",
+      "rarity": "Common",
+      "id": "sm-lycanroc-27"
+    },
+    {
+      "name": "Fighting Energy",
+      "number": "28/30",
+      "rarity": "Common",
+      "id": "sm-lycanroc-28"
+    },
+    {
+      "name": "Rockruff",
+      "number": "29/30",
+      "rarity": "Common",
+      "id": "sm-lycanroc-29"
+    },
+    {
+      "name": "Lycanroc",
+      "number": "30/30",
+      "rarity": "Common",
+      "id": "sm-lycanroc-30"
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misfits": []
 }

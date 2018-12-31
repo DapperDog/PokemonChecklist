@@ -1,1025 +1,1166 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Core",
+    "Reverse"
   ],
   "coreCards": [
     {
       "id": "sm3-1",
       "rarity": "Common",
       "name": "Caterpie",
-      "number": "1"
+      "number": "1/147"
     },
     {
       "id": "sm3-2",
       "rarity": "Uncommon",
       "name": "Metapod",
-      "number": "2"
+      "number": "2/147"
     },
     {
       "id": "sm3-3",
       "rarity": "Rare",
       "name": "Butterfree",
-      "number": "3"
+      "number": "3/147"
     },
     {
       "id": "sm3-4",
       "rarity": "Common",
       "name": "Oddish",
-      "number": "4"
+      "number": "4/147"
     },
     {
       "id": "sm3-5",
       "rarity": "Uncommon",
       "name": "Gloom",
-      "number": "5"
+      "number": "5/147"
     },
     {
       "id": "sm3-6",
       "rarity": "Rare Holo",
       "name": "Vileplume",
-      "number": "6"
+      "number": "6/147"
     },
     {
       "id": "sm3-7",
       "rarity": "Common",
       "name": "Tangela",
-      "number": "7"
+      "number": "7/147"
     },
     {
       "id": "sm3-8",
       "rarity": "Rare",
       "name": "Tangrowth",
-      "number": "8"
+      "number": "8/147"
     },
     {
       "id": "sm3-9",
       "rarity": "Common",
       "name": "Ledyba",
-      "number": "9"
+      "number": "9/147"
     },
     {
       "id": "sm3-10",
       "rarity": "Rare",
       "name": "Ledian",
-      "number": "10"
+      "number": "10/147"
     },
     {
       "id": "sm3-11",
       "rarity": "Rare",
       "name": "Heracross",
-      "number": "11"
+      "number": "11/147"
     },
     {
       "id": "sm3-12",
       "rarity": "Common",
       "name": "Pansage",
-      "number": "12"
+      "number": "12/147"
     },
     {
       "id": "sm3-13",
       "rarity": "Uncommon",
       "name": "Simisage",
-      "number": "13"
+      "number": "13/147"
     },
     {
       "id": "sm3-14",
       "rarity": "Common",
       "name": "Dewpider",
-      "number": "14"
+      "number": "14/147"
     },
     {
       "id": "sm3-15",
       "rarity": "Rare",
       "name": "Araquanid",
-      "number": "15"
+      "number": "15/147"
     },
     {
       "id": "sm3-16",
       "rarity": "Common",
       "name": "Wimpod",
-      "number": "16"
+      "number": "16/147"
     },
     {
       "id": "sm3-17",
-      "rarity": "Rare Holo GX",
+      "rarity": "GX",
       "name": "Golisopod-GX",
-      "number": "17"
+      "number": "17/147"
     },
     {
       "id": "sm3-18",
       "rarity": "Common",
       "name": "Charmander",
-      "number": "18"
+      "number": "18/147"
     },
     {
       "id": "sm3-19",
       "rarity": "Uncommon",
       "name": "Charmeleon",
-      "number": "19"
+      "number": "19/147"
     },
     {
       "id": "sm3-20",
-      "rarity": "Rare Holo GX",
+      "rarity": "GX",
       "name": "Charizard-GX",
-      "number": "20"
+      "number": "20/147"
     },
     {
       "id": "sm3-21",
-      "rarity": "Rare Holo GX",
+      "rarity": "GX",
       "name": "Ho-Oh-GX",
-      "number": "21"
+      "number": "21/147"
     },
     {
       "id": "sm3-22",
       "rarity": "Common",
       "name": "Pansear",
-      "number": "22"
+      "number": "22/147"
     },
     {
       "id": "sm3-23",
       "rarity": "Uncommon",
       "name": "Simisear",
-      "number": "23"
+      "number": "23/147"
     },
     {
       "id": "sm3-24",
       "rarity": "Uncommon",
       "name": "Heatmor",
-      "number": "24"
+      "number": "24/147"
     },
     {
       "id": "sm3-25",
-      "rarity": "Rare Holo GX",
+      "rarity": "GX",
       "name": "Salazzle-GX",
-      "number": "25"
+      "number": "25/147"
     },
     {
       "id": "sm3-26",
       "rarity": "Rare",
       "name": "Turtonator",
-      "number": "26"
+      "number": "26/147"
     },
     {
       "id": "sm3-27",
       "rarity": "Common",
       "name": "Alolan Vulpix",
-      "number": "27"
+      "number": "27/147"
     },
     {
       "id": "sm3-28",
       "rarity": "Rare",
       "name": "Alolan Ninetales",
-      "number": "28"
+      "number": "28/147"
     },
     {
       "id": "sm3-29",
       "rarity": "Common",
       "name": "Horsea",
-      "number": "29"
+      "number": "29/147"
     },
     {
       "id": "sm3-30",
       "rarity": "Uncommon",
       "name": "Seadra",
-      "number": "30"
+      "number": "30/147"
     },
     {
       "id": "sm3-31",
       "rarity": "Rare Holo",
       "name": "Kingdra",
-      "number": "31"
+      "number": "31/147"
     },
     {
       "id": "sm3-32",
       "rarity": "Common",
       "name": "Magikarp",
-      "number": "32"
+      "number": "32/147"
     },
     {
       "id": "sm3-33",
       "rarity": "Rare Holo",
       "name": "Gyarados",
-      "number": "33"
+      "number": "33/147"
     },
     {
       "id": "sm3-34",
       "rarity": "Common",
       "name": "Marill",
-      "number": "34"
+      "number": "34/147"
     },
     {
       "id": "sm3-35",
       "rarity": "Rare",
       "name": "Azumarill",
-      "number": "35"
+      "number": "35/147"
     },
     {
       "id": "sm3-36",
       "rarity": "Common",
       "name": "Panpour",
-      "number": "36"
+      "number": "36/147"
     },
     {
       "id": "sm3-37",
       "rarity": "Uncommon",
       "name": "Simipour",
-      "number": "37"
+      "number": "37/147"
     },
     {
       "id": "sm3-38",
       "rarity": "Rare",
       "name": "Bruxish",
-      "number": "38"
+      "number": "38/147"
     },
     {
       "id": "sm3-39",
-      "rarity": "Rare Holo GX",
+      "rarity": "GX",
       "name": "Tapu Fini-GX",
-      "number": "39"
+      "number": "39/147"
     },
     {
       "id": "sm3-40",
       "rarity": "Common",
       "name": "Pikachu",
-      "number": "40"
+      "number": "40/147"
     },
     {
       "id": "sm3-41",
       "rarity": "Rare Holo",
       "name": "Raichu",
-      "number": "41"
+      "number": "41/147"
     },
     {
       "id": "sm3-42",
       "rarity": "Uncommon",
       "name": "Electabuzz",
-      "number": "42"
+      "number": "42/147"
     },
     {
       "id": "sm3-43",
       "rarity": "Rare",
       "name": "Electivire",
-      "number": "43"
+      "number": "43/147"
     },
     {
       "id": "sm3-44",
       "rarity": "Common",
       "name": "Tynamo",
-      "number": "44"
+      "number": "44/147"
     },
     {
       "id": "sm3-45",
       "rarity": "Uncommon",
       "name": "Eelektrik",
-      "number": "45"
+      "number": "45/147"
     },
     {
       "id": "sm3-46",
       "rarity": "Rare",
       "name": "Eelektross",
-      "number": "46"
+      "number": "46/147"
     },
     {
       "id": "sm3-47",
       "rarity": "Common",
       "name": "Togedemaru",
-      "number": "47"
+      "number": "47/147"
     },
     {
       "id": "sm3-48",
       "rarity": "Rare",
       "name": "Slowking",
-      "number": "48"
+      "number": "48/147"
     },
     {
       "id": "sm3-49",
       "rarity": "Uncommon",
       "name": "Wobbuffet",
-      "number": "49"
+      "number": "49/147"
     },
     {
       "id": "sm3-50",
       "rarity": "Uncommon",
       "name": "Seviper",
-      "number": "50"
+      "number": "50/147"
     },
     {
       "id": "sm3-51",
       "rarity": "Common",
       "name": "Duskull",
-      "number": "51"
+      "number": "51/147"
     },
     {
       "id": "sm3-52",
       "rarity": "Uncommon",
       "name": "Dusclops",
-      "number": "52"
+      "number": "52/147"
     },
     {
       "id": "sm3-53",
       "rarity": "Rare Holo",
       "name": "Dusknoir",
-      "number": "53"
+      "number": "53/147"
     },
     {
       "id": "sm3-54",
       "rarity": "Common",
       "name": "Croagunk",
-      "number": "54"
+      "number": "54/147"
     },
     {
       "id": "sm3-55",
       "rarity": "Rare",
       "name": "Toxicroak",
-      "number": "55"
+      "number": "55/147"
     },
     {
       "id": "sm3-56",
       "rarity": "Common",
       "name": "Venipede",
-      "number": "56"
+      "number": "56/147"
     },
     {
       "id": "sm3-57",
       "rarity": "Uncommon",
       "name": "Whirlipede",
-      "number": "57"
+      "number": "57/147"
     },
     {
       "id": "sm3-58",
       "rarity": "Rare",
       "name": "Scolipede",
-      "number": "58"
+      "number": "58/147"
     },
     {
       "id": "sm3-59",
       "rarity": "Common",
       "name": "Espurr",
-      "number": "59"
+      "number": "59/147"
     },
     {
       "id": "sm3-60",
       "rarity": "Rare",
       "name": "Meowstic",
-      "number": "60"
+      "number": "60/147"
     },
     {
       "id": "sm3-61",
       "rarity": "Common",
       "name": "Sandygast",
-      "number": "61"
+      "number": "61/147"
     },
     {
       "id": "sm3-62",
       "rarity": "Rare Holo",
       "name": "Palossand",
-      "number": "62"
+      "number": "62/147"
     },
     {
       "id": "sm3-63",
-      "rarity": "Rare Holo GX",
+      "rarity": "GX",
       "name": "Necrozma-GX",
-      "number": "63"
+      "number": "63/147"
     },
     {
       "id": "sm3-64",
-      "rarity": "Rare Holo GX",
+      "rarity": "GX",
       "name": "Machamp-GX",
-      "number": "64"
+      "number": "64/147"
     },
     {
       "id": "sm3-65",
       "rarity": "Common",
       "name": "Rhyhorn",
-      "number": "65"
+      "number": "65/147"
     },
     {
       "id": "sm3-66",
       "rarity": "Uncommon",
       "name": "Rhydon",
-      "number": "66"
+      "number": "66/147"
     },
     {
       "id": "sm3-67",
       "rarity": "Rare Holo",
       "name": "Rhyperior",
-      "number": "67"
+      "number": "67/147"
     },
     {
       "id": "sm3-68",
       "rarity": "Uncommon",
       "name": "Lunatone",
-      "number": "68"
+      "number": "68/147"
     },
     {
       "id": "sm3-69",
       "rarity": "Uncommon",
       "name": "Solrock",
-      "number": "69"
+      "number": "69/147"
     },
     {
       "id": "sm3-70",
       "rarity": "Common",
       "name": "Riolu",
-      "number": "70"
+      "number": "70/147"
     },
     {
       "id": "sm3-71",
       "rarity": "Rare Holo",
       "name": "Lucario",
-      "number": "71"
+      "number": "71/147"
     },
     {
       "id": "sm3-72",
       "rarity": "Common",
       "name": "Sawk",
-      "number": "72"
+      "number": "72/147"
     },
     {
       "id": "sm3-73",
       "rarity": "Common",
       "name": "Crabrawler",
-      "number": "73"
+      "number": "73/147"
     },
     {
       "id": "sm3-74",
       "rarity": "Rare",
       "name": "Crabominable",
-      "number": "74"
+      "number": "74/147"
     },
     {
       "id": "sm3-75",
       "rarity": "Rare Holo",
       "name": "Lycanroc",
-      "number": "75"
+      "number": "75/147"
     },
     {
       "id": "sm3-76",
       "rarity": "Rare",
       "name": "Lycanroc",
-      "number": "76"
+      "number": "76/147"
     },
     {
       "id": "sm3-77",
       "rarity": "Common",
       "name": "Mudbray",
-      "number": "77"
+      "number": "77/147"
     },
     {
       "id": "sm3-78",
       "rarity": "Rare",
       "name": "Mudsdale",
-      "number": "78"
+      "number": "78/147"
     },
     {
       "id": "sm3-79",
       "rarity": "Rare",
       "name": "Passimian",
-      "number": "79"
+      "number": "79/147"
     },
     {
       "id": "sm3-80",
-      "rarity": "Rare Holo GX",
+      "rarity": "GX",
       "name": "Marshadow-GX",
-      "number": "80"
+      "number": "80/147"
     },
     {
       "id": "sm3-81",
       "rarity": "Common",
       "name": "Alolan Rattata",
-      "number": "81"
+      "number": "81/147"
     },
     {
       "id": "sm3-82",
       "rarity": "Rare",
       "name": "Alolan Raticate",
-      "number": "82"
+      "number": "82/147"
     },
     {
       "id": "sm3-83",
       "rarity": "Common",
       "name": "Alolan Grimer",
-      "number": "83"
+      "number": "83/147"
     },
     {
       "id": "sm3-84",
-      "rarity": "Rare Holo GX",
+      "rarity": "GX",
       "name": "Alolan Muk-GX",
-      "number": "84"
+      "number": "84/147"
     },
     {
       "id": "sm3-85",
       "rarity": "Common",
       "name": "Sneasel",
-      "number": "85"
+      "number": "85/147"
     },
     {
       "id": "sm3-86",
       "rarity": "Rare",
       "name": "Weavile",
-      "number": "86"
+      "number": "86/147"
     },
     {
       "id": "sm3-87",
       "rarity": "Rare Holo",
       "name": "Darkrai",
-      "number": "87"
+      "number": "87/147"
     },
     {
       "id": "sm3-88",
-      "rarity": "Rare Holo GX",
+      "rarity": "GX",
       "name": "Darkrai-GX",
-      "number": "88"
+      "number": "88/147"
     },
     {
       "id": "sm3-89",
       "rarity": "Common",
       "name": "Inkay",
-      "number": "89"
+      "number": "89/147"
     },
     {
       "id": "sm3-90",
       "rarity": "Rare",
       "name": "Malamar",
-      "number": "90"
+      "number": "90/147"
     },
     {
       "id": "sm3-91",
       "rarity": "Common",
       "name": "Ralts",
-      "number": "91"
+      "number": "91/147"
     },
     {
       "id": "sm3-92",
       "rarity": "Uncommon",
       "name": "Kirlia",
-      "number": "92"
+      "number": "92/147"
     },
     {
       "id": "sm3-93",
-      "rarity": "Rare Holo GX",
+      "rarity": "GX",
       "name": "Gardevoir-GX",
-      "number": "93"
+      "number": "93/147"
     },
     {
       "id": "sm3-94",
       "rarity": "Rare Holo",
       "name": "Diancie",
-      "number": "94"
+      "number": "94/147"
     },
     {
       "id": "sm3-95",
       "rarity": "Common",
       "name": "Cutiefly",
-      "number": "95"
+      "number": "95/147"
     },
     {
       "id": "sm3-96",
       "rarity": "Uncommon",
       "name": "Ribombee",
-      "number": "96"
+      "number": "96/147"
     },
     {
       "id": "sm3-97",
       "rarity": "Common",
       "name": "Morelull",
-      "number": "97"
+      "number": "97/147"
     },
     {
       "id": "sm3-98",
       "rarity": "Rare",
       "name": "Shiinotic",
-      "number": "98"
+      "number": "98/147"
     },
     {
       "id": "sm3-99",
-      "rarity": "Rare Holo GX",
+      "rarity": "GX",
       "name": "Noivern-GX",
-      "number": "99"
+      "number": "99/147"
     },
     {
       "id": "sm3-100",
       "rarity": "Rare Holo",
       "name": "Zygarde",
-      "number": "100"
+      "number": "100/147"
     },
     {
       "id": "sm3-101",
       "rarity": "Common",
       "name": "Meowth",
-      "number": "101"
+      "number": "101/147"
     },
     {
       "id": "sm3-102",
       "rarity": "Rare",
       "name": "Persian",
-      "number": "102"
+      "number": "102/147"
     },
     {
       "id": "sm3-103",
       "rarity": "Common",
       "name": "Porygon",
-      "number": "103"
+      "number": "103/147"
     },
     {
       "id": "sm3-104",
       "rarity": "Uncommon",
       "name": "Porygon2",
-      "number": "104"
+      "number": "104/147"
     },
     {
       "id": "sm3-105",
       "rarity": "Rare Holo",
       "name": "Porygon-Z",
-      "number": "105"
+      "number": "105/147"
     },
     {
       "id": "sm3-106",
       "rarity": "Common",
       "name": "Hoothoot",
-      "number": "106"
+      "number": "106/147"
     },
     {
       "id": "sm3-107",
       "rarity": "Uncommon",
       "name": "Noctowl",
-      "number": "107"
+      "number": "107/147"
     },
     {
       "id": "sm3-108",
       "rarity": "Uncommon",
       "name": "Bouffalant",
-      "number": "108"
+      "number": "108/147"
     },
     {
       "id": "sm3-109",
       "rarity": "Common",
       "name": "Noibat",
-      "number": "109"
+      "number": "109/147"
     },
     {
       "id": "sm3-110",
       "rarity": "Common",
       "name": "Stufful",
-      "number": "110"
+      "number": "110/147"
     },
     {
       "id": "sm3-111",
       "rarity": "Rare",
       "name": "Bewear",
-      "number": "111"
+      "number": "111/147"
     },
     {
       "id": "sm3-112",
       "rarity": "Uncommon",
       "name": "Acerola",
-      "number": "112"
+      "number": "112/147"
     },
     {
       "id": "sm3-113",
       "rarity": "Uncommon",
       "name": "Bodybuilding Dumbbells",
-      "number": "113"
+      "number": "113/147"
     },
     {
       "id": "sm3-114",
       "rarity": "Uncommon",
       "name": "Escape Rope",
-      "number": "114"
+      "number": "114/147"
     },
     {
       "id": "sm3-115",
       "rarity": "Uncommon",
       "name": "Guzma",
-      "number": "115"
+      "number": "115/147"
     },
     {
       "id": "sm3-116",
       "rarity": "Uncommon",
       "name": "Kiawe",
-      "number": "116"
+      "number": "116/147"
     },
     {
       "id": "sm3-117",
       "rarity": "Uncommon",
       "name": "Lana",
-      "number": "117"
+      "number": "117/147"
     },
     {
       "id": "sm3-118",
       "rarity": "Uncommon",
       "name": "Mount Lanakila",
-      "number": "118"
+      "number": "118/147"
     },
     {
       "id": "sm3-119",
       "rarity": "Uncommon",
       "name": "Olivia",
-      "number": "119"
+      "number": "119/147"
     },
     {
       "id": "sm3-120",
       "rarity": "Uncommon",
       "name": "Plumeria",
-      "number": "120"
+      "number": "120/147"
     },
     {
       "id": "sm3-121",
       "rarity": "Uncommon",
       "name": "Po Town",
-      "number": "121"
+      "number": "121/147"
     },
     {
       "id": "sm3-122",
       "rarity": "Uncommon",
       "name": "Rotom Dex\u2014Pok\u00e9 Finder Mode",
-      "number": "122"
+      "number": "122/147"
     },
     {
       "id": "sm3-123",
       "rarity": "Uncommon",
       "name": "Sophocles",
-      "number": "123"
+      "number": "123/147"
     },
     {
       "id": "sm3-124",
       "rarity": "Uncommon",
       "name": "Super Scoop Up",
-      "number": "124"
+      "number": "124/147"
     },
     {
       "id": "sm3-125",
       "rarity": "Uncommon",
       "name": "Tormenting Spray",
-      "number": "125"
+      "number": "125/147"
     },
     {
       "id": "sm3-126",
       "rarity": "Uncommon",
       "name": "Weakness Policy",
-      "number": "126"
+      "number": "126/147"
     },
     {
       "id": "sm3-127",
       "rarity": "Uncommon",
       "name": "Wicke",
-      "number": "127"
+      "number": "127/147"
     },
     {
       "id": "sm3-128",
       "rarity": "Uncommon",
       "name": "Wishful Baton",
-      "number": "128"
+      "number": "128/147"
     },
     {
       "id": "sm3-129",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Golisopod-GX",
-      "number": "129"
+      "number": "129/147"
     },
     {
       "id": "sm3-130",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Tapu Bulu-GX",
-      "number": "130"
+      "number": "130/147"
     },
     {
       "id": "sm3-131",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Ho-Oh-GX",
-      "number": "131"
+      "number": "131/147"
     },
     {
       "id": "sm3-132",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Salazzle-GX",
-      "number": "132"
+      "number": "132/147"
     },
     {
       "id": "sm3-133",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Tapu Fini-GX",
-      "number": "133"
+      "number": "133/147"
     },
     {
       "id": "sm3-134",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Necrozma-GX",
-      "number": "134"
+      "number": "134/147"
     },
     {
       "id": "sm3-135",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Machamp-GX",
-      "number": "135"
+      "number": "135/147"
     },
     {
       "id": "sm3-136",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Lycanroc-GX",
-      "number": "136"
+      "number": "136/147"
     },
     {
       "id": "sm3-137",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Marshadow-GX",
-      "number": "137"
+      "number": "137/147"
     },
     {
       "id": "sm3-138",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Alolan Muk-GX",
-      "number": "138"
+      "number": "138/147"
     },
     {
       "id": "sm3-139",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Darkrai-GX",
-      "number": "139"
+      "number": "139/147"
     },
     {
       "id": "sm3-140",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Gardevoir-GX",
-      "number": "140"
+      "number": "140/147"
     },
     {
       "id": "sm3-141",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Noivern-GX",
-      "number": "141"
+      "number": "141/147"
     },
     {
       "id": "sm3-142",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Acerola",
-      "number": "142"
+      "number": "142/147"
     },
     {
       "id": "sm3-143",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Guzma",
-      "number": "143"
+      "number": "143/147"
     },
     {
       "id": "sm3-144",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Kiawe",
-      "number": "144"
+      "number": "144/147"
     },
     {
       "id": "sm3-145",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Plumeria",
-      "number": "145"
+      "number": "145/147"
     },
     {
       "id": "sm3-146",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Sophocles",
-      "number": "146"
+      "number": "146/147"
     },
     {
       "id": "sm3-147",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Wicke",
-      "number": "147"
+      "number": "147/147"
     },
     {
       "id": "sm3-148",
-      "rarity": "Rare Secret",
+      "rarity": "Secret Rare",
       "name": "Golisopod-GX",
-      "number": "148"
+      "number": "148/147"
     },
     {
       "id": "sm3-149",
-      "rarity": "Rare Secret",
+      "rarity": "Secret Rare",
       "name": "Tapu Bulu-GX",
-      "number": "149"
+      "number": "149/147"
     },
     {
       "id": "sm3-150",
-      "rarity": "Rare Secret",
+      "rarity": "Secret Rare",
       "name": "Charizard GX",
-      "number": "150"
+      "number": "150/147"
     },
     {
       "id": "sm3-151",
-      "rarity": "Rare Secret",
+      "rarity": "Secret Rare",
       "name": "Salazzle-GX",
-      "number": "151"
+      "number": "151/147"
     },
     {
       "id": "sm3-152",
-      "rarity": "Rare Secret",
+      "rarity": "Secret Rare",
       "name": "Tapu Fini-GX",
-      "number": "152"
+      "number": "152/147"
     },
     {
       "id": "sm3-153",
-      "rarity": "Rare Secret",
+      "rarity": "Secret Rare",
       "name": "Necrozma-GX",
-      "number": "153"
+      "number": "153/147"
     },
     {
       "id": "sm3-154",
-      "rarity": "Rare Secret",
+      "rarity": "Secret Rare",
       "name": "Machamp-GX",
-      "number": "154"
+      "number": "154/147"
     },
     {
       "id": "sm3-155",
-      "rarity": "Rare Secret",
+      "rarity": "Secret Rare",
       "name": "Lycanroc-GX",
-      "number": "155"
+      "number": "155/147"
     },
     {
       "id": "sm3-156",
-      "rarity": "Rare Secret",
+      "rarity": "Secret Rare",
       "name": "Marshadow-GX",
-      "number": "156"
+      "number": "156/147"
     },
     {
       "id": "sm3-157",
-      "rarity": "Rare Secret",
+      "rarity": "Secret Rare",
       "name": "Alolan Muk-GX",
-      "number": "157"
+      "number": "157/147"
     },
     {
       "id": "sm3-158",
-      "rarity": "Rare Secret",
+      "rarity": "Secret Rare",
       "name": "Darkrai-GX",
-      "number": "158"
+      "number": "158/147"
     },
     {
       "id": "sm3-159",
-      "rarity": "Rare Secret",
+      "rarity": "Secret Rare",
       "name": "Gardevoir-GX",
-      "number": "159"
+      "number": "159/147"
     },
     {
       "id": "sm3-160",
-      "rarity": "Rare Secret",
+      "rarity": "Secret Rare",
       "name": "Noivern-GX",
-      "number": "160"
+      "number": "160/147"
     },
     {
       "id": "sm3-161",
-      "rarity": "Rare Secret",
+      "rarity": "Secret Rare",
       "name": "Bodybuilding Dumbbells",
-      "number": "161"
+      "number": "161/147"
     },
     {
       "id": "sm3-162",
-      "rarity": "Rare Secret",
+      "rarity": "Secret Rare",
       "name": "Choice Band",
-      "number": "162"
+      "number": "162/147"
     },
     {
       "id": "sm3-163",
-      "rarity": "Rare Secret",
+      "rarity": "Secret Rare",
       "name": "Escape Rope",
-      "number": "163"
+      "number": "163/147"
     },
     {
       "id": "sm3-164",
-      "rarity": "Rare Secret",
+      "rarity": "Secret Rare",
       "name": "Multi Switch",
-      "number": "164"
+      "number": "164/147"
     },
     {
       "id": "sm3-165",
-      "rarity": "Rare Secret",
+      "rarity": "Secret Rare",
       "name": "Rescue Stretcher",
-      "number": "165"
+      "number": "165/147"
     },
     {
       "id": "sm3-166",
-      "rarity": "Rare Secret",
+      "rarity": "Secret Rare",
       "name": "Super Scoop Up",
-      "number": "166"
+      "number": "166/147"
     },
     {
       "id": "sm3-167",
-      "rarity": "Rare Secret",
+      "rarity": "Secret Rare",
       "name": "Fire Energy",
-      "number": "167"
+      "number": "167/147"
     },
     {
       "id": "sm3-168",
-      "rarity": "Rare Secret",
+      "rarity": "Secret Rare",
       "name": "Darkness Energy",
-      "number": "168"
+      "number": "168/147"
     },
     {
       "id": "sm3-169",
-      "rarity": "Rare Secret",
+      "rarity": "Secret Rare",
       "name": "Fairy Energy",
-      "number": "169"
+      "number": "169/147"
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "Vileplume",
+      "number": "6/147",
+      "rarity": "",
+      "id": "sm3-ac-6",
+      "Description": "Non Holo Burning Shadows Prerelease Kit exclusive"
+    },
+    {
+      "name": "Charmander",
+      "number": "18/147",
+      "rarity": "",
+      "id": "sm3-ac-18",
+      "Description": "Water Web Holo Charizard-GX Premium Collection exclusive"
+    },
+    {
+      "name": "Charmeleon",
+      "number": "19/147",
+      "rarity": "",
+      "id": "sm3-ac-19",
+      "Description": "Water Web Holo Charizard-GX Premium Collection exclusive"
+    },
+    {
+      "name": "Alolan Ninetales",
+      "number": "28/147",
+      "rarity": "",
+      "id": "sm3-ac-28",
+      "Description": "Cracked Ice Holo Luminous Frost Theme Deck exclusive"
+    },
+    {
+      "name": "Kingdra",
+      "number": "31/147",
+      "rarity": "",
+      "id": "sm3-ac-31",
+      "Description": "Non Holo Luminous Frost Theme Deck exclusive"
+    },
+    {
+      "name": "Raichu",
+      "number": "41/147",
+      "rarity": "",
+      "id": "sm3-ac-41-1",
+      "Description": "1st Place Reverse Holo Pokémon League League Challenge Promo"
+    },
+    {
+      "name": "Raichu",
+      "number": "41/147",
+      "rarity": "",
+      "id": "sm3-ac-41-2",
+      "Description": "2nd Place Reverse Holo Pokémon League League Challenge Promo"
+    },
+    {
+      "name": "Raichu",
+      "number": "41/147",
+      "rarity": "",
+      "id": "sm3-ac-41-3",
+      "Description": "3rd Place Reverse Holo Pokémon League League Challenge Promo"
+    },
+    {
+      "name": "Raichu",
+      "number": "41/147",
+      "rarity": "",
+      "id": "sm3-ac-41-4",
+      "Description": "4th Place Reverse Holo Pokémon League League Challenge Promo"
+    },
+    {
+      "name": "Rhyperior",
+      "number": "67/147",
+      "rarity": "",
+      "id": "sm3-ac-67",
+      "Description": "Non Holo Burning Shadows Prerelease Kit & Rock Steady Theme Deck exclusive"
+    },
+    {
+      "name": "Lucario",
+      "number": "71/147",
+      "rarity": "",
+      "id": "sm3-ac-71",
+      "Description": "Non Holo Rock Steady Theme Deck exclusive"
+    },
+    {
+      "name": "Lycanroc",
+      "number": "76/147",
+      "rarity": "",
+      "id": "sm3-ac-76",
+      "Description": "Cracked Ice Holo Rock Steady Theme Deck exclusive"
+    },
+    {
+      "name": "Darkrai",
+      "number": "87/147",
+      "rarity": "",
+      "id": "sm3-ac-87",
+      "Description": "Reverse Holo Pokémon League Promo"
+    },
+    {
+      "name": "Diancie",
+      "number": "94/147",
+      "rarity": "",
+      "id": "sm3-ac-94",
+      "Description": "Reverse Holo Pokémon League Promo"
+    },
+    {
+      "name": "Zygarde",
+      "number": "100/147",
+      "rarity": "",
+      "id": "sm3-ac-100",
+      "Description": "Reverse Holo Pokémon League Promo"
+    },
+    {
+      "name": "Stufful",
+      "number": "110/147",
+      "rarity": "",
+      "id": "sm3-ac-110",
+      "Description": "Cosmos Holo Toys \"R\" Us stamp exclusive"
+    },
+    {
+      "name": "Bodybuilding Dumbbells",
+      "number": "113/147",
+      "rarity": "",
+      "id": "sm3-ac-113-1",
+      "Description": "Reverse Holo Pokémon League Promo"
+    },
+    {
+      "name": "[STAFF]Bodybuilding Dumbbells",
+      "number": "113/147",
+      "rarity": "",
+      "id": "sm3-ac-113-2",
+      "Description": "STAFF Reverse Holo Pokémon League Promo"
+    },
+    {
+      "name": "Guzma",
+      "number": "115/147",
+      "rarity": "",
+      "id": "sm3-ac-115-1",
+      "Description": "Regional Championship Promo"
+    },
+    {
+      "name": "[Staff]Guzma",
+      "number": "115/147",
+      "rarity": "",
+      "id": "sm3-ac-115-2",
+      "Description": "[Staff] Stamped Regional Championship Promo"
+    }
+  ],
+  "misprints": []
 }
