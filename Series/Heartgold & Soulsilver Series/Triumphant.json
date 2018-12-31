@@ -1,629 +1,707 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Core",
+    "Reverse"
   ],
   "coreCards": [
     {
       "id": "hgss4-1",
       "rarity": "Rare Holo",
       "name": "Aggron",
-      "number": "1"
+      "number": "1/102"
     },
     {
       "id": "hgss4-2",
       "rarity": "Rare Holo",
       "name": "Altaria",
-      "number": "2"
+      "number": "2/102"
     },
     {
       "id": "hgss4-3",
       "rarity": "Rare Holo",
       "name": "Celebi",
-      "number": "3"
+      "number": "3/102"
     },
     {
       "id": "hgss4-4",
       "rarity": "Rare Holo",
       "name": "Drapion",
-      "number": "4"
+      "number": "4/102"
     },
     {
       "id": "hgss4-5",
       "rarity": "Rare Holo",
       "name": "Mamoswine",
-      "number": "5"
+      "number": "5/102"
     },
     {
       "id": "hgss4-6",
       "rarity": "Rare Holo",
       "name": "Nidoking",
-      "number": "6"
+      "number": "6/102"
     },
     {
       "id": "hgss4-7",
       "rarity": "Rare Holo",
       "name": "Porygon-Z",
-      "number": "7"
+      "number": "7/102"
     },
     {
       "id": "hgss4-8",
       "rarity": "Rare Holo",
       "name": "Rapidash",
-      "number": "8"
+      "number": "8/102"
     },
     {
       "id": "hgss4-9",
       "rarity": "Rare Holo",
       "name": "Solrock",
-      "number": "9"
+      "number": "9/102"
     },
     {
       "id": "hgss4-10",
       "rarity": "Rare Holo",
       "name": "Spiritomb",
-      "number": "10"
+      "number": "10/102"
     },
     {
       "id": "hgss4-11",
       "rarity": "Rare Holo",
       "name": "Venomoth",
-      "number": "11"
+      "number": "11/102"
     },
     {
       "id": "hgss4-12",
       "rarity": "Rare Holo",
       "name": "Victreebel",
-      "number": "12"
+      "number": "12/102"
     },
     {
       "id": "hgss4-13",
       "rarity": "Rare",
       "name": "Ambipom",
-      "number": "13"
+      "number": "13/102"
     },
     {
       "id": "hgss4-14",
       "rarity": "Rare",
       "name": "Banette",
-      "number": "14"
+      "number": "14/102"
     },
     {
       "id": "hgss4-15",
       "rarity": "Rare",
       "name": "Bronzong",
-      "number": "15"
+      "number": "15/102"
     },
     {
       "id": "hgss4-16",
       "rarity": "Rare",
       "name": "Carnivine",
-      "number": "16"
+      "number": "16/102"
     },
     {
       "id": "hgss4-17",
       "rarity": "Rare",
       "name": "Ditto",
-      "number": "17"
+      "number": "17/102"
     },
     {
       "id": "hgss4-18",
       "rarity": "Rare",
       "name": "Dragonite",
-      "number": "18"
+      "number": "18/102"
     },
     {
       "id": "hgss4-19",
       "rarity": "Rare",
       "name": "Dugtrio",
-      "number": "19"
+      "number": "19/102"
     },
     {
       "id": "hgss4-20",
       "rarity": "Rare",
       "name": "Electivire",
-      "number": "20"
+      "number": "20/102"
     },
     {
       "id": "hgss4-21",
       "rarity": "Rare",
       "name": "Elekid",
-      "number": "21"
+      "number": "21/102"
     },
     {
       "id": "hgss4-22",
       "rarity": "Rare",
       "name": "Golduck",
-      "number": "22"
+      "number": "22/102"
     },
     {
       "id": "hgss4-23",
       "rarity": "Rare",
       "name": "Grumpig",
-      "number": "23"
+      "number": "23/102"
     },
     {
       "id": "hgss4-24",
       "rarity": "Rare",
       "name": "Kricketune",
-      "number": "24"
+      "number": "24/102"
     },
     {
       "id": "hgss4-25",
       "rarity": "Rare",
       "name": "Lunatone",
-      "number": "25"
+      "number": "25/102"
     },
     {
       "id": "hgss4-26",
       "rarity": "Rare",
       "name": "Machamp",
-      "number": "26"
+      "number": "26/102"
     },
     {
       "id": "hgss4-27",
       "rarity": "Rare",
       "name": "Magmortar",
-      "number": "27"
+      "number": "27/102"
     },
     {
       "id": "hgss4-28",
       "rarity": "Rare",
       "name": "Nidoqueen",
-      "number": "28"
+      "number": "28/102"
     },
     {
       "id": "hgss4-29",
       "rarity": "Rare",
       "name": "Pidgeot",
-      "number": "29"
+      "number": "29/102"
     },
     {
       "id": "hgss4-30",
       "rarity": "Rare",
       "name": "Sharpedo",
-      "number": "30"
+      "number": "30/102"
     },
     {
       "id": "hgss4-31",
       "rarity": "Rare",
       "name": "Wailord",
-      "number": "31"
+      "number": "31/102"
     },
     {
       "id": "hgss4-32",
       "rarity": "Uncommon",
       "name": "Dragonair",
-      "number": "32"
+      "number": "32/102"
     },
     {
       "id": "hgss4-33",
       "rarity": "Uncommon",
       "name": "Electabuzz",
-      "number": "33"
+      "number": "33/102"
     },
     {
       "id": "hgss4-34",
       "rarity": "Uncommon",
       "name": "Electrode",
-      "number": "34"
+      "number": "34/102"
     },
     {
       "id": "hgss4-35",
       "rarity": "Uncommon",
       "name": "Haunter",
-      "number": "35"
+      "number": "35/102"
     },
     {
       "id": "hgss4-36",
       "rarity": "Uncommon",
       "name": "Kangaskhan",
-      "number": "36"
+      "number": "36/102"
     },
     {
       "id": "hgss4-37",
       "rarity": "Uncommon",
       "name": "Lairon",
-      "number": "37"
+      "number": "37/102"
     },
     {
       "id": "hgss4-38",
       "rarity": "Uncommon",
       "name": "Lickilicky",
-      "number": "38"
+      "number": "38/102"
     },
     {
       "id": "hgss4-39",
       "rarity": "Uncommon",
       "name": "Luvdisc",
-      "number": "39"
+      "number": "39/102"
     },
     {
       "id": "hgss4-40",
       "rarity": "Uncommon",
       "name": "Machoke",
-      "number": "40"
+      "number": "40/102"
     },
     {
       "id": "hgss4-41",
       "rarity": "Uncommon",
       "name": "Magby",
-      "number": "41"
+      "number": "41/102"
     },
     {
       "id": "hgss4-42",
       "rarity": "Uncommon",
       "name": "Magmar",
-      "number": "42"
+      "number": "42/102"
     },
     {
       "id": "hgss4-43",
       "rarity": "Uncommon",
       "name": "Magneton",
-      "number": "43"
+      "number": "43/102"
     },
     {
       "id": "hgss4-44",
       "rarity": "Uncommon",
       "name": "Marowak",
-      "number": "44"
+      "number": "44/102"
     },
     {
       "id": "hgss4-45",
       "rarity": "Uncommon",
       "name": "Nidorina",
-      "number": "45"
+      "number": "45/102"
     },
     {
       "id": "hgss4-46",
       "rarity": "Uncommon",
       "name": "Nidorino",
-      "number": "46"
+      "number": "46/102"
     },
     {
       "id": "hgss4-47",
       "rarity": "Uncommon",
       "name": "Pidgeotto",
-      "number": "47"
+      "number": "47/102"
     },
     {
       "id": "hgss4-48",
       "rarity": "Uncommon",
       "name": "Piloswine",
-      "number": "48"
+      "number": "48/102"
     },
     {
       "id": "hgss4-49",
       "rarity": "Uncommon",
       "name": "Porygon2",
-      "number": "49"
+      "number": "49/102"
     },
     {
       "id": "hgss4-50",
       "rarity": "Uncommon",
       "name": "Tentacruel",
-      "number": "50"
+      "number": "50/102"
     },
     {
       "id": "hgss4-51",
       "rarity": "Uncommon",
       "name": "Unown",
-      "number": "51"
+      "number": "51/102"
     },
     {
       "id": "hgss4-52",
       "rarity": "Uncommon",
       "name": "Wailmer",
-      "number": "52"
+      "number": "52/102"
     },
     {
       "id": "hgss4-53",
       "rarity": "Uncommon",
       "name": "Weepinbell",
-      "number": "53"
+      "number": "53/102"
     },
     {
       "id": "hgss4-54",
       "rarity": "Uncommon",
       "name": "Yanmega",
-      "number": "54"
+      "number": "54/102"
     },
     {
       "id": "hgss4-55",
       "rarity": "Common",
       "name": "Aipom",
-      "number": "55"
+      "number": "55/102"
     },
     {
       "id": "hgss4-56",
       "rarity": "Common",
       "name": "Aron",
-      "number": "56"
+      "number": "56/102"
     },
     {
       "id": "hgss4-57",
       "rarity": "Common",
       "name": "Bellsprout",
-      "number": "57"
+      "number": "57/102"
     },
     {
       "id": "hgss4-58",
       "rarity": "Common",
       "name": "Bronzor",
-      "number": "58"
+      "number": "58/102"
     },
     {
       "id": "hgss4-59",
       "rarity": "Common",
       "name": "Carvanha",
-      "number": "59"
+      "number": "59/102"
     },
     {
       "id": "hgss4-60",
       "rarity": "Common",
       "name": "Cubone",
-      "number": "60"
+      "number": "60/102"
     },
     {
       "id": "hgss4-61",
       "rarity": "Common",
       "name": "Diglett",
-      "number": "61"
+      "number": "61/102"
     },
     {
       "id": "hgss4-62",
       "rarity": "Common",
       "name": "Dratini",
-      "number": "62"
+      "number": "62/102"
     },
     {
       "id": "hgss4-63",
       "rarity": "Common",
       "name": "Gastly",
-      "number": "63"
+      "number": "63/102"
     },
     {
       "id": "hgss4-64",
       "rarity": "Common",
       "name": "Illumise",
-      "number": "64"
+      "number": "64/102"
     },
     {
       "id": "hgss4-65",
       "rarity": "Common",
       "name": "Kricketot",
-      "number": "65"
+      "number": "65/102"
     },
     {
       "id": "hgss4-66",
       "rarity": "Common",
       "name": "Lickitung",
-      "number": "66"
+      "number": "66/102"
     },
     {
       "id": "hgss4-67",
       "rarity": "Common",
       "name": "Machop",
-      "number": "67"
+      "number": "67/102"
     },
     {
       "id": "hgss4-68",
       "rarity": "Common",
       "name": "Magnemite",
-      "number": "68"
+      "number": "68/102"
     },
     {
       "id": "hgss4-69",
       "rarity": "Common",
       "name": "Nidoran\u2640",
-      "number": "69"
+      "number": "69/102"
     },
     {
       "id": "hgss4-70",
       "rarity": "Common",
       "name": "Nidoran\u2642",
-      "number": "70"
+      "number": "70/102"
     },
     {
       "id": "hgss4-71",
       "rarity": "Common",
       "name": "Pidgey",
-      "number": "71"
+      "number": "71/102"
     },
     {
       "id": "hgss4-72",
       "rarity": "Common",
       "name": "Ponyta",
-      "number": "72"
+      "number": "72/102"
     },
     {
       "id": "hgss4-73",
       "rarity": "Common",
       "name": "Porygon",
-      "number": "73"
+      "number": "73/102"
     },
     {
       "id": "hgss4-74",
       "rarity": "Common",
       "name": "Psyduck",
-      "number": "74"
+      "number": "74/102"
     },
     {
       "id": "hgss4-75",
       "rarity": "Common",
       "name": "Shuppet",
-      "number": "75"
+      "number": "75/102"
     },
     {
       "id": "hgss4-76",
       "rarity": "Common",
       "name": "Skorupi",
-      "number": "76"
+      "number": "76/102"
     },
     {
       "id": "hgss4-77",
       "rarity": "Common",
       "name": "Spoink",
-      "number": "77"
+      "number": "77/102"
     },
     {
       "id": "hgss4-78",
       "rarity": "Common",
       "name": "Swablu",
-      "number": "78"
+      "number": "78/102"
     },
     {
       "id": "hgss4-79",
       "rarity": "Common",
       "name": "Swinub",
-      "number": "79"
+      "number": "79/102"
     },
     {
       "id": "hgss4-80",
       "rarity": "Common",
       "name": "Tentacool",
-      "number": "80"
+      "number": "80/102"
     },
     {
       "id": "hgss4-81",
       "rarity": "Common",
       "name": "Venonat",
-      "number": "81"
+      "number": "81/102"
     },
     {
       "id": "hgss4-82",
       "rarity": "Common",
       "name": "Volbeat",
-      "number": "82"
+      "number": "82/102"
     },
     {
       "id": "hgss4-83",
       "rarity": "Common",
       "name": "Voltorb",
-      "number": "83"
+      "number": "83/102"
     },
     {
       "id": "hgss4-84",
       "rarity": "Common",
       "name": "Yanma",
-      "number": "84"
+      "number": "84/102"
     },
     {
       "id": "hgss4-85",
       "rarity": "Uncommon",
       "name": "Black Belt",
-      "number": "85"
+      "number": "85/102"
     },
     {
       "id": "hgss4-86",
       "rarity": "Uncommon",
       "name": "Indigo Plateau",
-      "number": "86"
+      "number": "86/102"
     },
     {
       "id": "hgss4-87",
       "rarity": "Uncommon",
       "name": "Junk Arm",
-      "number": "87"
+      "number": "87/102"
     },
     {
       "id": "hgss4-88",
       "rarity": "Uncommon",
       "name": "Seeker",
-      "number": "88"
+      "number": "88/102"
     },
     {
       "id": "hgss4-89",
       "rarity": "Uncommon",
       "name": "Twins",
-      "number": "89"
+      "number": "89/102"
     },
     {
       "id": "hgss4-90",
       "rarity": "Uncommon",
       "name": "Rescue Energy",
-      "number": "90"
+      "number": "90/102"
     },
     {
       "id": "hgss4-91",
-      "rarity": "Rare Prime",
+      "rarity": "Prime",
       "name": "Absol",
-      "number": "91"
+      "number": "91/102"
     },
     {
       "id": "hgss4-92",
-      "rarity": "Rare Prime",
+      "rarity": "Prime",
       "name": "Celebi",
-      "number": "92"
+      "number": "92/102"
     },
     {
       "id": "hgss4-93",
-      "rarity": "Rare Prime",
+      "rarity": "Prime",
       "name": "Electrode",
-      "number": "93"
+      "number": "93/102"
     },
     {
       "id": "hgss4-94",
-      "rarity": "Rare Prime",
+      "rarity": "Prime",
       "name": "Gengar",
-      "number": "94"
+      "number": "94/102"
     },
     {
       "id": "hgss4-95",
-      "rarity": "Rare Prime",
+      "rarity": "Prime",
       "name": "Machamp",
-      "number": "95"
+      "number": "95/102"
     },
     {
       "id": "hgss4-96",
-      "rarity": "Rare Prime",
+      "rarity": "Prime",
       "name": "Magnezone",
-      "number": "96"
+      "number": "96/102"
     },
     {
       "id": "hgss4-97",
-      "rarity": "Rare Prime",
+      "rarity": "Prime",
       "name": "Mew",
-      "number": "97"
+      "number": "97/102"
     },
     {
       "id": "hgss4-98",
-      "rarity": "Rare Prime",
+      "rarity": "Prime",
       "name": "Yanmega",
-      "number": "98"
+      "number": "98/102"
     },
     {
       "id": "hgss4-99",
       "rarity": "LEGEND",
       "name": "Darkrai & Cresselia LEGEND",
-      "number": "99"
+      "number": "99/102"
     },
     {
       "id": "hgss4-100",
       "rarity": "LEGEND",
       "name": "Darkrai & Cresselia LEGEND",
-      "number": "100"
+      "number": "100/102"
     },
     {
       "id": "hgss4-101",
       "rarity": "LEGEND",
       "name": "Palkia & Dialga LEGEND",
-      "number": "101"
+      "number": "101/102"
     },
     {
       "id": "hgss4-102",
       "rarity": "LEGEND",
       "name": "Palkia & Dialga LEGEND",
-      "number": "102"
+      "number": "102/102"
     },
     {
       "id": "hgss4-FOUR",
-      "rarity": "Rare Holo",
+      "rarity": "Secret Rare",
       "name": "Alph Lithograph",
       "number": "FOUR"
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "Celebi",
+      "number": "3/102",
+      "rarity": "",
+      "id": "hgss4-ac-3",
+      "Description": "Non Holo Zoroark: Master of Illusions DVD exclusive"
+    },
+    {
+      "name": "Mamoswine",
+      "number": "5/102",
+      "rarity": "",
+      "id": "hgss4-ac-5-1",
+      "Description": "Cracked Ice Holo Verdant Frost theme deck exclusive"
+    },
+    {
+      "name": "Mamoswine",
+      "number": "5/102",
+      "rarity": "",
+      "id": "hgss4-ac-5-2",
+      "Description": "Non Holo Verdant Frost theme deck exclusive"
+    },
+    {
+      "name": "Nidoking",
+      "number": "6/102",
+      "rarity": "",
+      "id": "hgss4-ac-6-1",
+      "Description": "Cracked Ice Holo Royal Guard theme deck exclusive"
+    },
+    {
+      "name": "Nidoking",
+      "number": "6/102",
+      "rarity": "",
+      "id": "hgss4-ac-6-2",
+      "Description": "Non Holo Royal Guard theme deck exclusive"
+    },
+    {
+      "name": "Venomoth",
+      "number": "11/102",
+      "rarity": "",
+      "id": "hgss4-ac-11",
+      "Description": "Non Holo Verdant Frost theme deck exclusive"
+    },
+    {
+      "name": "Electivire",
+      "number": "20/102",
+      "rarity": "",
+      "id": "hgss4-ac-20-1",
+      "Description": "Triumphant stamp Prerelease promo"
+    },
+    {
+      "name": "Electivire",
+      "number": "20/102",
+      "rarity": "",
+      "id": "hgss4-ac-20-2",
+      "Description": "Staff \"Triumphant\" stamp Prerelease promo"
+    },
+    {
+      "name": "Black Belt",
+      "number": "85/102",
+      "rarity": "",
+      "id": "hgss4-ac-85",
+      "Description": "Crosshatch Holo 2011 Player Rewards (Tier 2)"
+    },
+    {
+      "name": "Junk Arm",
+      "number": "87/102",
+      "rarity": "",
+      "id": "hgss4-ac-87",
+      "Description": "Crosshatch Holo 2011 Player Rewards (Tier 2)"
+    },
+    {
+      "name": "Seeker",
+      "number": "88/102",
+      "rarity": "",
+      "id": "hgss4-ac-88",
+      "Description": "Crosshatch Holo 2011 Player Rewards (Tier 3)"
+    }
+  ],
+  "misprints": []
 }

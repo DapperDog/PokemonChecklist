@@ -1,647 +1,775 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Core",
+    "Reverse"
   ],
   "coreCards": [
     {
       "id": "col1-1",
       "rarity": "Rare Holo",
       "name": "Clefable",
-      "number": "1"
+      "number": "1/95"
     },
     {
       "id": "col1-2",
       "rarity": "Rare Holo",
       "name": "Deoxys",
-      "number": "2"
+      "number": "2/95"
     },
     {
       "id": "col1-3",
       "rarity": "Rare Holo",
       "name": "Dialga",
-      "number": "3"
+      "number": "3/95"
     },
     {
       "id": "col1-4",
       "rarity": "Rare Holo",
       "name": "Espeon",
-      "number": "4"
+      "number": "4/95"
     },
     {
       "id": "col1-5",
       "rarity": "Rare Holo",
       "name": "Forretress",
-      "number": "5"
+      "number": "5/95"
     },
     {
       "id": "col1-6",
       "rarity": "Rare Holo",
       "name": "Groudon",
-      "number": "6"
+      "number": "6/95"
     },
     {
       "id": "col1-7",
       "rarity": "Rare Holo",
       "name": "Gyarados",
-      "number": "7"
+      "number": "7/95"
     },
     {
       "id": "col1-8",
       "rarity": "Rare Holo",
       "name": "Hitmontop",
-      "number": "8"
+      "number": "8/95"
     },
     {
       "id": "col1-9",
       "rarity": "Rare Holo",
       "name": "Ho-Oh",
-      "number": "9"
+      "number": "9/95"
     },
     {
       "id": "col1-10",
       "rarity": "Rare Holo",
       "name": "Houndoom",
-      "number": "10"
+      "number": "10/95"
     },
     {
       "id": "col1-11",
       "rarity": "Rare Holo",
       "name": "Jirachi",
-      "number": "11"
+      "number": "11/95"
     },
     {
       "id": "col1-12",
       "rarity": "Rare Holo",
       "name": "Kyogre",
-      "number": "12"
+      "number": "12/95"
     },
     {
       "id": "col1-13",
       "rarity": "Rare Holo",
       "name": "Leafeon",
-      "number": "13"
+      "number": "13/95"
     },
     {
       "id": "col1-14",
       "rarity": "Rare Holo",
       "name": "Lucario",
-      "number": "14"
+      "number": "14/95"
     },
     {
       "id": "col1-15",
       "rarity": "Rare Holo",
       "name": "Lugia",
-      "number": "15"
+      "number": "15/95"
     },
     {
       "id": "col1-16",
       "rarity": "Rare Holo",
       "name": "Magmortar",
-      "number": "16"
+      "number": "16/95"
     },
     {
       "id": "col1-17",
       "rarity": "Rare Holo",
       "name": "Ninetales",
-      "number": "17"
+      "number": "17/95"
     },
     {
       "id": "col1-18",
       "rarity": "Rare Holo",
       "name": "Pachirisu",
-      "number": "18"
+      "number": "18/95"
     },
     {
       "id": "col1-19",
       "rarity": "Rare Holo",
       "name": "Palkia",
-      "number": "19"
+      "number": "19/95"
     },
     {
       "id": "col1-20",
       "rarity": "Rare Holo",
       "name": "Rayquaza",
-      "number": "20"
+      "number": "20/95"
     },
     {
       "id": "col1-21",
       "rarity": "Rare Holo",
       "name": "Smeargle",
-      "number": "21"
+      "number": "21/95"
     },
     {
       "id": "col1-22",
       "rarity": "Rare Holo",
       "name": "Umbreon",
-      "number": "22"
+      "number": "22/95"
     },
     {
       "id": "col1-23",
       "rarity": "Rare",
       "name": "Ampharos",
-      "number": "23"
+      "number": "23/95"
     },
     {
       "id": "col1-24",
       "rarity": "Rare",
       "name": "Cleffa",
-      "number": "24"
+      "number": "24/95"
     },
     {
       "id": "col1-25",
       "rarity": "Rare",
       "name": "Feraligatr",
-      "number": "25"
+      "number": "25/95"
     },
     {
       "id": "col1-26",
       "rarity": "Rare",
       "name": "Granbull",
-      "number": "26"
+      "number": "26/95"
     },
     {
       "id": "col1-27",
       "rarity": "Rare",
       "name": "Meganium",
-      "number": "27"
+      "number": "27/95"
     },
     {
       "id": "col1-28",
       "rarity": "Rare",
       "name": "Mismagius",
-      "number": "28"
+      "number": "28/95"
     },
     {
       "id": "col1-29",
       "rarity": "Rare",
       "name": "Mr. Mime",
-      "number": "29"
+      "number": "29/95"
     },
     {
       "id": "col1-30",
       "rarity": "Rare",
       "name": "Pidgeot",
-      "number": "30"
+      "number": "30/95"
     },
     {
       "id": "col1-31",
       "rarity": "Rare",
       "name": "Skarmory",
-      "number": "31"
+      "number": "31/95"
     },
     {
       "id": "col1-32",
       "rarity": "Rare",
       "name": "Slowking",
-      "number": "32"
+      "number": "32/95"
     },
     {
       "id": "col1-33",
       "rarity": "Rare",
       "name": "Snorlax",
-      "number": "33"
+      "number": "33/95"
     },
     {
       "id": "col1-34",
       "rarity": "Rare",
       "name": "Tangrowth",
-      "number": "34"
+      "number": "34/95"
     },
     {
       "id": "col1-35",
       "rarity": "Rare",
       "name": "Typhlosion",
-      "number": "35"
+      "number": "35/95"
     },
     {
       "id": "col1-36",
       "rarity": "Rare",
       "name": "Tyrogue",
-      "number": "36"
+      "number": "36/95"
     },
     {
       "id": "col1-37",
       "rarity": "Rare",
       "name": "Ursaring",
-      "number": "37"
+      "number": "37/95"
     },
     {
       "id": "col1-38",
       "rarity": "Rare",
       "name": "Weezing",
-      "number": "38"
+      "number": "38/95"
     },
     {
       "id": "col1-39",
       "rarity": "Rare",
       "name": "Zangoose",
-      "number": "39"
+      "number": "39/95"
     },
     {
       "id": "col1-40",
       "rarity": "Uncommon",
       "name": "Bayleef",
-      "number": "40"
+      "number": "40/95"
     },
     {
       "id": "col1-41",
       "rarity": "Uncommon",
       "name": "Croconaw",
-      "number": "41"
+      "number": "41/95"
     },
     {
       "id": "col1-42",
       "rarity": "Uncommon",
       "name": "Donphan",
-      "number": "42"
+      "number": "42/95"
     },
     {
       "id": "col1-43",
       "rarity": "Uncommon",
       "name": "Flaaffy",
-      "number": "43"
+      "number": "43/95"
     },
     {
       "id": "col1-44",
       "rarity": "Uncommon",
       "name": "Flareon",
-      "number": "44"
+      "number": "44/95"
     },
     {
       "id": "col1-45",
       "rarity": "Uncommon",
       "name": "Jolteon",
-      "number": "45"
+      "number": "45/95"
     },
     {
       "id": "col1-46",
       "rarity": "Uncommon",
       "name": "Magby",
-      "number": "46"
+      "number": "46/95"
     },
     {
       "id": "col1-47",
       "rarity": "Uncommon",
       "name": "Mime Jr.",
-      "number": "47"
+      "number": "47/95"
     },
     {
       "id": "col1-48",
       "rarity": "Uncommon",
       "name": "Pidgeotto",
-      "number": "48"
+      "number": "48/95"
     },
     {
       "id": "col1-49",
       "rarity": "Uncommon",
       "name": "Quilava",
-      "number": "49"
+      "number": "49/95"
     },
     {
       "id": "col1-50",
       "rarity": "Uncommon",
       "name": "Riolu",
-      "number": "50"
+      "number": "50/95"
     },
     {
       "id": "col1-51",
       "rarity": "Uncommon",
       "name": "Seviper",
-      "number": "51"
+      "number": "51/95"
     },
     {
       "id": "col1-52",
       "rarity": "Uncommon",
       "name": "Vaporeon",
-      "number": "52"
+      "number": "52/95"
     },
     {
       "id": "col1-53",
       "rarity": "Common",
       "name": "Chikorita",
-      "number": "53"
+      "number": "53/95"
     },
     {
       "id": "col1-54",
       "rarity": "Common",
       "name": "Clefairy",
-      "number": "54"
+      "number": "54/95"
     },
     {
       "id": "col1-55",
       "rarity": "Common",
       "name": "Cyndaquil",
-      "number": "55"
+      "number": "55/95"
     },
     {
       "id": "col1-56",
       "rarity": "Common",
       "name": "Eevee",
-      "number": "56"
+      "number": "56/95"
     },
     {
       "id": "col1-57",
       "rarity": "Common",
       "name": "Hitmonchan",
-      "number": "57"
+      "number": "57/95"
     },
     {
       "id": "col1-58",
       "rarity": "Common",
       "name": "Hitmonlee",
-      "number": "58"
+      "number": "58/95"
     },
     {
       "id": "col1-59",
       "rarity": "Common",
       "name": "Houndour",
-      "number": "59"
+      "number": "59/95"
     },
     {
       "id": "col1-60",
       "rarity": "Common",
       "name": "Koffing",
-      "number": "60"
+      "number": "60/95"
     },
     {
       "id": "col1-61",
       "rarity": "Common",
       "name": "Magikarp",
-      "number": "61"
+      "number": "61/95"
     },
     {
       "id": "col1-62",
       "rarity": "Common",
       "name": "Magmar",
-      "number": "62"
+      "number": "62/95"
     },
     {
       "id": "col1-63",
       "rarity": "Common",
       "name": "Mareep",
-      "number": "63"
+      "number": "63/95"
     },
     {
       "id": "col1-64",
       "rarity": "Common",
       "name": "Mawile",
-      "number": "64"
+      "number": "64/95"
     },
     {
       "id": "col1-65",
       "rarity": "Common",
       "name": "Misdreavus",
-      "number": "65"
+      "number": "65/95"
     },
     {
       "id": "col1-66",
       "rarity": "Common",
       "name": "Phanpy",
-      "number": "66"
+      "number": "66/95"
     },
     {
       "id": "col1-67",
       "rarity": "Common",
       "name": "Pidgey",
-      "number": "67"
+      "number": "67/95"
     },
     {
       "id": "col1-68",
       "rarity": "Common",
       "name": "Pineco",
-      "number": "68"
+      "number": "68/95"
     },
     {
       "id": "col1-69",
       "rarity": "Common",
       "name": "Relicanth",
-      "number": "69"
+      "number": "69/95"
     },
     {
       "id": "col1-70",
       "rarity": "Common",
       "name": "Slowpoke",
-      "number": "70"
+      "number": "70/95"
     },
     {
       "id": "col1-71",
       "rarity": "Common",
       "name": "Snubbull",
-      "number": "71"
+      "number": "71/95"
     },
     {
       "id": "col1-72",
       "rarity": "Common",
       "name": "Tangela",
-      "number": "72"
+      "number": "72/95"
     },
     {
       "id": "col1-73",
       "rarity": "Common",
       "name": "Teddiursa",
-      "number": "73"
+      "number": "73/95"
     },
     {
       "id": "col1-74",
       "rarity": "Common",
       "name": "Totodile",
-      "number": "74"
+      "number": "74/95"
     },
     {
       "id": "col1-75",
       "rarity": "Common",
       "name": "Vulpix",
-      "number": "75"
+      "number": "75/95"
     },
     {
       "id": "col1-76",
       "rarity": "Uncommon",
       "name": "Cheerleader's Cheer",
-      "number": "76"
+      "number": "76/95"
     },
     {
       "id": "col1-77",
       "rarity": "Uncommon",
       "name": "Copycat",
-      "number": "77"
+      "number": "77/95"
     },
     {
       "id": "col1-78",
       "rarity": "Uncommon",
       "name": "Dual Ball",
-      "number": "78"
+      "number": "78/95"
     },
     {
       "id": "col1-79",
       "rarity": "Uncommon",
       "name": "Interviewer's Questions",
-      "number": "79"
+      "number": "79/95"
     },
     {
       "id": "col1-80",
       "rarity": "Uncommon",
       "name": "Lost Remover",
-      "number": "80"
+      "number": "80/95"
     },
     {
       "id": "col1-81",
       "rarity": "Uncommon",
       "name": "Lost World",
-      "number": "81"
+      "number": "81/95"
     },
     {
       "id": "col1-82",
       "rarity": "Uncommon",
       "name": "Professor Elm's Training Method",
-      "number": "82"
+      "number": "82/95"
     },
     {
       "id": "col1-83",
       "rarity": "Uncommon",
       "name": "Professor Oak's New Theory",
-      "number": "83"
+      "number": "83/95"
     },
     {
       "id": "col1-84",
       "rarity": "Uncommon",
       "name": "Research Record",
-      "number": "84"
+      "number": "84/95"
     },
     {
       "id": "col1-85",
       "rarity": "Uncommon",
       "name": "Sage's Training",
-      "number": "85"
+      "number": "85/95"
     },
     {
       "id": "col1-86",
       "rarity": "Uncommon",
       "name": "Darkness Energy",
-      "number": "86"
+      "number": "86/95"
     },
     {
       "id": "col1-87",
       "rarity": "Uncommon",
       "name": "Metal Energy",
-      "number": "87"
+      "number": "87/95"
     },
     {
       "id": "col1-88",
       "rarity": "Common",
       "name": "Grass Energy",
-      "number": "88"
+      "number": "88/95",
+      "variants":["reverse"]
     },
     {
       "id": "col1-89",
       "rarity": "Common",
       "name": "Fire Energy",
-      "number": "89"
+      "number": "89/95",
+      "variants":["reverse"]
     },
     {
       "id": "col1-90",
       "rarity": "Common",
       "name": "Water Energy",
-      "number": "90"
+      "number": "90/95",
+      "variants":["reverse"]
     },
     {
       "id": "col1-91",
       "rarity": "Common",
       "name": "Lightning Energy",
-      "number": "91"
+      "number": "91/95",
+      "variants":["reverse"]
     },
     {
       "id": "col1-92",
       "rarity": "Common",
       "name": "Psychic Energy",
-      "number": "92"
+      "number": "92/95",
+      "variants":["reverse"]
     },
     {
       "id": "col1-93",
       "rarity": "Common",
       "name": "Fighting Energy",
-      "number": "93"
+      "number": "93/95",
+      "variants":["reverse"]
     },
     {
       "id": "col1-94",
       "rarity": "Common",
       "name": "Darkness Energy",
-      "number": "94"
+      "number": "94/95",
+      "variants":["reverse"]
     },
     {
       "id": "col1-95",
       "rarity": "Common",
       "name": "Metal Energy",
-      "number": "95"
+      "number": "95/95",
+      "variants":["reverse"]
     },
     {
       "id": "col1-SL1",
-      "rarity": "Rare Holo",
+      "rarity": "Secret Rare",
       "name": "Deoxys",
       "number": "SL1"
     },
     {
       "id": "col1-SL2",
-      "rarity": "Rare Holo",
+      "rarity": "Secret Rare",
       "name": "Dialga",
       "number": "SL2"
     },
     {
       "id": "col1-SL3",
-      "rarity": "Rare Holo",
+      "rarity": "Secret Rare",
       "name": "Entei",
       "number": "SL3"
     },
     {
       "id": "col1-SL4",
-      "rarity": "Rare Holo",
+      "rarity": "Secret Rare",
       "name": "Groudon",
       "number": "SL4"
     },
     {
       "id": "col1-SL5",
-      "rarity": "Rare Holo",
+      "rarity": "Secret Rare",
       "name": "Ho-Oh",
       "number": "SL5"
     },
     {
       "id": "col1-SL6",
-      "rarity": "Rare Holo",
+      "rarity": "Secret Rare",
       "name": "Kyogre",
       "number": "SL6"
     },
     {
       "id": "col1-SL7",
-      "rarity": "Rare Holo",
+      "rarity": "Secret Rare",
       "name": "Lugia",
       "number": "SL7"
     },
     {
       "id": "col1-SL8",
-      "rarity": "Rare Holo",
+      "rarity": "Secret Rare",
       "name": "Palkia",
       "number": "SL8"
     },
     {
       "id": "col1-SL9",
-      "rarity": "Rare Holo",
+      "rarity": "Secret Rare",
       "name": "Raikou",
       "number": "SL9"
     },
     {
       "id": "col1-SL10",
-      "rarity": "Rare Holo",
+      "rarity": "Secret Rare",
       "name": "Rayquaza",
       "number": "SL10"
     },
     {
       "id": "col1-SL11",
-      "rarity": "Rare Holo",
+      "rarity": "Secret Rare",
       "name": "Suicune",
       "number": "SL11"
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "Groudon",
+      "number": "6/95",
+      "rarity": "",
+      "id": "col1-ac-6",
+      "Description": "Non Holo Retort theme deck exclusive"
+    },
+    {
+      "name": "Hitmontop",
+      "number": "8/95",
+      "rarity": "",
+      "id": "col1-ac-8",
+      "Description": "Non Holo Retort theme deck exclusive"
+    },
+    {
+      "name": "Lucario",
+      "number": "14/95",
+      "rarity": "",
+      "id": "col1-ac-14-1",
+      "Description": "Cracked Ice Holo Retort theme deck exclusive"
+    },
+    {
+      "name": "Lucario",
+      "number": "14/95",
+      "rarity": "",
+      "id": "col1-ac-14-2",
+      "Description": "Non Holo Retort theme deck exclusive"
+    },
+    {
+      "name": "Magmortar",
+      "number": "16/95",
+      "rarity": "",
+      "id": "col1-ac-16",
+      "Description": "Non Holo Recon theme deck exclusive"
+    },
+    {
+      "name": "Ninetales",
+      "number": "17/95",
+      "rarity": "",
+      "id": "col1-ac-17",
+      "Description": "Non Holo Recon theme deck exclusive"
+    },
+    {
+      "name": "Snorlax",
+      "number": "33/95",
+      "rarity": "",
+      "id": "col1-ac-33-1",
+      "Description": "Call of Legends stamp Prerelease promo"
+    },
+    {
+      "name": "Snorlax",
+      "number": "33/95",
+      "rarity": "",
+      "id": "col1-ac-33-2",
+      "Description": "Staff Call of Legends stamp Prerelease promo"
+    },
+    {
+      "name": "Tangrowth",
+      "number": "34/95",
+      "rarity": "",
+      "id": "col1-ac-34",
+      "Description": "Cracked Ice Holo Recon theme deck exclusive"
+    },
+    {
+      "name": "Grass Energy",
+      "number": "88/95",
+      "rarity": "",
+      "id": "col1-ac-88",
+      "Description": "Crosshatch Holo 2011 Player Rewards (Tier 1)"
+    },
+    {
+      "name": "Fire Energy",
+      "number": "89/95",
+      "rarity": "",
+      "id": "col1-ac-89",
+      "Description": "Crosshatch Holo 2011 Player Rewards (Tier 1)"
+    },
+    {
+      "name": "Water Energy",
+      "number": "90/95",
+      "rarity": "",
+      "id": "col1-ac-90",
+      "Description": "Crosshatch Holo 2011 Player Rewards (Tier 1)"
+    },
+    {
+      "name": "Lightning Energy",
+      "number": "91/95",
+      "rarity": "",
+      "id": "col1-ac-91",
+      "Description": "Crosshatch Holo 2011 Player Rewards (Tier 1)"
+    },
+    {
+      "name": "Psychic Energy",
+      "number": "92/95",
+      "rarity": "",
+      "id": "col1-ac-92",
+      "Description": "Crosshatch Holo 2011 Player Rewards (Tier 1)"
+    },
+    {
+      "name": "Fighting Energy",
+      "number": "93/95",
+      "rarity": "",
+      "id": "col1-ac-93",
+      "Description": "Crosshatch Holo 2011 Player Rewards (Tier 1)"
+    },
+    {
+      "name": "Darkness Energy",
+      "number": "94/95",
+      "rarity": "",
+      "id": "col1-ac-94",
+      "Description": "Crosshatch Holo 2011 Player Rewards (Tier 1)"
+    },
+    {
+      "name": "Metal Energy",
+      "number": "95/95",
+      "rarity": "",
+      "id": "col1-ac-95",
+      "Description": "Crosshatch Holo 2011 Player Rewards (Tier 1)"
+    }
+  ],
+  "misprints": []
 }

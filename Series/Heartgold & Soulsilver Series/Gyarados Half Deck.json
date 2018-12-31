@@ -1,17 +1,190 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Have"
   ],
   "coreCards": [
     {
-      "id": "placeholder-1",
+      "name": "Totodile",
+      "number": "1/123",
       "rarity": "Common",
-      "name": "placeholder pkmn",
-      "number": "1"
+      "id": "hgss-gyarados-1"
+    },
+    {
+      "name": "Water Energy",
+      "number": 2"/123",
+      "rarity": "Common",
+      "id": "hgss-gyarados-2"
+    },
+    {
+      "name": "Water Energy",
+      "number": "3/123",
+      "rarity": "Common",
+      "id": "hgss-gyarados-3"
+    },
+    {
+      "name": "Water Energy",
+      "number": "4/123",
+      "rarity": "Common",
+      "id": "hgss-gyarados-4"
+    },
+    {
+      "name": "Bill",
+      "number": "5/123",
+      "rarity": "Common",
+      "id": "hgss-gyarados-5"
+    },
+    {
+      "name": "Water Energy",
+      "number": "6/123",
+      "rarity": "Common",
+      "id": "hgss-gyarados-6"
+    },
+    {
+      "name": "Water Energy",
+      "number": "7/123",
+      "rarity": "Common",
+      "id": "hgss-gyarados-7"
+    },
+    {
+      "name": "Water Energy",
+      "number": "8/123",
+      "rarity": "Common",
+      "id": "hgss-gyarados-8"
+    },
+    {
+      "name": "Water Energy",
+      "number": "9/123",
+      "rarity": "Common",
+      "id": "hgss-gyarados-9"
+    },
+    {
+      "name": "Water Energy",
+      "number": "10/123",
+      "rarity": "Common",
+      "id": "hgss-gyarados-10"
+    },
+    {
+      "name": "Water Energy",
+      "number": "11/123",
+      "rarity": "Common",
+      "id": "hgss-gyarados-11"
+    },
+    {
+      "name": "Magikarp",
+      "number": "12/123",
+      "rarity": "Common",
+      "id": "hgss-gyarados-12"
+    },
+    {
+      "name": "Croconaw",
+      "number": "13/123",
+      "rarity": "Common",
+      "id": "hgss-gyarados-13"
+    },
+    {
+      "name": "Totodile",
+      "number": "14/123",
+      "rarity": "Common",
+      "id": "hgss-gyarados-14"
+    },
+    {
+      "name": "Marill",
+      "number": "15/123",
+      "rarity": "Common",
+      "id": "hgss-gyarados-15"
+    },
+    {
+      "name": "Water Energy",
+      "number": "16/123",
+      "rarity": "Common",
+      "id": "hgss-gyarados-16"
+    },
+    {
+      "name": "Croconaw",
+      "number": "17/123",
+      "rarity": "Common",
+      "id": "hgss-gyarados-17"
+    },
+    {
+      "name": "Bill",
+      "number": "18/123",
+      "rarity": "Common",
+      "id": "hgss-gyarados-18"
+    },
+    {
+      "name": "Magikarp",
+      "number": "19/123",
+      "rarity": "Common",
+      "id": "hgss-gyarados-19"
+    },
+    {
+      "name": "Gyarados",
+      "number": "20/123",
+      "rarity": "Common",
+      "id": "hgss-gyarados-20"
+    },
+    {
+      "name": "Energy Switch",
+      "number": "21/123",
+      "rarity": "Common",
+      "id": "hgss-gyarados-21"
+    },
+    {
+      "name": "Pokemon Communication",
+      "number": "22/123",
+      "rarity": "Common",
+      "id": "hgss-gyarados-22"
+    },
+    {
+      "name": "Poke Ball",
+      "number": "23/123",
+      "rarity": "Common",
+      "id": "hgss-gyarados-23"
+    },
+    {
+      "name": "Marill",
+      "number": "24/123",
+      "rarity": "Common",
+      "id": "hgss-gyarados-24"
+    },
+    {
+      "name": "Professor Elm's Training Method",
+      "number": "25/123",
+      "rarity": "Common",
+      "id": "hgss-gyarados-25"
+    },
+    {
+      "name": "Water Energy",
+      "number": "26/123",
+      "rarity": "Common",
+      "id": "hgss-gyarados-26"
+    },
+    {
+      "name": "Pokemon Communication",
+      "number": "27/123",
+      "rarity": "Common",
+      "id": "hgss-gyarados-27"
+    },
+    {
+      "name": "Switch",
+      "number": "28/123",
+      "rarity": "Common",
+      "id": "hgss-gyarados-28"
+    },
+    {
+      "name": "Water Energy",
+      "number": "29/123",
+      "rarity": "Common",
+      "id": "hgss-gyarados-29"
+    },
+    {
+      "name": "Gyarados",
+      "number": "30/123",
+      "rarity": "Common",
+      "id": "hgss-gyarados-30"
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }

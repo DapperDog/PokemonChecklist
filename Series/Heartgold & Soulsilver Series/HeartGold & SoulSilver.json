@@ -1,755 +1,925 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Core",
+    "Reverse"
   ],
   "coreCards": [
     {
       "id": "hgss1-1",
       "rarity": "Rare Holo",
       "name": "Arcanine",
-      "number": "1"
+      "number": "1/123"
     },
     {
       "id": "hgss1-2",
       "rarity": "Rare Holo",
       "name": "Azumarill",
-      "number": "2"
+      "number": "2/123"
     },
     {
       "id": "hgss1-3",
       "rarity": "Rare Holo",
       "name": "Clefable",
-      "number": "3"
+      "number": "3/123"
     },
     {
       "id": "hgss1-4",
       "rarity": "Rare Holo",
       "name": "Gyarados",
-      "number": "4"
+      "number": "4/123"
     },
     {
       "id": "hgss1-5",
       "rarity": "Rare Holo",
       "name": "Hitmontop",
-      "number": "5"
+      "number": "5/123"
     },
     {
       "id": "hgss1-6",
       "rarity": "Rare Holo",
       "name": "Jumpluff",
-      "number": "6"
+      "number": "6/123"
     },
     {
       "id": "hgss1-7",
       "rarity": "Rare Holo",
       "name": "Ninetales",
-      "number": "7"
+      "number": "7/123"
     },
     {
       "id": "hgss1-8",
       "rarity": "Rare Holo",
       "name": "Noctowl",
-      "number": "8"
+      "number": "8/123"
     },
     {
       "id": "hgss1-9",
       "rarity": "Rare Holo",
       "name": "Quagsire",
-      "number": "9"
+      "number": "9/123"
     },
     {
       "id": "hgss1-10",
       "rarity": "Rare Holo",
       "name": "Raichu",
-      "number": "10"
+      "number": "10/123"
     },
     {
       "id": "hgss1-11",
       "rarity": "Rare Holo",
       "name": "Shuckle",
-      "number": "11"
+      "number": "11/123"
     },
     {
       "id": "hgss1-12",
       "rarity": "Rare Holo",
       "name": "Slowking",
-      "number": "12"
+      "number": "12/123"
     },
     {
       "id": "hgss1-13",
       "rarity": "Rare Holo",
       "name": "Wobbuffet",
-      "number": "13"
+      "number": "13/123"
     },
     {
       "id": "hgss1-14",
       "rarity": "Rare",
       "name": "Ampharos",
-      "number": "14"
+      "number": "14/123"
     },
     {
       "id": "hgss1-15",
       "rarity": "Rare",
       "name": "Ariados",
-      "number": "15"
+      "number": "15/123"
     },
     {
       "id": "hgss1-16",
       "rarity": "Rare",
       "name": "Butterfree",
-      "number": "16"
+      "number": "16/123"
     },
     {
       "id": "hgss1-17",
       "rarity": "Rare",
       "name": "Cleffa",
-      "number": "17"
+      "number": "17/123"
     },
     {
       "id": "hgss1-18",
       "rarity": "Rare",
       "name": "Exeggutor",
-      "number": "18"
+      "number": "18/123"
     },
     {
       "id": "hgss1-19",
       "rarity": "Rare",
       "name": "Farfetch'd",
-      "number": "19"
+      "number": "19/123"
     },
     {
       "id": "hgss1-20",
       "rarity": "Rare",
       "name": "Feraligatr",
-      "number": "20"
+      "number": "20/123"
     },
     {
       "id": "hgss1-21",
       "rarity": "Rare",
       "name": "Furret",
-      "number": "21"
+      "number": "21/123"
     },
     {
       "id": "hgss1-22",
       "rarity": "Rare",
       "name": "Granbull",
-      "number": "22"
+      "number": "22/123"
     },
     {
       "id": "hgss1-23",
       "rarity": "Rare",
       "name": "Hypno",
-      "number": "23"
+      "number": "23/123"
     },
     {
       "id": "hgss1-24",
       "rarity": "Rare",
       "name": "Lapras",
-      "number": "24"
+      "number": "24/123"
     },
     {
       "id": "hgss1-25",
       "rarity": "Rare",
       "name": "Ledian",
-      "number": "25"
+      "number": "25/123"
     },
     {
       "id": "hgss1-26",
       "rarity": "Rare",
       "name": "Meganium",
-      "number": "26"
+      "number": "26/123"
     },
     {
       "id": "hgss1-27",
       "rarity": "Rare",
       "name": "Persian",
-      "number": "27"
+      "number": "27/123"
     },
     {
       "id": "hgss1-28",
       "rarity": "Rare",
       "name": "Pichu",
-      "number": "28"
+      "number": "28/123"
     },
     {
       "id": "hgss1-29",
       "rarity": "Rare",
       "name": "Sandslash",
-      "number": "29"
+      "number": "29/123"
     },
     {
       "id": "hgss1-30",
       "rarity": "Rare",
       "name": "Smoochum",
-      "number": "30"
+      "number": "30/123"
     },
     {
       "id": "hgss1-31",
       "rarity": "Rare",
       "name": "Sunflora",
-      "number": "31"
+      "number": "31/123"
     },
     {
       "id": "hgss1-32",
       "rarity": "Rare",
       "name": "Typhlosion",
-      "number": "32"
+      "number": "32/123"
     },
     {
       "id": "hgss1-33",
       "rarity": "Rare",
       "name": "Tyrogue",
-      "number": "33"
+      "number": "33/123"
     },
     {
       "id": "hgss1-34",
       "rarity": "Rare",
       "name": "Weezing",
-      "number": "34"
+      "number": "34/123"
     },
     {
       "id": "hgss1-35",
       "rarity": "Uncommon",
       "name": "Bayleef",
-      "number": "35"
+      "number": "35/123"
     },
     {
       "id": "hgss1-36",
       "rarity": "Uncommon",
       "name": "Blissey",
-      "number": "36"
+      "number": "36/123"
     },
     {
       "id": "hgss1-37",
       "rarity": "Uncommon",
       "name": "Corsola",
-      "number": "37"
+      "number": "37/123"
     },
     {
       "id": "hgss1-38",
       "rarity": "Uncommon",
       "name": "Croconaw",
-      "number": "38"
+      "number": "38/123"
     },
     {
       "id": "hgss1-39",
       "rarity": "Uncommon",
       "name": "Delibird",
-      "number": "39"
+      "number": "39/123"
     },
     {
       "id": "hgss1-40",
       "rarity": "Uncommon",
       "name": "Donphan",
-      "number": "40"
+      "number": "40/123"
     },
     {
       "id": "hgss1-41",
       "rarity": "Uncommon",
       "name": "Dunsparce",
-      "number": "41"
+      "number": "41/123"
     },
     {
       "id": "hgss1-42",
       "rarity": "Uncommon",
       "name": "Flaaffy",
-      "number": "42"
+      "number": "42/123"
     },
     {
       "id": "hgss1-43",
       "rarity": "Uncommon",
       "name": "Heracross",
-      "number": "43"
+      "number": "43/123"
     },
     {
       "id": "hgss1-44",
       "rarity": "Uncommon",
       "name": "Igglybuff",
-      "number": "44"
+      "number": "44/123"
     },
     {
       "id": "hgss1-45",
       "rarity": "Uncommon",
       "name": "Mantine",
-      "number": "45"
+      "number": "45/123"
     },
     {
       "id": "hgss1-46",
       "rarity": "Uncommon",
       "name": "Metapod",
-      "number": "46"
+      "number": "46/123"
     },
     {
       "id": "hgss1-47",
       "rarity": "Uncommon",
       "name": "Miltank",
-      "number": "47"
+      "number": "47/123"
     },
     {
       "id": "hgss1-48",
       "rarity": "Uncommon",
       "name": "Parasect",
-      "number": "48"
+      "number": "48/123"
     },
     {
       "id": "hgss1-49",
       "rarity": "Uncommon",
       "name": "Quilava",
-      "number": "49"
+      "number": "49/123"
     },
     {
       "id": "hgss1-50",
       "rarity": "Uncommon",
       "name": "Qwilfish",
-      "number": "50"
+      "number": "50/123"
     },
     {
       "id": "hgss1-51",
       "rarity": "Uncommon",
       "name": "Skiploom",
-      "number": "51"
+      "number": "51/123"
     },
     {
       "id": "hgss1-52",
       "rarity": "Uncommon",
       "name": "Slowbro",
-      "number": "52"
+      "number": "52/123"
     },
     {
       "id": "hgss1-53",
       "rarity": "Uncommon",
       "name": "Starmie",
-      "number": "53"
+      "number": "53/123"
     },
     {
       "id": "hgss1-54",
       "rarity": "Uncommon",
       "name": "Unown",
-      "number": "54"
+      "number": "54/123"
     },
     {
       "id": "hgss1-55",
       "rarity": "Uncommon",
       "name": "Unown",
-      "number": "55"
+      "number": "55/123"
     },
     {
       "id": "hgss1-56",
       "rarity": "Uncommon",
       "name": "Wigglytuff",
-      "number": "56"
+      "number": "56/123"
     },
     {
       "id": "hgss1-57",
       "rarity": "Common",
       "name": "Caterpie",
-      "number": "57"
+      "number": "57/123"
     },
     {
       "id": "hgss1-58",
       "rarity": "Common",
       "name": "Chansey",
-      "number": "58"
+      "number": "58/123"
     },
     {
       "id": "hgss1-59",
       "rarity": "Common",
       "name": "Chikorita",
-      "number": "59"
+      "number": "59/123"
     },
     {
       "id": "hgss1-60",
       "rarity": "Common",
       "name": "Clefairy",
-      "number": "60"
+      "number": "60/123"
     },
     {
       "id": "hgss1-61",
       "rarity": "Common",
       "name": "Cyndaquil",
-      "number": "61"
+      "number": "61/123"
     },
     {
       "id": "hgss1-62",
       "rarity": "Common",
       "name": "Drowzee",
-      "number": "62"
+      "number": "62/123"
     },
     {
       "id": "hgss1-63",
       "rarity": "Common",
       "name": "Exeggcute",
-      "number": "63"
+      "number": "63/123"
     },
     {
       "id": "hgss1-64",
       "rarity": "Common",
       "name": "Girafarig",
-      "number": "64"
+      "number": "64/123"
     },
     {
       "id": "hgss1-65",
       "rarity": "Common",
       "name": "Growlithe",
-      "number": "65"
+      "number": "65/123"
     },
     {
       "id": "hgss1-66",
       "rarity": "Common",
       "name": "Hoothoot",
-      "number": "66"
+      "number": "66/123"
     },
     {
       "id": "hgss1-67",
       "rarity": "Common",
       "name": "Hoppip",
-      "number": "67"
+      "number": "67/123"
     },
     {
       "id": "hgss1-68",
       "rarity": "Common",
       "name": "Jigglypuff",
-      "number": "68"
+      "number": "68/123"
     },
     {
       "id": "hgss1-69",
       "rarity": "Common",
       "name": "Jynx",
-      "number": "69"
+      "number": "69/123"
     },
     {
       "id": "hgss1-70",
       "rarity": "Common",
       "name": "Koffing",
-      "number": "70"
+      "number": "70/123"
     },
     {
       "id": "hgss1-71",
       "rarity": "Common",
       "name": "Ledyba",
-      "number": "71"
+      "number": "71/123"
     },
     {
       "id": "hgss1-72",
       "rarity": "Common",
       "name": "Magikarp",
-      "number": "72"
+      "number": "72/123"
     },
     {
       "id": "hgss1-73",
       "rarity": "Common",
       "name": "Mareep",
-      "number": "73"
+      "number": "73/123"
     },
     {
       "id": "hgss1-74",
       "rarity": "Common",
       "name": "Marill",
-      "number": "74"
+      "number": "74/123"
     },
     {
       "id": "hgss1-75",
       "rarity": "Common",
       "name": "Meowth",
-      "number": "75"
+      "number": "75/123"
     },
     {
       "id": "hgss1-76",
       "rarity": "Common",
       "name": "Paras",
-      "number": "76"
+      "number": "76/123"
     },
     {
       "id": "hgss1-77",
       "rarity": "Common",
       "name": "Phanpy",
-      "number": "77"
+      "number": "77/123"
     },
     {
       "id": "hgss1-78",
       "rarity": "Common",
       "name": "Pikachu",
-      "number": "78"
+      "number": "78/123"
     },
     {
       "id": "hgss1-79",
       "rarity": "Common",
       "name": "Sandshrew",
-      "number": "79"
+      "number": "79/123"
     },
     {
       "id": "hgss1-80",
       "rarity": "Common",
       "name": "Sentret",
-      "number": "80"
+      "number": "80/123"
     },
     {
       "id": "hgss1-81",
       "rarity": "Common",
       "name": "Slowpoke",
-      "number": "81"
+      "number": "81/123"
     },
     {
       "id": "hgss1-82",
       "rarity": "Common",
       "name": "Snubbull",
-      "number": "82"
+      "number": "82/123"
     },
     {
       "id": "hgss1-83",
       "rarity": "Common",
       "name": "Spinarak",
-      "number": "83"
+      "number": "83/123"
     },
     {
       "id": "hgss1-84",
       "rarity": "Common",
       "name": "Staryu",
-      "number": "84"
+      "number": "84/123"
     },
     {
       "id": "hgss1-85",
       "rarity": "Common",
       "name": "Sunkern",
-      "number": "85"
+      "number": "85/123"
     },
     {
       "id": "hgss1-86",
       "rarity": "Common",
       "name": "Totodile",
-      "number": "86"
+      "number": "86/123"
     },
     {
       "id": "hgss1-87",
       "rarity": "Common",
       "name": "Vulpix",
-      "number": "87"
+      "number": "87/123"
     },
     {
       "id": "hgss1-88",
       "rarity": "Common",
       "name": "Wooper",
-      "number": "88"
+      "number": "88/123"
     },
     {
       "id": "hgss1-89",
       "rarity": "Uncommon",
       "name": "Bill",
-      "number": "89"
+      "number": "89/123"
     },
     {
       "id": "hgss1-90",
       "rarity": "Uncommon",
       "name": "Copycat",
-      "number": "90"
+      "number": "90/123"
     },
     {
       "id": "hgss1-91",
       "rarity": "Uncommon",
       "name": "Energy Switch",
-      "number": "91"
+      "number": "91/123"
     },
     {
       "id": "hgss1-92",
       "rarity": "Uncommon",
       "name": "Fisherman",
-      "number": "92"
+      "number": "92/123"
     },
     {
       "id": "hgss1-93",
       "rarity": "Uncommon",
       "name": "Full Heal",
-      "number": "93"
+      "number": "93/123"
     },
     {
       "id": "hgss1-94",
       "rarity": "Uncommon",
       "name": "Moomoo Milk",
-      "number": "94"
+      "number": "94/123"
     },
     {
       "id": "hgss1-95",
       "rarity": "Uncommon",
       "name": "Pok\u00e9 Ball",
-      "number": "95"
+      "number": "95/123"
     },
     {
       "id": "hgss1-96",
       "rarity": "Uncommon",
       "name": "Pok\u00e9gear3.0",
-      "number": "96"
+      "number": "96/123"
     },
     {
       "id": "hgss1-97",
       "rarity": "Uncommon",
       "name": "Pok\u00e9mon Collector",
-      "number": "97"
+      "number": "97/123"
     },
     {
       "id": "hgss1-98",
       "rarity": "Uncommon",
       "name": "Pok\u00e9mon Communication",
-      "number": "98"
+      "number": "98/123"
     },
     {
       "id": "hgss1-99",
       "rarity": "Uncommon",
       "name": "Pok\u00e9mon Reversal",
-      "number": "99"
+      "number": "99/123"
     },
     {
       "id": "hgss1-100",
       "rarity": "Uncommon",
       "name": "Professor Elm's Training Method",
-      "number": "100"
+      "number": "100/123"
     },
     {
       "id": "hgss1-101",
       "rarity": "Uncommon",
       "name": "Professor Oak's New Theory",
-      "number": "101"
+      "number": "101/123"
     },
     {
       "id": "hgss1-102",
       "rarity": "Uncommon",
       "name": "Switch",
-      "number": "102"
+      "number": "102/123"
     },
     {
       "id": "hgss1-103",
       "rarity": "Uncommon",
       "name": "Double Colorless Energy",
-      "number": "103"
+      "number": "103/123"
     },
     {
       "id": "hgss1-104",
       "rarity": "Uncommon",
       "name": "Rainbow Energy",
-      "number": "104"
+      "number": "104/123"
     },
     {
       "id": "hgss1-105",
-      "rarity": "Rare Prime",
+      "rarity": "Prime",
       "name": "Ampharos",
-      "number": "105"
+      "number": "105/123"
     },
     {
       "id": "hgss1-106",
-      "rarity": "Rare Prime",
+      "rarity": "Prime",
       "name": "Blissey",
-      "number": "106"
+      "number": "106/123"
     },
     {
       "id": "hgss1-107",
-      "rarity": "Rare Prime",
+      "rarity": "Prime",
       "name": "Donphan",
-      "number": "107"
+      "number": "107/123"
     },
     {
       "id": "hgss1-108",
-      "rarity": "Rare Prime",
+      "rarity": "Prime",
       "name": "Feraligatr",
-      "number": "108"
+      "number": "108/123"
     },
     {
       "id": "hgss1-109",
-      "rarity": "Rare Prime",
+      "rarity": "Prime",
       "name": "Meganium",
-      "number": "109"
+      "number": "109/123"
     },
     {
       "id": "hgss1-110",
-      "rarity": "Rare Prime",
+      "rarity": "Prime",
       "name": "Typhlosion",
-      "number": "110"
+      "number": "110/123"
     },
     {
       "id": "hgss1-111",
       "rarity": "LEGEND",
       "name": "Ho-Oh LEGEND",
-      "number": "111"
+      "number": "111/123"
     },
     {
       "id": "hgss1-112",
       "rarity": "LEGEND",
       "name": "Ho-Oh LEGEND",
-      "number": "112"
+      "number": "112/123"
     },
     {
       "id": "hgss1-113",
       "rarity": "LEGEND",
       "name": "Lugia LEGEND",
-      "number": "113"
+      "number": "113/123"
     },
     {
       "id": "hgss1-114",
       "rarity": "LEGEND",
       "name": "Lugia LEGEND",
-      "number": "114"
+      "number": "114/123"
     },
     {
       "id": "hgss1-115",
       "rarity": "Common",
       "name": "Grass Energy",
-      "number": "115"
+      "number": "115/123",
+      "variants":["Core"]
     },
     {
       "id": "hgss1-116",
       "rarity": "Common",
       "name": "Fire Energy",
-      "number": "116"
+      "number": "116/123",
+      "variants":["Core"]
     },
     {
       "id": "hgss1-117",
       "rarity": "Common",
       "name": "Water Energy",
-      "number": "117"
+      "number": "117/123",
+      "variants":["Core"]
     },
     {
       "id": "hgss1-118",
       "rarity": "Common",
       "name": "Lightning Energy",
-      "number": "118"
+      "number": "118/123",
+      "variants":["Core"]
     },
     {
       "id": "hgss1-119",
       "rarity": "Common",
       "name": "Psychic Energy",
-      "number": "119"
+      "number": "119/123",
+      "variants":["Core"]
     },
     {
       "id": "hgss1-120",
       "rarity": "Common",
       "name": "Fighting Energy",
-      "number": "120"
+      "number": "120/123",
+      "variants":["Core"]
     },
     {
       "id": "hgss1-121",
       "rarity": "Common",
       "name": "Darkness Energy",
-      "number": "121"
+      "number": "121/123",
+      "variants":["Core"]
     },
     {
       "id": "hgss1-122",
       "rarity": "Common",
       "name": "Metal Energy",
-      "number": "122"
+      "number": "122/123",
+      "variants":["Core"]
     },
     {
       "id": "hgss1-123",
       "rarity": "Rare Holo",
       "name": "Gyarados",
-      "number": "123"
+      "number": "123/123"
     },
     {
       "id": "hgss1-ONE",
-      "rarity": "Rare Holo",
+      "rarity": "Secret Rare",
       "name": "Alph Lithograph",
       "number": "ONE"
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "Arcanine",
+      "number": "1/123",
+      "rarity": "",
+      "id": "hgss1-ac-1",
+      "Description": "Non Holo Ember Spark theme deck exclusive"
+    },
+    {
+      "name": "Gyarados",
+      "number": "4/123",
+      "rarity": "",
+      "id": "hgss1-ac-4",
+      "Description": "Cracked Ice Holo Player's Collection exclusive"
+    },
+    {
+      "name": "Ninetales",
+      "number": "7/123",
+      "rarity": "",
+      "id": "hgss1-ac-7",
+      "Description": "Cracked Ice Holo Stage 1 Blisters exclusive"
+    },
+    {
+      "name": "Noctowl",
+      "number": "8/123",
+      "rarity": "",
+      "id": "hgss1-ac-8",
+      "Description": "Non Holo Ember Spark theme deck exclusive"
+    },
+    {
+      "name": "Raichu",
+      "number": "10/123",
+      "rarity": "",
+      "id": "hgss1-ac-10",
+      "Description": "Cracked Ice Holo Player's Pack exclusive"
+    },
+    {
+      "name": "Feraligatr",
+      "number": "20/123",
+      "rarity": "",
+      "id": "hgss1-ac-20-1",
+      "Description": "Cosmos Holo Mind Flood theme deck exclusive"
+    },
+    {
+      "name": "Feraligatr",
+      "number": "20/123",
+      "rarity": "",
+      "id": "hgss1-ac-20-2",
+      "Description": "Cracked Ice Holo HeartGold & SoulSilver Series Collection exclusive"
+    },
+    {
+      "name": "Meganium",
+      "number": "26/123",
+      "rarity": "",
+      "id": "hgss1-ac-26-1",
+      "Description": "Cosmos Holo Growth Clash theme deck exclusive"
+    },
+    {
+      "name": "Meganium",
+      "number": "26/123",
+      "rarity": "",
+      "id": "hgss1-ac-26-2",
+      "Description": "Cracked Ice Holo HeartGold & SoulSilver Series Collection exclusive"
+    },
+    {
+      "name": "Pichu",
+      "number": "28/123",
+      "rarity": "",
+      "id": "hgss1-ac-28-1",
+      "Description": "HeartGold & SoulSilver stamp Prerelease promo"
+    },
+    {
+      "name": "Pichu",
+      "number": "28/123",
+      "rarity": "",
+      "id": "hgss1-ac-28-2",
+      "Description": "Staff HeartGold & SoulSilver stamp Prerelease promo"
+    },
+    {
+      "name": "Typhlosion",
+      "number": "32/123",
+      "rarity": "",
+      "id": "hgss1-ac-32-1",
+      "Description": "Cosmos Holo Ember Spark theme deck exclusive"
+    },
+    {
+      "name": "Typhlosion",
+      "number": "32/123",
+      "rarity": "",
+      "id": "hgss1-ac-32-2",
+      "Description": "Cracked Ice Holo HeartGold & SoulSilver Series Collection exclusive"
+    },
+    {
+      "name": "Delibird",
+      "number": "39/123",
+      "rarity": "",
+      "id": "hgss1-ac-39",
+      "Description": "Crosshatch Holo Pokémon League Snow Throw Season (December 2010)"
+    },
+    {
+      "name": "Donphan",
+      "number": "40/123",
+      "rarity": "",
+      "id": "hgss1-ac-40",
+      "Description": "Crosshatch Holo Pokémon League Ring Drop Season (September 2010)"
+    },
+    {
+      "name": "Pikachu",
+      "number": "78/123",
+      "rarity": "",
+      "id": "hgss1-ac-78",
+      "Description": "Pokémon Day 2010 stamped promo"
+    },
+    {
+      "name": "Copycat",
+      "number": "90/123",
+      "rarity": "",
+      "id": "hgss1-ac-90",
+      "Description": "Crosshatch Holo Pokémon League Tepig Season (June 2011)"
+    },
+    {
+      "name": "Pokémon Collector",
+      "number": "97/123",
+      "rarity": "",
+      "id": "hgss1-ac-97",
+      "Description": "Crosshatch Holo Player Rewards Program 2011-2012 (Tier Two)"
+    },
+    {
+      "name": "Pokémon Communication",
+      "number": "98/123",
+      "rarity": "",
+      "id": "hgss1-ac-98",
+      "Description": "Crosshatch Holo Player Rewards Program 2010-2011 (Tier Two)"
+    },
+    {
+      "name": "Professor Elm's Training Method",
+      "number": "100/123",
+      "rarity": "",
+      "id": "hgss1-ac-100",
+      "Description": "Crosshatch Holo Professor Program stamp promo (March 2011)"
+    },
+    {
+      "name": "Professor Oak's New Theory",
+      "number": "101/123",
+      "rarity": "",
+      "id": "hgss1-ac-101",
+      "Description": "Crosshatch Holo Professor Program stamp promo (March 2011)"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "number": "103/123",
+      "rarity": "",
+      "id": "hgss1-ac-103",
+      "Description": "Crosshatch Holo Pokémon League Oshawott Season (July 2011)"
+    },
+    {
+      "name": "Rainbow Energy",
+      "number": "104/123",
+      "rarity": "",
+      "id": "hgss1-ac-104",
+      "Description": "Crosshatch Holo Player Rewards Program 2011-2012 (Tier Three)"
+    }
+  ],
+  "misprints": []
 }

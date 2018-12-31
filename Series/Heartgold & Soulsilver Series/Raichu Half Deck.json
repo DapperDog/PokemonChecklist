@@ -1,17 +1,190 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Have"
   ],
   "coreCards": [
     {
-      "id": "placeholder-1",
+      "name": "Moomoo Milk",
+      "number": "1/123",
       "rarity": "Common",
-      "name": "placeholder pkmn",
-      "number": "1"
+      "id": "hgss-raichu-1"
+    },
+    {
+      "name": "Pikachu",
+      "number": "2/123",
+      "rarity": "Common",
+      "id": "hgss-raichu-2"
+    },
+    {
+      "name": "Flaaffy",
+      "number": "3/123",
+      "rarity": "Common",
+      "id": "hgss-raichu-3"
+    },
+    {
+      "name": "Meowth",
+      "number": "4/123",
+      "rarity": "Common",
+      "id": "hgss-raichu-4"
+    },
+    {
+      "name": "Lightning Energy",
+      "number": "5/123",
+      "rarity": "Common",
+      "id": "hgss-raichu-5"
+    },
+    {
+      "name": "Lightning Energy",
+      "number": "6/123",
+      "rarity": "Common",
+      "id": "hgss-raichu-6"
+    },
+    {
+      "name": "Lightning Energy",
+      "number": "7/123",
+      "rarity": "Common",
+      "id": "hgss-raichu-7"
+    },
+    {
+      "name": "Lightning Energy",
+      "number": "8/123",
+      "rarity": "Common",
+      "id": "hgss-raichu-8"
+    },
+    {
+      "name": "Lightning Energy",
+      "number": "9/123",
+      "rarity": "Common",
+      "id": "hgss-raichu-9"
+    },
+    {
+      "name": "Lightning Energy",
+      "number": "10/123",
+      "rarity": "Common",
+      "id": "hgss-raichu-10"
+    },
+    {
+      "name": "Lightning Energy",
+      "number": "11/123",
+      "rarity": "Common",
+      "id": "hgss-raichu-11"
+    },
+    {
+      "name": "Meowth",
+      "number": "12/123",
+      "rarity": "Common",
+      "id": "hgss-raichu-12"
+    },
+    {
+      "name": "Mareep",
+      "number": "13/123",
+      "rarity": "Common",
+      "id": "hgss-raichu-13"
+    },
+    {
+      "name": "Lightning Energy",
+      "number": "14/123",
+      "rarity": "Common",
+      "id": "hgss-raichu-14"
+    },
+    {
+      "name": "Lightning Energy",
+      "number": "15/123",
+      "rarity": "Common",
+      "id": "hgss-raichu-15"
+    },
+    {
+      "name": "Pikachu",
+      "number": "16/123",
+      "rarity": "Common",
+      "id": "hgss-raichu-16"
+    },
+    {
+      "name": "Flaaffy",
+      "number": "17/123",
+      "rarity": "Common",
+      "id": "hgss-raichu-17"
+    },
+    {
+      "name": "Lightning Energy",
+      "number": "18/123",
+      "rarity": "Common",
+      "id": "hgss-raichu-18"
+    },
+    {
+      "name": "Raichu",
+      "number": "19/123",
+      "rarity": "Common",
+      "id": "hgss-raichu-19"
+    },
+    {
+      "name": "Mareep",
+      "number": "20/123",
+      "rarity": "Common",
+      "id": "hgss-raichu-20"
+    },
+    {
+      "name": "Copycat",
+      "number": "21/123",
+      "rarity": "Common",
+      "id": "hgss-raichu-21"
+    },
+    {
+      "name": "Pokemon Collector",
+      "number": "22/123",
+      "rarity": "Common",
+      "id": "hgss-raichu-22"
+    },
+    {
+      "name": "Lightning Energy",
+      "number": "23/123",
+      "rarity": "Common",
+      "id": "hgss-raichu-23"
+    },
+    {
+      "name": "Switch",
+      "number": "24/123",
+      "rarity": "Common",
+      "id": "hgss-raichu-24"
+    },
+    {
+      "name": "Poke Ball",
+      "number": "25/123",
+      "rarity": "Common",
+      "id": "hgss-raichu-25"
+    },
+    {
+      "name": "Moomoo Milk",
+      "number": "26/123",
+      "rarity": "Common",
+      "id": "hgss-raichu-26"
+    },
+    {
+      "name": "Pokemon Collector",
+      "number": "27/123",
+      "rarity": "Common",
+      "id": "hgss-raichu-27"
+    },
+    {
+      "name": "Lightning Energy",
+      "number": "28/123",
+      "rarity": "Common",
+      "id": "hgss-raichu-28"
+    },
+    {
+      "name": "Energy Switch",
+      "number": "29/123",
+      "rarity": "Common",
+      "id": "hgss-raichu-29"
+    },
+    {
+      "name": "Raichu",
+      "number": "30/123",
+      "rarity": "Common",
+      "id": "hgss-raichu-30"
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }

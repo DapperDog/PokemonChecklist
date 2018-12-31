@@ -1,557 +1,642 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Core",
+    "Reverse"
   ],
   "coreCards": [
     {
       "id": "hgss3-1",
       "rarity": "Rare Holo",
       "name": "Bellossom",
-      "number": "1"
+      "number": "1/90"
     },
     {
       "id": "hgss3-2",
       "rarity": "Rare Holo",
       "name": "Espeon",
-      "number": "2"
+      "number": "2/90"
     },
     {
       "id": "hgss3-3",
       "rarity": "Rare Holo",
       "name": "Forretress",
-      "number": "3"
+      "number": "3/90"
     },
     {
       "id": "hgss3-4",
       "rarity": "Rare Holo",
       "name": "Gliscor",
-      "number": "4"
+      "number": "4/90"
     },
     {
       "id": "hgss3-5",
       "rarity": "Rare Holo",
       "name": "Houndoom",
-      "number": "5"
+      "number": "5/90"
     },
     {
       "id": "hgss3-6",
       "rarity": "Rare Holo",
       "name": "Magcargo",
-      "number": "6"
+      "number": "6/90"
     },
     {
       "id": "hgss3-7",
       "rarity": "Rare Holo",
       "name": "Scizor",
-      "number": "7"
+      "number": "7/90"
     },
     {
       "id": "hgss3-8",
       "rarity": "Rare Holo",
       "name": "Smeargle",
-      "number": "8"
+      "number": "8/90"
     },
     {
       "id": "hgss3-9",
       "rarity": "Rare Holo",
       "name": "Togekiss",
-      "number": "9"
+      "number": "9/90"
     },
     {
       "id": "hgss3-10",
       "rarity": "Rare Holo",
       "name": "Umbreon",
-      "number": "10"
+      "number": "10/90"
     },
     {
       "id": "hgss3-11",
       "rarity": "Rare",
       "name": "Dodrio",
-      "number": "11"
+      "number": "11/90"
     },
     {
       "id": "hgss3-12",
       "rarity": "Rare",
       "name": "Drifblim",
-      "number": "12"
+      "number": "12/90"
     },
     {
       "id": "hgss3-13",
       "rarity": "Rare",
       "name": "Forretress",
-      "number": "13"
+      "number": "13/90"
     },
     {
       "id": "hgss3-14",
       "rarity": "Rare",
       "name": "Hariyama",
-      "number": "14"
+      "number": "14/90"
     },
     {
       "id": "hgss3-15",
       "rarity": "Rare",
       "name": "Honchkrow",
-      "number": "15"
+      "number": "15/90"
     },
     {
       "id": "hgss3-16",
       "rarity": "Rare",
       "name": "Honchkrow",
-      "number": "16"
+      "number": "16/90"
     },
     {
       "id": "hgss3-17",
       "rarity": "Rare",
       "name": "Leafeon",
-      "number": "17"
+      "number": "17/90"
     },
     {
       "id": "hgss3-18",
       "rarity": "Rare",
       "name": "Metagross",
-      "number": "18"
+      "number": "18/90"
     },
     {
       "id": "hgss3-19",
       "rarity": "Rare",
       "name": "Mismagius",
-      "number": "19"
+      "number": "19/90"
     },
     {
       "id": "hgss3-20",
       "rarity": "Rare",
       "name": "Rotom",
-      "number": "20"
+      "number": "20/90"
     },
     {
       "id": "hgss3-21",
       "rarity": "Rare",
       "name": "Skarmory",
-      "number": "21"
+      "number": "21/90"
     },
     {
       "id": "hgss3-22",
       "rarity": "Rare",
       "name": "Tropius",
-      "number": "22"
+      "number": "22/90"
     },
     {
       "id": "hgss3-23",
       "rarity": "Rare",
       "name": "Vespiquen",
-      "number": "23"
+      "number": "23/90"
     },
     {
       "id": "hgss3-24",
       "rarity": "Rare",
       "name": "Vileplume",
-      "number": "24"
+      "number": "24/90"
     },
     {
       "id": "hgss3-25",
       "rarity": "Rare",
       "name": "Weavile",
-      "number": "25"
+      "number": "25/90"
     },
     {
       "id": "hgss3-26",
       "rarity": "Uncommon",
       "name": "Flareon",
-      "number": "26"
+      "number": "26/90"
     },
     {
       "id": "hgss3-27",
       "rarity": "Uncommon",
       "name": "Gloom",
-      "number": "27"
+      "number": "27/90"
     },
     {
       "id": "hgss3-28",
       "rarity": "Uncommon",
       "name": "Jolteon",
-      "number": "28"
+      "number": "28/90"
     },
     {
       "id": "hgss3-29",
       "rarity": "Uncommon",
       "name": "Lairon",
-      "number": "29"
+      "number": "29/90"
     },
     {
       "id": "hgss3-30",
       "rarity": "Uncommon",
       "name": "Metang",
-      "number": "30"
+      "number": "30/90"
     },
     {
       "id": "hgss3-31",
       "rarity": "Uncommon",
       "name": "Muk",
-      "number": "31"
+      "number": "31/90"
     },
     {
       "id": "hgss3-32",
       "rarity": "Uncommon",
       "name": "Pinsir",
-      "number": "32"
+      "number": "32/90"
     },
     {
       "id": "hgss3-33",
       "rarity": "Uncommon",
       "name": "Raichu",
-      "number": "33"
+      "number": "33/90"
     },
     {
       "id": "hgss3-34",
       "rarity": "Uncommon",
       "name": "Raticate",
-      "number": "34"
+      "number": "34/90"
     },
     {
       "id": "hgss3-35",
       "rarity": "Uncommon",
       "name": "Sableye",
-      "number": "35"
+      "number": "35/90"
     },
     {
       "id": "hgss3-36",
       "rarity": "Uncommon",
       "name": "Scyther",
-      "number": "36"
+      "number": "36/90"
     },
     {
       "id": "hgss3-37",
       "rarity": "Uncommon",
       "name": "Skuntank",
-      "number": "37"
+      "number": "37/90"
     },
     {
       "id": "hgss3-38",
       "rarity": "Uncommon",
       "name": "Slowbro",
-      "number": "38"
+      "number": "38/90"
     },
     {
       "id": "hgss3-39",
       "rarity": "Uncommon",
       "name": "Togetic",
-      "number": "39"
+      "number": "39/90"
     },
     {
       "id": "hgss3-40",
       "rarity": "Uncommon",
       "name": "Unown",
-      "number": "40"
+      "number": "40/90"
     },
     {
       "id": "hgss3-41",
       "rarity": "Uncommon",
       "name": "Vaporeon",
-      "number": "41"
+      "number": "41/90"
     },
     {
       "id": "hgss3-42",
       "rarity": "Common",
       "name": "Aron",
-      "number": "42"
+      "number": "42/90"
     },
     {
       "id": "hgss3-43",
       "rarity": "Common",
       "name": "Beldum",
-      "number": "43"
+      "number": "43/90"
     },
     {
       "id": "hgss3-44",
       "rarity": "Common",
       "name": "Combee",
-      "number": "44"
+      "number": "44/90"
     },
     {
       "id": "hgss3-45",
       "rarity": "Common",
       "name": "Doduo",
-      "number": "45"
+      "number": "45/90"
     },
     {
       "id": "hgss3-46",
       "rarity": "Common",
       "name": "Drifloon",
-      "number": "46"
+      "number": "46/90"
     },
     {
       "id": "hgss3-47",
       "rarity": "Common",
       "name": "Eevee",
-      "number": "47"
+      "number": "47/90"
     },
     {
       "id": "hgss3-48",
       "rarity": "Common",
       "name": "Eevee",
-      "number": "48"
+      "number": "48/90"
     },
     {
       "id": "hgss3-49",
       "rarity": "Common",
       "name": "Gligar",
-      "number": "49"
+      "number": "49/90"
     },
     {
       "id": "hgss3-50",
       "rarity": "Common",
       "name": "Grimer",
-      "number": "50"
+      "number": "50/90"
     },
     {
       "id": "hgss3-51",
       "rarity": "Common",
       "name": "Hitmonchan",
-      "number": "51"
+      "number": "51/90"
     },
     {
       "id": "hgss3-52",
       "rarity": "Common",
       "name": "Hitmonlee",
-      "number": "52"
+      "number": "52/90"
     },
     {
       "id": "hgss3-53",
       "rarity": "Common",
       "name": "Houndour",
-      "number": "53"
+      "number": "53/90"
     },
     {
       "id": "hgss3-54",
       "rarity": "Common",
       "name": "Houndour",
-      "number": "54"
+      "number": "54/90"
     },
     {
       "id": "hgss3-55",
       "rarity": "Common",
       "name": "Makuhita",
-      "number": "55"
+      "number": "55/90"
     },
     {
       "id": "hgss3-56",
       "rarity": "Common",
       "name": "Mawile",
-      "number": "56"
+      "number": "56/90"
     },
     {
       "id": "hgss3-57",
       "rarity": "Common",
       "name": "Misdreavus",
-      "number": "57"
+      "number": "57/90"
     },
     {
       "id": "hgss3-58",
       "rarity": "Common",
       "name": "Murkrow",
-      "number": "58"
+      "number": "58/90"
     },
     {
       "id": "hgss3-59",
       "rarity": "Common",
       "name": "Murkrow",
-      "number": "59"
+      "number": "59/90"
     },
     {
       "id": "hgss3-60",
       "rarity": "Common",
       "name": "Oddish",
-      "number": "60"
+      "number": "60/90"
     },
     {
       "id": "hgss3-61",
       "rarity": "Common",
       "name": "Pikachu",
-      "number": "61"
+      "number": "61/90"
     },
     {
       "id": "hgss3-62",
       "rarity": "Common",
       "name": "Pineco",
-      "number": "62"
+      "number": "62/90"
     },
     {
       "id": "hgss3-63",
       "rarity": "Common",
       "name": "Pineco",
-      "number": "63"
+      "number": "63/90"
     },
     {
       "id": "hgss3-64",
       "rarity": "Common",
       "name": "Rattata",
-      "number": "64"
+      "number": "64/90"
     },
     {
       "id": "hgss3-65",
       "rarity": "Common",
       "name": "Scyther",
-      "number": "65"
+      "number": "65/90"
     },
     {
       "id": "hgss3-66",
       "rarity": "Common",
       "name": "Slowpoke",
-      "number": "66"
+      "number": "66/90"
     },
     {
       "id": "hgss3-67",
       "rarity": "Common",
       "name": "Slugma",
-      "number": "67"
+      "number": "67/90"
     },
     {
       "id": "hgss3-68",
       "rarity": "Common",
       "name": "Sneasel",
-      "number": "68"
+      "number": "68/90"
     },
     {
       "id": "hgss3-69",
       "rarity": "Common",
       "name": "Stunky",
-      "number": "69"
+      "number": "69/90"
     },
     {
       "id": "hgss3-70",
       "rarity": "Common",
       "name": "Togepi",
-      "number": "70"
+      "number": "70/90"
     },
     {
       "id": "hgss3-71",
       "rarity": "Uncommon",
       "name": "Burned Tower",
-      "number": "71"
+      "number": "71/90"
     },
     {
       "id": "hgss3-72",
       "rarity": "Uncommon",
       "name": "Defender",
-      "number": "72"
+      "number": "72/90"
     },
     {
       "id": "hgss3-73",
       "rarity": "Uncommon",
       "name": "Energy Exchanger",
-      "number": "73"
+      "number": "73/90"
     },
     {
       "id": "hgss3-74",
       "rarity": "Uncommon",
       "name": "Flower Shop Lady",
-      "number": "74"
+      "number": "74/90"
     },
     {
       "id": "hgss3-75",
       "rarity": "Uncommon",
       "name": "Legend Box",
-      "number": "75"
+      "number": "75/90"
     },
     {
       "id": "hgss3-76",
       "rarity": "Uncommon",
       "name": "Ruins of Alph",
-      "number": "76"
+      "number": "76/90"
     },
     {
       "id": "hgss3-77",
       "rarity": "Uncommon",
       "name": "Sage's Training",
-      "number": "77"
+      "number": "77/90"
     },
     {
       "id": "hgss3-78",
       "rarity": "Uncommon",
       "name": "Team Rocket's Trickery",
-      "number": "78"
+      "number": "78/90"
     },
     {
       "id": "hgss3-79",
       "rarity": "Uncommon",
       "name": "Darkness Energy",
-      "number": "79"
+      "number": "79/90"
     },
     {
       "id": "hgss3-80",
       "rarity": "Uncommon",
       "name": "Metal Energy",
-      "number": "80"
+      "number": "80/90"
     },
     {
       "id": "hgss3-81",
-      "rarity": "Rare Prime",
+      "rarity": "Prime",
       "name": "Espeon",
-      "number": "81"
+      "number": "81/90"
     },
     {
       "id": "hgss3-82",
-      "rarity": "Rare Prime",
+      "rarity": "Prime",
       "name": "Houndoom",
-      "number": "82"
+      "number": "82/90"
     },
     {
       "id": "hgss3-83",
-      "rarity": "Rare Prime",
+      "rarity": "Prime",
       "name": "Raichu",
-      "number": "83"
+      "number": "83/90"
     },
     {
       "id": "hgss3-84",
-      "rarity": "Rare Prime",
+      "rarity": "Prime",
       "name": "Scizor",
-      "number": "84"
+      "number": "84/90"
     },
     {
       "id": "hgss3-85",
-      "rarity": "Rare Prime",
+      "rarity": "Prime",
       "name": "Slowking",
-      "number": "85"
+      "number": "85/90"
     },
     {
       "id": "hgss3-86",
-      "rarity": "Rare Prime",
+      "rarity": "Prime",
       "name": "Umbreon",
-      "number": "86"
+      "number": "86/90"
     },
     {
       "id": "hgss3-87",
       "rarity": "LEGEND",
       "name": "Kyogre & Groudon LEGEND",
-      "number": "87"
+      "number": "87/90"
     },
     {
       "id": "hgss3-88",
       "rarity": "LEGEND",
       "name": "Kyogre & Groudon LEGEND",
-      "number": "88"
+      "number": "88/90"
     },
     {
       "id": "hgss3-89",
       "rarity": "LEGEND",
       "name": "Rayquaza & Deoxys LEGEND",
-      "number": "89"
+      "number": "89/90"
     },
     {
       "id": "hgss3-90",
       "rarity": "LEGEND",
       "name": "Rayquaza & Deoxys LEGEND",
-      "number": "90"
+      "number": "90/90"
     },
     {
       "id": "hgss3-THREE",
-      "rarity": "Rare Holo",
+      "rarity": "Secret Rare",
       "name": "Alph Lithograph",
       "number": "THREE"
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "Bellossom",
+      "number": "1/90",
+      "rarity": "",
+      "id": "hgss3-ac-1",
+      "Description": "Non Holo Daybreak theme deck exclusive"
+    },
+    {
+      "name": "Espeon",
+      "number": "2/90",
+      "rarity": "",
+      "id": "hgss3-ac-2-1",
+      "Description": "Cracked Ice Holo Daybreak theme deck exclusive"
+    },
+    {
+      "name": "Espeon",
+      "number": "2/90",
+      "rarity": "",
+      "id": "hgss3-ac-2-2",
+      "Description": "Non Holo Daybreak theme deck exclusive"
+    },
+    {
+      "name": "Gliscor",
+      "number": "4/90",
+      "rarity": "",
+      "id": "hgss3-ac-4",
+      "Description": "Cracked Ice Holo Stage 1 Blisters exclusive"
+    },
+    {
+      "name": "Houndoom",
+      "number": "5/90",
+      "rarity": "",
+      "id": "hgss3-ac-5",
+      "Description": "Crosshatch Holo Pokémon League Disc Catch Season (March 2011)"
+    },
+    {
+      "name": "Togekiss",
+      "number": "9/90",
+      "rarity": "",
+      "id": "hgss3-ac-9",
+      "Description": "Non Holo Daybreak theme deck exclusive"
+    },
+    {
+      "name": "Umbreon",
+      "number": "10/90",
+      "rarity": "",
+      "id": "hgss3-ac-10-1",
+      "Description": "Cracked Ice Holo Nightfall theme deck exclusive"
+    },
+    {
+      "name": "Umbreon",
+      "number": "10/90",
+      "rarity": "",
+      "id": "hgss3-ac-10-2",
+      "Description": "Non Holo Nightfall theme deck exclusive"
+    },
+    {
+      "name": "Leafeon",
+      "number": "17/90",
+      "rarity": "",
+      "id": "hgss3-ac-17-1",
+      "Description": "Undaunted stamp Prerelease promo"
+    },
+    {
+      "name": "Leafeon",
+      "number": "17/90",
+      "rarity": "",
+      "id": "hgss3-ac-17-2",
+      "Description": "Staff Undaunted stamp Prerelease promo"
+    },
+    {
+      "name": "Darkness Energy",
+      "number": "79/90",
+      "rarity": "",
+      "id": "hgss3-ac-79",
+      "Description": "Crosshatch Holo Pokémon League Disc Catch Season (March 2011)"
+    },
+    {
+      "name": "Metal Energy",
+      "number": "80/90",
+      "rarity": "",
+      "id": "hgss3-ac-80",
+      "Description": "Crosshatch Holo Pokémon League Block Smash Season (February 2011)"
+    }
+  ],
+  "misprints": []
 }
