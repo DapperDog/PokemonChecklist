@@ -1,995 +1,1214 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Core",
+    "Reverse"
   ],
   "coreCards": [
     {
       "id": "xy8-1",
       "rarity": "Common",
       "name": "Paras",
-      "number": "1"
+      "number": "1/162"
     },
     {
       "id": "xy8-2",
       "rarity": "Rare",
       "name": "Parasect",
-      "number": "2"
+      "number": "2/162"
     },
     {
       "id": "xy8-3",
       "rarity": "Uncommon",
       "name": "Pinsir",
-      "number": "3"
+      "number": "3/162"
     },
     {
       "id": "xy8-4",
       "rarity": "Common",
       "name": "Cacnea",
-      "number": "4"
+      "number": "4/162"
     },
     {
       "id": "xy8-5",
       "rarity": "Common",
       "name": "Pansage",
-      "number": "5"
+      "number": "5/162"
     },
     {
       "id": "xy8-6",
       "rarity": "Rare",
       "name": "Simisage",
-      "number": "6"
+      "number": "6/162"
     },
     {
       "id": "xy8-7",
       "rarity": "Common",
       "name": "Chespin",
-      "number": "7"
+      "number": "7/162"
     },
     {
       "id": "xy8-8",
       "rarity": "Common",
       "name": "Chespin",
-      "number": "8"
+      "number": "8/162"
     },
     {
       "id": "xy8-9",
       "rarity": "Common",
       "name": "Chespin",
-      "number": "9"
+      "number": "9/162"
     },
     {
       "id": "xy8-10",
       "rarity": "Uncommon",
       "name": "Quilladin",
-      "number": "10"
+      "number": "10/162"
     },
     {
       "id": "xy8-11",
       "rarity": "Rare Holo",
       "name": "Chesnaught",
-      "number": "11"
+      "number": "11/162"
     },
     {
       "id": "xy8-12",
-      "rarity": "Rare BREAK",
+      "rarity": "BREAK",
       "name": "Chesnaught BREAK",
-      "number": "12"
+      "number": "12/162"
     },
     {
       "id": "xy8-13",
       "rarity": "Common",
       "name": "Scatterbug",
-      "number": "13"
+      "number": "13/162"
     },
     {
       "id": "xy8-14",
       "rarity": "Uncommon",
       "name": "Spewpa",
-      "number": "14"
+      "number": "14/162"
     },
     {
       "id": "xy8-15",
       "rarity": "Rare Holo",
       "name": "Vivillon",
-      "number": "15"
+      "number": "15/162"
     },
     {
       "id": "xy8-16",
       "rarity": "Common",
       "name": "Skiddo",
-      "number": "16"
+      "number": "16/162"
     },
     {
       "id": "xy8-17",
       "rarity": "Uncommon",
       "name": "Gogoat",
-      "number": "17"
+      "number": "17/162"
     },
     {
       "id": "xy8-18",
       "rarity": "Common",
       "name": "Cyndaquil",
-      "number": "18"
+      "number": "18/162"
     },
     {
       "id": "xy8-19",
       "rarity": "Uncommon",
       "name": "Quilava",
-      "number": "19"
+      "number": "19/162"
     },
     {
       "id": "xy8-20",
       "rarity": "Rare Holo",
       "name": "Typhlosion",
-      "number": "20"
+      "number": "20/162"
     },
     {
       "id": "xy8-21",
       "rarity": "EX",
       "name": "Houndoom-EX",
-      "number": "21"
+      "number": "21/162"
     },
     {
       "id": "xy8-22",
       "rarity": "EX",
       "name": "M Houndoom-EX",
-      "number": "22"
+      "number": "22/162"
     },
     {
       "id": "xy8-23",
       "rarity": "Common",
       "name": "Pansear",
-      "number": "23"
+      "number": "23/162"
     },
     {
       "id": "xy8-24",
       "rarity": "Rare",
       "name": "Simisear",
-      "number": "24"
+      "number": "24/162"
     },
     {
       "id": "xy8-25",
       "rarity": "Common",
       "name": "Fennekin",
-      "number": "25"
+      "number": "25/162"
     },
     {
       "id": "xy8-26",
       "rarity": "Uncommon",
       "name": "Braixen",
-      "number": "26"
+      "number": "26/162"
     },
     {
       "id": "xy8-27",
       "rarity": "Common",
       "name": "Goldeen",
-      "number": "27"
+      "number": "27/162"
     },
     {
       "id": "xy8-28",
       "rarity": "Uncommon",
       "name": "Seaking",
-      "number": "28"
+      "number": "28/162"
     },
     {
       "id": "xy8-29",
       "rarity": "Common",
       "name": "Staryu",
-      "number": "29"
+      "number": "29/162"
     },
     {
       "id": "xy8-30",
       "rarity": "Uncommon",
       "name": "Starmie",
-      "number": "30"
+      "number": "30/162"
     },
     {
       "id": "xy8-31",
       "rarity": "Common",
       "name": "Remoraid",
-      "number": "31"
+      "number": "31/162"
     },
     {
       "id": "xy8-32",
       "rarity": "Common",
       "name": "Remoraid",
-      "number": "32"
+      "number": "32/162"
     },
     {
       "id": "xy8-33",
       "rarity": "Rare Holo",
       "name": "Octillery",
-      "number": "33"
+      "number": "33/162"
     },
     {
       "id": "xy8-34",
       "rarity": "EX",
       "name": "Glalie-EX",
-      "number": "34"
+      "number": "34/162"
     },
     {
       "id": "xy8-35",
       "rarity": "EX",
       "name": "M Glalie-EX",
-      "number": "35"
+      "number": "35/162"
     },
     {
       "id": "xy8-36",
       "rarity": "Common",
       "name": "Piplup",
-      "number": "36"
+      "number": "36/162"
     },
     {
       "id": "xy8-37",
       "rarity": "Uncommon",
       "name": "Prinplup",
-      "number": "37"
+      "number": "37/162"
     },
     {
       "id": "xy8-38",
       "rarity": "Rare Holo",
       "name": "Empoleon",
-      "number": "38"
+      "number": "38/162"
     },
     {
       "id": "xy8-39",
       "rarity": "Common",
       "name": "Snover",
-      "number": "39"
+      "number": "39/162"
     },
     {
       "id": "xy8-40",
       "rarity": "Rare",
       "name": "Abomasnow",
-      "number": "40"
+      "number": "40/162"
     },
     {
       "id": "xy8-41",
       "rarity": "Common",
       "name": "Panpour",
-      "number": "41"
+      "number": "41/162"
     },
     {
       "id": "xy8-42",
       "rarity": "Rare",
       "name": "Simipour",
-      "number": "42"
+      "number": "42/162"
     },
     {
       "id": "xy8-43",
       "rarity": "Common",
       "name": "Vanillite",
-      "number": "43"
+      "number": "43/162"
     },
     {
       "id": "xy8-44",
       "rarity": "Uncommon",
       "name": "Vanillish",
-      "number": "44"
+      "number": "44/162"
     },
     {
       "id": "xy8-45",
       "rarity": "Rare",
       "name": "Vanilluxe",
-      "number": "45"
+      "number": "45/162"
     },
     {
       "id": "xy8-46",
       "rarity": "Common",
       "name": "Froakie",
-      "number": "46"
+      "number": "46/162"
     },
     {
       "id": "xy8-47",
       "rarity": "Uncommon",
       "name": "Frogadier",
-      "number": "47"
+      "number": "47/162"
     },
     {
       "id": "xy8-48",
       "rarity": "Common",
       "name": "Pikachu",
-      "number": "48"
+      "number": "48/162"
     },
     {
       "id": "xy8-49",
       "rarity": "Rare",
       "name": "Raichu",
-      "number": "49"
+      "number": "49/162"
     },
     {
       "id": "xy8-50",
-      "rarity": "Rare BREAK",
+      "rarity": "BREAK",
       "name": "Raichu BREAK",
-      "number": "50"
+      "number": "50/162"
     },
     {
       "id": "xy8-51",
       "rarity": "Common",
       "name": "Magnemite",
-      "number": "51"
+      "number": "51/162"
     },
     {
       "id": "xy8-52",
       "rarity": "Common",
       "name": "Magnemite",
-      "number": "52"
+      "number": "52/162"
     },
     {
       "id": "xy8-53",
       "rarity": "Uncommon",
       "name": "Magneton",
-      "number": "53"
+      "number": "53/162"
     },
     {
       "id": "xy8-54",
       "rarity": "Rare Holo",
       "name": "Magnezone",
-      "number": "54"
+      "number": "54/162"
     },
     {
       "id": "xy8-55",
       "rarity": "Rare Holo",
       "name": "Raikou",
-      "number": "55"
+      "number": "55/162"
     },
     {
       "id": "xy8-56",
       "rarity": "Uncommon",
       "name": "Stunfisk",
-      "number": "56"
+      "number": "56/162"
     },
     {
       "id": "xy8-57",
       "rarity": "Uncommon",
       "name": "Dedenne",
-      "number": "57"
+      "number": "57/162"
     },
     {
       "id": "xy8-58",
       "rarity": "Common",
       "name": "Gastly",
-      "number": "58"
+      "number": "58/162"
     },
     {
       "id": "xy8-59",
       "rarity": "Uncommon",
       "name": "Haunter",
-      "number": "59"
+      "number": "59/162"
     },
     {
       "id": "xy8-60",
       "rarity": "Rare Holo",
       "name": "Gengar",
-      "number": "60"
+      "number": "60/162"
     },
     {
       "id": "xy8-61",
       "rarity": "EX",
       "name": "Mewtwo-EX",
-      "number": "61"
+      "number": "61/162"
     },
     {
       "id": "xy8-62",
       "rarity": "EX",
       "name": "Mewtwo-EX",
-      "number": "62"
+      "number": "62/162"
     },
     {
       "id": "xy8-63",
       "rarity": "EX",
       "name": "M Mewtwo-EX",
-      "number": "63"
+      "number": "63/162"
     },
     {
       "id": "xy8-64",
       "rarity": "EX",
       "name": "M Mewtwo-EX",
-      "number": "64"
+      "number": "64/162"
     },
     {
       "id": "xy8-65",
       "rarity": "Common",
       "name": "Misdreavus",
-      "number": "65"
+      "number": "65/162"
     },
     {
       "id": "xy8-66",
       "rarity": "Rare Holo",
       "name": "Mismagius",
-      "number": "66"
+      "number": "66/162"
     },
     {
       "id": "xy8-67",
       "rarity": "Uncommon",
       "name": "Wobbuffet",
-      "number": "67"
+      "number": "67/162"
     },
     {
       "id": "xy8-68",
       "rarity": "Common",
       "name": "Ralts",
-      "number": "68"
+      "number": "68/162"
     },
     {
       "id": "xy8-69",
       "rarity": "Uncommon",
       "name": "Kirlia",
-      "number": "69"
+      "number": "69/162"
     },
     {
       "id": "xy8-70",
       "rarity": "Rare",
       "name": "Cresselia",
-      "number": "70"
+      "number": "70/162"
     },
     {
       "id": "xy8-71",
       "rarity": "Common",
       "name": "Woobat",
-      "number": "71"
+      "number": "71/162"
     },
     {
       "id": "xy8-72",
       "rarity": "Uncommon",
       "name": "Swoobat",
-      "number": "72"
+      "number": "72/162"
     },
     {
       "id": "xy8-73",
       "rarity": "Common",
       "name": "Elgyem",
-      "number": "73"
+      "number": "73/162"
     },
     {
       "id": "xy8-74",
       "rarity": "Uncommon",
       "name": "Beheeyem",
-      "number": "74"
+      "number": "74/162"
     },
     {
       "id": "xy8-75",
       "rarity": "Common",
       "name": "Sandshrew",
-      "number": "75"
+      "number": "75/162"
     },
     {
       "id": "xy8-76",
       "rarity": "Uncommon",
       "name": "Sandslash",
-      "number": "76"
+      "number": "76/162"
     },
     {
       "id": "xy8-77",
       "rarity": "Common",
       "name": "Cubone",
-      "number": "77"
+      "number": "77/162"
     },
     {
       "id": "xy8-78",
       "rarity": "Rare",
       "name": "Marowak",
-      "number": "78"
+      "number": "78/162"
     },
     {
       "id": "xy8-79",
-      "rarity": "Rare BREAK",
+      "rarity": "BREAK",
       "name": "Marowak BREAK",
-      "number": "79"
+      "number": "79/162"
     },
     {
       "id": "xy8-80",
       "rarity": "Common",
       "name": "Swinub",
-      "number": "80"
+      "number": "80/162"
     },
     {
       "id": "xy8-81",
       "rarity": "Uncommon",
       "name": "Piloswine",
-      "number": "81"
+      "number": "81/162"
     },
     {
       "id": "xy8-82",
       "rarity": "Rare Holo",
       "name": "Mamoswine",
-      "number": "82"
+      "number": "82/162"
     },
     {
       "id": "xy8-83",
       "rarity": "Common",
       "name": "Hippopotas",
-      "number": "83"
+      "number": "83/162"
     },
     {
       "id": "xy8-84",
       "rarity": "Rare Holo",
       "name": "Gallade",
-      "number": "84"
+      "number": "84/162"
     },
     {
       "id": "xy8-85",
       "rarity": "Rare Holo",
       "name": "Meloetta",
-      "number": "85"
+      "number": "85/162"
     },
     {
       "id": "xy8-86",
       "rarity": "Common",
       "name": "Pancham",
-      "number": "86"
+      "number": "86/162"
     },
     {
       "id": "xy8-87",
       "rarity": "Rare",
       "name": "Hawlucha",
-      "number": "87"
+      "number": "87/162"
     },
     {
       "id": "xy8-88",
       "rarity": "Uncommon",
       "name": "Cacturne",
-      "number": "88"
+      "number": "88/162"
     },
     {
       "id": "xy8-89",
       "rarity": "Common",
       "name": "Zorua",
-      "number": "89"
+      "number": "89/162"
     },
     {
       "id": "xy8-90",
       "rarity": "Common",
       "name": "Zorua",
-      "number": "90"
+      "number": "90/162"
     },
     {
       "id": "xy8-91",
       "rarity": "Rare Holo",
       "name": "Zoroark",
-      "number": "91"
+      "number": "91/162"
     },
     {
       "id": "xy8-92",
-      "rarity": "Rare BREAK",
+      "rarity": "BREAK",
       "name": "Zoroark BREAK",
-      "number": "92"
+      "number": "92/162"
     },
     {
       "id": "xy8-93",
       "rarity": "Common",
       "name": "Inkay",
-      "number": "93"
+      "number": "93/162"
     },
     {
       "id": "xy8-94",
       "rarity": "Rare Holo",
       "name": "Yveltal",
-      "number": "94"
+      "number": "94/162"
     },
     {
       "id": "xy8-95",
       "rarity": "Common",
       "name": "Bronzor",
-      "number": "95"
+      "number": "95/162"
     },
     {
       "id": "xy8-96",
       "rarity": "Rare",
       "name": "Bronzong",
-      "number": "96"
+      "number": "96/162"
     },
     {
       "id": "xy8-97",
       "rarity": "Rare",
       "name": "Mr. Mime",
-      "number": "97"
+      "number": "97/162"
     },
     {
       "id": "xy8-98",
       "rarity": "Common",
       "name": "Snubbull",
-      "number": "98"
+      "number": "98/162"
     },
     {
       "id": "xy8-99",
       "rarity": "Uncommon",
       "name": "Granbull",
-      "number": "99"
+      "number": "99/162"
     },
     {
       "id": "xy8-100",
       "rarity": "Common",
       "name": "Ralts",
-      "number": "100"
+      "number": "100/162"
     },
     {
       "id": "xy8-101",
       "rarity": "Common",
       "name": "Flab\u00e9b\u00e9",
-      "number": "101"
+      "number": "101/162"
     },
     {
       "id": "xy8-102",
       "rarity": "Uncommon",
       "name": "Floette",
-      "number": "102"
+      "number": "102/162"
     },
     {
       "id": "xy8-103",
       "rarity": "Rare",
       "name": "Florges",
-      "number": "103"
+      "number": "103/162"
     },
     {
       "id": "xy8-104",
-      "rarity": "Rare BREAK",
+      "rarity": "BREAK",
       "name": "Florges BREAK",
-      "number": "104"
+      "number": "104/162"
     },
     {
       "id": "xy8-105",
       "rarity": "Common",
       "name": "Spritzee",
-      "number": "105"
+      "number": "105/162"
     },
     {
       "id": "xy8-106",
       "rarity": "Rare",
       "name": "Aromatisse",
-      "number": "106"
+      "number": "106/162"
     },
     {
       "id": "xy8-107",
       "rarity": "Rare Holo",
       "name": "Xerneas",
-      "number": "107"
+      "number": "107/162"
     },
     {
       "id": "xy8-108",
       "rarity": "Common",
       "name": "Axew",
-      "number": "108"
+      "number": "108/162"
     },
     {
       "id": "xy8-109",
       "rarity": "Common",
       "name": "Axew",
-      "number": "109"
+      "number": "109/162"
     },
     {
       "id": "xy8-110",
       "rarity": "Uncommon",
       "name": "Fraxure",
-      "number": "110"
+      "number": "110/162"
     },
     {
       "id": "xy8-111",
       "rarity": "Rare Holo",
       "name": "Haxorus",
-      "number": "111"
+      "number": "111/162"
     },
     {
       "id": "xy8-112",
       "rarity": "Rare",
       "name": "Noivern",
-      "number": "112"
+      "number": "112/162"
     },
     {
       "id": "xy8-113",
-      "rarity": "Rare BREAK",
+      "rarity": "BREAK",
       "name": "Noivern BREAK",
-      "number": "113"
+      "number": "113/162"
     },
     {
       "id": "xy8-114",
       "rarity": "Common",
       "name": "Meowth",
-      "number": "114"
+      "number": "114/162"
     },
     {
       "id": "xy8-115",
       "rarity": "Common",
       "name": "Doduo",
-      "number": "115"
+      "number": "115/162"
     },
     {
       "id": "xy8-116",
       "rarity": "Common",
       "name": "Doduo",
-      "number": "116"
+      "number": "116/162"
     },
     {
       "id": "xy8-117",
       "rarity": "Rare",
       "name": "Dodrio",
-      "number": "117"
+      "number": "117/162"
     },
     {
       "id": "xy8-118",
       "rarity": "Uncommon",
       "name": "Snorlax",
-      "number": "118"
+      "number": "118/162"
     },
     {
       "id": "xy8-119",
       "rarity": "Common",
       "name": "Hoothoot",
-      "number": "119"
+      "number": "119/162"
     },
     {
       "id": "xy8-120",
       "rarity": "Rare",
       "name": "Noctowl",
-      "number": "120"
+      "number": "120/162"
     },
     {
       "id": "xy8-121",
       "rarity": "Common",
       "name": "Teddiursa",
-      "number": "121"
+      "number": "121/162"
     },
     {
       "id": "xy8-122",
       "rarity": "Uncommon",
       "name": "Ursaring",
-      "number": "122"
+      "number": "122/162"
     },
     {
       "id": "xy8-123",
       "rarity": "Rare",
       "name": "Smeargle",
-      "number": "123"
+      "number": "123/162"
     },
     {
       "id": "xy8-124",
       "rarity": "Common",
       "name": "Swablu",
-      "number": "124"
+      "number": "124/162"
     },
     {
       "id": "xy8-125",
       "rarity": "Common",
       "name": "Starly",
-      "number": "125"
+      "number": "125/162"
     },
     {
       "id": "xy8-126",
       "rarity": "Uncommon",
       "name": "Staravia",
-      "number": "126"
+      "number": "126/162"
     },
     {
       "id": "xy8-127",
       "rarity": "Rare",
       "name": "Staraptor",
-      "number": "127"
+      "number": "127/162"
     },
     {
       "id": "xy8-128",
       "rarity": "Rare",
       "name": "Chatot",
-      "number": "128"
+      "number": "128/162"
     },
     {
       "id": "xy8-129",
       "rarity": "Common",
       "name": "Rufflet",
-      "number": "129"
+      "number": "129/162"
     },
     {
       "id": "xy8-130",
       "rarity": "Rare",
       "name": "Braviary",
-      "number": "130"
+      "number": "130/162"
     },
     {
       "id": "xy8-131",
       "rarity": "Common",
       "name": "Noibat",
-      "number": "131"
+      "number": "131/162"
     },
     {
       "id": "xy8-132",
       "rarity": "Common",
       "name": "Noibat",
-      "number": "132"
+      "number": "132/162"
     },
     {
       "id": "xy8-133",
       "rarity": "Uncommon",
       "name": "Assault Vest",
-      "number": "133"
+      "number": "133/162"
     },
     {
       "id": "xy8-134",
       "rarity": "Uncommon",
       "name": "Brigette",
-      "number": "134"
+      "number": "134/162"
     },
     {
       "id": "xy8-135",
       "rarity": "Uncommon",
       "name": "Buddy-Buddy Rescue",
-      "number": "135"
+      "number": "135/162"
     },
     {
       "id": "xy8-136",
       "rarity": "Uncommon",
       "name": "Fisherman",
-      "number": "136"
+      "number": "136/162"
     },
     {
       "id": "xy8-137",
       "rarity": "Uncommon",
       "name": "Float Stone",
-      "number": "137"
+      "number": "137/162"
     },
     {
       "id": "xy8-138",
       "rarity": "Uncommon",
       "name": "Giovanni's Scheme",
-      "number": "138"
+      "number": "138/162"
     },
     {
       "id": "xy8-139",
       "rarity": "Uncommon",
       "name": "Glalie Spirit Link",
-      "number": "139"
+      "number": "139/162"
     },
     {
       "id": "xy8-140",
       "rarity": "Uncommon",
       "name": "Heavy Ball",
-      "number": "140"
+      "number": "140/162"
     },
     {
       "id": "xy8-141",
       "rarity": "Uncommon",
       "name": "Heavy Boots",
-      "number": "141"
+      "number": "141/162"
     },
     {
       "id": "xy8-142",
       "rarity": "Uncommon",
       "name": "Houndoom Spirit Link",
-      "number": "142"
+      "number": "142/162"
     },
     {
       "id": "xy8-143",
       "rarity": "Uncommon",
       "name": "Judge",
-      "number": "143"
+      "number": "143/162"
     },
     {
       "id": "xy8-144",
       "rarity": "Uncommon",
       "name": "Mewtwo Spirit Link",
-      "number": "144"
+      "number": "144/162"
     },
     {
       "id": "xy8-145",
       "rarity": "Uncommon",
       "name": "Parallel City",
-      "number": "145"
+      "number": "145/162"
     },
     {
       "id": "xy8-146",
       "rarity": "Uncommon",
       "name": "Professor's Letter",
-      "number": "146"
+      "number": "146/162"
     },
     {
       "id": "xy8-147",
       "rarity": "Uncommon",
       "name": "Reserved Ticket",
-      "number": "147"
+      "number": "147/162"
     },
     {
       "id": "xy8-148",
       "rarity": "Uncommon",
       "name": "Skyla",
-      "number": "148"
+      "number": "148/162"
     },
     {
       "id": "xy8-149",
       "rarity": "Uncommon",
       "name": "Super Rod",
-      "number": "149"
+      "number": "149/162"
     },
     {
       "id": "xy8-150",
       "rarity": "Uncommon",
       "name": "Town Map",
-      "number": "150"
+      "number": "150/162"
     },
     {
       "id": "xy8-151",
       "rarity": "Uncommon",
       "name": "Burning Energy",
-      "number": "151"
+      "number": "151/162"
     },
     {
       "id": "xy8-152",
       "rarity": "Uncommon",
       "name": "Rainbow Energy",
-      "number": "152"
+      "number": "152/162"
     },
     {
       "id": "xy8-153",
       "rarity": "Full Art",
       "name": "Houndoom-EX",
-      "number": "153"
+      "number": "153/162"
     },
     {
       "id": "xy8-154",
       "rarity": "Full Art",
       "name": "M Houndoom-EX",
-      "number": "154"
+      "number": "154/162"
     },
     {
       "id": "xy8-155",
       "rarity": "Full Art",
       "name": "Glalie-EX",
-      "number": "155"
+      "number": "155/162"
     },
     {
       "id": "xy8-156",
       "rarity": "Full Art",
       "name": "M Glalie-EX",
-      "number": "156"
+      "number": "156/162"
     },
     {
       "id": "xy8-157",
       "rarity": "Full Art",
       "name": "Mewtwo-EX",
-      "number": "157"
+      "number": "157/162"
     },
     {
       "id": "xy8-158",
       "rarity": "Full Art",
       "name": "Mewtwo-EX",
-      "number": "158"
+      "number": "158/162"
     },
     {
       "id": "xy8-159",
       "rarity": "Full Art",
       "name": "M Mewtwo-EX",
-      "number": "159"
+      "number": "159/162"
     },
     {
       "id": "xy8-160",
       "rarity": "Full Art",
       "name": "M Mewtwo-EX",
-      "number": "160"
+      "number": "160/162"
     },
     {
       "id": "xy8-161",
       "rarity": "Full Art",
       "name": "Brigette",
-      "number": "161"
+      "number": "161/162"
     },
     {
       "id": "xy8-162",
       "rarity": "Full Art",
       "name": "Giovanni's Scheme",
-      "number": "162"
+      "number": "162/162"
     },
     {
       "id": "xy8-163",
       "rarity": "Rare Holo",
       "name": "Mewtwo-EX",
-      "number": "163"
+      "number": "163/162"
     },
     {
       "id": "xy8-164",
       "rarity": "Rare Holo",
       "name": "Mewtwo-EX",
-      "number": "164"
+      "number": "164/162"
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "Vivillon",
+      "number": "15/162",
+      "rarity": "",
+      "id": "xy8-ac-15",
+      "Description": "Cosmos Holo - Knock Out Collections Exclusive"
+    },
+    {
+      "name": "Typhlosion",
+      "number": "20/162",
+      "rarity": "",
+      "id": "xy8-ac-20",
+      "Description": "Cosmos Holo Sun & Moon Two Pack Blister exclusive"
+    },
+    {
+      "name": "Octillery",
+      "number": "33/162",
+      "rarity": "",
+      "id": "xy8-ac-33",
+      "Description": "Non Holo Battle Arena Decks: Rayquaza vs Keldeo exclusive"
+    },
+    {
+      "name": "Raichu",
+      "number": "49/162",
+      "rarity": "",
+      "id": "xy8-ac-49",
+      "Description": "Cracked Ice Holo Burning Spark Theme Deck exclusive"
+    },
+    {
+      "name": "Magnezone",
+      "number": "54/162",
+      "rarity": "",
+      "id": "xy8-ac-54",
+      "Description": "Non Holo Burning Spark Theme Deck/Battle Arena Decks: Black Kyurem vs White Kyurem exclusive"
+    },
+    {
+      "name": "Raikou",
+      "number": "55/162",
+      "rarity": "",
+      "id": "xy8-ac-55",
+      "Description": "Cosmos Holo Legendary Beast 3 pack blister exclusive"
+    },
+    {
+      "name": "Gengar",
+      "number": "60/162",
+      "rarity": "",
+      "id": "xy8-ac-60-1",
+      "Description": "Non Holo Night Striker Theme Deck exclusive"
+    },
+    {
+      "name": "Gengar",
+      "number": "60/162",
+      "rarity": "",
+      "id": "xy8-ac-60-2",
+      "Description": "Cosmos Holo Champions Tin exclusive"
+    },
+    {
+      "name": "Marowak",
+      "number": "78/162",
+      "rarity": "",
+      "id": "xy8-ac-78-1",
+      "Description": "1st Place Reverse Holo Pokémon League League Challenge promo"
+    },
+    {
+      "name": "Marowak",
+      "number": "78/162",
+      "rarity": "",
+      "id": "xy8-ac-78-2",
+      "Description": "2nd Place Reverse Holo Pokémon League League Challenge promo"
+    },
+    {
+      "name": "Marowak",
+      "number": "78/162",
+      "rarity": "",
+      "id": "xy8-ac-78-3",
+      "Description": "3rd Place Reverse Holo Pokémon League League Challenge promo"
+    },
+    {
+      "name": "Marowak",
+      "number": "78/162",
+      "rarity": "",
+      "id": "xy8-ac-78-4",
+      "Description": "4th Place Reverse Holo Pokémon League League Challenge promo"
+    },
+    {
+      "name": "Zoroark",
+      "number": "91/162",
+      "rarity": "",
+      "id": "xy8-ac-91-1",
+      "Description": "Non Holo Night Striker Theme Deck exclusive"
+    },
+    {
+      "name": "Zoroark",
+      "number": "91/162",
+      "rarity": "",
+      "id": "xy8-ac-91-2",
+      "Description": "Cosmos Holo Knockout Collection Promo"
+    },
+    {
+      "name": "Yveltal",
+      "number": "94/162",
+      "rarity": "",
+      "id": "xy8-ac-94",
+      "Description": "Cosmos Holo 3-Pack Blister Promo"
+    },
+    {
+      "name": "Flabébé",
+      "number": "101/162",
+      "rarity": "",
+      "id": "xy8-ac-101",
+      "Description": "Reverse Holo Pokémon League Promo"
+    },
+    {
+      "name": "Floette",
+      "number": "102/162",
+      "rarity": "",
+      "id": "xy8-ac-102",
+      "Description": "Reverse Holo Pokémon League Promo"
+    },
+    {
+      "name": "Florges",
+      "number": "103/162",
+      "rarity": "",
+      "id": "xy8-ac-103",
+      "Description": "Reverse Holo Pokémon League Promo"
+    },
+    {
+      "name": "Xerneas",
+      "number": "107/162",
+      "rarity": "",
+      "id": "xy8-ac-107-1",
+      "Description": "Cosmos Holo 3-Pack Blister Promo"
+    },
+    {
+      "name": "Xerneas",
+      "number": "107/162",
+      "rarity": "",
+      "id": "xy8-ac-107-2",
+      "Description": "Non Holo Ho-Oh Legendary Battle Deck exclusive"
+    },
+    {
+      "name": "Noivern",
+      "number": "112/162",
+      "rarity": "",
+      "id": "xy8-ac-112",
+      "Description": "Cracked Ice Holo Night Striker Theme Deck exclusive"
+    },
+    {
+      "name": "Giovanni's Scheme",
+      "number": "138/162",
+      "rarity": "",
+      "id": "xy8-ac-138-1",
+      "Description": "Reverse Holo Regional Championships 2016 promo"
+    },
+    {
+      "name": "Giovanni's Scheme",
+      "number": "138/162",
+      "rarity": "",
+      "id": "xy8-ac-138-2",
+      "Description": "Staff Reverse Holo Regional Championships 2016 promo"
+    },
+    {
+      "name": "Parallel City",
+      "number": "145/162",
+      "rarity": "",
+      "id": "xy8-ac-145-1",
+      "Description": "Reverse Holo City Championships 2016 promo"
+    },
+    {
+      "name": "Parallel City",
+      "number": "145/162",
+      "rarity": "",
+      "id": "xy8-ac-145-2",
+      "Description": "Staff Reverse Holo City Championships 2016 promo"
+    }
+  ],
+  "misprints": [
+    {
+      "name": "Chesnaught Break",
+      "number": "12/162",
+      "rarity": "misprint",
+      "id": "xy8-mp-12",
+      "Description": "Back printed upside down"
+    },
+    {
+      "name": "RAichu Break",
+      "number": "50/162",
+      "rarity": "misprint",
+      "id": "xy8-mp-50",
+      "Description": "Back printed upside down"
+    },
+    {
+      "name": "Marowak Break",
+      "number": "79/162",
+      "rarity": "misprint",
+      "id": "xy8-mp-79",
+      "Description": "Back printed upside down"
+    },
+    {
+      "name": "Zoroark Break",
+      "number": "92/162",
+      "rarity": "misprint",
+      "id": "xy8-mp-92",
+      "Description": "Back printed upside down"
+    },
+    {
+      "name": "Florges Break",
+      "number": "104/162",
+      "rarity": "misprint",
+      "id": "xy8-mp-104",
+      "Description": "Back printed upside down"
+    },
+    {
+      "name": "Noivern Break",
+      "number": "113/162",
+      "rarity": "misprint",
+      "id": "xy8-mp-113",
+      "Description": "Back printed upside down"
+    }
+  ]
 }

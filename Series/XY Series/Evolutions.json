@@ -1,689 +1,992 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Core",
+    "Reverse"
   ],
   "coreCards": [
     {
       "id": "xy12-1",
       "rarity": "EX",
       "name": "Venusaur-EX",
-      "number": "1"
+      "number": "1/108"
     },
     {
       "id": "xy12-2",
       "rarity": "EX",
       "name": "M Venusaur-EX",
-      "number": "2"
+      "number": "2/108"
     },
     {
       "id": "xy12-3",
       "rarity": "Common",
       "name": "Caterpie",
-      "number": "3"
+      "number": "3/108"
     },
     {
       "id": "xy12-4",
       "rarity": "Uncommon",
       "name": "Metapod",
-      "number": "4"
+      "number": "4/108"
     },
     {
       "id": "xy12-5",
       "rarity": "Common",
       "name": "Weedle",
-      "number": "5"
+      "number": "5/108"
     },
     {
       "id": "xy12-6",
       "rarity": "Uncommon",
       "name": "Kakuna",
-      "number": "6"
+      "number": "6/108"
     },
     {
       "id": "xy12-7",
       "rarity": "Rare",
       "name": "Beedrill",
-      "number": "7"
+      "number": "7/108"
     },
     {
       "id": "xy12-8",
       "rarity": "Common",
       "name": "Tangela",
-      "number": "8"
+      "number": "8/108"
     },
     {
       "id": "xy12-9",
       "rarity": "Common",
       "name": "Charmander",
-      "number": "9"
+      "number": "9/108"
     },
     {
       "id": "xy12-10",
       "rarity": "Uncommon",
       "name": "Charmeleon",
-      "number": "10"
+      "number": "10/108"
     },
     {
       "id": "xy12-11",
       "rarity": "Rare Holo",
       "name": "Charizard",
-      "number": "11"
+      "number": "11/108"
     },
     {
       "id": "xy12-12",
       "rarity": "EX",
       "name": "Charizard-EX",
-      "number": "12"
+      "number": "12/108"
     },
     {
       "id": "xy12-13",
       "rarity": "EX",
       "name": "M Charizard-EX",
-      "number": "13"
+      "number": "13/108"
     },
     {
       "id": "xy12-14",
       "rarity": "Common",
       "name": "Vulpix",
-      "number": "14"
+      "number": "14/108"
     },
     {
       "id": "xy12-15",
       "rarity": "Rare Holo",
       "name": "Ninetales",
-      "number": "15"
+      "number": "15/108"
     },
     {
       "id": "xy12-16",
-      "rarity": "Rare BREAK",
+      "rarity": "BREAK",
       "name": "Ninetales BREAK",
-      "number": "16"
+      "number": "16/108"
     },
     {
       "id": "xy12-17",
       "rarity": "Common",
       "name": "Growlithe",
-      "number": "17"
+      "number": "17/108"
     },
     {
       "id": "xy12-18",
       "rarity": "Rare",
       "name": "Arcanine",
-      "number": "18"
+      "number": "18/108"
     },
     {
       "id": "xy12-19",
       "rarity": "Common",
       "name": "Ponyta",
-      "number": "19"
+      "number": "19/108"
     },
     {
       "id": "xy12-20",
       "rarity": "Uncommon",
       "name": "Magmar",
-      "number": "20"
+      "number": "20/108"
     },
     {
       "id": "xy12-21",
       "rarity": "EX",
       "name": "Blastoise-EX",
-      "number": "21"
+      "number": "21/108"
     },
     {
       "id": "xy12-22",
       "rarity": "EX",
       "name": "M Blastoise-EX",
-      "number": "22"
+      "number": "22/108"
     },
     {
       "id": "xy12-23",
       "rarity": "Common",
       "name": "Poliwag",
-      "number": "23"
+      "number": "23/108"
     },
     {
       "id": "xy12-24",
       "rarity": "Uncommon",
       "name": "Poliwhirl",
-      "number": "24"
+      "number": "24/108"
     },
     {
       "id": "xy12-25",
       "rarity": "Rare Holo",
       "name": "Poliwrath",
-      "number": "25"
+      "number": "25/108"
     },
     {
       "id": "xy12-26",
       "rarity": "EX",
       "name": "Slowbro-EX",
-      "number": "26"
+      "number": "26/108"
     },
     {
       "id": "xy12-27",
       "rarity": "EX",
       "name": "M Slowbro-EX",
-      "number": "27"
+      "number": "27/108"
     },
     {
       "id": "xy12-28",
       "rarity": "Common",
       "name": "Seel",
-      "number": "28"
+      "number": "28/108"
     },
     {
       "id": "xy12-29",
       "rarity": "Rare",
       "name": "Dewgong",
-      "number": "29"
+      "number": "29/108"
     },
     {
       "id": "xy12-30",
       "rarity": "Common",
       "name": "Staryu",
-      "number": "30"
+      "number": "30/108"
     },
     {
       "id": "xy12-31",
       "rarity": "Rare",
       "name": "Starmie",
-      "number": "31"
+      "number": "31/108"
     },
     {
       "id": "xy12-32",
-      "rarity": "Rare BREAK",
+      "rarity": "BREAK",
       "name": "Starmie BREAK",
-      "number": "32"
+      "number": "32/108"
     },
     {
       "id": "xy12-33",
       "rarity": "Common",
       "name": "Magikarp",
-      "number": "33"
+      "number": "33/108"
     },
     {
       "id": "xy12-34",
       "rarity": "Rare Holo",
       "name": "Gyarados",
-      "number": "34"
+      "number": "34/108"
     },
     {
       "id": "xy12-35",
       "rarity": "Common",
       "name": "Pikachu",
-      "number": "35"
+      "number": "35/108"
     },
     {
       "id": "xy12-36",
       "rarity": "Rare Holo",
       "name": "Raichu",
-      "number": "36"
+      "number": "36/108"
     },
     {
       "id": "xy12-37",
       "rarity": "Common",
       "name": "Magnemite",
-      "number": "37"
+      "number": "37/108"
     },
     {
       "id": "xy12-38",
       "rarity": "Rare Holo",
       "name": "Magneton",
-      "number": "38"
+      "number": "38/108"
     },
     {
       "id": "xy12-39",
       "rarity": "Common",
       "name": "Voltorb",
-      "number": "39"
+      "number": "39/108"
     },
     {
       "id": "xy12-40",
       "rarity": "Rare",
       "name": "Electrode",
-      "number": "40"
+      "number": "40/108"
     },
     {
       "id": "xy12-41",
       "rarity": "Common",
       "name": "Electabuzz",
-      "number": "41"
+      "number": "41/108"
     },
     {
       "id": "xy12-42",
       "rarity": "Rare Holo",
       "name": "Zapdos",
-      "number": "42"
+      "number": "42/108"
     },
     {
       "id": "xy12-43",
       "rarity": "Common",
       "name": "Nidoran\u2642",
-      "number": "43"
+      "number": "43/108"
     },
     {
       "id": "xy12-44",
       "rarity": "Uncommon",
       "name": "Nidorino",
-      "number": "44"
+      "number": "44/108"
     },
     {
       "id": "xy12-45",
       "rarity": "Rare Holo",
       "name": "Nidoking",
-      "number": "45"
+      "number": "45/108"
     },
     {
       "id": "xy12-46",
-      "rarity": "Rare BREAK",
+      "rarity": "BREAK",
       "name": "Nidoking BREAK",
-      "number": "46"
+      "number": "46/108"
     },
     {
       "id": "xy12-47",
       "rarity": "Common",
       "name": "Gastly",
-      "number": "47"
+      "number": "47/108"
     },
     {
       "id": "xy12-48",
       "rarity": "Uncommon",
       "name": "Haunter",
-      "number": "48"
+      "number": "48/108"
     },
     {
       "id": "xy12-49",
       "rarity": "Common",
       "name": "Drowzee",
-      "number": "49"
+      "number": "49/108"
     },
     {
       "id": "xy12-50",
       "rarity": "Uncommon",
       "name": "Koffing",
-      "number": "50"
+      "number": "50/108"
     },
     {
       "id": "xy12-51",
       "rarity": "Rare",
       "name": "Mewtwo",
-      "number": "51"
+      "number": "51/108"
     },
     {
       "id": "xy12-52",
       "rarity": "EX",
       "name": "Mewtwo-EX",
-      "number": "52"
+      "number": "52/108"
     },
     {
       "id": "xy12-53",
       "rarity": "Rare Holo",
       "name": "Mew",
-      "number": "53"
+      "number": "53/108"
     },
     {
       "id": "xy12-54",
       "rarity": "Common",
       "name": "Sandshrew",
-      "number": "54"
+      "number": "54/108"
     },
     {
       "id": "xy12-55",
       "rarity": "Common",
       "name": "Diglett",
-      "number": "55"
+      "number": "55/108"
     },
     {
       "id": "xy12-56",
       "rarity": "Rare",
       "name": "Dugtrio",
-      "number": "56"
+      "number": "56/108"
     },
     {
       "id": "xy12-57",
       "rarity": "Common",
       "name": "Machop",
-      "number": "57"
+      "number": "57/108"
     },
     {
       "id": "xy12-58",
       "rarity": "Uncommon",
       "name": "Machoke",
-      "number": "58"
+      "number": "58/108"
     },
     {
       "id": "xy12-59",
       "rarity": "Rare Holo",
       "name": "Machamp",
-      "number": "59"
+      "number": "59/108"
     },
     {
       "id": "xy12-60",
-      "rarity": "Rare BREAK",
+      "rarity": "BREAK",
       "name": "Machamp BREAK",
-      "number": "60"
+      "number": "60/108"
     },
     {
       "id": "xy12-61",
       "rarity": "Common",
       "name": "Onix",
-      "number": "61"
+      "number": "61/108"
     },
     {
       "id": "xy12-62",
       "rarity": "Rare Holo",
       "name": "Hitmonchan",
-      "number": "62"
+      "number": "62/108"
     },
     {
       "id": "xy12-63",
       "rarity": "Rare Holo",
       "name": "Clefairy",
-      "number": "63"
+      "number": "63/108"
     },
     {
       "id": "xy12-64",
       "rarity": "EX",
       "name": "Pidgeot-EX",
-      "number": "64"
+      "number": "64/108"
     },
     {
       "id": "xy12-65",
       "rarity": "EX",
       "name": "M Pidgeot-EX",
-      "number": "65"
+      "number": "65/108"
     },
     {
       "id": "xy12-66",
       "rarity": "Common",
       "name": "Rattata",
-      "number": "66"
+      "number": "66/108"
     },
     {
       "id": "xy12-67",
       "rarity": "Rare",
       "name": "Raticate",
-      "number": "67"
+      "number": "67/108"
     },
     {
       "id": "xy12-68",
       "rarity": "Rare",
       "name": "Farfetch'd",
-      "number": "68"
+      "number": "68/108"
     },
     {
       "id": "xy12-69",
       "rarity": "Common",
       "name": "Doduo",
-      "number": "69"
+      "number": "69/108"
     },
     {
       "id": "xy12-70",
       "rarity": "Rare Holo",
       "name": "Chansey",
-      "number": "70"
+      "number": "70/108"
     },
     {
       "id": "xy12-71",
       "rarity": "Uncommon",
       "name": "Porygon",
-      "number": "71"
+      "number": "71/108"
     },
     {
       "id": "xy12-72",
       "rarity": "EX",
       "name": "Dragonite-EX",
-      "number": "72"
+      "number": "72/108"
     },
     {
       "id": "xy12-73",
       "rarity": "Uncommon",
       "name": "Blastoise Spirit Link",
-      "number": "73"
+      "number": "73/108"
     },
     {
       "id": "xy12-74",
       "rarity": "Uncommon",
       "name": "Brock's Grit",
-      "number": "74"
+      "number": "74/108"
     },
     {
       "id": "xy12-75",
       "rarity": "Uncommon",
       "name": "Charizard Spirit Link",
-      "number": "75"
+      "number": "75/108"
     },
     {
       "id": "xy12-76",
       "rarity": "Uncommon",
       "name": "Devolution Spray",
-      "number": "76"
+      "number": "76/108"
     },
     {
       "id": "xy12-77",
       "rarity": "Uncommon",
       "name": "Energy Retrieval",
-      "number": "77"
+      "number": "77/108"
     },
     {
       "id": "xy12-78",
       "rarity": "Uncommon",
       "name": "Full Heal",
-      "number": "78"
+      "number": "78/108"
     },
     {
       "id": "xy12-79",
       "rarity": "Uncommon",
       "name": "Maintenance",
-      "number": "79"
+      "number": "79/108"
     },
     {
       "id": "xy12-80",
       "rarity": "Uncommon",
       "name": "Misty's Determination",
-      "number": "80"
+      "number": "80/108"
     },
     {
       "id": "xy12-81",
       "rarity": "Uncommon",
       "name": "Pidgeot Spirit Link",
-      "number": "81"
+      "number": "81/108"
     },
     {
       "id": "xy12-82",
       "rarity": "Uncommon",
       "name": "Pok\u00e9dex",
-      "number": "82"
+      "number": "82/108"
     },
     {
       "id": "xy12-83",
       "rarity": "Uncommon",
       "name": "Potion",
-      "number": "83"
+      "number": "83/108"
     },
     {
       "id": "xy12-84",
       "rarity": "Uncommon",
       "name": "Professor Oak's Hint",
-      "number": "84"
+      "number": "84/108"
     },
     {
       "id": "xy12-85",
       "rarity": "Uncommon",
       "name": "Revive",
-      "number": "85"
+      "number": "85/108"
     },
     {
       "id": "xy12-86",
       "rarity": "Uncommon",
       "name": "Slowbro Spirit Link",
-      "number": "86"
+      "number": "86/108"
     },
     {
       "id": "xy12-87",
       "rarity": "Uncommon",
       "name": "Super Potion",
-      "number": "87"
+      "number": "87/108"
     },
     {
       "id": "xy12-88",
       "rarity": "Uncommon",
       "name": "Switch",
-      "number": "88"
+      "number": "88/108"
     },
     {
       "id": "xy12-89",
       "rarity": "Uncommon",
       "name": "Venusaur Spirit Link",
-      "number": "89"
+      "number": "89/108"
     },
     {
       "id": "xy12-90",
       "rarity": "Uncommon",
       "name": "Double Colorless Energy",
-      "number": "90"
+      "number": "90/108"
     },
     {
       "id": "xy12-91",
       "rarity": "Common",
       "name": "Basic Grass Energy",
-      "number": "91"
+      "number": "91/108"
     },
     {
       "id": "xy12-92",
       "rarity": "Common",
       "name": "Basic Fire Energy",
-      "number": "92"
+      "number": "92/108"
     },
     {
       "id": "xy12-93",
       "rarity": "Common",
       "name": "Basic Water Energy",
-      "number": "93"
+      "number": "93/108"
     },
     {
       "id": "xy12-94",
       "rarity": "Common",
       "name": "Basic Lightning Energy",
-      "number": "94"
+      "number": "94/108"
     },
     {
       "id": "xy12-95",
       "rarity": "Common",
       "name": "Basic Psychic Energy",
-      "number": "95"
+      "number": "95/108"
     },
     {
       "id": "xy12-96",
       "rarity": "Common",
       "name": "Basic Fighting Energy",
-      "number": "96"
+      "number": "96/108"
     },
     {
       "id": "xy12-97",
       "rarity": "Common",
       "name": "Basic Darkness Energy",
-      "number": "97"
+      "number": "97/108"
     },
     {
       "id": "xy12-98",
       "rarity": "Common",
       "name": "Basic Metal Energy",
-      "number": "98"
+      "number": "98/108"
     },
     {
       "id": "xy12-99",
       "rarity": "Common",
       "name": "Basic Fairy Energy",
-      "number": "99"
+      "number": "99/108"
     },
     {
       "id": "xy12-100",
       "rarity": "Full Art",
       "name": "M Venusaur-EX",
-      "number": "100"
+      "number": "100/108"
     },
     {
       "id": "xy12-101",
       "rarity": "Full Art",
       "name": "M Charizard-EX",
-      "number": "101"
+      "number": "101/108"
     },
     {
       "id": "xy12-102",
       "rarity": "Full Art",
       "name": "M Blastoise-EX",
-      "number": "102"
+      "number": "102/108"
     },
     {
       "id": "xy12-103",
       "rarity": "Full Art",
       "name": "Mewtwo-EX",
-      "number": "103"
+      "number": "103/108"
     },
     {
       "id": "xy12-104",
       "rarity": "Full Art",
       "name": "Pidgeot-EX",
-      "number": "104"
+      "number": "104/108"
     },
     {
       "id": "xy12-105",
       "rarity": "Full Art",
       "name": "M Pidgeot-EX",
-      "number": "105"
+      "number": "105/108"
     },
     {
       "id": "xy12-106",
       "rarity": "Full Art",
       "name": "Dragonite-EX",
-      "number": "106"
+      "number": "106/108"
     },
     {
       "id": "xy12-107",
       "rarity": "Full Art",
       "name": "Brock's Grit",
-      "number": "107"
+      "number": "107/108"
     },
     {
       "id": "xy12-108",
       "rarity": "Full Art",
       "name": "Misty's Determination",
-      "number": "108"
+      "number": "108/108"
     },
     {
       "id": "xy12-109",
       "rarity": "Rare Holo",
       "name": "\u30ca\u30c3\u30b7\u30fc[Exeggutor]",
-      "number": "109"
+      "number": "109/108"
     },
     {
       "id": "xy12-110",
-      "rarity": "Rare Secret",
+      "rarity": "Secret Rare",
       "name": "Flying Pikachu",
-      "number": "110"
+      "number": "110/108"
     },
     {
       "id": "xy12-111",
-      "rarity": "Rare Secret",
+      "rarity": "Secret Rare",
       "name": "Surfing Pikachu",
-      "number": "111"
+      "number": "111/108"
     },
     {
       "id": "xy12-112",
-      "rarity": "Rare Secret",
+      "rarity": "Secret Rare",
       "name": "Imakuni?'s Doduo",
-      "number": "112"
+      "number": "112/108"
     },
     {
       "id": "xy12-113",
-      "rarity": "Rare Secret",
+      "rarity": "Secret Rare",
       "name": "Here Comes Team Rocket!",
-      "number": "113"
+      "number": "113/108"
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "Charmander",
+      "number": "9/108",
+      "rarity": "",
+      "id": "xy12-ac-9",
+      "Description": "Cosmos Holo Toys R Us stamp exclusive (October 30, 2016)"
+    },
+    {
+      "name": "Charizard",
+      "number": "11/108",
+      "rarity": "",
+      "id": "xy12-ac-11-1",
+      "Description": "Evolutions stamp Prerelease promo"
+    },
+    {
+      "name": "Charizard",
+      "number": "11/108",
+      "rarity": "",
+      "id": "xy12-ac-11-2",
+      "Description": "Staff Evolutions stamp Prerelease promo"
+    },
+    {
+      "name": "Ninetales",
+      "number": "15/108",
+      "rarity": "",
+      "id": "xy12-ac-15",
+      "Description": "Non Holo Evolutions Prerelease Kit exclusive"
+    },
+    {
+      "name": "Poliwrath",
+      "number": "25/108",
+      "rarity": "",
+      "id": "xy12-ac-25",
+      "Description": "Non Holo Evolutions Prerelease Kit exclusive"
+    },
+    {
+      "name": "Gyarados",
+      "number": "34/108",
+      "rarity": "",
+      "id": "xy12-ac-34-1",
+      "Description": "Evolutions stamp Prerelease promo"
+    },
+    {
+      "name": "Gyarados",
+      "number": "34/108",
+      "rarity": "",
+      "id": "xy12-ac-34-2",
+      "Description": "Staff Evolutions stamp Prerelease promo"
+    },
+    {
+      "name": "Pikachu",
+      "number": "35/108",
+      "rarity": "",
+      "id": "xy12-ac-35",
+      "Description": "Cracked Ice Holo Pikachu Power Theme Deck exclusive"
+    },
+    {
+      "name": "Raichu",
+      "number": "36/108",
+      "rarity": "",
+      "id": "xy12-ac-36",
+      "Description": "Non Holo Pikachu Power Theme Deck exclusive"
+    },
+    {
+      "name": "Magneton",
+      "number": "38/108",
+      "rarity": "",
+      "id": "xy12-ac-38",
+      "Description": "Non Holo Pikachu Power Theme Deck exclusive"
+    },
+    {
+      "name": "Electabuzz",
+      "number": "41/108",
+      "rarity": "",
+      "id": "xy12-ac-41",
+      "Description": "Cosmos Holo \"Toys R Us\" stamp exclusive (November 20, 2016)"
+    },
+    {
+      "name": "Nidoking",
+      "number": "45/108",
+      "rarity": "",
+      "id": "xy12-ac-45",
+      "Description": "Non Holo Evolutions Prerelease Kit/Mewtwo Mayhem Theme Deck exclusive"
+    },
+    {
+      "name": "Mewtwo",
+      "number": "51/108",
+      "rarity": "",
+      "id": "xy12-ac-51-1",
+      "Description": "Evolutions stamp Prerelease promo"
+    },
+    {
+      "name": "Mewtwo",
+      "number": "51/108",
+      "rarity": "",
+      "id": "xy12-ac-51-2",
+      "Description": "Staff Evolutions stamp Prerelease promo"
+    },
+    {
+      "name": "Mewtwo",
+      "number": "51/108",
+      "rarity": "",
+      "id": "xy12-ac-51-3",
+      "Description": "Cracked Ice Holo Mewtwo Mayhem Theme Deck exclusive"
+    },
+    {
+      "name": "Mew",
+      "number": "53/108",
+      "rarity": "",
+      "id": "xy12-ac-53-1",
+      "Description": "Non Holo Evolutions Prerelease Kit exclusive"
+    },
+    {
+      "name": "Mew",
+      "number": "53/108",
+      "rarity": "",
+      "id": "xy12-ac-53-2",
+      "Description": "Holofoil League Challenge 1st Place"
+    },
+    {
+      "name": "Mew",
+      "number": "53/108",
+      "rarity": "",
+      "id": "xy12-ac-53-3",
+      "Description": "Holofoil League Challenge 2nd Place"
+    },
+    {
+      "name": "Mew",
+      "number": "53/108",
+      "rarity": "",
+      "id": "xy12-ac-53-4",
+      "Description": "Holofoil League Challenge 3rd Place"
+    },
+    {
+      "name": "Mew",
+      "number": "53/108",
+      "rarity": "",
+      "id": "xy12-ac-53-5",
+      "Description": "Holofoil League Challenge 4th Place"
+    },
+    {
+      "name": "Machamp",
+      "number": "59/108",
+      "rarity": "",
+      "id": "xy12-ac-59-1",
+      "Description": "Evolutions stamp Prerelease promo"
+    },
+    {
+      "name": "Machamp",
+      "number": "59/108",
+      "rarity": "",
+      "id": "xy12-ac-59-2",
+      "Description": "Staff Evolutions stamp Prerelease promo"
+    },
+    {
+      "name": "Hitmonchan",
+      "number": "62/108",
+      "rarity": "",
+      "id": "xy12-ac-62",
+      "Description": "Non Holo Evolutions Prerelease Kit/Mewtwo Mayhem Theme Deck exclusive"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "number": "90/108",
+      "rarity": "",
+      "id": "xy12-ac-90-1",
+      "Description": "Holofoil International Championships London (December 9 to 11, 2016)"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "number": "90/108",
+      "rarity": "",
+      "id": "xy12-ac-90-2",
+      "Description": "Holofoil Staff International Championships London (December 9 to 11, 2016)"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "number": "90/108",
+      "rarity": "",
+      "id": "xy12-ac-90-3",
+      "Description": "Holofoil Top 8 International Championships London (December 9 to 11, 2016)"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "number": "90/108",
+      "rarity": "",
+      "id": "xy12-ac-90-4",
+      "Description": "Holofoil Champion International Championships London (December 9 to 11, 2016)"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "number": "90/108",
+      "rarity": "",
+      "id": "xy12-ac-90-5",
+      "Description": "Holofoil International Championships Oceana(March 10 to 12, 2017)"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "number": "90/108",
+      "rarity": "",
+      "id": "xy12-ac-90-6",
+      "Description": "Holofoil Staff International Championships Oceana(March 10 to 12, 2017)"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "number": "90/108",
+      "rarity": "",
+      "id": "xy12-ac-90-7",
+      "Description": "Holofoil Top 8 International Championships Oceana(March 10 to 12, 2017)"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "number": "90/108",
+      "rarity": "",
+      "id": "xy12-ac-90-8",
+      "Description": "Holofoil Champion International Championships Oceana(March 10 to 12, 2017"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "number": "90/108",
+      "rarity": "",
+      "id": "xy12-ac-90-9",
+      "Description": "Holofoil International Championships Latin America(March 10 to 12, 2017)"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "number": "90/108",
+      "rarity": "",
+      "id": "xy12-ac-90-10",
+      "Description": "Holofoil Staff International Championships Latin America (March 10 to 12, 2017)"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "number": "90/108",
+      "rarity": "",
+      "id": "xy12-ac-90-11",
+      "Description": "Holofoil Top 8 International Championships Latin America(March 10 to 12, 2017)"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "number": "90/108",
+      "rarity": "",
+      "id": "xy12-ac-90-12",
+      "Description": "Holofoil Champion International Championships Latin America(March 10 to 12, 2017"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "number": "90/108",
+      "rarity": "",
+      "id": "xy12-ac-90-13",
+      "Description": "Holofoil International Championships North America(March 10 to 12, 2017)"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "number": "90/108",
+      "rarity": "",
+      "id": "xy12-ac-90-14",
+      "Description": "Holofoil Staff International Championships NorthAmerica (March 10 to 12, 2017)"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "number": "90/108",
+      "rarity": "",
+      "id": "xy12-ac-90-15",
+      "Description": "Holofoil Top 8 International Championships North America(March 10 to 12, 2017)"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "number": "90/108",
+      "rarity": "",
+      "id": "xy12-ac-90-16",
+      "Description": "Holofoil Champion International Championships North America(March 10 to 12, 2017"
+    }
+  ],
+  "misprints": [
+    {
+      "name": "Electrode",
+      "number": "40/108",
+      "rarity": "misprint",
+      "id": "xy12-mp-40-1",
+      "Description": "ability error - 'is attached to a ligthning Pokemon'"
+    },
+    {
+      "name": "Electrode",
+      "number": "40/108",
+      "rarity": "misprint - reverse",
+      "id": "xy12-mp-40-2",
+      "Description": "ability error - 'is attached to a ligthning Pokemon'"
+    },
+    {
+      "name": "Devolution Spray",
+      "number": 76,
+      "rarity": "Uncommon",
+      "id": "xy12-mp-76-1",
+      "Description": "Heavy Green ink on yellow bottle error"
+    },
+    {
+      "name": "Devolution Spray",
+      "number": 76,
+      "rarity": "Uncommon - reverse",
+      "id": "xy12-mp-76-2",
+      "Description": "Heavy Green ink on yellow bottle error"
+    }
+  ]
 }

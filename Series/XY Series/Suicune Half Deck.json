@@ -1,17 +1,190 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Have"
   ],
   "coreCards": [
     {
-      "id": "placeholder-1",
+      "name": "Water Energy",
+      "number": "1/30",
       "rarity": "Common",
-      "name": "placeholder pkmn",
-      "number": "1"
+      "id": "xy-suicune-1"
+    },
+    {
+      "name": "Water Energy",
+      "number": "2/30",
+      "rarity": "Common",
+      "id": "xy-suicune-2"
+    },
+    {
+      "name": "Water Energy",
+      "number": "3/30",
+      "rarity": "Common",
+      "id": "xy-suicune-3"
+    },
+    {
+      "name": "Eevee",
+      "number": "4/30",
+      "rarity": "Common",
+      "id": "xy-suicune-4"
+    },
+    {
+      "name": "Water Energy",
+      "number": "5/30",
+      "rarity": "Common",
+      "id": "xy-suicune-5"
+    },
+    {
+      "name": "Frogadier",
+      "number": "6/30",
+      "rarity": "Common",
+      "id": "xy-suicune-6"
+    },
+    {
+      "name": "Ducklett",
+      "number": "7/30",
+      "rarity": "Common",
+      "id": "xy-suicune-7"
+    },
+    {
+      "name": "Water Energy",
+      "number": "8/30",
+      "rarity": "Common",
+      "id": "xy-suicune-8"
+    },
+    {
+      "name": "Water Energy",
+      "number": "9/30",
+      "rarity": "Common",
+      "id": "xy-suicune-9"
+    },
+    {
+      "name": "Water Energy",
+      "number": "10/30",
+      "rarity": "Common",
+      "id": "xy-suicune-10"
+    },
+    {
+      "name": "Froakie",
+      "number": "11/30",
+      "rarity": "Common",
+      "id": "xy-suicune-11"
+    },
+    {
+      "name": "Seaking",
+      "number": "12/30",
+      "rarity": "Common",
+      "id": "xy-suicune-12"
+    },
+    {
+      "name": "Goldeen",
+      "number": "13/30",
+      "rarity": "Common",
+      "id": "xy-suicune-13"
+    },
+    {
+      "name": "Suicune",
+      "number": "14/30",
+      "rarity": "Common",
+      "id": "xy-suicune-14"
+    },
+    {
+      "name": "Potion",
+      "number": "15/30",
+      "rarity": "Common",
+      "id": "xy-suicune-15"
+    },
+    {
+      "name": "Piplup",
+      "number": "16/30",
+      "rarity": "Common",
+      "id": "xy-suicune-16"
+    },
+    {
+      "name": "Water Energy",
+      "number": "17/30",
+      "rarity": "Common",
+      "id": "xy-suicune-17"
+    },
+    {
+      "name": "Swanna",
+      "number": "18/30",
+      "rarity": "Common",
+      "id": "xy-suicune-18"
+    },
+    {
+      "name": "Water Energy",
+      "number": "19/30",
+      "rarity": "Common",
+      "id": "xy-suicune-19"
+    },
+    {
+      "name": "Tierno",
+      "number": "20/30",
+      "rarity": "Common",
+      "id": "xy-suicune-20"
+    },
+    {
+      "name": "Frogadier",
+      "number": "21/30",
+      "rarity": "Common",
+      "id": "xy-suicune-21"
+    },
+    {
+      "name": "Water Energy",
+      "number": "22/30",
+      "rarity": "Common",
+      "id": "xy-suicune-22"
+    },
+    {
+      "name": "Froakie",
+      "number": "23/30",
+      "rarity": "Common",
+      "id": "xy-suicune-23"
+    },
+    {
+      "name": "Ducklett",
+      "number": "24/30",
+      "rarity": "Common",
+      "id": "xy-suicune-24"
+    },
+    {
+      "name": "Seaking",
+      "number": "25/30",
+      "rarity": "Common",
+      "id": "xy-suicune-25"
+    },
+    {
+      "name": "Goldeen",
+      "number": "26/30",
+      "rarity": "Common",
+      "id": "xy-suicune-26"
+    },
+    {
+      "name": "Swanna",
+      "number": "27/30",
+      "rarity": "Common",
+      "id": "xy-suicune-27"
+    },
+    {
+      "name": "Water Energy",
+      "number": "28/30",
+      "rarity": "Common",
+      "id": "xy-suicune-28"
+    },
+    {
+      "name": "Tierno",
+      "number": "29/30",
+      "rarity": "Common",
+      "id": "xy-suicune-29"
+    },
+    {
+      "name": "Suicune",
+      "number": "30/30",
+      "rarity": "Common",
+      "id": "xy-suicune-30"
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }

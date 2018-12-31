@@ -1,519 +1,519 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Core",
+    "Reverse"
   ],
   "coreCards": [
     {
       "id": "g1-1",
       "rarity": "EX",
       "name": "Venusaur-EX",
-      "number": "1"
+      "number": "1/83"
     },
     {
       "id": "g1-2",
       "rarity": "EX",
       "name": "M Venusaur-EX",
-      "number": "2"
+      "number": "2/83"
     },
     {
       "id": "g1-3",
       "rarity": "Common",
       "name": "Caterpie",
-      "number": "3"
+      "number": "3/83"
     },
     {
       "id": "g1-4",
       "rarity": "Uncommon",
       "name": "Metapod",
-      "number": "4"
+      "number": "4/83"
     },
     {
       "id": "g1-5",
       "rarity": "Rare Holo",
       "name": "Butterfree",
-      "number": "5"
+      "number": "5/83"
     },
     {
       "id": "g1-6",
       "rarity": "Common",
       "name": "Paras",
-      "number": "6"
+      "number": "6/83"
     },
     {
       "id": "g1-7",
       "rarity": "Rare",
       "name": "Parasect",
-      "number": "7"
+      "number": "7/83"
     },
     {
       "id": "g1-8",
       "rarity": "Common",
       "name": "Tangela",
-      "number": "8"
+      "number": "8/83"
     },
     {
       "id": "g1-9",
       "rarity": "Rare",
       "name": "Pinsir",
-      "number": "9"
+      "number": "9/83"
     },
     {
       "id": "g1-10",
       "rarity": "EX",
       "name": "Leafeon-EX",
-      "number": "10"
+      "number": "10/83"
     },
     {
       "id": "g1-11",
       "rarity": "EX",
       "name": "Charizard-EX",
-      "number": "11"
+      "number": "11/83"
     },
     {
       "id": "g1-12",
       "rarity": "EX",
       "name": "M Charizard-EX",
-      "number": "12"
+      "number": "12/83"
     },
     {
       "id": "g1-13",
       "rarity": "EX",
       "name": "Ninetales-EX",
-      "number": "13"
+      "number": "13/83"
     },
     {
       "id": "g1-14",
       "rarity": "Common",
       "name": "Ponyta",
-      "number": "14"
+      "number": "14/83"
     },
     {
       "id": "g1-15",
       "rarity": "Rare",
       "name": "Rapidash",
-      "number": "15"
+      "number": "15/83"
     },
     {
       "id": "g1-16",
       "rarity": "Common",
       "name": "Magmar",
-      "number": "16"
+      "number": "16/83"
     },
     {
       "id": "g1-17",
       "rarity": "EX",
       "name": "Blastoise-EX",
-      "number": "17"
+      "number": "17/83"
     },
     {
       "id": "g1-18",
       "rarity": "EX",
       "name": "M Blastoise-EX",
-      "number": "18"
+      "number": "18/83"
     },
     {
       "id": "g1-19",
       "rarity": "Common",
       "name": "Shellder",
-      "number": "19"
+      "number": "19/83"
     },
     {
       "id": "g1-20",
       "rarity": "Uncommon",
       "name": "Cloyster",
-      "number": "20"
+      "number": "20/83"
     },
     {
       "id": "g1-21",
       "rarity": "Common",
       "name": "Krabby",
-      "number": "21"
+      "number": "21/83"
     },
     {
       "id": "g1-22",
       "rarity": "Common",
       "name": "Magikarp",
-      "number": "22"
+      "number": "22/83"
     },
     {
       "id": "g1-23",
       "rarity": "Rare",
       "name": "Gyarados",
-      "number": "23"
+      "number": "23/83"
     },
     {
       "id": "g1-24",
       "rarity": "EX",
       "name": "Vaporeon-EX",
-      "number": "24"
+      "number": "24/83"
     },
     {
       "id": "g1-25",
       "rarity": "Full Art",
       "name": "Articuno",
-      "number": "25"
+      "number": "25/83"
     },
     {
       "id": "g1-26",
       "rarity": "Common",
       "name": "Pikachu",
-      "number": "26"
+      "number": "26/83"
     },
     {
       "id": "g1-27",
       "rarity": "Rare Holo",
       "name": "Raichu",
-      "number": "27"
+      "number": "27/83"
     },
     {
       "id": "g1-28",
       "rarity": "EX",
       "name": "Jolteon-EX",
-      "number": "28"
+      "number": "28/83"
     },
     {
       "id": "g1-28a",
       "rarity": "EX",
       "name": "Jolteon-EX",
-      "number": "28a"
+      "number": "28/83a"
     },
     {
       "id": "g1-29",
       "rarity": "Full Art",
       "name": "Zapdos",
-      "number": "29"
+      "number": "29/83"
     },
     {
       "id": "g1-30",
       "rarity": "Common",
       "name": "Zubat",
-      "number": "30"
+      "number": "30/83"
     },
     {
       "id": "g1-31",
       "rarity": "Uncommon",
       "name": "Golbat",
-      "number": "31"
+      "number": "31/83"
     },
     {
       "id": "g1-32",
       "rarity": "Common",
       "name": "Slowpoke",
-      "number": "32"
+      "number": "32/83"
     },
     {
       "id": "g1-33",
       "rarity": "Common",
       "name": "Gastly",
-      "number": "33"
+      "number": "33/83"
     },
     {
       "id": "g1-34",
       "rarity": "Uncommon",
       "name": "Haunter",
-      "number": "34"
+      "number": "34/83"
     },
     {
       "id": "g1-35",
       "rarity": "Rare Holo",
       "name": "Gengar",
-      "number": "35"
+      "number": "35/83"
     },
     {
       "id": "g1-36",
       "rarity": "Rare",
       "name": "Jynx",
-      "number": "36"
+      "number": "36/83"
     },
     {
       "id": "g1-37",
       "rarity": "EX",
       "name": "Meowstic-EX",
-      "number": "37"
+      "number": "37/83"
     },
     {
       "id": "g1-38",
       "rarity": "Common",
       "name": "Diglett",
-      "number": "38"
+      "number": "38/83"
     },
     {
       "id": "g1-39",
       "rarity": "Rare",
       "name": "Dugtrio",
-      "number": "39"
+      "number": "39/83"
     },
     {
       "id": "g1-40",
       "rarity": "Common",
       "name": "Machop",
-      "number": "40"
+      "number": "40/83"
     },
     {
       "id": "g1-41",
       "rarity": "Uncommon",
       "name": "Machoke",
-      "number": "41"
+      "number": "41/83"
     },
     {
       "id": "g1-42",
       "rarity": "Rare Holo",
       "name": "Machamp",
-      "number": "42"
+      "number": "42/83"
     },
     {
       "id": "g1-43",
       "rarity": "Common",
       "name": "Geodude",
-      "number": "43"
+      "number": "43/83"
     },
     {
       "id": "g1-44",
       "rarity": "Uncommon",
       "name": "Graveler",
-      "number": "44"
+      "number": "44/83"
     },
     {
       "id": "g1-45",
       "rarity": "Rare Holo",
       "name": "Golem",
-      "number": "45"
+      "number": "45/83"
     },
     {
       "id": "g1-46",
       "rarity": "EX",
       "name": "Golem-EX",
-      "number": "46"
+      "number": "46/83"
     },
     {
       "id": "g1-47",
       "rarity": "Rare",
       "name": "Hitmonlee",
-      "number": "47"
+      "number": "47/83"
     },
     {
       "id": "g1-48",
       "rarity": "Rare",
       "name": "Hitmonchan",
-      "number": "48"
+      "number": "48/83"
     },
     {
       "id": "g1-49",
       "rarity": "Common",
       "name": "Rhyhorn",
-      "number": "49"
+      "number": "49/83"
     },
     {
       "id": "g1-50",
       "rarity": "Common",
       "name": "Clefairy",
-      "number": "50"
+      "number": "50/83"
     },
     {
       "id": "g1-51",
       "rarity": "Uncommon",
       "name": "Clefable",
-      "number": "51"
+      "number": "51/83"
     },
     {
       "id": "g1-52",
       "rarity": "Uncommon",
       "name": "Mr. Mime",
-      "number": "52"
+      "number": "52/83"
     },
     {
       "id": "g1-53",
       "rarity": "Common",
       "name": "Meowth",
-      "number": "53"
+      "number": "53/83"
     },
     {
       "id": "g1-54",
       "rarity": "Uncommon",
       "name": "Persian",
-      "number": "54"
+      "number": "54/83"
     },
     {
       "id": "g1-55",
       "rarity": "Common",
       "name": "Doduo",
-      "number": "55"
+      "number": "55/83"
     },
     {
       "id": "g1-56",
       "rarity": "Rare",
       "name": "Dodrio",
-      "number": "56"
+      "number": "56/83"
     },
     {
       "id": "g1-57",
       "rarity": "Rare",
       "name": "Tauros",
-      "number": "57"
+      "number": "57/83"
     },
     {
       "id": "g1-58",
       "rarity": "Rare",
       "name": "Snorlax",
-      "number": "58"
+      "number": "58/83"
     },
     {
       "id": "g1-59",
       "rarity": "Uncommon",
       "name": "Clemont",
-      "number": "59"
+      "number": "59/83"
     },
     {
       "id": "g1-60",
       "rarity": "Uncommon",
       "name": "Crushing Hammer",
-      "number": "60"
+      "number": "60/83"
     },
     {
       "id": "g1-61",
       "rarity": "Uncommon",
       "name": "Energy Switch",
-      "number": "61"
+      "number": "61/83"
     },
     {
       "id": "g1-62",
       "rarity": "Uncommon",
       "name": "Evosoda",
-      "number": "62"
+      "number": "62/83"
     },
     {
       "id": "g1-63",
       "rarity": "Uncommon",
       "name": "Imakuni?",
-      "number": "63"
+      "number": "63/83"
     },
     {
       "id": "g1-64",
       "rarity": "Uncommon",
       "name": "Maintenance",
-      "number": "64"
+      "number": "64/83"
     },
     {
       "id": "g1-65",
       "rarity": "Uncommon",
       "name": "Max Revive",
-      "number": "65"
+      "number": "65/83"
     },
     {
       "id": "g1-66",
       "rarity": "Uncommon",
       "name": "Olympia",
-      "number": "66"
+      "number": "66/83"
     },
     {
       "id": "g1-67",
       "rarity": "Uncommon",
       "name": "Pok\u00e9 Ball",
-      "number": "67"
+      "number": "67/83"
     },
     {
       "id": "g1-68",
       "rarity": "Uncommon",
       "name": "Pok\u00e9mon Center Lady",
-      "number": "68"
+      "number": "68/83"
     },
     {
       "id": "g1-69",
       "rarity": "Uncommon",
       "name": "Pok\u00e9mon Fan Club",
-      "number": "69"
+      "number": "69/83"
     },
     {
       "id": "g1-70",
       "rarity": "Uncommon",
       "name": "Revitalizer",
-      "number": "70"
+      "number": "70/83"
     },
     {
       "id": "g1-71",
       "rarity": "Uncommon",
       "name": "Red Card",
-      "number": "71"
+      "number": "71/83"
     },
     {
       "id": "g1-72",
       "rarity": "Uncommon",
       "name": "Shauna",
-      "number": "72"
+      "number": "72/83"
     },
     {
       "id": "g1-73",
       "rarity": "Uncommon",
       "name": "Team Flare Grunt",
-      "number": "73"
+      "number": "73/83"
     },
     {
       "id": "g1-73a",
       "rarity": "Uncommon",
       "name": "Team Flare Grunt",
-      "number": "73a"
+      "number": "73/83a"
     },
     {
       "id": "g1-74",
       "rarity": "Uncommon",
       "name": "Double Colorless Energy",
-      "number": "74"
+      "number": "74/83"
     },
     {
       "id": "g1-75",
       "rarity": "Common",
       "name": "Basic Grass Energy",
-      "number": "75"
+      "number": "75/83"
     },
     {
       "id": "g1-76",
       "rarity": "Common",
       "name": "Basic Fire Energy",
-      "number": "76"
+      "number": "76/83"
     },
     {
       "id": "g1-77",
       "rarity": "Common",
       "name": "Basic Water Energy",
-      "number": "77"
+      "number": "77/83"
     },
     {
       "id": "g1-78",
       "rarity": "Common",
       "name": "Basic Lightning Energy",
-      "number": "78"
+      "number": "78/83"
     },
     {
       "id": "g1-79",
       "rarity": "Common",
       "name": "Basic Psychic Energy",
-      "number": "79"
+      "number": "79/83"
     },
     {
       "id": "g1-80",
       "rarity": "Common",
       "name": "Basic Fighting Energy",
-      "number": "80"
+      "number": "80/83"
     },
     {
       "id": "g1-81",
       "rarity": "Common",
       "name": "Basic Darkness Energy",
-      "number": "81"
+      "number": "81/83"
     },
     {
       "id": "g1-82",
       "rarity": "Common",
       "name": "Basic Metal Energy",
-      "number": "82"
+      "number": "82/83"
     },
     {
       "id": "g1-83",
       "rarity": "Common",
       "name": "Basic Fairy Energy",
-      "number": "83"
+      "number": "83/83"
     },
     {
       "id": "g1-rc1",
@@ -708,6 +708,162 @@
       "number": "RC32"
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "Butterfree",
+      "number": "5/83",
+      "rarity": "misprint",
+      "id": "g1-ac-5",
+      "Description": "mirror holo"
+    },
+    {
+      "name": "Tangela",
+      "number": "8/83",
+      "rarity": "",
+      "id": "g1-ac-8-1",
+      "Description": "Holo \"Toys \"R\" Us\" stamp promo (Canada)"
+    },
+    {
+      "name": "Tangela",
+      "number": "8/83",
+      "rarity": "",
+      "id": "g1-ac-8-2",
+      "Description": "Holo 20th Anniversary GAME stamp promo (UK)"
+    },
+    {
+      "name": "Ponyta",
+      "number": "14/83",
+      "rarity": "",
+      "id": "g1-ac-14-1",
+      "Description": "Holo \"Toys \"R\" Us\" stamp promo (Canada)"
+    },
+    {
+      "name": "Ponyta",
+      "number": "14/83",
+      "rarity": "",
+      "id": "g1-ac-14-2",
+      "Description": "Holo 20th Anniversary GAME stamp promo (UK)"
+    },
+    {
+      "name": "Magikarp",
+      "number": "22/83",
+      "rarity": "",
+      "id": "g1-ac-22-1",
+      "Description": "Holo \"Toys \"R\" Us\" stamp promo (USA and Canada)"
+    },
+    {
+      "name": "Magikarp",
+      "number": "22/83",
+      "rarity": "",
+      "id": "g1-ac-22-2",
+      "Description": "Holo 20th Anniversary GAME stamp promo (UK and France)"
+    },
+    {
+      "name": "Pikachu",
+      "number": "26/83",
+      "rarity": "",
+      "id": "g1-ac-26-1",
+      "Description": "Holo \"Toys \"R\" Us\" stamp promo (USA and Canada)"
+    },
+    {
+      "name": "Pikachu",
+      "number": "26/83",
+      "rarity": "",
+      "id": "g1-ac-26-2",
+      "Description": "Holo 20th Anniversary stamp promo (UK, France, Australia)"
+    },
+    {
+      "name": "Jolteon",
+      "number": "28a/83",
+      "rarity": "",
+      "id": "g1-ac-28a",
+      "Description": "Yellow A Alternate art Mega Powers Collection exclusive"
+    },
+    {
+      "name": "Slowpoke",
+      "number": "32/83",
+      "rarity": "",
+      "id": "g1-ac-32-1",
+      "Description": "Holo \"Toys \"R\" Us\" stamp promo (Canada)"
+    },
+    {
+      "name": "Slowpoke",
+      "number": "32/83",
+      "rarity": "",
+      "id": "g1-ac-32-2",
+      "Description": "Holo 20th Anniversary GAME stamp promo (UK)"
+    },
+    {
+      "name": "Geodude",
+      "number": "43/83",
+      "rarity": "",
+      "id": "g1-ac-43-1",
+      "Description": "Holo \"Toys \"R\" Us\" stamp promo (Canada)"
+    },
+    {
+      "name": "Geodude",
+      "number": "43/83",
+      "rarity": "",
+      "id": "g1-ac-43-2",
+      "Description": "Holo 20th Anniversary GAME stamp promo (UK)"
+    },
+    {
+      "name": "Clefairy",
+      "number": "50/83",
+      "rarity": "",
+      "id": "g1-ac-50-1",
+      "Description": "Holo \"Toys \"R\" Us\" stamp promo (USA and Canada)"
+    },
+    {
+      "name": "Clefairy",
+      "number": "50/83",
+      "rarity": "",
+      "id": "g1-ac-50-2",
+      "Description": "Holo 20th Anniversary GAME stamp promo (UK)"
+    },
+    {
+      "name": "Meowth",
+      "number": "53/83",
+      "rarity": "",
+      "id": "g1-ac-53-1",
+      "Description": "Holo \"Toys \"R\" Us\" stamp promo (USA and Canada)"
+    },
+    {
+      "name": "Meowth",
+      "number": "53/83",
+      "rarity": "",
+      "id": "g1-ac-53-2",
+      "Description": "Holo 20th Anniversary stamp promo (UK and Australia)"
+    },
+    {
+      "name": "Team Flare Grunt",
+      "number": "73a/83",
+      "rarity": "",
+      "id": "g1-ac-73a",
+      "Description": "Yellow A Alternate art Premium Trainer's XY Collection exclusive"
+    }
+  ],
+  "misprints": [
+    {
+      "name": "Raichu",
+      "number": "27/83",
+      "rarity": "misprint",
+      "id": "g1-mp-27",
+      "Description": "mirror holo"
+    },
+    {
+      "name": "Gengar",
+      "number": "35/83",
+      "rarity": "misprint",
+      "id": "g1-mp-35",
+      "Description": "mirror holo"
+    },
+    {
+      "name": "Golem",
+      "number": "45/83",
+      "rarity": "misprint",
+      "id": "g1-mp-45",
+      "Description": "mirror holo"
+    }
+  ]
 }

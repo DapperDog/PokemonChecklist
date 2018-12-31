@@ -1,17 +1,190 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Have"
   ],
   "coreCards": [
     {
-      "id": "placeholder-1",
+      "name": "Grass Energy",
+      "number": "1/30",
       "rarity": "Common",
-      "name": "placeholder pkmn",
-      "number": "1"
+      "id": "xy-latias-2"
+    },
+    {
+      "name": "Grass Energy",
+      "number": "2/30",
+      "rarity": "Common",
+      "id": "xy-latias-2"
+    },
+    {
+      "name": "Grass Energy",
+      "number": "3/30",
+      "rarity": "Common",
+      "id": "xy-latias-3"
+    },
+    {
+      "name": "Fletchling",
+      "number": "4/30",
+      "rarity": "Common",
+      "id": "xy-latias-4"
+    },
+    {
+      "name": "Grass Energy",
+      "number": "5/30",
+      "rarity": "Common",
+      "id": "xy-latias-5"
+    },
+    {
+      "name": "Lombre",
+      "number": "6/30",
+      "rarity": "Common",
+      "id": "xy-latias-6"
+    },
+    {
+      "name": "Treecko",
+      "number": "7/30",
+      "rarity": "Common",
+      "id": "xy-latias-7"
+    },
+    {
+      "name": "Psychic Energy",
+      "number": "8/30",
+      "rarity": "Common",
+      "id": "xy-latias-8"
+    },
+    {
+      "name": "Psychic Energy",
+      "number": "9/30",
+      "rarity": "Common",
+      "id": "xy-latias-9"
+    },
+    {
+      "name": "Psychic Energy",
+      "number": "10/30",
+      "rarity": "Common",
+      "id": "xy-latias-10"
+    },
+    {
+      "name": "Lotad",
+      "number": "11/30",
+      "rarity": "Common",
+      "id": "xy-latias-11"
+    },
+    {
+      "name": "Tangrowth",
+      "number": "12/30",
+      "rarity": "Common",
+      "id": "xy-latias-12"
+    },
+    {
+      "name": "Tangela",
+      "number": "13/30",
+      "rarity": "Common",
+      "id": "xy-latias-13"
+    },
+    {
+      "name": "Latias",
+      "number": "14/30",
+      "rarity": "Common",
+      "id": "xy-latias-14"
+    },
+    {
+      "name": "Potion",
+      "number": "15/30",
+      "rarity": "Common",
+      "id": "xy-latias-15"
+    },
+    {
+      "name": "Surskit",
+      "number": "16/30",
+      "rarity": "Common",
+      "id": "xy-latias-16"
+    },
+    {
+      "name": "Psychic Energy",
+      "number": "17/30",
+      "rarity": "Common",
+      "id": "xy-latias-17"
+    },
+    {
+      "name": "Grovyle",
+      "number": "18/30",
+      "rarity": "Common",
+      "id": "xy-latias-18"
+    },
+    {
+      "name": "Grass Energy",
+      "number": "19/30",
+      "rarity": "Common",
+      "id": "xy-latias-19"
+    },
+    {
+      "name": "Acro Bike",
+      "number": "20/30",
+      "rarity": "Common",
+      "id": "xy-latias-20"
+    },
+    {
+      "name": "Lombre",
+      "number": "21/30",
+      "rarity": "Common",
+      "id": "xy-latias-21"
+    },
+    {
+      "name": "Psychic Energy",
+      "number": "22/30",
+      "rarity": "Common",
+      "id": "xy-latias-22"
+    },
+    {
+      "name": "Lotad",
+      "number": "23/30",
+      "rarity": "Common",
+      "id": "xy-latias-23"
+    },
+    {
+      "name": "Treecko",
+      "number": "24/30",
+      "rarity": "Common",
+      "id": "xy-latias-24"
+    },
+    {
+      "name": "Tangrowth",
+      "number": "25/30",
+      "rarity": "Common",
+      "id": "xy-latias-25"
+    },
+    {
+      "name": "Tangela",
+      "number": "26/30",
+      "rarity": "Common",
+      "id": "xy-latias-26"
+    },
+    {
+      "name": "Grovyle",
+      "number": "27/30",
+      "rarity": "Common",
+      "id": "xy-latias-27"
+    },
+    {
+      "name": "Psychic Energy",
+      "number": "28/30",
+      "rarity": "Common",
+      "id": "xy-latias-28"
+    },
+    {
+      "name": "Acro Bike",
+      "number": "29/30",
+      "rarity": "Common",
+      "id": "xy-latias-29"
+    },
+    {
+      "name": "Latias",
+      "number": "30/30",
+      "rarity": "Common",
+      "id": "xy-latias-30"
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }

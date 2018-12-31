@@ -690,6 +690,203 @@
       "number": "113/111"
     }
   ],
-  "additionalCards": [],
+  "additionalCards": [
+    {
+      "name": "Victreebel",
+      "number": "3/111",
+      "rarity": "",
+      "id": "xy3-ac-3",
+      "Description": "Non Holo Enchanted Echo Theme Deck exclusive"
+    },
+    {
+      "name": "Shelmet",
+      "number": "8/111",
+      "rarity": "",
+      "id": "xy3-ac-8-1",
+      "Description": "1st Place Crosshatch Holo Pokémon League Petalburg/Fortree Season League Challenge promo"
+    },
+    {
+      "name": "Shelmet",
+      "number": "8/111",
+      "rarity": "",
+      "id": "xy3-ac-8-2",
+      "Description": "2nd Place Crosshatch Holo Pokémon League Petalburg/Fortree Season League Challenge promo"
+    },
+    {
+      "name": "Shelmet",
+      "number": "8/111",
+      "rarity": "",
+      "id": "xy3-ac-8-3",
+      "Description": "3rd Place Crosshatch Holo Pokémon League Petalburg/Fortree Season League Challenge promo"
+    },
+    {
+      "name": "Shelmet",
+      "number": "8/111",
+      "rarity": "",
+      "id": "xy3-ac-8-4",
+      "Description": "4th Place Crosshatch Holo Pokémon League Petalburg/Fortree Season League Challenge promo"
+    },
+    {
+      "name": "Torchic",
+      "number": "12/111",
+      "rarity": "",
+      "id": "xy3-ac-12-1",
+      "Description": "Crosshatch Holo City Championships 2014-2015 promo"
+    },
+    {
+      "name": "Torchic",
+      "number": "12/111",
+      "rarity": "",
+      "id": "xy3-ac-12-2",
+      "Description": "Staff Crosshatch Holo City Championships 2014-2015 promo"
+    },
+    {
+      "name": "Combusken",
+      "number": "13/111",
+      "rarity": "",
+      "id": "xy3-ac-13-1",
+      "Description": "Crosshatch Holo Arena Cup 2014-2015 promo (December 2014)"
+    },
+    {
+      "name": "Combusken",
+      "number": "13/111",
+      "rarity": "",
+      "id": "xy3-ac-13-2",
+      "Description": "Staff Crosshatch Holo Arena Cup 2014-2015 promo (December 2014)"
+    },
+    {
+      "name": "Combusken",
+      "number": "13/111",
+      "rarity": "",
+      "id": "xy3-ac-13-3",
+      "Description": "Crosshatch Holo States 2014-2015 promo (March 2015)"
+    },
+    {
+      "name": "Combusken",
+      "number": "13/111",
+      "rarity": "",
+      "id": "xy3-ac-13-4",
+      "Description": "Staff Crosshatch Holo States 2014-2015 promo (March 2015)"
+    },
+    {
+      "name": "Blaziken",
+      "number": "14/111",
+      "rarity": "",
+      "id": "xy3-ac-14-1",
+      "Description": "Crosshatch Holo National Championships 2014-2015 promo"
+    },
+    {
+      "name": "Blaziken",
+      "number": "14/111",
+      "rarity": "",
+      "id": "xy3-ac-14-2",
+      "Description": "Staff Crosshatch National Championships 2014-2015 promo"
+    },
+    {
+      "name": "Politoed",
+      "number": "18/111",
+      "rarity": "",
+      "id": "xy3-ac-18",
+      "Description": "Cosmos Holo Legacy Evolution Pin Collection exclusive"
+    },
+    {
+      "name": "Amaura",
+      "number": "25/111",
+      "rarity": "",
+      "id": "xy3-ac-25",
+      "Description": "Cosmos Holo Ancient Power Box exclusive"
+    },
+    {
+      "name": "Aurorus",
+      "number": "26/111",
+      "rarity": "",
+      "id": "xy3-ac-26",
+      "Description": "Cosmos Holo Ancient Power Box exclusive"
+    },
+    {
+      "name": "Machamp",
+      "number": "46/111",
+      "rarity": "",
+      "id": "xy3-ac-46-1",
+      "Description": "Non Holo Dark Hammer Theme Deck exclusive"
+    },
+    {
+      "name": "Machamp",
+      "number": "46/111",
+      "rarity": "",
+      "id": "xy3-ac-46-2",
+      "Description": "Cosmos Holo Champions Tin exclusive"
+    },
+    {
+      "name": "Lucario",
+      "number": "55a/111",
+      "rarity": "xy3-ac-55a",
+      "id": "x",
+      "Description": "Yellow A Alternate art Mega Powers Collection exclusive"
+    },
+    {
+      "name": "Landorus",
+      "number": "58/111",
+      "rarity": "xy3-ac-58",
+      "id": "",
+      "Description": "Non Holo Dark Hammer Theme Deck exclusive"
+    },
+    {
+      "name": "Tyrunt",
+      "number": "61/111",
+      "rarity": "",
+      "id": "xy3-ac-61",
+      "Description": "Cosmos Holo Ancient Power Box exclusive"
+    },
+    {
+      "name": "Tyrantrum",
+      "number": "62/111",
+      "rarity": "",
+      "id": "xy3-ac-62",
+      "Description": "Cosmos Holo Ancient Power Box exclusive"
+    },
+    {
+      "name": "Hawlucha",
+      "number": "63/111",
+      "rarity": "",
+      "id": "xy3-ac-63",
+      "Description": "Cosmos Holo BREAKthrough Single Pack Blisters exclusive"
+    },
+    {
+      "name": "Pangoro",
+      "number": "68/111",
+      "rarity": "",
+      "id": "xy3-ac-68",
+      "Description": "Cracked Ice Holo Dark Hammer Theme Deck exclusive"
+    },
+    {
+      "name": "Sylveon",
+      "number": "72/111",
+      "rarity": "",
+      "id": "xy3-ac-72",
+      "Description": "Cracked Ice Holo Enchanted Echo Theme Deck exclusive"
+    },
+    {
+      "name": "Battle Reporter",
+      "number": "88/111",
+      "rarity": "",
+      "id": "xy3-ac-88",
+      "Description": "Crosshatch Holo Pokémon League Fortree Season promo (June 2015)"
+    },
+    {
+      "name": "Fossil Researcher",
+      "number": "92/111",
+      "rarity": "",
+      "id": "xy3-ac-92",
+      "Description": "Cosmos Holo Ancient Power Box exclusive"
+    },
+    {
+      "name": "Training Center",
+      "number": "102/111",
+      "rarity": "",
+      "id": "xy3-ac-102",
+      "Description": "Crosshatch Holo Pokémon League Sootopolis Season promo (September 2015)"
+    }
+  ],
   "misprints": []
 }

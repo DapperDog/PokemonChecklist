@@ -1,17 +1,190 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Have"
   ],
   "coreCards": [
     {
-      "id": "placeholder-1",
+      "name": "Swirlix",
+      "number": "1/30",
       "rarity": "Common",
-      "name": "placeholder pkmn",
-      "number": "1"
+      "id": "xy-wigglytuff-1"
+    },
+    {
+      "name": "Pidgeotto",
+      "number": "2/30",
+      "rarity": "Common",
+      "id": "xy-wigglytuff-2"
+    },
+    {
+      "name": "Fairy Energy",
+      "number": "3/30",
+      "rarity": "Common",
+      "id": "xy-wigglytuff-3"
+    },
+    {
+      "name": "Sentret",
+      "number": "4/30",
+      "rarity": "Common",
+      "id": "xy-wigglytuff-4"
+    },
+    {
+      "name": "Fairy Energy",
+      "number": "5/30",
+      "rarity": "Common",
+      "id": "xy-wigglytuff-5"
+    },
+    {
+      "name": "Fairy Energy",
+      "number": "6/30",
+      "rarity": "Common",
+      "id": "xy-wigglytuff-6"
+    },
+    {
+      "name": "Fairy Energy",
+      "number": "7/30",
+      "rarity": "Common",
+      "id": "xy-wigglytuff-7"
+    },
+    {
+      "name": "Fairy Energy",
+      "number": "8/30",
+      "rarity": "Common",
+      "id": "xy-wigglytuff-8"
+    },
+    {
+      "name": "Fairy Energy",
+      "number": "9/30",
+      "rarity": "Common",
+      "id": "xy-wigglytuff-9"
+    },
+    {
+      "name": "Fairy Energy",
+      "number": "10/30",
+      "rarity": "Common",
+      "id": "xy-wigglytuff-10"
+    },
+    {
+      "name": "Pidgey",
+      "number": "11/30",
+      "rarity": "Common",
+      "id": "xy-wigglytuff-11"
+    },
+    {
+      "name": "Jigglypuff",
+      "number": "12/30",
+      "rarity": "Common",
+      "id": "xy-wigglytuff-12"
+    },
+    {
+      "name": "Clefairy",
+      "number": "13/30",
+      "rarity": "Common",
+      "id": "xy-wigglytuff-13"
+    },
+    {
+      "name": "Wigglytuff",
+      "number": "14/30",
+      "rarity": "Common",
+      "id": "xy-wigglytuff-14"
+    },
+    {
+      "name": "Potion",
+      "number": "15/30",
+      "rarity": "Common",
+      "id": "xy-wigglytuff-15"
+    },
+    {
+      "name": "Clefable",
+      "number": "16/30",
+      "rarity": "Common",
+      "id": "xy-wigglytuff-16"
+    },
+    {
+      "name": "Fairy Energy",
+      "number": "17/30",
+      "rarity": "Common",
+      "id": "xy-wigglytuff-17"
+    },
+    {
+      "name": "Swirlix",
+      "number": "18/30",
+      "rarity": "Common",
+      "id": "xy-wigglytuff-18"
+    },
+    {
+      "name": "Clefairy",
+      "number": "19/30",
+      "rarity": "Common",
+      "id": "xy-wigglytuff-19"
+    },
+    {
+      "name": "Potion",
+      "number": "20/30",
+      "rarity": "Common",
+      "id": "xy-wigglytuff-20"
+    },
+    {
+      "name": "Fairy Energy",
+      "number": "21/30",
+      "rarity": "Common",
+      "id": "xy-wigglytuff-21"
+    },
+    {
+      "name": "Fairy Energy",
+      "number": "22/30",
+      "rarity": "Common",
+      "id": "xy-wigglytuff-22"
+    },
+    {
+      "name": "Pidgeotto",
+      "number": "23/30",
+      "rarity": "Common",
+      "id": "xy-wigglytuff-23"
+    },
+    {
+      "name": "Trevor",
+      "number": "24/30",
+      "rarity": "Common",
+      "id": "xy-wigglytuff-24"
+    },
+    {
+      "name": "Jigglypuff",
+      "number": "25/30",
+      "rarity": "Common",
+      "id": "xy-wigglytuff-25"
+    },
+    {
+      "name": "Tierno",
+      "number": "26/30",
+      "rarity": "Common",
+      "id": "xy-wigglytuff-26"
+    },
+    {
+      "name": "Fairy Energy",
+      "number": "27/30",
+      "rarity": "Common",
+      "id": "xy-wigglytuff-27"
+    },
+    {
+      "name": "Clefable",
+      "number": "28/30",
+      "rarity": "Common",
+      "id": "xy-wigglytuff-28"
+    },
+    {
+      "name": "Pidgey",
+      "number": "29/30",
+      "rarity": "Common",
+      "id": "xy-wigglytuff-29"
+    },
+    {
+      "name": "Wigglytuff",
+      "number": "30/30",
+      "rarity": "Common",
+      "id": "xy-wigglytuff-30"
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }

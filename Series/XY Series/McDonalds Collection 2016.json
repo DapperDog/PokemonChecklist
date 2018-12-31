@@ -1,17 +1,82 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Have"
   ],
   "coreCards": [
     {
-      "id": "placeholder-1",
-      "rarity": "Common",
-      "name": "placeholder pkmn",
-      "number": "1"
+      "name": "Vulpix",
+      "number": 1,
+      "rarity": "Promo",
+      "id": "mcd2016-1"
+    },
+    {
+      "name": "Torchic",
+      "number": 2,
+      "rarity": "Promo",
+      "id": "mcd2016-2"
+    },
+    {
+      "name": "Fennekin",
+      "number": 3,
+      "rarity": "Promo",
+      "id": "mcd2016-3"
+    },
+    {
+      "name": "Magikarp",
+      "number": 4,
+      "rarity": "Promo",
+      "id": "mcd2016-4"
+    },
+    {
+      "name": "Totodile",
+      "number": 5,
+      "rarity": "Promo",
+      "id": "mcd2016-5"
+    },
+    {
+      "name": "Pikachu",
+      "number": 6,
+      "rarity": "Promo",
+      "id": "mcd2016-6"
+    },
+    {
+      "name": "Scraggy",
+      "number": 7,
+      "rarity": "Promo",
+      "id": "mcd2016-7"
+    },
+    {
+      "name": "Jigglypuff",
+      "number": 8,
+      "rarity": "Promo",
+      "id": "mcd2016-8"
+    },
+    {
+      "name": "Togepi",
+      "number": 9,
+      "rarity": "Promo",
+      "id": "mcd2016-9"
+    },
+    {
+      "name": "Dedenne",
+      "number": 10,
+      "rarity": "Promo",
+      "id": "mcd2016-10"
+    },
+    {
+      "name": "Meowth",
+      "number": 11,
+      "rarity": "Promo",
+      "id": "mcd2016-11"
+    },
+    {
+      "name": "Eevee",
+      "number": 12,
+      "rarity": "Promo",
+      "id": "mcd2016-12"
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }

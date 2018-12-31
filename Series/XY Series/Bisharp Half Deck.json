@@ -1,17 +1,190 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Have"
   ],
   "coreCards": [
     {
-      "id": "placeholder-1",
+      "name": "Fletchling",
+      "number": "1/30",
       "rarity": "Common",
-      "name": "placeholder pkmn",
-      "number": "1"
+      "id": "xy-bisharp-1"
+    },
+    {
+      "name": "Metal Energy",
+      "number": "2/30",
+      "rarity": "Common",
+      "id": "xy-bisharp-2"
+    },
+    {
+      "name": "Metal Energy",
+      "number": "3/30",
+      "rarity": "Common",
+      "id": "xy-bisharp-3"
+    },
+    {
+      "name": "Vigoroth",
+      "number": "4/30",
+      "rarity": "Common",
+      "id": "xy-bisharp-4"
+    },
+    {
+      "name": "Metal Energy",
+      "number": "5/30",
+      "rarity": "Common",
+      "id": "xy-bisharp-5"
+    },
+    {
+      "name": "Metal Energy",
+      "number": "6/30",
+      "rarity": "Common",
+      "id": "xy-bisharp-6"
+    },
+    {
+      "name": "Metal Energy",
+      "number": "7/30",
+      "rarity": "Common",
+      "id": "xy-bisharp-7"
+    },
+    {
+      "name": "Metal Energy",
+      "number": "8/30",
+      "rarity": "Common",
+      "id": "xy-bisharp-8"
+    },
+    {
+      "name": "Metal Energy",
+      "number": "9/30",
+      "rarity": "Common",
+      "id": "xy-bisharp-9"
+    },
+    {
+      "name": "Metal Energy",
+      "number": "10/30",
+      "rarity": "Common",
+      "id": "xy-bisharp-10"
+    },
+    {
+      "name": "Honedge",
+      "number": "11/30",
+      "rarity": "Common",
+      "id": "xy-bisharp-11"
+    },
+    {
+      "name": "Bidoof",
+      "number": "12/30",
+      "rarity": "Common",
+      "id": "xy-bisharp-12"
+    },
+    {
+      "name": "Pawniard",
+      "number": "13/30",
+      "rarity": "Common",
+      "id": "xy-bisharp-13"
+    },
+    {
+      "name": "Doublade",
+      "number": "14/30",
+      "rarity": "Common",
+      "id": "xy-bisharp-14"
+    },
+    {
+      "name": "Slakoth",
+      "number": "15/30",
+      "rarity": "Common",
+      "id": "xy-bisharp-15"
+    },
+    {
+      "name": "Bisharp",
+      "number": "16/30",
+      "rarity": "Common",
+      "id": "xy-bisharp-16"
+    },
+    {
+      "name": "Patrat",
+      "number": "17/30",
+      "rarity": "Common",
+      "id": "xy-bisharp-17"
+    },
+    {
+      "name": "Metal Energy",
+      "number": "18/30",
+      "rarity": "Common",
+      "id": "xy-bisharp-18"
+    },
+    {
+      "name": "Tierno",
+      "number": "19/30",
+      "rarity": "Common",
+      "id": "xy-bisharp-19"
+    },
+    {
+      "name": "Trevor",
+      "number": "20/30",
+      "rarity": "Common",
+      "id": "xy-bisharp-20"
+    },
+    {
+      "name": "Pawniard",
+      "number": "21/30",
+      "rarity": "Common",
+      "id": "xy-bisharp-21"
+    },
+    {
+      "name": "Metal Energy",
+      "number": "22/30",
+      "rarity": "Common",
+      "id": "xy-bisharp-22"
+    },
+    {
+      "name": "Doublade",
+      "number": "23/30",
+      "rarity": "Common",
+      "id": "xy-bisharp-23"
+    },
+    {
+      "name": "Metal Energy",
+      "number": "24/30",
+      "rarity": "Common",
+      "id": "xy-bisharp-24"
+    },
+    {
+      "name": "Potion",
+      "number": "25/30",
+      "rarity": "Common",
+      "id": "xy-bisharp-25"
+    },
+    {
+      "name": "Slakoth",
+      "number": "26/30",
+      "rarity": "Common",
+      "id": "xy-bisharp-26"
+    },
+    {
+      "name": "Honedge",
+      "number": "27/30",
+      "rarity": "Common",
+      "id": "xy-bisharp-27"
+    },
+    {
+      "name": "Vigoroth",
+      "number": "28/30",
+      "rarity": "Common",
+      "id": "xy-bisharp-28"
+    },
+    {
+      "name": "Potion",
+      "number": "29/30",
+      "rarity": "Common",
+      "id": "xy-bisharp-29"
+    },
+    {
+      "name": "Bisharp",
+      "number": "30/30",
+      "rarity": "Common",
+      "id": "xy-bisharp-30"
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }

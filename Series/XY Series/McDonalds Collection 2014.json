@@ -1,17 +1,82 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Have"
   ],
   "coreCards": [
     {
-      "id": "placeholder-1",
-      "rarity": "Common",
-      "name": "placeholder pkmn",
-      "number": "1"
+      "name": "Weedle",
+      "number": "1/12",
+      "rarity": "Promo",
+      "id": "mcd2014-1"
+    },
+    {
+      "name": "Chespin",
+      "number": "2/12",
+      "rarity": "Promo",
+      "id": "mcd2014-2"
+    },
+    {
+      "name": "Fennekin",
+      "number": "3/12",
+      "rarity": "Promo",
+      "id": "mcd2014-3"
+    },
+    {
+      "name": "Froakie",
+      "number": "4/12",
+      "rarity": "Promo",
+      "id": "mcd2014-4"
+    },
+    {
+      "name": "Pikachu",
+      "number": "5/12",
+      "rarity": "Promo",
+      "id": "mcd2014-5"
+    },
+    {
+      "name": "Inkay",
+      "number": "6/12",
+      "rarity": "Promo",
+      "id": "mcd2014-6"
+    },
+    {
+      "name": "Honedge",
+      "number": "7/12",
+      "rarity": "Promo",
+      "id": "mcd2014-7"
+    },
+    {
+      "name": "Snubbull",
+      "number": "8/12",
+      "rarity": "Promo",
+      "id": "mcd2014-8"
+    },
+    {
+      "name": "Swirlix",
+      "number": "9/12",
+      "rarity": "Promo",
+      "id": "mcd2014-9"
+    },
+    {
+      "name": "Bunnelby",
+      "number": "10/12",
+      "rarity": "Promo",
+      "id": "mcd2014-10"
+    },
+    {
+      "name": "Fletchling",
+      "number": "11/12",
+      "rarity": "Promo",
+      "id": "mcd2014-11"
+    },
+    {
+      "name": "Furfrou",
+      "number": "12/12",
+      "rarity": "Promo",
+      "id": "mcd2014-12"
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }
