@@ -1,17 +1,82 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Have"
   ],
   "coreCards": [
     {
-      "id": "placeholder-1",
-      "rarity": "Common",
-      "name": "placeholder pkmn",
-      "number": "1"
+      "name": "Servine",
+      "number": "1/108",
+      "rarity": "Promo",
+      "id": "mcd2012-1"
+    },
+    {
+      "name": "Pansage",
+      "number": "2/108",
+      "rarity": "Promo",
+      "id": "mcd2012-2"
+    },
+    {
+      "name": "Dwebble",
+      "number": "3/108",
+      "rarity": "Promo",
+      "id": "mcd2012-3"
+    },
+    {
+      "name": "Pignite",
+      "number": "4/108",
+      "rarity": "Promo",
+      "id": "mcd2012-4"
+    },
+    {
+      "name": "Dewott",
+      "number": "5/108",
+      "rarity": "Promo",
+      "id": "mcd2012-5"
+    },
+    {
+      "name": "Emolga",
+      "number": "6/108",
+      "rarity": "Promo",
+      "id": "mcd2012-6"
+    },
+    {
+      "name": "Woobat",
+      "number": "7/108",
+      "rarity": "Promo",
+      "id": "mcd2012-7"
+    },
+    {
+      "name": "Drilbur",
+      "number": "8/108",
+      "rarity": "Promo",
+      "id": "mcd2012-8"
+    },
+    {
+      "name": "Purrloin",
+      "number": "9/108",
+      "rarity": "Promo",
+      "id": "mcd2012-9"
+    },
+    {
+      "name": "Scraggy",
+      "number": "10/108",
+      "rarity": "Promo",
+      "id": "mcd2012-10"
+    },
+    {
+      "name": "Klang",
+      "number": "11/108",
+      "rarity": "Promo",
+      "id": "mcd2012-11"
+    },
+    {
+      "name": "Axew",
+      "number": "12/108",
+      "rarity": "Promo",
+      "id": "mcd2012-12"
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }

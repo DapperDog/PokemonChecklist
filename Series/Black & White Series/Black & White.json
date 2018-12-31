@@ -1,701 +1,1003 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Core",
+    "Reverse"
   ],
   "coreCards": [
     {
       "id": "bw1-1",
       "rarity": "Common",
       "name": "Snivy",
-      "number": "1"
+      "number": "1/114"
     },
     {
       "id": "bw1-2",
       "rarity": "Common",
       "name": "Snivy",
-      "number": "2"
+      "number": "2/114"
     },
     {
       "id": "bw1-3",
       "rarity": "Uncommon",
       "name": "Servine",
-      "number": "3"
+      "number": "3/114"
     },
     {
       "id": "bw1-4",
       "rarity": "Uncommon",
       "name": "Servine",
-      "number": "4"
+      "number": "4/114"
     },
     {
       "id": "bw1-5",
       "rarity": "Rare Holo",
       "name": "Serperior",
-      "number": "5"
+      "number": "5/114"
     },
     {
       "id": "bw1-6",
       "rarity": "Rare Holo",
       "name": "Serperior",
-      "number": "6"
+      "number": "6/114"
     },
     {
       "id": "bw1-7",
       "rarity": "Common",
       "name": "Pansage",
-      "number": "7"
+      "number": "7/114"
     },
     {
       "id": "bw1-8",
       "rarity": "Uncommon",
       "name": "Simisage",
-      "number": "8"
+      "number": "8/114"
     },
     {
       "id": "bw1-9",
       "rarity": "Common",
       "name": "Petilil",
-      "number": "9"
+      "number": "9/114"
     },
     {
       "id": "bw1-10",
       "rarity": "Rare",
       "name": "Lilligant",
-      "number": "10"
+      "number": "10/114"
     },
     {
       "id": "bw1-11",
       "rarity": "Uncommon",
       "name": "Maractus",
-      "number": "11"
+      "number": "11/114"
     },
     {
       "id": "bw1-12",
       "rarity": "Rare",
       "name": "Maractus",
-      "number": "12"
+      "number": "12/114"
     },
     {
       "id": "bw1-13",
       "rarity": "Common",
       "name": "Deerling",
-      "number": "13"
+      "number": "13/114"
     },
     {
       "id": "bw1-14",
       "rarity": "Rare",
       "name": "Sawsbuck",
-      "number": "14"
+      "number": "14/114"
     },
     {
       "id": "bw1-15",
       "rarity": "Common",
       "name": "Tepig",
-      "number": "15"
+      "number": "15/114"
     },
     {
       "id": "bw1-16",
       "rarity": "Common",
       "name": "Tepig",
-      "number": "16"
+      "number": "16/114"
     },
     {
       "id": "bw1-17",
       "rarity": "Uncommon",
       "name": "Pignite",
-      "number": "17"
+      "number": "17/114"
     },
     {
       "id": "bw1-18",
       "rarity": "Uncommon",
       "name": "Pignite",
-      "number": "18"
+      "number": "18/114"
     },
     {
       "id": "bw1-19",
       "rarity": "Rare Holo",
       "name": "Emboar",
-      "number": "19"
+      "number": "19/114"
     },
     {
       "id": "bw1-20",
       "rarity": "Rare Holo",
       "name": "Emboar",
-      "number": "20"
+      "number": "20/114"
     },
     {
       "id": "bw1-21",
       "rarity": "Common",
       "name": "Pansear",
-      "number": "21"
+      "number": "21/114"
     },
     {
       "id": "bw1-22",
       "rarity": "Uncommon",
       "name": "Simisear",
-      "number": "22"
+      "number": "22/114"
     },
     {
       "id": "bw1-23",
       "rarity": "Common",
       "name": "Darumaka",
-      "number": "23"
+      "number": "23/114"
     },
     {
       "id": "bw1-24",
       "rarity": "Uncommon",
       "name": "Darumaka",
-      "number": "24"
+      "number": "24/114"
     },
     {
       "id": "bw1-25",
       "rarity": "Rare",
       "name": "Darmanitan",
-      "number": "25"
+      "number": "25/114"
     },
     {
       "id": "bw1-26",
       "rarity": "Rare Holo",
       "name": "Reshiram",
-      "number": "26"
+      "number": "26/114"
     },
     {
       "id": "bw1-27",
       "rarity": "Common",
       "name": "Oshawott",
-      "number": "27"
+      "number": "27/114"
     },
     {
       "id": "bw1-28",
       "rarity": "Common",
       "name": "Oshawott",
-      "number": "28"
+      "number": "28/114"
     },
     {
       "id": "bw1-29",
       "rarity": "Uncommon",
       "name": "Dewott",
-      "number": "29"
+      "number": "29/114"
     },
     {
       "id": "bw1-30",
       "rarity": "Uncommon",
       "name": "Dewott",
-      "number": "30"
+      "number": "30/114"
     },
     {
       "id": "bw1-31",
       "rarity": "Rare Holo",
       "name": "Samurott",
-      "number": "31"
+      "number": "31/114"
     },
     {
       "id": "bw1-32",
       "rarity": "Rare Holo",
       "name": "Samurott",
-      "number": "32"
+      "number": "32/114"
     },
     {
       "id": "bw1-33",
       "rarity": "Common",
       "name": "Panpour",
-      "number": "33"
+      "number": "33/114"
     },
     {
       "id": "bw1-34",
       "rarity": "Uncommon",
       "name": "Simipour",
-      "number": "34"
+      "number": "34/114"
     },
     {
       "id": "bw1-35",
       "rarity": "Uncommon",
       "name": "Basculin",
-      "number": "35"
+      "number": "35/114"
     },
     {
       "id": "bw1-36",
       "rarity": "Common",
       "name": "Ducklett",
-      "number": "36"
+      "number": "36/114"
     },
     {
       "id": "bw1-37",
       "rarity": "Rare",
       "name": "Swanna",
-      "number": "37"
+      "number": "37/114"
     },
     {
       "id": "bw1-38",
       "rarity": "Uncommon",
       "name": "Alomomola",
-      "number": "38"
+      "number": "38/114"
     },
     {
       "id": "bw1-39",
       "rarity": "Rare",
       "name": "Alomomola",
-      "number": "39"
+      "number": "39/114"
     },
     {
       "id": "bw1-40",
       "rarity": "Common",
       "name": "Blitzle",
-      "number": "40"
+      "number": "40/114"
     },
     {
       "id": "bw1-41",
       "rarity": "Common",
       "name": "Blitzle",
-      "number": "41"
+      "number": "41/114"
     },
     {
       "id": "bw1-42",
       "rarity": "Uncommon",
       "name": "Zebstrika",
-      "number": "42"
+      "number": "42/114"
     },
     {
       "id": "bw1-43",
       "rarity": "Rare",
       "name": "Zebstrika",
-      "number": "43"
+      "number": "43/114"
     },
     {
       "id": "bw1-44",
       "rarity": "Common",
       "name": "Joltik",
-      "number": "44"
+      "number": "44/114"
     },
     {
       "id": "bw1-45",
       "rarity": "Common",
       "name": "Joltik",
-      "number": "45"
+      "number": "45/114"
     },
     {
       "id": "bw1-46",
       "rarity": "Rare",
       "name": "Galvantula",
-      "number": "46"
+      "number": "46/114"
     },
     {
       "id": "bw1-47",
       "rarity": "Rare Holo",
       "name": "Zekrom",
-      "number": "47"
+      "number": "47/114"
     },
     {
       "id": "bw1-48",
       "rarity": "Uncommon",
       "name": "Munna",
-      "number": "48"
+      "number": "48/114"
     },
     {
       "id": "bw1-49",
       "rarity": "Rare",
       "name": "Musharna",
-      "number": "49"
+      "number": "49/114"
     },
     {
       "id": "bw1-50",
       "rarity": "Common",
       "name": "Woobat",
-      "number": "50"
+      "number": "50/114"
     },
     {
       "id": "bw1-51",
       "rarity": "Uncommon",
       "name": "Swoobat",
-      "number": "51"
+      "number": "51/114"
     },
     {
       "id": "bw1-52",
       "rarity": "Common",
       "name": "Venipede",
-      "number": "52"
+      "number": "52/114"
     },
     {
       "id": "bw1-53",
       "rarity": "Uncommon",
       "name": "Whirlipede",
-      "number": "53"
+      "number": "53/114"
     },
     {
       "id": "bw1-54",
       "rarity": "Rare",
       "name": "Scolipede",
-      "number": "54"
+      "number": "54/114"
     },
     {
       "id": "bw1-55",
       "rarity": "Common",
       "name": "Solosis",
-      "number": "55"
+      "number": "55/114"
     },
     {
       "id": "bw1-56",
       "rarity": "Uncommon",
       "name": "Duosion",
-      "number": "56"
+      "number": "56/114"
     },
     {
       "id": "bw1-57",
       "rarity": "Rare Holo",
       "name": "Reuniclus",
-      "number": "57"
+      "number": "57/114"
     },
     {
       "id": "bw1-58",
       "rarity": "Common",
       "name": "Timburr",
-      "number": "58"
+      "number": "58/114"
     },
     {
       "id": "bw1-59",
       "rarity": "Common",
       "name": "Timburr",
-      "number": "59"
+      "number": "59/114"
     },
     {
       "id": "bw1-60",
       "rarity": "Uncommon",
       "name": "Gurdurr",
-      "number": "60"
+      "number": "60/114"
     },
     {
       "id": "bw1-61",
       "rarity": "Rare",
       "name": "Throh",
-      "number": "61"
+      "number": "61/114"
     },
     {
       "id": "bw1-62",
       "rarity": "Rare",
       "name": "Sawk",
-      "number": "62"
+      "number": "62/114"
     },
     {
       "id": "bw1-63",
       "rarity": "Common",
       "name": "Sandile",
-      "number": "63"
+      "number": "63/114"
     },
     {
       "id": "bw1-64",
       "rarity": "Uncommon",
       "name": "Krokorok",
-      "number": "64"
+      "number": "64/114"
     },
     {
       "id": "bw1-65",
       "rarity": "Rare Holo",
       "name": "Krookodile",
-      "number": "65"
+      "number": "65/114"
     },
     {
       "id": "bw1-66",
       "rarity": "Common",
       "name": "Purrloin",
-      "number": "66"
+      "number": "66/114"
     },
     {
       "id": "bw1-67",
       "rarity": "Rare",
       "name": "Liepard",
-      "number": "67"
+      "number": "67/114"
     },
     {
       "id": "bw1-68",
       "rarity": "Common",
       "name": "Scraggy",
-      "number": "68"
+      "number": "68/114"
     },
     {
       "id": "bw1-69",
       "rarity": "Rare",
       "name": "Scrafty",
-      "number": "69"
+      "number": "69/114"
     },
     {
       "id": "bw1-70",
       "rarity": "Common",
       "name": "Zorua",
-      "number": "70"
+      "number": "70/114"
     },
     {
       "id": "bw1-71",
       "rarity": "Rare Holo",
       "name": "Zoroark",
-      "number": "71"
+      "number": "71/114"
     },
     {
       "id": "bw1-72",
       "rarity": "Uncommon",
       "name": "Vullaby",
-      "number": "72"
+      "number": "72/114"
     },
     {
       "id": "bw1-73",
       "rarity": "Rare",
       "name": "Mandibuzz",
-      "number": "73"
+      "number": "73/114"
     },
     {
       "id": "bw1-74",
       "rarity": "Common",
       "name": "Klink",
-      "number": "74"
+      "number": "74/114"
     },
     {
       "id": "bw1-75",
       "rarity": "Uncommon",
       "name": "Klang",
-      "number": "75"
+      "number": "75/114"
     },
     {
       "id": "bw1-76",
       "rarity": "Rare Holo",
       "name": "Klinklang",
-      "number": "76"
+      "number": "76/114"
     },
     {
       "id": "bw1-77",
       "rarity": "Common",
       "name": "Patrat",
-      "number": "77"
+      "number": "77/114"
     },
     {
       "id": "bw1-78",
       "rarity": "Common",
       "name": "Patrat",
-      "number": "78"
+      "number": "78/114"
     },
     {
       "id": "bw1-79",
       "rarity": "Uncommon",
       "name": "Watchog",
-      "number": "79"
+      "number": "79/114"
     },
     {
       "id": "bw1-80",
       "rarity": "Common",
       "name": "Lillipup",
-      "number": "80"
+      "number": "80/114"
     },
     {
       "id": "bw1-81",
       "rarity": "Common",
       "name": "Lillipup",
-      "number": "81"
+      "number": "81/114"
     },
     {
       "id": "bw1-82",
       "rarity": "Uncommon",
       "name": "Herdier",
-      "number": "82"
+      "number": "82/114"
     },
     {
       "id": "bw1-83",
       "rarity": "Rare",
       "name": "Stoutland",
-      "number": "83"
+      "number": "83/114"
     },
     {
       "id": "bw1-84",
       "rarity": "Common",
       "name": "Pidove",
-      "number": "84"
+      "number": "84/114"
     },
     {
       "id": "bw1-85",
       "rarity": "Uncommon",
       "name": "Tranquill",
-      "number": "85"
+      "number": "85/114"
     },
     {
       "id": "bw1-86",
       "rarity": "Rare",
       "name": "Unfezant",
-      "number": "86"
+      "number": "86/114"
     },
     {
       "id": "bw1-87",
       "rarity": "Uncommon",
       "name": "Audino",
-      "number": "87"
+      "number": "87/114"
     },
     {
       "id": "bw1-88",
       "rarity": "Common",
       "name": "Minccino",
-      "number": "88"
+      "number": "88/114"
     },
     {
       "id": "bw1-89",
       "rarity": "Rare",
       "name": "Cinccino",
-      "number": "89"
+      "number": "89/114"
     },
     {
       "id": "bw1-90",
       "rarity": "Uncommon",
       "name": "Bouffalant",
-      "number": "90"
+      "number": "90/114"
     },
     {
       "id": "bw1-91",
       "rarity": "Rare",
       "name": "Bouffalant",
-      "number": "91"
+      "number": "91/114"
     },
     {
       "id": "bw1-92",
       "rarity": "Uncommon",
       "name": "Energy Retrieval",
-      "number": "92"
+      "number": "92/114"
     },
     {
       "id": "bw1-93",
       "rarity": "Common",
       "name": "Energy Search",
-      "number": "93"
+      "number": "93/114"
     },
     {
       "id": "bw1-94",
       "rarity": "Uncommon",
       "name": "Energy Switch",
-      "number": "94"
+      "number": "94/114"
     },
     {
       "id": "bw1-95",
       "rarity": "Uncommon",
       "name": "Full Heal",
-      "number": "95"
+      "number": "95/114"
     },
     {
       "id": "bw1-96",
       "rarity": "Uncommon",
       "name": "PlusPower",
-      "number": "96"
+      "number": "96/114"
     },
     {
       "id": "bw1-97",
       "rarity": "Uncommon",
       "name": "Pok\u00e9 Ball",
-      "number": "97"
+      "number": "97/114"
     },
     {
       "id": "bw1-98",
       "rarity": "Uncommon",
       "name": "Pok\u00e9dex",
-      "number": "98"
+      "number": "98/114"
     },
     {
       "id": "bw1-99",
       "rarity": "Uncommon",
       "name": "Pok\u00e9mon Communication",
-      "number": "99"
+      "number": "99/114"
     },
     {
       "id": "bw1-100",
       "rarity": "Common",
       "name": "Potion",
-      "number": "100"
+      "number": "100/114"
     },
     {
       "id": "bw1-101",
       "rarity": "Uncommon",
       "name": "Professor Juniper",
-      "number": "101"
+      "number": "101/114"
     },
     {
       "id": "bw1-102",
       "rarity": "Uncommon",
       "name": "Revive",
-      "number": "102"
+      "number": "102/114"
     },
     {
       "id": "bw1-103",
       "rarity": "Uncommon",
       "name": "Super Scoop Up",
-      "number": "103"
+      "number": "103/114"
     },
     {
       "id": "bw1-104",
       "rarity": "Common",
       "name": "Switch",
-      "number": "104"
+      "number": "104/114"
     },
     {
       "id": "bw1-105",
       "rarity": "Common",
       "name": "Grass Energy",
-      "number": "105"
+      "number": "105/114"
     },
     {
       "id": "bw1-106",
       "rarity": "Common",
       "name": "Fire Energy",
-      "number": "106"
+      "number": "106/114"
     },
     {
       "id": "bw1-107",
       "rarity": "Common",
       "name": "Water Energy",
-      "number": "107"
+      "number": "107/114"
     },
     {
       "id": "bw1-108",
       "rarity": "Common",
       "name": "Lightning Energy",
-      "number": "108"
+      "number": "108/114"
     },
     {
       "id": "bw1-109",
       "rarity": "Common",
       "name": "Psychic Energy",
-      "number": "109"
+      "number": "109/114"
     },
     {
       "id": "bw1-110",
       "rarity": "Common",
       "name": "Fighting Energy",
-      "number": "110"
+      "number": "110/114"
     },
     {
       "id": "bw1-111",
       "rarity": "Common",
       "name": "Darkness Energy",
-      "number": "111"
+      "number": "111/114"
     },
     {
       "id": "bw1-112",
       "rarity": "Common",
       "name": "Metal Energy",
-      "number": "112"
+      "number": "112/114"
     },
     {
       "id": "bw1-113",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Reshiram",
-      "number": "113"
+      "number": "113/114"
     },
     {
       "id": "bw1-114",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Zekrom",
-      "number": "114"
+      "number": "114/114"
     },
     {
       "id": "bw1-115",
-      "rarity": "Rare Secret",
+      "rarity": "Secret Rare",
       "name": "Pikachu",
-      "number": "115"
+      "number": "115/114"
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "Snivy",
+      "number": "1/114",
+      "rarity": "",
+      "id": "bw1-ac-1-1",
+      "Description": "Crosshatch Holo Pokémon League Snivy Season (May 2011)"
+    },
+    {
+      "name": "Snivy",
+      "number": "1/114",
+      "rarity": "",
+      "id": "bw1-ac-1-2",
+      "Description": "Cosmos Holo Super Snivy Box exclusive"
+    },
+    {
+      "name": "Servine",
+      "number": "3/114",
+      "rarity": "",
+      "id": "bw1-ac-3",
+      "Description": "Cracked Ice Holo Superb Serperior Box exclusive"
+    },
+    {
+      "name": "Serperior",
+      "number": "5/114",
+      "rarity": "",
+      "id": "bw1-ac-5-1",
+      "Description": "Cracked Ice Holo Green Tornado theme deck exclusive"
+    },
+    {
+      "name": "Serperior",
+      "number": "5/114",
+      "rarity": "",
+      "id": "bw1-ac-5-2",
+      "Description": "Non Holo Green Tornado theme deck exclusive"
+    },
+    {
+      "name": "Pansage",
+      "number": "7/114",
+      "rarity": "",
+      "id": "bw1-ac-7",
+      "Description": "Energy Reverse Holo Double Album Box exclusive"
+    },
+    {
+      "name": "Tepig",
+      "number": "15/114",
+      "rarity": "",
+      "id": "bw1-ac-15-1",
+      "Description": "Crosshatch Holo Pokémon League Tepig Season (June 2011)"
+    },
+    {
+      "name": "Tepig",
+      "number": "15/114",
+      "rarity": "",
+      "id": "bw1-ac-15-2",
+      "Description": "Cosmos Holo Terrific Tepig Box exclusive"
+    },
+    {
+      "name": "Pignite",
+      "number": "17/114",
+      "rarity": "",
+      "id": "bw1-ac-17",
+      "Description": "Cracked Ice Holo Excellent Emboar Box exclusive"
+    },
+    {
+      "name": "Emboar",
+      "number": "19/114",
+      "rarity": "",
+      "id": "bw1-ac-19-1",
+      "Description": "Cracked Ice Holo Red Frenzy theme deck exclusive"
+    },
+    {
+      "name": "Emboar",
+      "number": "19/114",
+      "rarity": "",
+      "id": "bw1-ac-19-2",
+      "Description": "Non Holo Red Frenzy theme deck exclusive"
+    },
+    {
+      "name": "Pansear",
+      "number": "21/114",
+      "rarity": "",
+      "id": "bw1-ac-21",
+      "Description": "Energy Reverse Holo Double Album Box exclusive"
+    },
+    {
+      "name": "Darmanitan",
+      "number": "25/114",
+      "rarity": "",
+      "id": "bw1-ac-25-1",
+      "Description": "Black & White stamp Prerelease promo"
+    },
+    {
+      "name": "Darmanitan",
+      "number": "25/114",
+      "rarity": "",
+      "id": "bw1-ac-25-2",
+      "Description": "Staff Black & White stamp Prerelease promo"
+    },
+    {
+      "name": "Oshawott",
+      "number": "27/114",
+      "rarity": "",
+      "id": "bw1-ac-27-1",
+      "Description": "Crosshatch Holo Pokémon League Oshawott Season (July 2011)"
+    },
+    {
+      "name": "Oshawott",
+      "number": "27/114",
+      "rarity": "",
+      "id": "bw1-ac-27-2",
+      "Description": "Cosmos Holo Outstanding Oshawott Box exclusive"
+    },
+    {
+      "name": "Dewott",
+      "number": "29/114",
+      "rarity": "",
+      "id": "bw1-ac-29",
+      "Description": "Cracked Ice Holo Spectacular Samurott Box exclusive"
+    },
+    {
+      "name": "Samurott",
+      "number": "31/114",
+      "rarity": "",
+      "id": "bw1-ac-31-1",
+      "Description": "Cracked Ice Holo Blue Assault theme deck exclusive"
+    },
+    {
+      "name": "Samurott",
+      "number": "31/114",
+      "rarity": "",
+      "id": "bw1-ac-31-2",
+      "Description": "Non Holo Blue Assault theme deck exclusive"
+    },
+    {
+      "name": "Panpour",
+      "number": "33/114",
+      "rarity": "",
+      "id": "bw1-ac-33",
+      "Description": "Energy Reverse Holo Double Album Box exclusive"
+    },
+    {
+      "name": "Zebstrika",
+      "number": "42/114",
+      "rarity": "",
+      "id": "bw1-ac-42",
+      "Description": "Crosshatch Holo Pokémon League Bolt Season (February 2012)"
+    },
+    {
+      "name": "Whirlipede",
+      "number": "53/114",
+      "rarity": "",
+      "id": "bw1-ac-53",
+      "Description": "Crosshatch Holo Pokémon League Insect Season (December 2011)"
+    },
+    {
+      "name": "Scolipede",
+      "number": "54/114",
+      "rarity": "",
+      "id": "bw1-ac-54",
+      "Description": "Cracked Ice Holo Dragons Exalted Three Pack Blisters exclusive"
+    },
+    {
+      "name": "Sandile",
+      "number": "63/114",
+      "rarity": "",
+      "id": "bw1-ac-63",
+      "Description": "Cracked Ice Holo Dark Explorers Stage 2 Blisters exclusive"
+    },
+    {
+      "name": "Krokorok",
+      "number": "64/114",
+      "rarity": "",
+      "id": "bw1-ac-64-1",
+      "Description": "Crosshatch Holo Pokémon League Quake Season (March 2012)"
+    },
+    {
+      "name": "Krokorok",
+      "number": "64/114",
+      "rarity": "",
+      "id": "bw1-ac-64-2",
+      "Description": "Cracked Ice Holo Dark Explorers Stage 2 Blisters exclusive"
+    },
+    {
+      "name": "Krookodile",
+      "number": "65/114",
+      "rarity": "",
+      "id": "bw1-ac-65",
+      "Description": "Cracked Ice Holo Dark Explorers Stage 2 Blisters/Dark Explorers Three Pack Blisters exclusive"
+    },
+    {
+      "name": "Zoroark",
+      "number": "71/114",
+      "rarity": "",
+      "id": "bw1-ac-71-1",
+      "Description": "Cracked Ice Holo Next Destinies Stage 1 Blisters exclusive"
+    },
+    {
+      "name": "Zoroark",
+      "number": "71/114",
+      "rarity": "",
+      "id": "bw1-ac-71-2",
+      "Description": "Non Holo Battle Arena Decks: Mewtwo vs Darkrai exclusive"
+    },
+    {
+      "name": "Klink",
+      "number": "74/114",
+      "rarity": "",
+      "id": "bw1-ac-74",
+      "Description": "Cracked Ice Holo Next Destinies Stage 2 Blisters exclusive"
+    },
+    {
+      "name": "Klang",
+      "number": "75/114",
+      "rarity": "",
+      "id": "bw1-ac-75",
+      "Description": "Cracked Ice Holo Next Destinies Stage 2 Blisters exclusive"
+    },
+    {
+      "name": "Klinklang",
+      "number": "76/114",
+      "rarity": "",
+      "id": "bw1-ac-76",
+      "Description": "Cracked Ice Holo Next Destinies Stage 2 Blisters exclusive"
+    },
+    {
+      "name": "Watchog",
+      "number": "79/114",
+      "rarity": "",
+      "id": "bw1-ac-79",
+      "Description": "Crosshatch Holo Pokémon League Basic Season (November 2011)"
+    },
+    {
+      "name": "Lillipup",
+      "number": "81/114",
+      "rarity": "",
+      "id": "bw1-ac-81",
+      "Description": "Crosshatch Holo Pokémon League Trio Season (September 2011)"
+    },
+    {
+      "name": "Professor Juniper",
+      "number": "101/114",
+      "rarity": "",
+      "id": "bw1-ac-101",
+      "Description": "Crosshatch Holo Professor Program stamp promo (January 2013)"
+    },
+    {
+      "name": "Grass Energy",
+      "number": "105/114",
+      "rarity": "",
+      "id": "bw1-ac-105",
+      "Description": "Crosshatch Holo Pokémon League Trio Season (September 2011)"
+    },
+    {
+      "name": "Fire Energy",
+      "number": "106/114",
+      "rarity": "",
+      "id": "bw1-ac-106",
+      "Description": "Crosshatch Holo Pokémon League Basic Season (November 2011)"
+    },
+    {
+      "name": "Water Energy",
+      "number": "107/114",
+      "rarity": "",
+      "id": "bw1-ac-107",
+      "Description": "Crosshatch Holo Pokémon League Freeze Season (June 2012)"
+    },
+    {
+      "name": "Lightning Energy",
+      "number": "108/114",
+      "rarity": "",
+      "id": "bw1-ac-108",
+      "Description": "Crosshatch Holo Pokémon League Bolt Season (February 2012)"
+    },
+    {
+      "name": "Psychic Energy",
+      "number": "109/114",
+      "rarity": "",
+      "id": "bw1-ac-109",
+      "Description": "Crosshatch Holo Pokémon League Insect Season (December 2011)"
+    },
+    {
+      "name": "Fighting Energy",
+      "number": "110/114",
+      "rarity": "",
+      "id": "bw1-ac-110",
+      "Description": "Crosshatch Holo Pokémon League Quake Season (March 2012)"
+    },
+    {
+      "name": "Darkness Energy",
+      "number": "111/114",
+      "rarity": "",
+      "id": "bw1-ac-111",
+      "Description": "Crosshatch Holo Pokémon League Legend Season (July 2012)"
+    },
+    {
+      "name": "Metal Energy",
+      "number": "112/114",
+      "rarity": "",
+      "id": "bw1-ac-112",
+      "Description": "Crosshatch Holo Pokémon League Jet Season (April 2012)"
+    }
+  ],
+  "misprints": []
 }

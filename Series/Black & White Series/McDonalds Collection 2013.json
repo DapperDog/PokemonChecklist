@@ -1,17 +1,82 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Have"
   ],
   "coreCards": [
     {
-      "id": "placeholder-1",
-      "rarity": "Common",
-      "name": "placeholder pkmn",
-      "number": "1"
+      "name": "Leafeon",
+      "number": "1/12",
+      "rarity": "Promo",
+      "id": "mcd2013-1"
+    },
+    {
+      "name": "Flareon",
+      "number": "2/12",
+      "rarity": "Promo",
+      "id": "mcd2013-2"
+    },
+    {
+      "name": "Vaporeon",
+      "number": "3/12",
+      "rarity": "Promo",
+      "id": "mcd2013-3"
+    },
+    {
+      "name": "Glaceon",
+      "number": "4/12",
+      "rarity": "Promo",
+      "id": "mcd2013-4"
+    },
+    {
+      "name": "Pikachu",
+      "number": "5/12",
+      "rarity": "Promo",
+      "id": "mcd2013-5"
+    },
+    {
+      "name": "Jolteon",
+      "number": "6/12",
+      "rarity": "Promo",
+      "id": "mcd2013-6"
+    },
+    {
+      "name": "Espeon",
+      "number": "7/12",
+      "rarity": "Promo",
+      "id": "mcd2013-7"
+    },
+    {
+      "name": "Timburr",
+      "number": "8/12",
+      "rarity": "Promo",
+      "id": "mcd2013-8"
+    },
+    {
+      "name": "Umbreon",
+      "number": "9/12",
+      "rarity": "Promo",
+      "id": "mcd2013-9"
+    },
+    {
+      "name": "Scraggy",
+      "number": "10/12",
+      "rarity": "Promo",
+      "id": "mcd2013-10"
+    },
+    {
+      "name": "Zorua",
+      "number": "11/12",
+      "rarity": "Promo",
+      "id": "mcd2013-11"
+    },
+    {
+      "name": "Eevee",
+      "number": "12/12",
+      "rarity": "Promo",
+      "id": "mcd2013-12"
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }

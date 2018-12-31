@@ -1,17 +1,190 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Have"
   ],
   "coreCards": [
     {
-      "id": "placeholder-1",
+      "name": "Lillipup",
+      "number": "1/30",
       "rarity": "Common",
-      "name": "placeholder pkmn",
-      "number": "1"
+      "id": "bw-excadrill-1"
+    },
+    {
+      "name": "Fighting Energy",
+      "number": "2/30",
+      "rarity": "Common",
+      "id": "bw-excadrill-2"
+    },
+    {
+      "name": "Fighting Energy",
+      "number": "3/30",
+      "rarity": "Common",
+      "id": "bw-excadrill-3"
+    },
+    {
+      "name": "Energy Switch",
+      "number": "4/30",
+      "rarity": "Common",
+      "id": "bw-excadrill-4"
+    },
+    {
+      "name": "Fighting Energy",
+      "number": "5/30",
+      "rarity": "Common",
+      "id": "bw-excadrill-5"
+    },
+    {
+      "name": "Fighting Energy",
+      "number": "6/30",
+      "rarity": "Common",
+      "id": "bw-excadrill-6"
+    },
+    {
+      "name": "Fighting Energy",
+      "number": "7/30",
+      "rarity": "Common",
+      "id": "bw-excadrill-7"
+    },
+    {
+      "name": "Fighting Energy",
+      "number": "8/30",
+      "rarity": "Common",
+      "id": "bw-excadrill-8"
+    },
+    {
+      "name": "Fighting Energy",
+      "number": "9/30",
+      "rarity": "Common",
+      "id": "bw-excadrill-9"
+    },
+    {
+      "name": "Fighting Energy",
+      "number": "10/30",
+      "rarity": "Common",
+      "id": "bw-excadrill-10"
+    },
+    {
+      "name": "Timburr",
+      "number": "11/30",
+      "rarity": "Common",
+      "id": "bw-excadrill-11"
+    },
+    {
+      "name": "Audino",
+      "number": "12/30",
+      "rarity": "Common",
+      "id": "bw-excadrill-12"
+    },
+    {
+      "name": "Drilbur",
+      "number": "13/30",
+      "rarity": "Common",
+      "id": "bw-excadrill-13"
+    },
+    {
+      "name": "Gurdurr",
+      "number": "14/30",
+      "rarity": "Common",
+      "id": "bw-excadrill-14"
+    },
+    {
+      "name": "Potion",
+      "number": "15/30",
+      "rarity": "Common",
+      "id": "bw-excadrill-15"
+    },
+    {
+      "name": "PlusPower",
+      "number": "16/30",
+      "rarity": "Common",
+      "id": "bw-excadrill-16"
+    },
+    {
+      "name": "Excadrill",
+      "number": "17/30",
+      "rarity": "Common",
+      "id": "bw-excadrill-17"
+    },
+    {
+      "name": "Audino",
+      "number": "18/30",
+      "rarity": "Common",
+      "id": "bw-excadrill-18"
+    },
+    {
+      "name": "Herdier",
+      "number": "19/30",
+      "rarity": "Common",
+      "id": "bw-excadrill-19"
+    },
+    {
+      "name": "Fighting Energy",
+      "number": "20/30",
+      "rarity": "Common",
+      "id": "bw-excadrill-20"
+    },
+    {
+      "name": "Energy Search",
+      "number": "21/30",
+      "rarity": "Common",
+      "id": "bw-excadrill-21"
+    },
+    {
+      "name": "Fighting Energy",
+      "number": "22/30",
+      "rarity": "Common",
+      "id": "bw-excadrill-22"
+    },
+    {
+      "name": "Potion",
+      "number": "23/30",
+      "rarity": "Common",
+      "id": "bw-excadrill-23"
+    },
+    {
+      "name": "Pokémon Communication",
+      "number": "24/30",
+      "rarity": "Common",
+      "id": "bw-excadrill-24"
+    },
+    {
+      "name": "Drilbur",
+      "number": "25/30",
+      "rarity": "Common",
+      "id": "bw-excadrill-25"
+    },
+    {
+      "name": "Fighting Energy",
+      "number": "26/30",
+      "rarity": "Common",
+      "id": "bw-excadrill-26"
+    },
+    {
+      "name": "Lillipup",
+      "number": "27/30",
+      "rarity": "Common",
+      "id": "bw-excadrill-27"
+    },
+    {
+      "name": "Fighting Energy",
+      "number": "28/30",
+      "rarity": "Common",
+      "id": "bw-excadrill-28"
+    },
+    {
+      "name": "Timburr",
+      "number": "29/30",
+      "rarity": "Common",
+      "id": "bw-excadrill-29"
+    },
+    {
+      "name": "Excadrill",
+      "number": "30/30",
+      "rarity": "Common",
+      "id": "bw-excadrill-30"
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }

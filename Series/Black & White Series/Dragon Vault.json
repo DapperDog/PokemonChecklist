@@ -1,131 +1,222 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Have"
   ],
   "coreCards": [
     {
       "id": "dv1-1",
       "rarity": "Rare Holo",
       "name": "Dratini",
-      "number": "1"
+      "number": "1/20"
     },
     {
       "id": "dv1-2",
       "rarity": "Rare Holo",
       "name": "Dratini",
-      "number": "2"
+      "number": "2/20"
     },
     {
       "id": "dv1-3",
       "rarity": "Rare Holo",
       "name": "Dragonair",
-      "number": "3"
+      "number": "3/20"
     },
     {
       "id": "dv1-4",
       "rarity": "Rare Holo",
       "name": "Dragonair",
-      "number": "4"
+      "number": "4/20"
     },
     {
       "id": "dv1-5",
       "rarity": "Rare Holo",
       "name": "Dragonite",
-      "number": "5"
+      "number": "5/20"
     },
     {
       "id": "dv1-6",
       "rarity": "Rare Holo",
       "name": "Bagon",
-      "number": "6"
+      "number": "6/20"
     },
     {
       "id": "dv1-7",
       "rarity": "Rare Holo",
       "name": "Shelgon",
-      "number": "7"
+      "number": "7/20"
     },
     {
       "id": "dv1-8",
       "rarity": "Rare Holo",
       "name": "Salamence",
-      "number": "8"
+      "number": "8/20"
     },
     {
       "id": "dv1-9",
       "rarity": "Rare Holo",
       "name": "Latias",
-      "number": "9"
+      "number": "9/20"
     },
     {
       "id": "dv1-10",
       "rarity": "Rare Holo",
       "name": "Latios",
-      "number": "10"
+      "number": "10/20"
     },
     {
       "id": "dv1-11",
       "rarity": "Rare Holo",
       "name": "Rayquaza",
-      "number": "11"
+      "number": "11/20"
     },
     {
       "id": "dv1-12",
       "rarity": "Rare Holo",
       "name": "Axew",
-      "number": "12"
+      "number": "12/20"
     },
     {
       "id": "dv1-13",
       "rarity": "Rare Holo",
       "name": "Axew",
-      "number": "13"
+      "number": "13/20"
     },
     {
       "id": "dv1-14",
       "rarity": "Rare Holo",
       "name": "Fraxure",
-      "number": "14"
+      "number": "14/20"
     },
     {
       "id": "dv1-15",
       "rarity": "Rare Holo",
       "name": "Fraxure",
-      "number": "15"
+      "number": "15/20"
     },
     {
       "id": "dv1-16",
       "rarity": "Rare Holo",
       "name": "Haxorus",
-      "number": "16"
+      "number": "16/20"
     },
     {
       "id": "dv1-17",
       "rarity": "Rare Holo",
       "name": "Druddigon",
-      "number": "17"
+      "number": "17/20"
     },
     {
       "id": "dv1-18",
       "rarity": "Rare Holo",
       "name": "Exp. Share",
-      "number": "18"
+      "number": "18/20"
     },
     {
       "id": "dv1-19",
       "rarity": "Rare Holo",
       "name": "First Ticket",
-      "number": "19"
+      "number": "19/20"
     },
     {
       "id": "dv1-20",
       "rarity": "Rare Holo",
       "name": "Super Rod",
-      "number": "20"
+      "number": "20/20"
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "Dragonite",
+      "number": "5/20",
+      "rarity": "",
+      "id": "dv1-ac-5",
+      "Description": "Cosmos Holo XY Two Pack Blisters/XY Knock Out Collection exclusive"
+    },
+    {
+      "name": "Bagon",
+      "number": "6/20",
+      "rarity": "",
+      "id": "dv1-ac-6-1",
+      "Description": "Crosshatch Holo Autumn Regional Championships 2013-2014 promo"
+    },
+    {
+      "name": "Bagon",
+      "number": "6/20",
+      "rarity": "",
+      "id": "dv1-ac-6-2",
+      "Description": "Staff Crosshatch Holo Autumn Regional Championships 2013-2014 promo"
+    },
+    {
+      "name": "Shelgon",
+      "number": "7/20",
+      "rarity": "",
+      "id": "dv1-ac-7-1",
+      "Description": "Crosshatch Holo Winter Regional Championships 2013-2014 promo"
+    },
+    {
+      "name": "Shelgon",
+      "number": "7/20",
+      "rarity": "",
+      "id": "dv1-ac-7-2",
+      "Description": "Staff Crosshatch Holo Winter Regional Championships 2013-2014 promo"
+    },
+    {
+      "name": "Salamence",
+      "number": "8/20",
+      "rarity": "",
+      "id": "dv1-ac-8-1",
+      "Description": "Cosmos Holo XY Single Pack Blisters exclusive"
+    },
+    {
+      "name": "Salamence",
+      "number": "8/20",
+      "rarity": "",
+      "id": "dv1-ac-8-2",
+      "Description": "Crosshatch Holo Spring Regional Championships 2013-2014 promo"
+    },
+    {
+      "name": "Salamence",
+      "number": "8/20",
+      "rarity": "",
+      "id": "dv1-ac-8-3",
+      "Description": "Staff Crosshatch Holo Spring Regional Championships 2013-2014 promo"
+    },
+    {
+      "name": "Latias",
+      "number": "9/20",
+      "rarity": "",
+      "id": "dv1-ac-9",
+      "Description": "Dragon Vault' stamped Mirror Holo Dragon Vault Blisters exclusive"
+    },
+    {
+      "name": "Latios",
+      "number": "10/20",
+      "rarity": "",
+      "id": "dv1-ac-10",
+      "Description": "Dragon Vault' stamped Mirror Holo Dragon Vault Blisters exclusive"
+    },
+    {
+      "name": "Rayquaza",
+      "number": "11/20",
+      "rarity": "",
+      "id": "dv1-ac-11",
+      "Description": "Dragon Vault' stamped Mirror Holo Dragon Vault Blisters exclusive"
+    },
+    {
+      "name": "Haxorus",
+      "number": "16/20",
+      "rarity": "",
+      "id": "dv1-ac-16",
+      "Description": "Dragon Vault' stamped Mirror Holo Dragon Vault Blisters exclusive"
+    },
+    {
+      "name": "Druddigon",
+      "number": "17/20",
+      "rarity": "",
+      "id": "dv1-ac-17",
+      "Description": "Dragon Vault' stamped Mirror Holo Dragon Vault Blisters exclusive"
+    }
+  ],
+  "misprints": []
 }

@@ -6,73 +6,73 @@
   "coreCards": [
     {
       "name": "Rowlet",
-      "number": 1,
+      "number": "1/12",
       "rarity": "Promo",
       "id": "mcd2017-1"
     },
     {
       "name": "Grubbin",
-      "number": 2,
+      "number": "2/12",
       "rarity": "Promo",
       "id": "mcd2017-2"
     },
     {
       "name": "Litten",
-      "number": 3,
+      "number": "3/12",
       "rarity": "Promo",
       "id": "mcd2017-3"
     },
     {
       "name": "Popplio",
-      "number": 4,
+      "number": "4/12",
       "rarity": "Promo",
       "id": "mcd2017-4"
     },
     {
       "name": "Pikachu",
-      "number": 5,
+      "number": "5/12",
       "rarity": "Promo",
       "id": "mcd2017-5"
     },
     {
       "name": "Cosmog",
-      "number": 6,
+      "number": "6/12",
       "rarity": "Promo",
       "id": "mcd2017-6"
     },
     {
       "name": "Crabrawler",
-      "number": 7,
+      "number": "7/12",
       "rarity": "Promo",
       "id": "mcd2017-7"
     },
     {
       "name": "Alolan Meowth",
-      "number": 8,
+      "number": "8/12",
       "rarity": "Promo",
       "id": "mcd2017-8"
     },
     {
       "name": "Alolan Diglett",
-      "number": 9,
+      "number": "9/12",
       "rarity": "Promo",
       "id": "mcd2017-9"
     },
     {
       "name": "Cutiefly",
-      "number": 10,
+      "number": "10/12",
       "rarity": "Promo",
       "id": "mcd2017-10"
     },
     {
       "name": "Pikipek",
-      "number": 11,
+      "number": "11/12",
       "rarity": "Promo",
       "id": "mcd2017-11"
     },
     {
       "name": "Yungoos",
-      "number": 12,
+      "number": "12/12",
       "rarity": "Promo",
       "id": "mcd2017-12"
     }

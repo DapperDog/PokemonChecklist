@@ -1,17 +1,190 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Have"
   ],
   "coreCards": [
     {
-      "id": "placeholder-1",
+      "name": "Purrloin",
+      "number": "1/30",
       "rarity": "Common",
-      "name": "placeholder pkmn",
-      "number": "1"
+      "id": "bw-zoroark-1"
+    },
+    {
+      "name": "Watchog",
+      "number": "2/30",
+      "rarity": "Common",
+      "id": "bw-zoroark-2"
+    },
+    {
+      "name": "Darkness Energy",
+      "number": "3/30",
+      "rarity": "Common",
+      "id": "bw-zoroark-3"
+    },
+    {
+      "name": "Minccino",
+      "number": "4/30",
+      "rarity": "Common",
+      "id": "bw-zoroark-4"
+    },
+    {
+      "name": "Darkness Energy",
+      "number": "5/30",
+      "rarity": "Common",
+      "id": "bw-zoroark-5"
+    },
+    {
+      "name": "Darkness Energy",
+      "number": "6/30",
+      "rarity": "Common",
+      "id": "bw-zoroark-6"
+    },
+    {
+      "name": "Darkness Energy",
+      "number": "7/30",
+      "rarity": "Common",
+      "id": "bw-zoroark-7"
+    },
+    {
+      "name": "Darkness Energy",
+      "number": "8/30",
+      "rarity": "Common",
+      "id": "bw-zoroark-8"
+    },
+    {
+      "name": "Darkness Energy",
+      "number": "9/30",
+      "rarity": "Common",
+      "id": "bw-zoroark-9"
+    },
+    {
+      "name": "Darkness Energy",
+      "number": "10/30",
+      "rarity": "Common",
+      "id": "bw-zoroark-10"
+    },
+    {
+      "name": "PlusPower",
+      "number": "11/30",
+      "rarity": "Common",
+      "id": "bw-zoroark-11"
+    },
+    {
+      "name": "Patrat",
+      "number": "12/30",
+      "rarity": "Common",
+      "id": "bw-zoroark-12"
+    },
+    {
+      "name": "Zorua",
+      "number": "13/30",
+      "rarity": "Common",
+      "id": "bw-zoroark-13"
+    },
+    {
+      "name": "Pidove",
+      "number": "14/30",
+      "rarity": "Common",
+      "id": "bw-zoroark-14"
+    },
+    {
+      "name": "Tranquill",
+      "number": "15/30",
+      "rarity": "Common",
+      "id": "bw-zoroark-15"
+    },
+    {
+      "name": "Energy Retrieval",
+      "number": "16/30",
+      "rarity": "Common",
+      "id": "bw-zoroark-16"
+    },
+    {
+      "name": "Zoroark",
+      "number": "17/30",
+      "rarity": "Common",
+      "id": "bw-zoroark-17"
+    },
+    {
+      "name": "Pokémon Communication",
+      "number": "18/30",
+      "rarity": "Common",
+      "id": "bw-zoroark-18"
+    },
+    {
+      "name": "Minccino",
+      "number": "19/30",
+      "rarity": "Common",
+      "id": "bw-zoroark-19"
+    },
+    {
+      "name": "Darkness Energy",
+      "number": "20/30",
+      "rarity": "Common",
+      "id": "bw-zoroark-20"
+    },
+    {
+      "name": "Pidove",
+      "number": "21/30",
+      "rarity": "Common",
+      "id": "bw-zoroark-21"
+    },
+    {
+      "name": "Darkness Energy",
+      "number": "22/30",
+      "rarity": "Common",
+      "id": "bw-zoroark-22"
+    },
+    {
+      "name": "Zorua",
+      "number": "23/30",
+      "rarity": "Common",
+      "id": "bw-zoroark-23"
+    },
+    {
+      "name": "Darkness Energy",
+      "number": "24/30",
+      "rarity": "Common",
+      "id": "bw-zoroark-24"
+    },
+    {
+      "name": "Purrloin",
+      "number": "25/30",
+      "rarity": "Common",
+      "id": "bw-zoroark-25"
+    },
+    {
+      "name": "Darkness Energy",
+      "number": "26/30",
+      "rarity": "Common",
+      "id": "bw-zoroark-26"
+    },
+    {
+      "name": "Energy Search",
+      "number": "27/30",
+      "rarity": "Common",
+      "id": "bw-zoroark-27"
+    },
+    {
+      "name": "Darkness Energy",
+      "number": "28/30",
+      "rarity": "Common",
+      "id": "bw-zoroark-28"
+    },
+    {
+      "name": "Patrat",
+      "number": "29/30",
+      "rarity": "Common",
+      "id": "bw-zoroark-29"
+    },
+    {
+      "name": "Zoroark",
+      "number": "30/30",
+      "rarity": "Common",
+      "id": "bw-zoroark-30"
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }

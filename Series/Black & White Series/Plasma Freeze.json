@@ -1,743 +1,877 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Core",
+    "Reverse"
   ],
   "coreCards": [
     {
       "id": "bw9-1",
       "rarity": "Common",
       "name": "Weedle",
-      "number": "1"
+      "number": "1/116"
     },
     {
       "id": "bw9-2",
       "rarity": "Uncommon",
       "name": "Kakuna",
-      "number": "2"
+      "number": "2/116"
     },
     {
       "id": "bw9-3",
       "rarity": "Rare",
       "name": "Beedrill",
-      "number": "3"
+      "number": "3/116"
     },
     {
       "id": "bw9-4",
       "rarity": "Uncommon",
       "name": "Exeggcute",
-      "number": "4"
+      "number": "4/116"
     },
     {
       "id": "bw9-5",
       "rarity": "Rare",
       "name": "Exeggutor",
-      "number": "5"
+      "number": "5/116"
     },
     {
       "id": "bw9-6",
       "rarity": "Common",
       "name": "Treecko",
-      "number": "6"
+      "number": "6/116"
     },
     {
       "id": "bw9-7",
       "rarity": "Uncommon",
       "name": "Grovyle",
-      "number": "7"
+      "number": "7/116"
     },
     {
       "id": "bw9-8",
       "rarity": "Rare Holo",
       "name": "Sceptile",
-      "number": "8"
+      "number": "8/116"
     },
     {
       "id": "bw9-9",
       "rarity": "Common",
       "name": "Cacnea",
-      "number": "9"
+      "number": "9/116"
     },
     {
       "id": "bw9-10",
       "rarity": "Rare",
       "name": "Cacturne",
-      "number": "10"
+      "number": "10/116"
     },
     {
       "id": "bw9-11",
       "rarity": "Rare",
       "name": "Leafeon",
-      "number": "11"
+      "number": "11/116"
     },
     {
       "id": "bw9-12",
       "rarity": "Uncommon",
       "name": "Flareon",
-      "number": "12"
+      "number": "12/116"
     },
     {
       "id": "bw9-13",
       "rarity": "Rare Holo EX",
       "name": "Heatran-EX",
-      "number": "13"
+      "number": "13/116"
     },
     {
       "id": "bw9-14",
       "rarity": "Common",
       "name": "Litwick",
-      "number": "14"
+      "number": "14/116"
     },
     {
       "id": "bw9-15",
       "rarity": "Uncommon",
       "name": "Lampent",
-      "number": "15"
+      "number": "15/116"
     },
     {
       "id": "bw9-16",
       "rarity": "Rare Holo",
       "name": "Chandelure",
-      "number": "16"
+      "number": "16/116"
     },
     {
       "id": "bw9-17",
       "rarity": "Rare Holo",
       "name": "Reshiram",
-      "number": "17"
+      "number": "17/116"
     },
     {
       "id": "bw9-18",
       "rarity": "Common",
       "name": "Horsea",
-      "number": "18"
+      "number": "18/116"
     },
     {
       "id": "bw9-19",
       "rarity": "Uncommon",
       "name": "Seadra",
-      "number": "19"
+      "number": "19/116"
     },
     {
       "id": "bw9-20",
       "rarity": "Uncommon",
       "name": "Vaporeon",
-      "number": "20"
+      "number": "20/116"
     },
     {
       "id": "bw9-21",
       "rarity": "Common",
       "name": "Wooper",
-      "number": "21"
+      "number": "21/116"
     },
     {
       "id": "bw9-22",
       "rarity": "Rare",
       "name": "Quagsire",
-      "number": "22"
+      "number": "22/116"
     },
     {
       "id": "bw9-23",
       "rarity": "Rare",
       "name": "Glaceon",
-      "number": "23"
+      "number": "23/116"
     },
     {
       "id": "bw9-24",
       "rarity": "Common",
       "name": "Tympole",
-      "number": "24"
+      "number": "24/116"
     },
     {
       "id": "bw9-25",
       "rarity": "Uncommon",
       "name": "Palpitoad",
-      "number": "25"
+      "number": "25/116"
     },
     {
       "id": "bw9-26",
       "rarity": "Rare",
       "name": "Seismitoad",
-      "number": "26"
+      "number": "26/116"
     },
     {
       "id": "bw9-27",
       "rarity": "Common",
       "name": "Vanillite",
-      "number": "27"
+      "number": "27/116"
     },
     {
       "id": "bw9-28",
       "rarity": "Uncommon",
       "name": "Vanillish",
-      "number": "28"
+      "number": "28/116"
     },
     {
       "id": "bw9-29",
       "rarity": "Rare",
       "name": "Vanilluxe",
-      "number": "29"
+      "number": "29/116"
     },
     {
       "id": "bw9-30",
       "rarity": "Uncommon",
       "name": "Cryogonal",
-      "number": "30"
+      "number": "30/116"
     },
     {
       "id": "bw9-31",
       "rarity": "Rare Holo",
       "name": "Kyurem",
-      "number": "31"
+      "number": "31/116"
     },
     {
       "id": "bw9-32",
       "rarity": "Common",
       "name": "Voltorb",
-      "number": "32"
+      "number": "32/116"
     },
     {
       "id": "bw9-33",
       "rarity": "Rare Holo",
       "name": "Electrode",
-      "number": "33"
+      "number": "33/116"
     },
     {
       "id": "bw9-34",
       "rarity": "Uncommon",
       "name": "Jolteon",
-      "number": "34"
+      "number": "34/116"
     },
     {
       "id": "bw9-35",
       "rarity": "Common",
       "name": "Chinchou",
-      "number": "35"
+      "number": "35/116"
     },
     {
       "id": "bw9-36",
       "rarity": "Uncommon",
       "name": "Lanturn",
-      "number": "36"
+      "number": "36/116"
     },
     {
       "id": "bw9-37",
       "rarity": "Common",
       "name": "Pachirisu",
-      "number": "37"
+      "number": "37/116"
     },
     {
       "id": "bw9-38",
       "rarity": "Rare Holo EX",
       "name": "Thundurus-EX",
-      "number": "38"
+      "number": "38/116"
     },
     {
       "id": "bw9-39",
       "rarity": "Rare Holo",
       "name": "Zekrom",
-      "number": "39"
+      "number": "39/116"
     },
     {
       "id": "bw9-40",
       "rarity": "Common",
       "name": "Nidoran\u2640",
-      "number": "40"
+      "number": "40/116"
     },
     {
       "id": "bw9-41",
       "rarity": "Uncommon",
       "name": "Nidorina",
-      "number": "41"
+      "number": "41/116"
     },
     {
       "id": "bw9-42",
       "rarity": "Rare",
       "name": "Nidoqueen",
-      "number": "42"
+      "number": "42/116"
     },
     {
       "id": "bw9-43",
       "rarity": "Common",
       "name": "Nidoran\u2642",
-      "number": "43"
+      "number": "43/116"
     },
     {
       "id": "bw9-44",
       "rarity": "Uncommon",
       "name": "Nidorino",
-      "number": "44"
+      "number": "44/116"
     },
     {
       "id": "bw9-45",
       "rarity": "Common",
       "name": "Grimer",
-      "number": "45"
+      "number": "45/116"
     },
     {
       "id": "bw9-46",
       "rarity": "Rare",
       "name": "Muk",
-      "number": "46"
+      "number": "46/116"
     },
     {
       "id": "bw9-47",
       "rarity": "Rare",
       "name": "Mr. Mime",
-      "number": "47"
+      "number": "47/116"
     },
     {
       "id": "bw9-48",
       "rarity": "Uncommon",
       "name": "Espeon",
-      "number": "48"
+      "number": "48/116"
     },
     {
       "id": "bw9-49",
       "rarity": "Rare",
       "name": "Sableye",
-      "number": "49"
+      "number": "49/116"
     },
     {
       "id": "bw9-50",
       "rarity": "Common",
       "name": "Beldum",
-      "number": "50"
+      "number": "50/116"
     },
     {
       "id": "bw9-51",
       "rarity": "Uncommon",
       "name": "Metang",
-      "number": "51"
+      "number": "51/116"
     },
     {
       "id": "bw9-52",
       "rarity": "Rare Holo",
       "name": "Metagross",
-      "number": "52"
+      "number": "52/116"
     },
     {
       "id": "bw9-53",
       "rarity": "Rare Holo EX",
       "name": "Deoxys-EX",
-      "number": "53"
+      "number": "53/116"
     },
     {
       "id": "bw9-54",
       "rarity": "Common",
       "name": "Yamask",
-      "number": "54"
+      "number": "54/116"
     },
     {
       "id": "bw9-55",
       "rarity": "Common",
       "name": "Yamask",
-      "number": "55"
+      "number": "55/116"
     },
     {
       "id": "bw9-56",
       "rarity": "Rare Holo",
       "name": "Cofagrigus",
-      "number": "56"
+      "number": "56/116"
     },
     {
       "id": "bw9-57",
       "rarity": "Rare",
       "name": "Cofagrigus",
-      "number": "57"
+      "number": "57/116"
     },
     {
       "id": "bw9-58",
       "rarity": "Rare",
       "name": "Nidoking",
-      "number": "58"
+      "number": "58/116"
     },
     {
       "id": "bw9-59",
       "rarity": "Common",
       "name": "Mankey",
-      "number": "59"
+      "number": "59/116"
     },
     {
       "id": "bw9-60",
       "rarity": "Common",
       "name": "Primeape",
-      "number": "60"
+      "number": "60/116"
     },
     {
       "id": "bw9-61",
       "rarity": "Uncommon",
       "name": "Onix",
-      "number": "61"
+      "number": "61/116"
     },
     {
       "id": "bw9-62",
       "rarity": "Common",
       "name": "Makuhita",
-      "number": "62"
+      "number": "62/116"
     },
     {
       "id": "bw9-63",
       "rarity": "Rare",
       "name": "Hariyama",
-      "number": "63"
+      "number": "63/116"
     },
     {
       "id": "bw9-64",
       "rarity": "Rare Holo",
       "name": "Umbreon",
-      "number": "64"
+      "number": "64/116"
     },
     {
       "id": "bw9-65",
       "rarity": "Common",
       "name": "Sneasel",
-      "number": "65"
+      "number": "65/116"
     },
     {
       "id": "bw9-66",
       "rarity": "Rare",
       "name": "Weavile",
-      "number": "66"
+      "number": "66/116"
     },
     {
       "id": "bw9-67",
       "rarity": "Rare Holo",
       "name": "Absol",
-      "number": "67"
+      "number": "67/116"
     },
     {
       "id": "bw9-68",
       "rarity": "Common",
       "name": "Sandile",
-      "number": "68"
+      "number": "68/116"
     },
     {
       "id": "bw9-69",
       "rarity": "Uncommon",
       "name": "Krokorok",
-      "number": "69"
+      "number": "69/116"
     },
     {
       "id": "bw9-70",
       "rarity": "Rare",
       "name": "Krookodile",
-      "number": "70"
+      "number": "70/116"
     },
     {
       "id": "bw9-71",
       "rarity": "Common",
       "name": "Pawniard",
-      "number": "71"
+      "number": "71/116"
     },
     {
       "id": "bw9-72",
       "rarity": "Common",
       "name": "Pawniard",
-      "number": "72"
+      "number": "72/116"
     },
     {
       "id": "bw9-73",
       "rarity": "Rare",
       "name": "Bisharp",
-      "number": "73"
+      "number": "73/116"
     },
     {
       "id": "bw9-74",
       "rarity": "Uncommon",
       "name": "Bisharp",
-      "number": "74"
+      "number": "74/116"
     },
     {
       "id": "bw9-75",
       "rarity": "Common",
       "name": "Deino",
-      "number": "75"
+      "number": "75/116"
     },
     {
       "id": "bw9-76",
       "rarity": "Common",
       "name": "Deino",
-      "number": "76"
+      "number": "76/116"
     },
     {
       "id": "bw9-77",
       "rarity": "Uncommon",
       "name": "Zweilous",
-      "number": "77"
+      "number": "77/116"
     },
     {
       "id": "bw9-78",
       "rarity": "Rare Holo",
       "name": "Hydreigon",
-      "number": "78"
+      "number": "78/116"
     },
     {
       "id": "bw9-79",
       "rarity": "Rare",
       "name": "Steelix",
-      "number": "79"
+      "number": "79/116"
     },
     {
       "id": "bw9-80",
       "rarity": "Uncommon",
       "name": "Mawile",
-      "number": "80"
+      "number": "80/116"
     },
     {
       "id": "bw9-81",
       "rarity": "Common",
       "name": "Dratini",
-      "number": "81"
+      "number": "81/116"
     },
     {
       "id": "bw9-82",
       "rarity": "Uncommon",
       "name": "Dragonair",
-      "number": "82"
+      "number": "82/116"
     },
     {
       "id": "bw9-83",
       "rarity": "Rare Holo",
       "name": "Dragonite",
-      "number": "83"
+      "number": "83/116"
     },
     {
       "id": "bw9-84",
       "rarity": "Rare Holo",
       "name": "Kingdra",
-      "number": "84"
+      "number": "84/116"
     },
     {
       "id": "bw9-85",
       "rarity": "Rare Holo EX",
       "name": "Latias-EX",
-      "number": "85"
+      "number": "85/116"
     },
     {
       "id": "bw9-86",
       "rarity": "Rare Holo EX",
       "name": "Latios-EX",
-      "number": "86"
+      "number": "86/116"
     },
     {
       "id": "bw9-87",
       "rarity": "Common",
       "name": "Rattata",
-      "number": "87"
+      "number": "87/116"
     },
     {
       "id": "bw9-88",
       "rarity": "Rare",
       "name": "Raticate",
-      "number": "88"
+      "number": "88/116"
     },
     {
       "id": "bw9-89",
       "rarity": "Common",
       "name": "Eevee",
-      "number": "89"
+      "number": "89/116"
     },
     {
       "id": "bw9-90",
       "rarity": "Common",
       "name": "Eevee",
-      "number": "90"
+      "number": "90/116"
     },
     {
       "id": "bw9-91",
       "rarity": "Common",
       "name": "Hoothoot",
-      "number": "91"
+      "number": "91/116"
     },
     {
       "id": "bw9-92",
       "rarity": "Uncommon",
       "name": "Noctowl",
-      "number": "92"
+      "number": "92/116"
     },
     {
       "id": "bw9-93",
       "rarity": "Uncommon",
       "name": "Miltank",
-      "number": "93"
+      "number": "93/116"
     },
     {
       "id": "bw9-94",
       "rarity": "Rare",
       "name": "Kecleon",
-      "number": "94"
+      "number": "94/116"
     },
     {
       "id": "bw9-95",
       "rarity": "Common",
       "name": "Starly",
-      "number": "95"
+      "number": "95/116"
     },
     {
       "id": "bw9-96",
       "rarity": "Uncommon",
       "name": "Staravia",
-      "number": "96"
+      "number": "96/116"
     },
     {
       "id": "bw9-97",
       "rarity": "Rare",
       "name": "Staraptor",
-      "number": "97"
+      "number": "97/116"
     },
     {
       "id": "bw9-98",
       "rarity": "Rare Holo EX",
       "name": "Tornadus-EX",
-      "number": "98"
+      "number": "98/116"
     },
     {
       "id": "bw9-99",
       "rarity": "Uncommon",
       "name": "Float Stone",
-      "number": "99"
+      "number": "99/116"
     },
     {
       "id": "bw9-100",
       "rarity": "Uncommon",
       "name": "Frozen City",
-      "number": "100"
+      "number": "100/116"
     },
     {
       "id": "bw9-101",
       "rarity": "Rare Holo",
       "name": "Ghetsis",
-      "number": "101"
+      "number": "101/116"
     },
     {
       "id": "bw9-102",
       "rarity": "Uncommon",
       "name": "Shadow Triad",
-      "number": "102"
+      "number": "102/116"
     },
     {
       "id": "bw9-103",
       "rarity": "Uncommon",
       "name": "Superior Energy Retrieval",
-      "number": "103"
+      "number": "103/116"
     },
     {
       "id": "bw9-104",
       "rarity": "Uncommon",
       "name": "Team Plasma Badge",
-      "number": "104"
+      "number": "104/116"
     },
     {
       "id": "bw9-105",
       "rarity": "Uncommon",
       "name": "Team Plasma Ball",
-      "number": "105"
+      "number": "105/116"
     },
     {
       "id": "bw9-106",
       "rarity": "Uncommon",
       "name": "Plasma Energy",
-      "number": "106"
+      "number": "106/116"
     },
     {
       "id": "bw9-107",
       "rarity": "Rare ACE",
       "name": "Life Dew",
-      "number": "107"
+      "number": "107/116"
     },
     {
       "id": "bw9-108",
       "rarity": "Rare ACE",
       "name": "Rock Guard",
-      "number": "108"
+      "number": "108/116"
     },
     {
       "id": "bw9-109",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Heatran-EX",
-      "number": "109"
+      "number": "109/116"
     },
     {
       "id": "bw9-110",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Thundurus-EX",
-      "number": "110"
+      "number": "110/116"
     },
     {
       "id": "bw9-111",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Deoxys-EX",
-      "number": "111"
+      "number": "111/116"
     },
     {
       "id": "bw9-112",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Latias-EX",
-      "number": "112"
+      "number": "112/116"
     },
     {
       "id": "bw9-113",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Latios-EX",
-      "number": "113"
+      "number": "113/116"
     },
     {
       "id": "bw9-114",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Tornadus-EX",
-      "number": "114"
+      "number": "114/116"
     },
     {
       "id": "bw9-115",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Ghetsis",
-      "number": "115"
+      "number": "115/116"
     },
     {
       "id": "bw9-116",
-      "rarity": "Rare Ultra",
+      "rarity": "Full Art",
       "name": "Professor Juniper",
-      "number": "116"
+      "number": "116/116"
     },
     {
       "id": "bw9-117",
-      "rarity": "Rare Holo",
+      "rarity": "Secret Rare",
       "name": "Empoleon",
-      "number": "117"
+      "number": "117/116"
     },
     {
       "id": "bw9-118",
-      "rarity": "Rare Holo",
+      "rarity": "Secret Rare",
       "name": "Sigilyph",
-      "number": "118"
+      "number": "118/116"
     },
     {
       "id": "bw9-119",
-      "rarity": "Rare Holo",
+      "rarity": "Secret Rare",
       "name": "Garbodor",
-      "number": "119"
+      "number": "119/116"
     },
     {
       "id": "bw9-120",
-      "rarity": "Rare Holo",
+      "rarity": "Secret Rare",
       "name": "Garchomp",
-      "number": "120"
+      "number": "120/116"
     },
     {
       "id": "bw9-121",
-      "rarity": "Rare Holo",
+      "rarity": "Secret Rare",
       "name": "Max Potion",
-      "number": "121"
+      "number": "121/116"
     },
     {
       "id": "bw9-122",
-      "rarity": "Rare Holo",
+      "rarity": "Secret Rare",
       "name": "Ultra Ball",
-      "number": "122"
+      "number": "122/116"
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "Leafeon",
+      "number": "11/116",
+      "rarity": "",
+      "id": "bw9-ac-11-1",
+      "Description": "Cracked Ice Holo Psy Crusher Theme Deck exclusive"
+    },
+    {
+      "name": "Leafeon",
+      "number": "11/116",
+      "rarity": "",
+      "id": "bw9-ac-11-2",
+      "Description": "Crosshatch Holo European Spring Regional Championships 2013-2014 promo"
+    },
+    {
+      "name": "Leafeon",
+      "number": "11/116",
+      "rarity": "",
+      "id": "bw9-ac-11-3",
+      "Description": "Staff Crosshatch Holo European Spring Regional Championships 2013-2014 promo"
+    },
+    {
+      "name": "Leafeon",
+      "number": "11/116",
+      "rarity": "",
+      "id": "bw9-ac-11-4",
+      "Description": "Crosshatch Holo North American State•Province•Territory Championships 2013-2014 promo"
+    },
+    {
+      "name": "Leafeon",
+      "number": "11/116",
+      "rarity": "",
+      "id": "bw9-ac-11-5",
+      "Description": "Staff Crosshatch Holo North American State•Province•Territory Championships 2013-2014 promo"
+    },
+    {
+      "name": "Chandelure",
+      "number": "16/116",
+      "rarity": "",
+      "id": "bw9-ac-16",
+      "Description": "Non Holo Battle Arena Decks: Black Kyurem vs White Kyurem exclusive"
+    },
+    {
+      "name": "Reshiram",
+      "number": "17/116",
+      "rarity": "",
+      "id": "bw9-ac-17",
+      "Description": "Cosmos Holo Legendary Dragons of Unova Collection exclusive"
+    },
+    {
+      "name": "Glaceon",
+      "number": "23/116",
+      "rarity": "",
+      "id": "bw9-ac-23-1",
+      "Description": "Cracked Ice Holo Frost Ray Theme Deck exclusive"
+    },
+    {
+      "name": "Glaceon",
+      "number": "23/116",
+      "rarity": "",
+      "id": "bw9-ac-23-2",
+      "Description": "Crosshatch Holo City Championships 2013-2014 promo"
+    },
+    {
+      "name": "Glaceon",
+      "number": "23/116",
+      "rarity": "",
+      "id": "bw9-ac-23-3",
+      "Description": "Staff Crosshatch Holo City Championships 2013-2014 promo"
+    },
+    {
+      "name": "Kyurem",
+      "number": "31/116",
+      "rarity": "",
+      "id": "bw9-ac-31",
+      "Description": "Non Holo Articuno Legendary Battle Deck exclusive"
+    },
+    {
+      "name": "Electrode",
+      "number": "33/116",
+      "rarity": "",
+      "id": "bw9-ac-33",
+      "Description": "Non Holo Frost Ray Theme Deck/Battle Arena Decks: Black Kyurem vs White Kyurem exclusive"
+    },
+    {
+      "name": "Zekrom",
+      "number": "39/116",
+      "rarity": "",
+      "id": "bw9-ac-39",
+      "Description": "Cosmos Holo Legendary Dragons of Unova Collection exclusive"
+    },
+    {
+      "name": "Umbreon",
+      "number": "64/116",
+      "rarity": "",
+      "id": "bw9-ac-64",
+      "Description": "Non Holo Moltres Legendary Battle Deck exclusive"
+    },
+    {
+      "name": "Absol",
+      "number": "67/116",
+      "rarity": "",
+      "id": "bw9-ac-67",
+      "Description": "Non Holo Moltres Legendary Battle Deck exclusive"
+    },
+    {
+      "name": "Dragonite",
+      "number": "83/116",
+      "rarity": "",
+      "id": "bw9-ac-83",
+      "Description": "Cosmos Holo XY Single Pack Blisters exclusive"
+    },
+    {
+      "name": "Frozen City",
+      "number": "100/116",
+      "rarity": "",
+      "id": "bw9-ac-100",
+      "Description": "Crosshatch Holo 2012-2013 Player Rewards (Tier 3)"
+    },
+    {
+      "name": "Ghetsis",
+      "number": "101/116",
+      "rarity": "",
+      "id": "bw9-ac-101",
+      "Description": "Non Holo Articuno/Moltres Legendary Battle Deck exclusive"
+    },
+    {
+      "name": "Plasma Energy",
+      "number": "106/116",
+      "rarity": "",
+      "id": "bw9-ac-106",
+      "Description": "Crosshatch Holo 2012-2013 Player Rewards (Tier 3)"
+    }
+  ],
+  "misprints": []
 }

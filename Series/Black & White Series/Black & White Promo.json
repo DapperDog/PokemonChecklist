@@ -1,8 +1,7 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Have"
   ],
   "coreCards": [
     {
@@ -612,6 +611,112 @@
       "number": "BW101"
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "Minccino (Shattered Holofoil)",
+      "number": "BW13",
+      "rarity": "Promo",
+      "id": "bwp-ac-13",
+      "Description": ""
+    },
+    {
+      "name": "Scraggy (Shattered Holofoil)",
+      "number": "BW25",
+      "rarity": "Promo",
+      "id": "bwp-ac-25",
+      "Description": ""
+    },
+    {
+      "name": "Volcarona (Staff)",
+      "number": "BW40",
+      "rarity": "Promo",
+      "id": "bwp-ac-40",
+      "Description": ""
+    },
+    {
+      "name": "Altaria (Staff)",
+      "number": "BW48",
+      "rarity": "Promo",
+      "id": "bwp-ac-48",
+      "Description": ""
+    },
+    {
+      "name": "Crobat (Staff)",
+      "number": "BW51",
+      "rarity": "Promo",
+      "id": "bwp-ac-51",
+      "Description": ""
+    },
+    {
+      "name": "Flygon (Staff)",
+      "number": "BW53",
+      "rarity": "Promo",
+      "id": "bwp-ac-53",
+      "Description": ""
+    },
+    {
+      "name": "Keldeo (Tinsel Holofoil)",
+      "number": "BW60",
+      "rarity": "Promo",
+      "id": "bwp-ac-60",
+      "Description": ""
+    },
+    {
+      "name": "Drifblim (Smooth Cosmos Holofoil)",
+      "number": "BW64",
+      "rarity": "Promo",
+      "id": "bwp-ac-64",
+      "Description": ""
+    },
+    {
+      "name": "Ninetales (Smooth Cosmos Holofoil)",
+      "number": "BW66",
+      "rarity": "Promo",
+      "id": "bwp-ac-66",
+      "Description": ""
+    },
+    {
+      "name": "Ampharos (Smooth Cosmos Holofoil)",
+      "number": "BW67",
+      "rarity": "Promo",
+      "id": "bwp-ac-67",
+      "Description": ""
+    },
+    {
+      "name": "Metagross (Staff)",
+      "number": "BW75",
+      "rarity": "Promo",
+      "id": "bwp-ac-75",
+      "Description": ""
+    },
+    {
+      "name": "Druddigon (Tinsel Holofoil)",
+      "number": "BW80",
+      "rarity": "Promo",
+      "id": "bwp-ac-80",
+      "Description": ""
+    },
+    {
+      "name": "Porygon-Z (Staff)",
+      "number": "BW84",
+      "rarity": "Promo",
+      "id": "bwp-ac-84",
+      "Description": ""
+    },
+    {
+      "name": "TornadusEX (Staff)",
+      "number": "BW96",
+      "rarity": "Promo",
+      "id": "bwp-ac-96",
+      "Description": ""
+    },
+    {
+      "name": "N",
+      "number": "BW100",
+      "rarity": "Promo",
+      "id": "bwp-ac-100",
+      "Description": "Keldeo Vs Rayquaza Battle Arena Deck Exclusive"
+    }
+  ],
+  "misprints": []
 }

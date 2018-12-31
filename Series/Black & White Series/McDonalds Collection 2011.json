@@ -1,17 +1,82 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Have"
   ],
   "coreCards": [
     {
-      "id": "placeholder-1",
-      "rarity": "Common",
-      "name": "placeholder pkmn",
-      "number": "1"
+      "name": "Snivy",
+      "number": "1/12",
+      "rarity": "Promo",
+      "id": "mcd2011-1"
+    },
+    {
+      "name": "Maractus",
+      "number": "2/12",
+      "rarity": "Promo",
+      "id": "mcd2011-2"
+    },
+    {
+      "name": "Tepig",
+      "number": "3/12",
+      "rarity": "Promo",
+      "id": "mcd2011-3"
+    },
+    {
+      "name": "Oshawott",
+      "number": "4/12",
+      "rarity": "Promo",
+      "id": "mcd2011-4"
+    },
+    {
+      "name": "Alomomola",
+      "number": "5/12",
+      "rarity": "Promo",
+      "id": "mcd2011-5"
+    },
+    {
+      "name": "Blitzle",
+      "number": "6/12",
+      "rarity": "Promo",
+      "id": "mcd2011-6"
+    },
+    {
+      "name": "Munna",
+      "number": "7/12",
+      "rarity": "Promo",
+      "id": "mcd2011-7"
+    },
+    {
+      "name": "Sandile",
+      "number": "8/12",
+      "rarity": "Promo",
+      "id": "mcd2011-8"
+    },
+    {
+      "name": "Zorua",
+      "number": "9/12",
+      "rarity": "Promo",
+      "id": "mcd2011-9"
+    },
+    {
+      "name": "Klink",
+      "number": "10/12",
+      "rarity": "Promo",
+      "id": "mcd2011-10"
+    },
+    {
+      "name": "Pidove",
+      "number": "11/12",
+      "rarity": "Promo",
+      "id": "mcd2011-11"
+    },
+    {
+      "name": "Audino",
+      "number": "12/12",
+      "rarity": "Promo",
+      "id": "mcd2011-12"
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }
