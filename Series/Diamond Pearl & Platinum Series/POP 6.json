@@ -1,113 +1,132 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Core",
+    "Reverse"
   ],
   "coreCards": [
     {
       "id": "pop6-1",
       "rarity": "Rare",
       "name": "Bastiodon",
-      "number": "1"
+      "number": "1/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop6-2",
       "rarity": "Rare",
       "name": "Lucario",
-      "number": "2"
+      "number": "2/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop6-3",
       "rarity": "Rare",
       "name": "Manaphy",
-      "number": "3"
+      "number": "3/17"
     },
     {
       "id": "pop6-4",
       "rarity": "Rare",
       "name": "Pachirisu",
-      "number": "4"
+      "number": "4/17",
+      "variants": ["Core"],
+      "variants": ["Core"]
     },
     {
       "id": "pop6-5",
       "rarity": "Rare",
       "name": "Rampardos",
-      "number": "5"
+      "number": "5/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop6-6",
       "rarity": "Uncommon",
       "name": "Drifloon",
-      "number": "6"
+      "number": "6/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop6-7",
       "rarity": "Common",
       "name": "Gible",
-      "number": "7"
+      "number": "7/17"
     },
     {
       "id": "pop6-8",
       "rarity": "Uncommon",
       "name": "Riolu",
-      "number": "8"
+      "number": "8/17"
     },
     {
       "id": "pop6-9",
       "rarity": "Common",
       "name": "Pikachu",
-      "number": "9"
+      "number": "9/17"
     },
     {
       "id": "pop6-10",
       "rarity": "Uncommon",
       "name": "Staravia",
-      "number": "10"
+      "number": "10/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop6-11",
       "rarity": "Common",
       "name": "Bidoof",
-      "number": "11"
+      "number": "11/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop6-12",
       "rarity": "Common",
       "name": "Buneary",
-      "number": "12"
+      "number": "12/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop6-13",
       "rarity": "Common",
       "name": "Cherubi",
-      "number": "13"
+      "number": "13/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop6-14",
       "rarity": "Common",
       "name": "Chimchar",
-      "number": "14"
+      "number": "14/17"
     },
     {
       "id": "pop6-15",
       "rarity": "Common",
       "name": "Piplup",
-      "number": "15"
+      "number": "15/17"
     },
     {
       "id": "pop6-16",
       "rarity": "Common",
       "name": "Starly",
-      "number": "16"
+      "number": "16/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop6-17",
       "rarity": "Common",
       "name": "Turtwig",
-      "number": "17"
+      "number": "17/17"
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "Pikachu",
+      "number": 9,
+      "rarity": "",
+      "id": "pop6-ac-9",
+      "Description": "Pokemon Day Stamped Promo"
+    }
+  ],
+  "misprints": []
 }

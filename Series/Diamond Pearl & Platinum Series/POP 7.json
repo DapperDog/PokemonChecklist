@@ -1,113 +1,124 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Core",
+    "Reverse"
   ],
   "coreCards": [
     {
       "id": "pop7-1",
       "rarity": "Rare",
       "name": "Ampharos",
-      "number": "1"
+      "number": "1/17"
     },
     {
       "id": "pop7-2",
       "rarity": "Rare",
       "name": "Gallade",
-      "number": "2"
+      "number": "2/17"
     },
     {
       "id": "pop7-3",
       "rarity": "Rare",
       "name": "Latias",
-      "number": "3"
+      "number": "3/17"
     },
     {
       "id": "pop7-4",
       "rarity": "Rare",
       "name": "Latios",
-      "number": "4"
+      "number": "4/17"
     },
     {
       "id": "pop7-5",
       "rarity": "Rare",
       "name": "Mothim",
-      "number": "5"
+      "number": "5/17"
     },
     {
       "id": "pop7-6",
       "rarity": "Uncommon",
       "name": "Delibird",
-      "number": "6"
+      "number": "6/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop7-7",
       "rarity": "Uncommon",
       "name": "Flaaffy",
-      "number": "7"
+      "number": "7/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop7-8",
       "rarity": "Uncommon",
       "name": "Kirlia",
-      "number": "8"
+      "number": "8/17"
     },
     {
       "id": "pop7-9",
       "rarity": "Uncommon",
       "name": "Stantler",
-      "number": "9"
+      "number": "9/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop7-10",
       "rarity": "Uncommon",
       "name": "Wormadam Sandy Cloak",
-      "number": "10"
+      "number": "10/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop7-11",
       "rarity": "Common",
       "name": "Burmy Plant Cloak",
-      "number": "11"
+      "number": "11/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop7-12",
       "rarity": "Common",
       "name": "Burmy Sandy Cloak",
-      "number": "12"
+      "number": "12/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop7-13",
       "rarity": "Common",
       "name": "Corsola",
-      "number": "13"
+      "number": "13/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop7-14",
       "rarity": "Common",
       "name": "Mareep",
-      "number": "14"
+      "number": "14/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop7-15",
       "rarity": "Common",
       "name": "Ralts",
-      "number": "15"
+      "number": "15/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop7-16",
       "rarity": "Common",
       "name": "Sentret",
-      "number": "16"
+      "number": "16/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop7-17",
       "rarity": "Common",
       "name": "Spinda",
-      "number": "17"
+      "number": "17/17",
+      "variants": ["Core"]
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }

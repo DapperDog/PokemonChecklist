@@ -1,929 +1,1105 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Core",
+    "Reverse"
   ],
   "coreCards": [
     {
       "id": "pl3-1",
       "rarity": "Rare Holo",
       "name": "Absol G",
-      "number": "1"
+      "number": "1/147"
     },
     {
       "id": "pl3-2",
       "rarity": "Rare Holo",
       "name": "Blaziken FB",
-      "number": "2"
+      "number": "2/147"
     },
     {
       "id": "pl3-3",
       "rarity": "Rare Holo",
       "name": "Drifblim FB",
-      "number": "3"
+      "number": "3/147"
     },
     {
       "id": "pl3-4",
       "rarity": "Rare Holo",
       "name": "Electivire FB",
-      "number": "4"
+      "number": "4/147"
     },
     {
       "id": "pl3-5",
       "rarity": "Rare Holo",
       "name": "Garchomp",
-      "number": "5"
+      "number": "5/147"
     },
     {
       "id": "pl3-6",
       "rarity": "Rare Holo",
       "name": "Magmortar",
-      "number": "6"
+      "number": "6/147"
     },
     {
       "id": "pl3-7",
       "rarity": "Rare Holo",
       "name": "Metagross",
-      "number": "7"
+      "number": "7/147"
     },
     {
       "id": "pl3-8",
       "rarity": "Rare Holo",
       "name": "Rayquaza C",
-      "number": "8"
+      "number": "8/147"
     },
     {
       "id": "pl3-9",
       "rarity": "Rare Holo",
       "name": "Regigigas FB",
-      "number": "9"
+      "number": "9/147"
     },
     {
       "id": "pl3-10",
       "rarity": "Rare Holo",
       "name": "Rhyperior",
-      "number": "10"
+      "number": "10/147"
     },
     {
       "id": "pl3-11",
       "rarity": "Rare Holo",
       "name": "Staraptor FB",
-      "number": "11"
+      "number": "11/147"
     },
     {
       "id": "pl3-12",
       "rarity": "Rare Holo",
       "name": "Swampert",
-      "number": "12"
+      "number": "12/147"
     },
     {
       "id": "pl3-13",
       "rarity": "Rare Holo",
       "name": "Venusaur",
-      "number": "13"
+      "number": "13/147"
     },
     {
       "id": "pl3-14",
       "rarity": "Rare Holo",
       "name": "Yanmega",
-      "number": "14"
+      "number": "14/147"
     },
     {
       "id": "pl3-15",
       "rarity": "Rare",
       "name": "Arcanine G",
-      "number": "15"
+      "number": "15/147"
     },
     {
       "id": "pl3-16",
       "rarity": "Rare",
       "name": "Articuno",
-      "number": "16"
+      "number": "16/147"
     },
     {
       "id": "pl3-17",
       "rarity": "Rare",
       "name": "Butterfree FB",
-      "number": "17"
+      "number": "17/147"
     },
     {
       "id": "pl3-18",
       "rarity": "Rare",
       "name": "Camerupt",
-      "number": "18"
+      "number": "18/147"
     },
     {
       "id": "pl3-19",
       "rarity": "Rare",
       "name": "Camerupt G",
-      "number": "19"
+      "number": "19/147"
     },
     {
       "id": "pl3-20",
       "rarity": "Rare",
       "name": "Charizard G",
-      "number": "20"
+      "number": "20/147"
     },
     {
       "id": "pl3-21",
       "rarity": "Rare",
       "name": "Chimecho",
-      "number": "21"
+      "number": "21/147"
     },
     {
       "id": "pl3-22",
       "rarity": "Rare",
       "name": "Claydol",
-      "number": "22"
+      "number": "22/147"
     },
     {
       "id": "pl3-23",
       "rarity": "Rare",
       "name": "Crawdaunt G",
-      "number": "23"
+      "number": "23/147"
     },
     {
       "id": "pl3-24",
       "rarity": "Rare",
       "name": "Dewgong",
-      "number": "24"
+      "number": "24/147"
     },
     {
       "id": "pl3-25",
       "rarity": "Rare",
       "name": "Dodrio",
-      "number": "25"
+      "number": "25/147"
     },
     {
       "id": "pl3-26",
       "rarity": "Rare",
       "name": "Dusknoir FB",
-      "number": "26"
+      "number": "26/147"
     },
     {
       "id": "pl3-27",
       "rarity": "Rare",
       "name": "Empoleon FB",
-      "number": "27"
+      "number": "27/147"
     },
     {
       "id": "pl3-28",
       "rarity": "Rare",
       "name": "Exploud",
-      "number": "28"
+      "number": "28/147"
     },
     {
       "id": "pl3-29",
       "rarity": "Rare",
       "name": "Honchkrow",
-      "number": "29"
+      "number": "29/147"
     },
     {
       "id": "pl3-30",
       "rarity": "Rare",
       "name": "Lickilicky C",
-      "number": "30"
+      "number": "30/147"
     },
     {
       "id": "pl3-31",
       "rarity": "Rare",
       "name": "Lucario C",
-      "number": "31"
+      "number": "31/147"
     },
     {
       "id": "pl3-32",
       "rarity": "Rare",
       "name": "Lunatone",
-      "number": "32"
+      "number": "32/147"
     },
     {
       "id": "pl3-33",
       "rarity": "Rare",
       "name": "Mawile",
-      "number": "33"
+      "number": "33/147"
     },
     {
       "id": "pl3-34",
       "rarity": "Rare",
       "name": "Medicham",
-      "number": "34"
+      "number": "34/147"
     },
     {
       "id": "pl3-35",
       "rarity": "Rare",
       "name": "Milotic C",
-      "number": "35"
+      "number": "35/147"
     },
     {
       "id": "pl3-36",
       "rarity": "Rare",
       "name": "Moltres",
-      "number": "36"
+      "number": "36/147"
     },
     {
       "id": "pl3-37",
       "rarity": "Rare",
       "name": "Mr. Mime",
-      "number": "37"
+      "number": "37/147"
     },
     {
       "id": "pl3-38",
       "rarity": "Rare",
       "name": "Parasect",
-      "number": "38"
+      "number": "38/147"
     },
     {
       "id": "pl3-39",
       "rarity": "Rare",
       "name": "Primeape",
-      "number": "39"
+      "number": "39/147"
     },
     {
       "id": "pl3-40",
       "rarity": "Rare",
       "name": "Roserade C",
-      "number": "40"
+      "number": "40/147"
     },
     {
       "id": "pl3-41",
       "rarity": "Rare",
       "name": "Sableye G",
-      "number": "41"
+      "number": "41/147"
     },
     {
       "id": "pl3-42",
       "rarity": "Rare",
       "name": "Sandslash",
-      "number": "42"
+      "number": "42/147"
     },
     {
       "id": "pl3-43",
       "rarity": "Rare",
       "name": "Seaking",
-      "number": "43"
+      "number": "43/147"
     },
     {
       "id": "pl3-44",
       "rarity": "Rare",
       "name": "Shedinja",
-      "number": "44"
+      "number": "44/147"
     },
     {
       "id": "pl3-45",
       "rarity": "Rare",
       "name": "Solrock",
-      "number": "45"
+      "number": "45/147"
     },
     {
       "id": "pl3-46",
       "rarity": "Rare",
       "name": "Spinda",
-      "number": "46"
+      "number": "46/147"
     },
     {
       "id": "pl3-47",
       "rarity": "Rare",
       "name": "Wailord",
-      "number": "47"
+      "number": "47/147"
     },
     {
       "id": "pl3-48",
       "rarity": "Rare",
       "name": "Zapdos",
-      "number": "48"
+      "number": "48/147"
     },
     {
       "id": "pl3-49",
       "rarity": "Uncommon",
       "name": "Altaria C",
-      "number": "49"
+      "number": "49/147"
     },
     {
       "id": "pl3-50",
       "rarity": "Uncommon",
       "name": "Arcanine",
-      "number": "50"
+      "number": "50/147"
     },
     {
       "id": "pl3-51",
       "rarity": "Uncommon",
       "name": "Bibarel",
-      "number": "51"
+      "number": "51/147"
     },
     {
       "id": "pl3-52",
       "rarity": "Uncommon",
       "name": "Breloom",
-      "number": "52"
+      "number": "52/147"
     },
     {
       "id": "pl3-53",
       "rarity": "Uncommon",
       "name": "Carnivine",
-      "number": "53"
+      "number": "53/147"
     },
     {
       "id": "pl3-54",
       "rarity": "Uncommon",
       "name": "Chatot G",
-      "number": "54"
+      "number": "54/147"
     },
     {
       "id": "pl3-55",
       "rarity": "Uncommon",
       "name": "Cherrim",
-      "number": "55"
+      "number": "55/147"
     },
     {
       "id": "pl3-56",
       "rarity": "Uncommon",
       "name": "Dragonite FB",
-      "number": "56"
+      "number": "56/147"
     },
     {
       "id": "pl3-57",
       "rarity": "Uncommon",
       "name": "Drifblim",
-      "number": "57"
+      "number": "57/147"
     },
     {
       "id": "pl3-58",
       "rarity": "Uncommon",
       "name": "Floatzel",
-      "number": "58"
+      "number": "58/147"
     },
     {
       "id": "pl3-59",
       "rarity": "Uncommon",
       "name": "Gabite",
-      "number": "59"
+      "number": "59/147"
     },
     {
       "id": "pl3-60",
       "rarity": "Uncommon",
       "name": "Garchomp C",
-      "number": "60"
+      "number": "60/147"
     },
     {
       "id": "pl3-61",
       "rarity": "Uncommon",
       "name": "Hippopotas",
-      "number": "61"
+      "number": "61/147"
     },
     {
       "id": "pl3-62",
       "rarity": "Uncommon",
       "name": "Ivysaur",
-      "number": "62"
+      "number": "62/147"
     },
     {
       "id": "pl3-63",
       "rarity": "Uncommon",
       "name": "Lopunny",
-      "number": "63"
+      "number": "63/147"
     },
     {
       "id": "pl3-64",
       "rarity": "Uncommon",
       "name": "Loudred",
-      "number": "64"
+      "number": "64/147"
     },
     {
       "id": "pl3-65",
       "rarity": "Uncommon",
       "name": "Magmar",
-      "number": "65"
+      "number": "65/147"
     },
     {
       "id": "pl3-66",
       "rarity": "Uncommon",
       "name": "Manectric G",
-      "number": "66"
+      "number": "66/147"
     },
     {
       "id": "pl3-67",
       "rarity": "Uncommon",
       "name": "Marshtomp",
-      "number": "67"
+      "number": "67/147"
     },
     {
       "id": "pl3-68",
       "rarity": "Uncommon",
       "name": "Masquerain",
-      "number": "68"
+      "number": "68/147"
     },
     {
       "id": "pl3-69",
       "rarity": "Uncommon",
       "name": "Metang",
-      "number": "69"
+      "number": "69/147"
     },
     {
       "id": "pl3-70",
       "rarity": "Uncommon",
       "name": "Milotic",
-      "number": "70"
+      "number": "70/147"
     },
     {
       "id": "pl3-71",
       "rarity": "Uncommon",
       "name": "Minun",
-      "number": "71"
+      "number": "71/147"
     },
     {
       "id": "pl3-72",
       "rarity": "Uncommon",
       "name": "Murkrow",
-      "number": "72"
+      "number": "72/147"
     },
     {
       "id": "pl3-73",
       "rarity": "Uncommon",
       "name": "Ninjask",
-      "number": "73"
+      "number": "73/147"
     },
     {
       "id": "pl3-74",
       "rarity": "Uncommon",
       "name": "Numel",
-      "number": "74"
+      "number": "74/147"
     },
     {
       "id": "pl3-75",
       "rarity": "Uncommon",
       "name": "Pinsir",
-      "number": "75"
+      "number": "75/147"
     },
     {
       "id": "pl3-76",
       "rarity": "Uncommon",
       "name": "Plusle",
-      "number": "76"
+      "number": "76/147"
     },
     {
       "id": "pl3-77",
       "rarity": "Uncommon",
       "name": "Raichu",
-      "number": "77"
+      "number": "77/147"
     },
     {
       "id": "pl3-78",
       "rarity": "Uncommon",
       "name": "Raticate G",
-      "number": "78"
+      "number": "78/147"
     },
     {
       "id": "pl3-79",
       "rarity": "Uncommon",
       "name": "Relicanth",
-      "number": "79"
+      "number": "79/147"
     },
     {
       "id": "pl3-80",
       "rarity": "Uncommon",
       "name": "Rhydon",
-      "number": "80"
+      "number": "80/147"
     },
     {
       "id": "pl3-81",
       "rarity": "Uncommon",
       "name": "Roserade",
-      "number": "81"
+      "number": "81/147"
     },
     {
       "id": "pl3-82",
       "rarity": "Uncommon",
       "name": "Rotom",
-      "number": "82"
+      "number": "82/147"
     },
     {
       "id": "pl3-83",
       "rarity": "Uncommon",
       "name": "Skarmory FB",
-      "number": "83"
+      "number": "83/147"
     },
     {
       "id": "pl3-84",
       "rarity": "Uncommon",
       "name": "Spiritomb C",
-      "number": "84"
+      "number": "84/147"
     },
     {
       "id": "pl3-85",
       "rarity": "Uncommon",
       "name": "Staravia",
-      "number": "85"
+      "number": "85/147"
     },
     {
       "id": "pl3-86",
       "rarity": "Uncommon",
       "name": "Togekiss C",
-      "number": "86"
+      "number": "86/147"
     },
     {
       "id": "pl3-87",
       "rarity": "Uncommon",
       "name": "Wailmer",
-      "number": "87"
+      "number": "87/147"
     },
     {
       "id": "pl3-88",
       "rarity": "Uncommon",
       "name": "Yanma",
-      "number": "88"
+      "number": "88/147"
     },
     {
       "id": "pl3-89",
       "rarity": "Common",
       "name": "Baltoy",
-      "number": "89"
+      "number": "89/147"
     },
     {
       "id": "pl3-90",
       "rarity": "Common",
       "name": "Beldum",
-      "number": "90"
+      "number": "90/147"
     },
     {
       "id": "pl3-91",
       "rarity": "Common",
       "name": "Bidoof",
-      "number": "91"
+      "number": "91/147"
     },
     {
       "id": "pl3-92",
       "rarity": "Common",
       "name": "Buizel",
-      "number": "92"
+      "number": "92/147"
     },
     {
       "id": "pl3-93",
       "rarity": "Common",
       "name": "Bulbasaur",
-      "number": "93"
+      "number": "93/147"
     },
     {
       "id": "pl3-94",
       "rarity": "Common",
       "name": "Buneary",
-      "number": "94"
+      "number": "94/147"
     },
     {
       "id": "pl3-95",
       "rarity": "Common",
       "name": "Chatot",
-      "number": "95"
+      "number": "95/147"
     },
     {
       "id": "pl3-96",
       "rarity": "Common",
       "name": "Cherubi",
-      "number": "96"
+      "number": "96/147"
     },
     {
       "id": "pl3-97",
       "rarity": "Common",
       "name": "Chimchar",
-      "number": "97"
+      "number": "97/147"
     },
     {
       "id": "pl3-98",
       "rarity": "Common",
       "name": "Chingling",
-      "number": "98"
+      "number": "98/147"
     },
     {
       "id": "pl3-99",
       "rarity": "Common",
       "name": "Combee",
-      "number": "99"
+      "number": "99/147"
     },
     {
       "id": "pl3-100",
       "rarity": "Common",
       "name": "Corphish",
-      "number": "100"
+      "number": "100/147"
     },
     {
       "id": "pl3-101",
       "rarity": "Common",
       "name": "Croagunk",
-      "number": "101"
+      "number": "101/147"
     },
     {
       "id": "pl3-102",
       "rarity": "Common",
       "name": "Doduo",
-      "number": "102"
+      "number": "102/147"
     },
     {
       "id": "pl3-103",
       "rarity": "Common",
       "name": "Drifloon",
-      "number": "103"
+      "number": "103/147"
     },
     {
       "id": "pl3-104",
       "rarity": "Common",
       "name": "Feebas",
-      "number": "104"
+      "number": "104/147"
     },
     {
       "id": "pl3-105",
       "rarity": "Common",
       "name": "Geodude",
-      "number": "105"
+      "number": "105/147"
     },
     {
       "id": "pl3-106",
       "rarity": "Common",
       "name": "Gible",
-      "number": "106"
+      "number": "106/147"
     },
     {
       "id": "pl3-107",
       "rarity": "Common",
       "name": "Goldeen",
-      "number": "107"
+      "number": "107/147"
     },
     {
       "id": "pl3-108",
       "rarity": "Common",
       "name": "Growlithe",
-      "number": "108"
+      "number": "108/147"
     },
     {
       "id": "pl3-109",
       "rarity": "Common",
       "name": "Kricketot",
-      "number": "109"
+      "number": "109/147"
     },
     {
       "id": "pl3-110",
       "rarity": "Common",
       "name": "Magikarp",
-      "number": "110"
+      "number": "110/147"
     },
     {
       "id": "pl3-111",
       "rarity": "Common",
       "name": "Magnemite",
-      "number": "111"
+      "number": "111/147"
     },
     {
       "id": "pl3-112",
       "rarity": "Common",
       "name": "Mankey",
-      "number": "112"
+      "number": "112/147"
     },
     {
       "id": "pl3-113",
       "rarity": "Common",
       "name": "Meditite",
-      "number": "113"
+      "number": "113/147"
     },
     {
       "id": "pl3-114",
       "rarity": "Common",
       "name": "Meowth",
-      "number": "114"
+      "number": "114/147"
     },
     {
       "id": "pl3-115",
       "rarity": "Common",
       "name": "Mime Jr.",
-      "number": "115"
+      "number": "115/147"
     },
     {
       "id": "pl3-116",
       "rarity": "Common",
       "name": "Mudkip",
-      "number": "116"
+      "number": "116/147"
     },
     {
       "id": "pl3-117",
       "rarity": "Common",
       "name": "Nincada",
-      "number": "117"
+      "number": "117/147"
     },
     {
       "id": "pl3-118",
       "rarity": "Common",
       "name": "Pachirisu",
-      "number": "118"
+      "number": "118/147"
     },
     {
       "id": "pl3-119",
       "rarity": "Common",
       "name": "Paras",
-      "number": "119"
+      "number": "119/147"
     },
     {
       "id": "pl3-120",
       "rarity": "Common",
       "name": "Pikachu",
-      "number": "120"
+      "number": "120/147"
     },
     {
       "id": "pl3-121",
       "rarity": "Common",
       "name": "Piplup",
-      "number": "121"
+      "number": "121/147"
     },
     {
       "id": "pl3-122",
       "rarity": "Common",
       "name": "Rhyhorn",
-      "number": "122"
+      "number": "122/147"
     },
     {
       "id": "pl3-123",
       "rarity": "Common",
       "name": "Roselia",
-      "number": "123"
+      "number": "123/147"
     },
     {
       "id": "pl3-124",
       "rarity": "Common",
       "name": "Sandshrew",
-      "number": "124"
+      "number": "124/147"
     },
     {
       "id": "pl3-125",
       "rarity": "Common",
       "name": "Seel",
-      "number": "125"
+      "number": "125/147"
     },
     {
       "id": "pl3-126",
       "rarity": "Common",
       "name": "Shinx",
-      "number": "126"
+      "number": "126/147"
     },
     {
       "id": "pl3-127",
       "rarity": "Common",
       "name": "Shroomish",
-      "number": "127"
+      "number": "127/147"
     },
     {
       "id": "pl3-128",
       "rarity": "Common",
       "name": "Skorupi",
-      "number": "128"
+      "number": "128/147"
     },
     {
       "id": "pl3-129",
       "rarity": "Common",
       "name": "Starly",
-      "number": "129"
+      "number": "129/147"
     },
     {
       "id": "pl3-130",
       "rarity": "Common",
       "name": "Surskit",
-      "number": "130"
+      "number": "130/147"
     },
     {
       "id": "pl3-131",
       "rarity": "Common",
       "name": "Turtwig",
-      "number": "131"
+      "number": "131/147"
     },
     {
       "id": "pl3-132",
       "rarity": "Common",
       "name": "Whismur",
-      "number": "132"
+      "number": "132/147"
     },
     {
       "id": "pl3-133",
       "rarity": "Common",
       "name": "Zubat",
-      "number": "133"
+      "number": "133/147"
     },
     {
       "id": "pl3-134",
       "rarity": "Uncommon",
       "name": "Battle Tower",
-      "number": "134"
+      "number": "134/147"
     },
     {
       "id": "pl3-135",
       "rarity": "Uncommon",
       "name": "Champion's Room",
-      "number": "135"
+      "number": "135/147"
     },
     {
       "id": "pl3-136",
       "rarity": "Uncommon",
       "name": "Cynthia's Guidance",
-      "number": "136"
+      "number": "136/147"
     },
     {
       "id": "pl3-137",
       "rarity": "Uncommon",
       "name": "Cyrus's Initiative",
-      "number": "137"
+      "number": "137/147"
     },
     {
       "id": "pl3-138",
       "rarity": "Uncommon",
       "name": "Night Teleporter",
-      "number": "138"
+      "number": "138/147"
     },
     {
       "id": "pl3-139",
       "rarity": "Uncommon",
       "name": "Palmer's Contribution",
-      "number": "139"
+      "number": "139/147"
     },
     {
       "id": "pl3-140",
       "rarity": "Uncommon",
       "name": "VS Seeker",
-      "number": "140"
+      "number": "140/147"
     },
     {
       "id": "pl3-141",
-      "rarity": "Rare Holo Lv.X",
+      "rarity": "Level X",
       "name": "Absol G",
-      "number": "141"
+      "number": "141/147"
     },
     {
       "id": "pl3-142",
-      "rarity": "Rare Holo Lv.X",
+      "rarity": "Level X",
       "name": "Blaziken FB",
-      "number": "142"
+      "number": "142/147"
     },
     {
       "id": "pl3-143",
-      "rarity": "Rare Holo Lv.X",
+      "rarity": "Level X",
       "name": "Charizard G",
-      "number": "143"
+      "number": "143/147"
     },
     {
       "id": "pl3-144",
-      "rarity": "Rare Holo Lv.X",
+      "rarity": "Level X",
       "name": "Electivire FB",
-      "number": "144"
+      "number": "144/147"
     },
     {
       "id": "pl3-145",
-      "rarity": "Rare Holo Lv.X",
+      "rarity": "Level X",
       "name": "Garchomp C",
-      "number": "145"
+      "number": "145/147"
     },
     {
       "id": "pl3-146",
-      "rarity": "Rare Holo Lv.X",
+      "rarity": "Level X",
       "name": "Rayquaza C",
-      "number": "146"
+      "number": "146/147"
     },
     {
       "id": "pl3-147",
-      "rarity": "Rare Holo Lv.X",
+      "rarity": "Level X",
       "name": "Staraptor FB",
-      "number": "147"
+      "number": "147/147"
     },
     {
       "id": "pl3-148",
-      "rarity": "Rare Holo",
+      "rarity": "Secret Rare",
       "name": "Articuno",
-      "number": "148"
+      "number": "148/147"
     },
     {
       "id": "pl3-149",
-      "rarity": "Rare Holo",
+      "rarity": "Secret Rare",
       "name": "Moltres",
-      "number": "149"
+      "number": "149/147"
     },
     {
       "id": "pl3-150",
-      "rarity": "Rare Holo",
+      "rarity": "Secret Rare",
       "name": "Zapdos",
-      "number": "150"
+      "number": "150/147"
     },
     {
       "id": "pl3-SH7",
-      "rarity": "Rare",
+      "rarity": "Secret Rare",
       "name": "Milotic",
       "number": "SH7"
     },
     {
       "id": "pl3-SH8",
-      "rarity": "Rare",
+      "rarity": "Secret Rare",
       "name": "Relicanth",
       "number": "SH8"
     },
     {
       "id": "pl3-SH9",
-      "rarity": "Rare",
+      "rarity": "Secret Rare",
       "name": "Yanma",
       "number": "SH9"
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "Garchomp",
+      "number": "5/147",
+      "rarity": "",
+      "id": "pl3-ac-5-1",
+      "Description": "Crosshatch Holo National Championships 2009-2010 promo"
+    },
+    {
+      "name": "Garchomp",
+      "number": "5/147",
+      "rarity": "",
+      "id": "pl3-ac-5-2",
+      "Description": "Staff Crosshatch Holo National Championships 2009-2010 promo"
+    },
+    {
+      "name": "Garchomp",
+      "number": "5/147",
+      "rarity": "",
+      "id": "pl3-ac-5-3",
+      "Description": "Cracked Ice Holo 2009 Fall Collector's Tins exclusive"
+    },
+    {
+      "name": "Metagross",
+      "number": "7/147",
+      "rarity": "",
+      "id": "pl3-ac-7",
+      "Description": "Cracked Ice Holo Evolutions Pack exclusive"
+    },
+    {
+      "name": "Rayquaza",
+      "number": "8/147",
+      "rarity": "",
+      "id": "pl3-ac-8",
+      "Description": "Cracked Ice Holo 2009 Fall Collector's Tins exclusive"
+    },
+    {
+      "name": "Swampert",
+      "number": "12/147",
+      "rarity": "",
+      "id": "pl3-ac-12",
+      "Description": "Non Holo Overflow theme deck exclusive"
+    },
+    {
+      "name": "Venusaur",
+      "number": "13/147",
+      "rarity": "",
+      "id": "pl3-ac-13",
+      "Description": "Non Holo Ignition theme deck exclusive"
+    },
+    {
+      "name": "Arcanine",
+      "number": "15/147",
+      "rarity": "",
+      "id": "pl3-ac-15-1",
+      "Description": "Cosmos Holo Ignition theme deck exclusive"
+    },
+    {
+      "name": "Arcanine",
+      "number": "15/147",
+      "rarity": "",
+      "id": "pl3-ac-15-1",
+      "Description": "Crosshatch Holo Pokémon League Cyrus Season (November 2009)"
+    },
+    {
+      "name": "Butterfree",
+      "number": "17/147",
+      "rarity": "",
+      "id": "pl3-ac-17",
+      "Description": "Crosshatch Holo Pokémon League Argenta Season (July 2010)"
+    },
+    {
+      "name": "Dusknoir",
+      "number": "26/147",
+      "rarity": "",
+      "id": "pl3-ac-26",
+      "Description": "Crosshatch Holo Pokémon League Dahlia Season (May 2010)"
+    },
+    {
+      "name": "Empoleon",
+      "number": "27/147",
+      "rarity": "",
+      "id": "pl3-ac-27",
+      "Description": "Crosshatch Holo Pokémon League Darach Season (June 2010)"
+    },
+    {
+      "name": "Milotic",
+      "number": "35/147",
+      "rarity": "",
+      "id": "pl3-ac-35-1",
+      "Description": "Cosmos Holo Overflow theme deck exclusive"
+    },
+    {
+      "name": "Milotic",
+      "number": "35/147",
+      "rarity": "",
+      "id": "pl3-ac-35-2",
+      "Description": "Crosshatch Holo Pokémon League Cynthia Season (December 2009)"
+    },
+    {
+      "name": "Dragonite",
+      "number": "56/147",
+      "rarity": "",
+      "id": "pl3-ac-56",
+      "Description": "Crosshatch Holo Pokémon League Palmer Season (February 2010)"
+    },
+    {
+      "name": "Gabite",
+      "number": "59/147",
+      "rarity": "",
+      "id": "pl3-ac-59-1",
+      "Description": "Crosshatch Holo State•Province•Territory Championships 2009-2010 promo"
+    },
+    {
+      "name": "Gabite",
+      "number": "59/147",
+      "rarity": "",
+      "id": "pl3-ac-59-2",
+      "Description": "Staff Crosshatch Holo State•Province•Territory Championships 2009-2010 promo"
+    },
+    {
+      "name": "Garchomp",
+      "number": "60/147",
+      "rarity": "",
+      "id": "pl3-ac-60-1",
+      "Description": "Crosshatch Holo Regional Championships 2009-2010 promo"
+    },
+    {
+      "name": "Garchomp",
+      "number": "60/147",
+      "rarity": "",
+      "id": "pl3-ac-60-2",
+      "Description": "Staff Crosshatch Holo Regional Championships 2009-2010 promo"
+    },
+    {
+      "name": "Milotic",
+      "number": "70/147",
+      "rarity": "",
+      "id": "pl3-ac-70-1",
+      "Description": "Prerelease stamp Prerelease promo"
+    },
+    {
+      "name": "Milotic",
+      "number": "70/147",
+      "rarity": "",
+      "id": "pl3-ac-70-2",
+      "Description": "Staff Prerelease stamp Prerelease promo"
+    },
+    {
+      "name": "Skarmory",
+      "number": "83/147",
+      "rarity": "",
+      "id": "pl3-ac-83",
+      "Description": "Crosshatch Holo Pokémon League Thorton Season (March 2010)"
+    },
+    {
+      "name": "Gible",
+      "number": "106/147",
+      "rarity": "",
+      "id": "pl3-ac-106-1",
+      "Description": "Crosshatch Holo City Championships 2009-2010 promo"
+    },
+    {
+      "name": "Gible",
+      "number": "106/147",
+      "rarity": "",
+      "id": "pl3-ac-106-2",
+      "Description": "Staff Crosshatch Holo City Championships 2009-2010 promo"
+    },
+    {
+      "name": "Cynthia's Guidance",
+      "number": "136/147",
+      "rarity": "",
+      "id": "pl3-ac-136",
+      "Description": "Crosshatch Holo Player Rewards Program 2009-2010 (Tier Two)"
+    }
+  ],
+  "misprints": []
 }

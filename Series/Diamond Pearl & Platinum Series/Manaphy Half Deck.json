@@ -1,17 +1,82 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Have"
   ],
   "coreCards": [
     {
-      "id": "placeholder-1",
+      "name": "Buizel",
+      "number": "1/12",
       "rarity": "Common",
-      "name": "placeholder pkmn",
-      "number": "1"
+      "id": "dp-manaphy-1"
+    },
+    {
+      "name": "Floatzel",
+      "number": "2/12",
+      "rarity": "Common",
+      "id": "dp-manaphy-2"
+    },
+    {
+      "name": "Goldeen",
+      "number": "3/12",
+      "rarity": "Common",
+      "id": "dp-manaphy-3"
+    },
+    {
+      "name": "Manaphy",
+      "number": "4/12",
+      "rarity": "Common",
+      "id": "dp-manaphy-4"
+    },
+    {
+      "name": "Piplup",
+      "number": "5/12",
+      "rarity": "Common",
+      "id": "dp-manaphy-5"
+    },
+    {
+      "name": "Prinplup",
+      "number": "6/12",
+      "rarity": "Common",
+      "id": "dp-manaphy-6"
+    },
+    {
+      "name": "Seaking",
+      "number": "7/12",
+      "rarity": "Common",
+      "id": "dp-manaphy-7"
+    },
+    {
+      "name": "Totodile",
+      "number": "8/12",
+      "rarity": "Common",
+      "id": "dp-manaphy-8"
+    },
+    {
+      "name": "Dusk Ball",
+      "number": "9/12",
+      "rarity": "Common",
+      "id": "dp-manaphy-9"
+    },
+    {
+      "name": "Energy Search",
+      "number": "10/12",
+      "rarity": "Common",
+      "id": "dp-manaphy-10"
+    },
+    {
+      "name": "Potion",
+      "number": "11/12",
+      "rarity": "Common",
+      "id": "dp-manaphy-11"
+    },
+    {
+      "name": "Water Energy",
+      "number": "12/12",
+      "rarity": "Common",
+      "id": "dp-manaphy-12"
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }

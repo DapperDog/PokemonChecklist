@@ -1,17 +1,363 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Have"
   ],
   "coreCards": [
     {
-      "id": "placeholder-1",
-      "rarity": "Common",
-      "name": "placeholder pkmn",
-      "number": "1"
+      "name": "Turtwig",
+      "number": "DP01",
+      "rarity": "Promo",
+      "id": "dppromo-1"
+    },
+    {
+      "name": "Chimchar",
+      "number": "DP02",
+      "rarity": "Promo",
+      "id": "dppromo-2"
+    },
+    {
+      "name": "Piplup",
+      "number": "DP03",
+      "rarity": "Promo",
+      "id": "dppromo-3"
+    },
+    {
+      "name": "Pachirisu",
+      "number": "DP04",
+      "rarity": "Promo",
+      "id": "dppromo-4"
+    },
+    {
+      "name": "Tropical Wind (Worlds 2007)",
+      "number": "DP05",
+      "rarity": "Promo",
+      "id": "dppromo-5"
+    },
+    {
+      "name": "Buneary",
+      "number": "DP06",
+      "rarity": "Promo",
+      "id": "dppromo-6"
+    },
+    {
+      "name": "Cranidos",
+      "number": "DP07",
+      "rarity": "Promo",
+      "id": "dppromo-7"
+    },
+    {
+      "name": "Shieldon",
+      "number": "DP08",
+      "rarity": "Promo",
+      "id": "dppromo-8"
+    },
+    {
+      "name": "Torterra Lv.X",
+      "number": "DP09",
+      "rarity": "Promo",
+      "id": "dppromo-9"
+    },
+    {
+      "name": "Infernape Lv.X",
+      "number": "DP10",
+      "rarity": "Promo",
+      "id": "dppromo-10"
+    },
+    {
+      "name": "Empoleon Lv.X",
+      "number": "DP11",
+      "rarity": "Promo",
+      "id": "dppromo-11"
+    },
+    {
+      "name": "Lucario Lv.X",
+      "number": "DP12",
+      "rarity": "Promo",
+      "id": "dppromo-12"
+    },
+    {
+      "name": "Buizel",
+      "number": "DP13",
+      "rarity": "Promo",
+      "id": "dppromo-13"
+    },
+    {
+      "name": "Chatot",
+      "number": "DP14",
+      "rarity": "Promo",
+      "id": "dppromo-14"
+    },
+    {
+      "name": "Shinx",
+      "number": "DP15",
+      "rarity": "Promo",
+      "id": "dppromo-15"
+    },
+    {
+      "name": "Pikachu",
+      "number": "DP16",
+      "rarity": "Promo",
+      "id": "dppromo-16"
+    },
+    {
+      "name": "Dialga Lv.X",
+      "number": "DP17",
+      "rarity": "Promo",
+      "id": "dppromo-17"
+    },
+    {
+      "name": "Palkia Lv.X",
+      "number": "DP18",
+      "rarity": "Promo",
+      "id": "dppromo-18"
+    },
+    {
+      "name": "Darkrai Lv.X",
+      "number": "DP19",
+      "rarity": "Promo",
+      "id": "dppromo-19"
+    },
+    {
+      "name": "Magmortar",
+      "number": "DP20",
+      "rarity": "Promo",
+      "id": "dppromo-20"
+    },
+    {
+      "name": "Raichu",
+      "number": "DP21",
+      "rarity": "Promo",
+      "id": "dppromo-21"
+    },
+    {
+      "name": "Mime Jr.",
+      "number": "DP22",
+      "rarity": "Promo",
+      "id": "dppromo-22"
+    },
+    {
+      "name": "Glameow",
+      "number": "DP23",
+      "rarity": "Promo",
+      "id": "dppromo-23"
+    },
+    {
+      "name": "Darkrai",
+      "number": "DP24",
+      "rarity": "Promo",
+      "id": "dppromo-24"
+    },
+    {
+      "name": "Tropical Wind (Worlds 2008)",
+      "number": "DP25",
+      "rarity": "Promo",
+      "id": "dppromo-25"
+    },
+    {
+      "name": "Dialga",
+      "number": "DP26",
+      "rarity": "Promo",
+      "id": "dppromo-26"
+    },
+    {
+      "name": "Palkia",
+      "number": "DP27",
+      "rarity": "Promo",
+      "id": "dppromo-27"
+    },
+    {
+      "name": "Mewtwo Lv.X",
+      "number": "DP28",
+      "rarity": "Promo",
+      "id": "dppromo-28"
+    },
+    {
+      "name": "Rhyperior Lv.X",
+      "number": "DP29",
+      "rarity": "Promo",
+      "id": "dppromo-29"
+    },
+    {
+      "name": "Regigigas Lv.X",
+      "number": "DP30",
+      "rarity": "Promo",
+      "id": "dppromo-30"
+    },
+    {
+      "name": "Heatran Lv.X",
+      "number": "DP31",
+      "rarity": "Promo",
+      "id": "dppromo-31"
+    },
+    {
+      "name": "Magnezone",
+      "number": "DP32",
+      "rarity": "Promo",
+      "id": "dppromo-32"
+    },
+    {
+      "name": "Dusknoir",
+      "number": "DP33",
+      "rarity": "Promo",
+      "id": "dppromo-33"
+    },
+    {
+      "name": "Drifblim",
+      "number": "DP34",
+      "rarity": "Promo",
+      "id": "dppromo-34"
+    },
+    {
+      "name": "Porygon-Z",
+      "number": "DP35",
+      "rarity": "Promo",
+      "id": "dppromo-35"
+    },
+    {
+      "name": "Gliscor",
+      "number": "DP36",
+      "rarity": "Promo",
+      "id": "dppromo-36"
+    },
+    {
+      "name": "Dialga Lv.X",
+      "number": "DP37",
+      "rarity": "Promo",
+      "id": "dppromo-37"
+    },
+    {
+      "name": "Giratina Lv.X",
+      "number": "DP38",
+      "rarity": "Promo",
+      "id": "dppromo-38"
+    },
+    {
+      "name": "Shaymin Lv.X",
+      "number": "DP39",
+      "rarity": "Promo",
+      "id": "dppromo-39"
+    },
+    {
+      "name": "Regigigas",
+      "number": "DP40",
+      "rarity": "Promo",
+      "id": "dppromo-40"
+    },
+    {
+      "name": "Toxicroak G",
+      "number": "DP41",
+      "rarity": "Promo",
+      "id": "dppromo-41"
+    },
+    {
+      "name": "Carnivine G",
+      "number": "DP42",
+      "rarity": "Promo",
+      "id": "dppromo-42"
+    },
+    {
+      "name": "Probopass G",
+      "number": "DP43",
+      "rarity": "Promo",
+      "id": "dppromo-43"
+    },
+    {
+      "name": "Magnezone",
+      "number": "DP44",
+      "rarity": "Promo",
+      "id": "dppromo-44"
+    },
+    {
+      "name": "Charizard G Lv.X",
+      "number": "DP45",
+      "rarity": "Promo",
+      "id": "dppromo-45"
+    },
+    {
+      "name": "Garchomp C Lv.X",
+      "number": "DP46",
+      "rarity": "Promo",
+      "id": "dppromo-46"
+    },
+    {
+      "name": "Rayquaza C Lv.X",
+      "number": "DP47",
+      "rarity": "Promo",
+      "id": "dppromo-47"
+    },
+    {
+      "name": "Tropical Wind (Worlds 2009)",
+      "number": "DP48",
+      "rarity": "Promo",
+      "id": "dppromo-48"
+    },
+    {
+      "name": "Dialga",
+      "number": "DP49",
+      "rarity": "Promo",
+      "id": "dppromo-49"
+    },
+    {
+      "name": "Arceus",
+      "number": "DP50",
+      "rarity": "Promo",
+      "id": "dppromo-50"
+    },
+    {
+      "name": "Cresselia",
+      "number": "DP51",
+      "rarity": "Promo",
+      "id": "dppromo-51"
+    },
+    {
+      "name": "Darkrai",
+      "number": "DP52",
+      "rarity": "Promo",
+      "id": "dppromo-52"
+    },
+    {
+      "name": "Arceus Lv.X",
+      "number": "DP53",
+      "rarity": "Promo",
+      "id": "dppromo-53"
+    },
+    {
+      "name": "Arceus Lv.X",
+      "number": "DP56",
+      "rarity": "Promo",
+      "id": "dppromo-56"
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "Pikachu",
+      "number": "DP16",
+      "rarity": "Promo",
+      "id": "dppromo-ac-16",
+      "Description": "Gold Snowflake Stamped Countdown calendar Exclusive"
+    },
+    {
+      "name": "Darkrai (Non Holofoil)",
+      "number": "DP24",
+      "rarity": "Promo",
+      "id": "dppromo-ac-24",
+      "Description": "non-holo"
+    },
+    {
+      "name": "Dialga",
+      "number": "DP26",
+      "rarity": "Promo",
+      "id": "dppromo-ac-26",
+      "Description": "cracked ice"
+    },
+    {
+      "name": "Palkia",
+      "number": "DP27",
+      "rarity": "Promo",
+      "id": "dppromo-ac-27",
+      "Description": "cracked ice"
+    }
+  ],
+  "misprints": []
 }

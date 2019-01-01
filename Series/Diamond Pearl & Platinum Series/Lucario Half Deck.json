@@ -1,17 +1,76 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Have"
   ],
   "coreCards": [
     {
-      "id": "placeholder-1",
+      "name": "Geodude",
+      "number": "1/12",
       "rarity": "Common",
-      "name": "placeholder pkmn",
-      "number": "1"
+      "id": "dp-lucario-1"
+    },
+    {
+      "name": "Graveler",
+      "number": "2/12",
+      "rarity": "Common",
+      "id": "dp-lucario-2"
+    },
+    {
+      "name": "Lucario",
+      "number": "3/12",
+      "rarity": "Common",
+      "id": "dp-lucario-3"
+    },
+    {
+      "name": "Machoke",
+      "number": "4/12",
+      "rarity": "Common",
+      "id": "dp-lucario-4"
+    },
+    {
+      "name": "Machop",
+      "number": "5/12",
+      "rarity": "Common",
+      "id": "dp-lucario-5"
+    },
+    {
+      "name": "Riolu",
+      "number": "6/12",
+      "rarity": "Common",
+      "id": "dp-lucario-6"
+    },
+    {
+      "name": "Starly",
+      "number": "7/12",
+      "rarity": "Common",
+      "id": "dp-lucario-7"
+    },
+    {
+      "name": "Energy Search",
+      "number": "8/12",
+      "rarity": "Common",
+      "id": "dp-lucario-8"
+    },
+    {
+      "name": "Potion",
+      "number": "9/12",
+      "rarity": "Common",
+      "id": "dp-lucario-9"
+    },
+    {
+      "name": "Quick Ball",
+      "number": "10/12",
+      "rarity": "Common",
+      "id": "dp-lucario-10"
+    },
+    {
+      "name": "Fighting Energy",
+      "number": "11/12",
+      "rarity": "Common",
+      "id": "dp-lucario-11"
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }

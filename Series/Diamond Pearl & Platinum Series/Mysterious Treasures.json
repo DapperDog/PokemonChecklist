@@ -1,755 +1,868 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Core",
+    "Reverse"
   ],
   "coreCards": [
     {
       "id": "dp2-1",
       "rarity": "Rare Holo",
       "name": "Aggron",
-      "number": "1"
+      "number": "1/123"
     },
     {
       "id": "dp2-2",
       "rarity": "Rare Holo",
       "name": "Alakazam",
-      "number": "2"
+      "number": "2/123"
     },
     {
       "id": "dp2-3",
       "rarity": "Rare Holo",
       "name": "Ambipom",
-      "number": "3"
+      "number": "3/123"
     },
     {
       "id": "dp2-4",
       "rarity": "Rare Holo",
       "name": "Azelf",
-      "number": "4"
+      "number": "4/123"
     },
     {
       "id": "dp2-5",
       "rarity": "Rare Holo",
       "name": "Blissey",
-      "number": "5"
+      "number": "5/123"
     },
     {
       "id": "dp2-6",
       "rarity": "Rare Holo",
       "name": "Bronzong",
-      "number": "6"
+      "number": "6/123"
     },
     {
       "id": "dp2-7",
       "rarity": "Rare Holo",
       "name": "Celebi",
-      "number": "7"
+      "number": "7/123"
     },
     {
       "id": "dp2-8",
       "rarity": "Rare Holo",
       "name": "Feraligatr",
-      "number": "8"
+      "number": "8/123"
     },
     {
       "id": "dp2-9",
       "rarity": "Rare Holo",
       "name": "Garchomp",
-      "number": "9"
+      "number": "9/123"
     },
     {
       "id": "dp2-10",
       "rarity": "Rare Holo",
       "name": "Honchkrow",
-      "number": "10"
+      "number": "10/123"
     },
     {
       "id": "dp2-11",
       "rarity": "Rare Holo",
       "name": "Lumineon",
-      "number": "11"
+      "number": "11/123"
     },
     {
       "id": "dp2-12",
       "rarity": "Rare Holo",
       "name": "Magmortar",
-      "number": "12"
+      "number": "12/123"
     },
     {
       "id": "dp2-13",
       "rarity": "Rare Holo",
       "name": "Meganium",
-      "number": "13"
+      "number": "13/123"
     },
     {
       "id": "dp2-14",
       "rarity": "Rare Holo",
       "name": "Mesprit",
-      "number": "14"
+      "number": "14/123"
     },
     {
       "id": "dp2-15",
       "rarity": "Rare Holo",
       "name": "Raichu",
-      "number": "15"
+      "number": "15/123"
     },
     {
       "id": "dp2-16",
       "rarity": "Rare Holo",
       "name": "Typhlosion",
-      "number": "16"
+      "number": "16/123"
     },
     {
       "id": "dp2-17",
       "rarity": "Rare Holo",
       "name": "Tyranitar",
-      "number": "17"
+      "number": "17/123"
     },
     {
       "id": "dp2-18",
       "rarity": "Rare Holo",
       "name": "Uxie",
-      "number": "18"
+      "number": "18/123"
     },
     {
       "id": "dp2-19",
       "rarity": "Rare",
       "name": "Abomasnow",
-      "number": "19"
+      "number": "19/123"
     },
     {
       "id": "dp2-20",
       "rarity": "Rare",
       "name": "Ariados",
-      "number": "20"
+      "number": "20/123"
     },
     {
       "id": "dp2-21",
       "rarity": "Rare",
       "name": "Bastiodon",
-      "number": "21"
+      "number": "21/123"
     },
     {
       "id": "dp2-22",
       "rarity": "Rare",
       "name": "Chimecho",
-      "number": "22"
+      "number": "22/123"
     },
     {
       "id": "dp2-23",
       "rarity": "Rare",
       "name": "Crobat",
-      "number": "23"
+      "number": "23/123"
     },
     {
       "id": "dp2-24",
       "rarity": "Rare",
       "name": "Exeggutor",
-      "number": "24"
+      "number": "24/123"
     },
     {
       "id": "dp2-25",
       "rarity": "Rare",
       "name": "Glalie",
-      "number": "25"
+      "number": "25/123"
     },
     {
       "id": "dp2-26",
       "rarity": "Rare",
       "name": "Gyarados",
-      "number": "26"
+      "number": "26/123"
     },
     {
       "id": "dp2-27",
       "rarity": "Rare",
       "name": "Kricketune",
-      "number": "27"
+      "number": "27/123"
     },
     {
       "id": "dp2-28",
       "rarity": "Rare",
       "name": "Manectric",
-      "number": "28"
+      "number": "28/123"
     },
     {
       "id": "dp2-29",
       "rarity": "Rare",
       "name": "Mantine",
-      "number": "29"
+      "number": "29/123"
     },
     {
       "id": "dp2-30",
       "rarity": "Rare",
       "name": "Mr. Mime",
-      "number": "30"
+      "number": "30/123"
     },
     {
       "id": "dp2-31",
       "rarity": "Rare",
       "name": "Nidoqueen",
-      "number": "31"
+      "number": "31/123"
     },
     {
       "id": "dp2-32",
       "rarity": "Rare",
       "name": "Ninetales",
-      "number": "32"
+      "number": "32/123"
     },
     {
       "id": "dp2-33",
       "rarity": "Rare",
       "name": "Rampardos",
-      "number": "33"
+      "number": "33/123"
     },
     {
       "id": "dp2-34",
       "rarity": "Rare",
       "name": "Slaking",
-      "number": "34"
+      "number": "34/123"
     },
     {
       "id": "dp2-35",
       "rarity": "Rare",
       "name": "Sudowoodo",
-      "number": "35"
+      "number": "35/123"
     },
     {
       "id": "dp2-36",
       "rarity": "Rare",
       "name": "Toxicroak",
-      "number": "36"
+      "number": "36/123"
     },
     {
       "id": "dp2-37",
       "rarity": "Rare",
       "name": "Unown I",
-      "number": "37"
+      "number": "37/123"
     },
     {
       "id": "dp2-38",
       "rarity": "Rare",
       "name": "Ursaring",
-      "number": "38"
+      "number": "38/123"
     },
     {
       "id": "dp2-39",
       "rarity": "Rare",
       "name": "Walrein",
-      "number": "39"
+      "number": "39/123"
     },
     {
       "id": "dp2-40",
       "rarity": "Rare",
       "name": "Whiscash",
-      "number": "40"
+      "number": "40/123"
     },
     {
       "id": "dp2-41",
       "rarity": "Uncommon",
       "name": "Bayleef",
-      "number": "41"
+      "number": "41/123"
     },
     {
       "id": "dp2-42",
       "rarity": "Uncommon",
       "name": "Chingling",
-      "number": "42"
+      "number": "42/123"
     },
     {
       "id": "dp2-43",
       "rarity": "Uncommon",
       "name": "Cranidos",
-      "number": "43"
+      "number": "43/123"
     },
     {
       "id": "dp2-44",
       "rarity": "Uncommon",
       "name": "Croconaw",
-      "number": "44"
+      "number": "44/123"
     },
     {
       "id": "dp2-45",
       "rarity": "Uncommon",
       "name": "Dewgong",
-      "number": "45"
+      "number": "45/123"
     },
     {
       "id": "dp2-46",
       "rarity": "Uncommon",
       "name": "Dodrio",
-      "number": "46"
+      "number": "46/123"
     },
     {
       "id": "dp2-47",
       "rarity": "Uncommon",
       "name": "Dunsparce",
-      "number": "47"
+      "number": "47/123"
     },
     {
       "id": "dp2-48",
       "rarity": "Uncommon",
       "name": "Gabite",
-      "number": "48"
+      "number": "48/123"
     },
     {
       "id": "dp2-49",
       "rarity": "Uncommon",
       "name": "Girafarig",
-      "number": "49"
+      "number": "49/123"
     },
     {
       "id": "dp2-50",
       "rarity": "Uncommon",
       "name": "Golbat",
-      "number": "50"
+      "number": "50/123"
     },
     {
       "id": "dp2-51",
       "rarity": "Uncommon",
       "name": "Graveler",
-      "number": "51"
+      "number": "51/123"
     },
     {
       "id": "dp2-52",
       "rarity": "Uncommon",
       "name": "Happiny",
-      "number": "52"
+      "number": "52/123"
     },
     {
       "id": "dp2-53",
       "rarity": "Uncommon",
       "name": "Lairon",
-      "number": "53"
+      "number": "53/123"
     },
     {
       "id": "dp2-54",
       "rarity": "Uncommon",
       "name": "Magmar",
-      "number": "54"
+      "number": "54/123"
     },
     {
       "id": "dp2-55",
       "rarity": "Uncommon",
       "name": "Masquerain",
-      "number": "55"
+      "number": "55/123"
     },
     {
       "id": "dp2-56",
       "rarity": "Uncommon",
       "name": "Nidorina",
-      "number": "56"
+      "number": "56/123"
     },
     {
       "id": "dp2-57",
       "rarity": "Uncommon",
       "name": "Octillery",
-      "number": "57"
+      "number": "57/123"
     },
     {
       "id": "dp2-58",
       "rarity": "Uncommon",
       "name": "Parasect",
-      "number": "58"
+      "number": "58/123"
     },
     {
       "id": "dp2-59",
       "rarity": "Uncommon",
       "name": "Pupitar",
-      "number": "59"
+      "number": "59/123"
     },
     {
       "id": "dp2-60",
       "rarity": "Uncommon",
       "name": "Quilava",
-      "number": "60"
+      "number": "60/123"
     },
     {
       "id": "dp2-61",
       "rarity": "Uncommon",
       "name": "Sandslash",
-      "number": "61"
+      "number": "61/123"
     },
     {
       "id": "dp2-62",
       "rarity": "Uncommon",
       "name": "Sealeo",
-      "number": "62"
+      "number": "62/123"
     },
     {
       "id": "dp2-63",
       "rarity": "Uncommon",
       "name": "Shieldon",
-      "number": "63"
+      "number": "63/123"
     },
     {
       "id": "dp2-64",
       "rarity": "Uncommon",
       "name": "Tropius",
-      "number": "64"
+      "number": "64/123"
     },
     {
       "id": "dp2-65",
       "rarity": "Uncommon",
       "name": "Unown E",
-      "number": "65"
+      "number": "65/123"
     },
     {
       "id": "dp2-66",
       "rarity": "Uncommon",
       "name": "Unown M",
-      "number": "66"
+      "number": "66/123"
     },
     {
       "id": "dp2-67",
       "rarity": "Uncommon",
       "name": "Unown T",
-      "number": "67"
+      "number": "67/123"
     },
     {
       "id": "dp2-68",
       "rarity": "Uncommon",
       "name": "Vigoroth",
-      "number": "68"
+      "number": "68/123"
     },
     {
       "id": "dp2-69",
       "rarity": "Common",
       "name": "Abra",
-      "number": "69"
+      "number": "69/123"
     },
     {
       "id": "dp2-70",
       "rarity": "Common",
       "name": "Aipom",
-      "number": "70"
+      "number": "70/123"
     },
     {
       "id": "dp2-71",
       "rarity": "Common",
       "name": "Aron",
-      "number": "71"
+      "number": "71/123"
     },
     {
       "id": "dp2-72",
       "rarity": "Common",
       "name": "Barboach",
-      "number": "72"
+      "number": "72/123"
     },
     {
       "id": "dp2-73",
       "rarity": "Common",
       "name": "Bidoof",
-      "number": "73"
+      "number": "73/123"
     },
     {
       "id": "dp2-74",
       "rarity": "Common",
       "name": "Bronzor",
-      "number": "74"
+      "number": "74/123"
     },
     {
       "id": "dp2-75",
       "rarity": "Common",
       "name": "Buizel",
-      "number": "75"
+      "number": "75/123"
     },
     {
       "id": "dp2-76",
       "rarity": "Common",
       "name": "Chansey",
-      "number": "76"
+      "number": "76/123"
     },
     {
       "id": "dp2-77",
       "rarity": "Common",
       "name": "Chikorita",
-      "number": "77"
+      "number": "77/123"
     },
     {
       "id": "dp2-78",
       "rarity": "Common",
       "name": "Croagunk",
-      "number": "78"
+      "number": "78/123"
     },
     {
       "id": "dp2-79",
       "rarity": "Common",
       "name": "Cyndaquil",
-      "number": "79"
+      "number": "79/123"
     },
     {
       "id": "dp2-80",
       "rarity": "Common",
       "name": "Doduo",
-      "number": "80"
+      "number": "80/123"
     },
     {
       "id": "dp2-81",
       "rarity": "Common",
       "name": "Electrike",
-      "number": "81"
+      "number": "81/123"
     },
     {
       "id": "dp2-82",
       "rarity": "Common",
       "name": "Exeggcute",
-      "number": "82"
+      "number": "82/123"
     },
     {
       "id": "dp2-83",
       "rarity": "Common",
       "name": "Finneon",
-      "number": "83"
+      "number": "83/123"
     },
     {
       "id": "dp2-84",
       "rarity": "Common",
       "name": "Geodude",
-      "number": "84"
+      "number": "84/123"
     },
     {
       "id": "dp2-85",
       "rarity": "Common",
       "name": "Gible",
-      "number": "85"
+      "number": "85/123"
     },
     {
       "id": "dp2-86",
       "rarity": "Common",
       "name": "Kricketot",
-      "number": "86"
+      "number": "86/123"
     },
     {
       "id": "dp2-87",
       "rarity": "Common",
       "name": "Larvitar",
-      "number": "87"
+      "number": "87/123"
     },
     {
       "id": "dp2-88",
       "rarity": "Common",
       "name": "Magby",
-      "number": "88"
+      "number": "88/123"
     },
     {
       "id": "dp2-89",
       "rarity": "Common",
       "name": "Magikarp",
-      "number": "89"
+      "number": "89/123"
     },
     {
       "id": "dp2-90",
       "rarity": "Common",
       "name": "Murkrow",
-      "number": "90"
+      "number": "90/123"
     },
     {
       "id": "dp2-91",
       "rarity": "Common",
       "name": "Nidoran\u2640",
-      "number": "91"
+      "number": "91/123"
     },
     {
       "id": "dp2-92",
       "rarity": "Common",
       "name": "Paras",
-      "number": "92"
+      "number": "92/123"
     },
     {
       "id": "dp2-93",
       "rarity": "Common",
       "name": "Pichu",
-      "number": "93"
+      "number": "93/123"
     },
     {
       "id": "dp2-94",
       "rarity": "Common",
       "name": "Pikachu",
-      "number": "94"
+      "number": "94/123"
     },
     {
       "id": "dp2-95",
       "rarity": "Common",
       "name": "Remoraid",
-      "number": "95"
+      "number": "95/123"
     },
     {
       "id": "dp2-96",
       "rarity": "Common",
       "name": "Sandshrew",
-      "number": "96"
+      "number": "96/123"
     },
     {
       "id": "dp2-97",
       "rarity": "Common",
       "name": "Seel",
-      "number": "97"
+      "number": "97/123"
     },
     {
       "id": "dp2-98",
       "rarity": "Common",
       "name": "Shinx",
-      "number": "98"
+      "number": "98/123"
     },
     {
       "id": "dp2-99",
       "rarity": "Common",
       "name": "Slakoth",
-      "number": "99"
+      "number": "99/123"
     },
     {
       "id": "dp2-100",
       "rarity": "Common",
       "name": "Snorunt",
-      "number": "100"
+      "number": "100/123"
     },
     {
       "id": "dp2-101",
       "rarity": "Common",
       "name": "Snover",
-      "number": "101"
+      "number": "101/123"
     },
     {
       "id": "dp2-102",
       "rarity": "Common",
       "name": "Spheal",
-      "number": "102"
+      "number": "102/123"
     },
     {
       "id": "dp2-103",
       "rarity": "Common",
       "name": "Spinarak",
-      "number": "103"
+      "number": "103/123"
     },
     {
       "id": "dp2-104",
       "rarity": "Common",
       "name": "Surskit",
-      "number": "104"
+      "number": "104/123"
     },
     {
       "id": "dp2-105",
       "rarity": "Common",
       "name": "Teddiursa",
-      "number": "105"
+      "number": "105/123"
     },
     {
       "id": "dp2-106",
       "rarity": "Common",
       "name": "Totodile",
-      "number": "106"
+      "number": "106/123"
     },
     {
       "id": "dp2-107",
       "rarity": "Common",
       "name": "Vulpix",
-      "number": "107"
+      "number": "107/123"
     },
     {
       "id": "dp2-108",
       "rarity": "Common",
       "name": "Zubat",
-      "number": "108"
+      "number": "108/123"
     },
     {
       "id": "dp2-109",
       "rarity": "Uncommon",
       "name": "Bebe's Search",
-      "number": "109"
+      "number": "109/123"
     },
     {
       "id": "dp2-110",
       "rarity": "Uncommon",
       "name": "Dusk Ball",
-      "number": "110"
+      "number": "110/123"
     },
     {
       "id": "dp2-111",
       "rarity": "Uncommon",
       "name": "Fossil Excavator",
-      "number": "111"
+      "number": "111/123"
     },
     {
       "id": "dp2-112",
       "rarity": "Uncommon",
       "name": "Lake Boundary",
-      "number": "112"
+      "number": "112/123"
     },
     {
       "id": "dp2-113",
       "rarity": "Uncommon",
       "name": "Night Maintenance",
-      "number": "113"
+      "number": "113/123"
     },
     {
       "id": "dp2-114",
       "rarity": "Uncommon",
       "name": "Quick Ball",
-      "number": "114"
+      "number": "114/123"
     },
     {
       "id": "dp2-115",
       "rarity": "Uncommon",
       "name": "Team Galactic's Wager",
-      "number": "115"
+      "number": "115/123"
     },
     {
       "id": "dp2-116",
       "rarity": "Common",
       "name": "Armor Fossil",
-      "number": "116"
+      "number": "116/123"
     },
     {
       "id": "dp2-117",
       "rarity": "Common",
       "name": "Skull Fossil",
-      "number": "117"
+      "number": "117/123"
     },
     {
       "id": "dp2-118",
       "rarity": "Rare",
       "name": "Multi Energy",
-      "number": "118"
+      "number": "118/123"
     },
     {
       "id": "dp2-119",
       "rarity": "Uncommon",
       "name": "Darkness Energy",
-      "number": "119"
+      "number": "119/123"
     },
     {
       "id": "dp2-120",
       "rarity": "Uncommon",
       "name": "Metal Energy",
-      "number": "120"
+      "number": "120/123"
     },
     {
       "id": "dp2-121",
-      "rarity": "Rare Holo Lv.X",
+      "rarity": "Level X",
       "name": "Electivire",
-      "number": "121"
+      "number": "121/123"
     },
     {
       "id": "dp2-122",
-      "rarity": "Rare Holo Lv.X",
+      "rarity": "Level X",
       "name": "Lucario",
-      "number": "122"
+      "number": "122/123"
     },
     {
       "id": "dp2-123",
-      "rarity": "Rare Holo Lv.X",
+      "rarity": "Level X",
       "name": "Magmortar",
-      "number": "123"
+      "number": "123/123"
     },
     {
       "id": "dp2-124",
-      "rarity": "Rare Holo",
+      "rarity": "Secret Rare",
       "name": "Time-Space Distortion",
-      "number": "124"
+      "number": "124/123"
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "Abomasnow",
+      "number": "19/123",
+      "rarity": "",
+      "id": "dp2-ac-19",
+      "Description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
+    },
+    {
+      "name": "Bastiodon",
+      "number": "21/123",
+      "rarity": "",
+      "id": "dp2-ac-21",
+      "Description": "Holofoil Armor Fortress Theme Deck Exclusive"
+    },
+    {
+      "name": "Rampardos",
+      "number": "33/123",
+      "rarity": "",
+      "id": "dp2-ac-33",
+      "Description": "Holofoil Skull Charge Theme Deck Exclusive"
+    },
+    {
+      "name": "Chingling",
+      "number": "42/123",
+      "rarity": "",
+      "id": "dp2-ac-42",
+      "Description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
+    },
+    {
+      "name": "Gabite",
+      "number": "48/123",
+      "rarity": "",
+      "id": "dp2-ac-48-1",
+      "Description": "Prerelease stamp Prerelease promo"
+    },
+    {
+      "name": "Gabite",
+      "number": "48/123",
+      "rarity": "",
+      "id": "dp2-ac-48-2",
+      "Description": "Staff Prerelease stamp Prerelease promo"
+    },
+    {
+      "name": "Gabite",
+      "number": "48/123",
+      "rarity": "",
+      "id": "dp2-ac-48-3",
+      "Description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
+    },
+    {
+      "name": "Happiny",
+      "number": "52/123",
+      "rarity": "",
+      "id": "dp2-ac-52-1",
+      "Description": "Reverse Holo Diamond & Pearl stamp Burger King Collection 2008"
+    },
+    {
+      "name": "Happiny",
+      "number": "52/123",
+      "rarity": "",
+      "id": "dp2-ac-52-2",
+      "Description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
+    },
+    {
+      "name": "Bidoof",
+      "number": "73/123",
+      "rarity": "",
+      "id": "dp2-ac-73",
+      "Description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
+    },
+    {
+      "name": "Bronzor",
+      "number": "74/123",
+      "rarity": "",
+      "id": "dp2-ac-74",
+      "Description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
+    },
+    {
+      "name": "Kricketot",
+      "number": "86/123",
+      "rarity": "",
+      "id": "dp2-ac-86",
+      "Description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
+    },
+    {
+      "name": "Pikachu",
+      "number": "94/123",
+      "rarity": "",
+      "id": "dp2-ac-94",
+      "Description": "Reverse Holo Diamond & Pearl stamp Burger King Collection 2008"
+    },
+    {
+      "name": "Shinx",
+      "number": "98/123",
+      "rarity": "",
+      "id": "dp2-ac-98",
+      "Description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
+    },
+    {
+      "name": "Snover",
+      "number": "101/123",
+      "rarity": "",
+      "id": "dp2-ac-101",
+      "Description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
+    },
+    {
+      "name": "Bebe's Search",
+      "number": "109/123",
+      "rarity": "",
+      "id": "dp2-ac-109",
+      "Description": "Cosmos Holo Diamond & Pearl Collection exclusive"
+    }
+  ],
+  "misprints": []
 }

@@ -1,113 +1,133 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Core",
+    "Reverse"
   ],
   "coreCards": [
     {
       "id": "pop9-1",
       "rarity": "Rare",
       "name": "Garchomp",
-      "number": "1"
+      "number": "1/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop9-2",
       "rarity": "Rare",
       "name": "Manaphy",
-      "number": "2"
+      "number": "2/17"
     },
     {
       "id": "pop9-3",
       "rarity": "Rare",
       "name": "Raichu",
-      "number": "3"
+      "number": "3/17"
     },
     {
       "id": "pop9-4",
       "rarity": "Rare",
       "name": "Regigigas",
-      "number": "4"
+      "number": "4/17"
     },
     {
       "id": "pop9-5",
       "rarity": "Rare",
       "name": "Rotom",
-      "number": "5"
+      "number": "5/17"
     },
     {
       "id": "pop9-6",
       "rarity": "Uncommon",
       "name": "Buizel",
-      "number": "6"
+      "number": "6/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop9-7",
       "rarity": "Uncommon",
       "name": "Croagunk",
-      "number": "7"
+      "number": "7/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop9-8",
       "rarity": "Uncommon",
       "name": "Gabite",
-      "number": "8"
+      "number": "8/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop9-9",
       "rarity": "Uncommon",
       "name": "Lopunny",
-      "number": "9"
+      "number": "9/17"
     },
     {
       "id": "pop9-10",
       "rarity": "Uncommon",
       "name": "Pachirisu",
-      "number": "10"
+      "number": "10/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop9-11",
       "rarity": "Uncommon",
       "name": "Pichu",
-      "number": "11"
+      "number": "11/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop9-12",
       "rarity": "Common",
       "name": "Buneary",
-      "number": "12"
+      "number": "12/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop9-13",
       "rarity": "Common",
       "name": "Chimchar",
-      "number": "13"
+      "number": "13/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop9-14",
       "rarity": "Common",
       "name": "Gible",
-      "number": "14"
+      "number": "14/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop9-15",
       "rarity": "Common",
       "name": "Pikachu",
-      "number": "15"
+      "number": "15/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop9-16",
       "rarity": "Common",
       "name": "Piplup",
-      "number": "16"
+      "number": "16/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop9-17",
       "rarity": "Common",
       "name": "Turtwig",
-      "number": "17"
+      "number": "17/17",
+      "variants": ["Core"]
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "pikachu",
+      "number": 15,
+      "rarity": "",
+      "id": "pop9-ac-15",
+      "Description": "Pokemon Day 2009 Stamped Promo"
+    }
+  ],
+  "misprints": []
 }

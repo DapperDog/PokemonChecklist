@@ -1,113 +1,118 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Core",
+    "Reverse"
   ],
   "coreCards": [
     {
       "id": "pop8-1",
       "rarity": "Rare",
       "name": "Heatran",
-      "number": "1"
+      "number": "1/17"
     },
     {
       "id": "pop8-2",
       "rarity": "Rare",
       "name": "Lucario",
-      "number": "2"
+      "number": "2/17"
     },
     {
       "id": "pop8-3",
       "rarity": "Rare",
       "name": "Luxray",
-      "number": "3"
+      "number": "3/17"
     },
     {
       "id": "pop8-4",
       "rarity": "Rare",
       "name": "Probopass",
-      "number": "4"
+      "number": "4/17"
     },
     {
       "id": "pop8-5",
       "rarity": "Rare",
       "name": "Yanmega",
-      "number": "5"
+      "number": "5/17"
     },
     {
       "id": "pop8-6",
       "rarity": "Uncommon",
       "name": "Cherrim",
-      "number": "6"
+      "number": "6/17"
     },
     {
       "id": "pop8-7",
       "rarity": "Uncommon",
       "name": "Carnivine",
-      "number": "7"
+      "number": "7/17"
     },
     {
       "id": "pop8-8",
       "rarity": "Uncommon",
       "name": "Luxio",
-      "number": "8"
+      "number": "8/17"
     },
     {
       "id": "pop8-9",
       "rarity": "Uncommon",
       "name": "Night Maintenance",
-      "number": "9"
+      "number": "9/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop8-10",
       "rarity": "Uncommon",
       "name": "Rare Candy",
-      "number": "10"
+      "number": "10/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop8-11",
       "rarity": "Uncommon",
       "name": "Roseanne's Research",
-      "number": "11"
+      "number": "11/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop8-12",
       "rarity": "Common",
       "name": "Chimchar",
-      "number": "12"
+      "number": "12/17"
     },
     {
       "id": "pop8-13",
       "rarity": "Common",
       "name": "Croagunk",
-      "number": "13"
+      "number": "13/17"
     },
     {
       "id": "pop8-14",
       "rarity": "Common",
       "name": "Happiny",
-      "number": "14"
+      "number": "14/17"
     },
     {
       "id": "pop8-15",
       "rarity": "Common",
       "name": "Piplup",
-      "number": "15"
+      "number": "15/17",
+      "variants": ["Core"]
     },
     {
       "id": "pop8-16",
       "rarity": "Common",
       "name": "Riolu",
-      "number": "16"
+      "number": "16/17"
     },
     {
       "id": "pop8-17",
       "rarity": "Common",
       "name": "Turtwig",
-      "number": "17"
+      "number": "17/17",
+      "variants": ["Core"]
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }

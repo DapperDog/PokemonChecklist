@@ -1,17 +1,106 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Have"
   ],
   "coreCards": [
     {
-      "id": "placeholder-1",
-      "rarity": "Common",
-      "name": "placeholder pkmn",
-      "number": "1"
+      "name": "Venusaur",
+      "number": 1,
+      "rarity": "Promo",
+      "id": "rumble-1"
+    },
+    {
+      "name": "Cherrim",
+      "number": 2,
+      "rarity": "Promo",
+      "id": "rumble-2"
+    },
+    {
+      "name": "Ninetales",
+      "number": 3,
+      "rarity": "Promo",
+      "id": "rumble-3"
+    },
+    {
+      "name": "Heatran",
+      "number": 4,
+      "rarity": "Promo",
+      "id": "rumble-4"
+    },
+    {
+      "name": "Starmie",
+      "number": 5,
+      "rarity": "Promo",
+      "id": "rumble-5"
+    },
+    {
+      "name": "Gyarados",
+      "number": 6,
+      "rarity": "Promo",
+      "id": "rumble-6"
+    },
+    {
+      "name": "Pikachu",
+      "number": 7,
+      "rarity": "Promo",
+      "id": "rumble-7"
+    },
+    {
+      "name": "Zapdos",
+      "number": 8,
+      "rarity": "Promo",
+      "id": "rumble-8"
+    },
+    {
+      "name": "Mewtwo",
+      "number": 9,
+      "rarity": "Promo",
+      "id": "rumble-9"
+    },
+    {
+      "name": "Mew",
+      "number": 10,
+      "rarity": "Promo",
+      "id": "rumble-10"
+    },
+    {
+      "name": "Diglett",
+      "number": 11,
+      "rarity": "Promo",
+      "id": "rumble-11"
+    },
+    {
+      "name": "Lucario",
+      "number": 12,
+      "rarity": "Promo",
+      "id": "rumble-12"
+    },
+    {
+      "name": "Skuntank",
+      "number": 13,
+      "rarity": "Promo",
+      "id": "rumble-13"
+    },
+    {
+      "name": "Bastiodon",
+      "number": 14,
+      "rarity": "Promo",
+      "id": "rumble-14"
+    },
+    {
+      "name": "Rattata",
+      "number": 15,
+      "rarity": "Promo",
+      "id": "rumble-15"
+    },
+    {
+      "name": "Bibarel",
+      "number": 16,
+      "rarity": "Promo",
+      "id": "rumble-16"
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }
