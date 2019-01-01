@@ -1,613 +1,613 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Core",
+    "Reverse"
   ],
   "coreCards": [
     {
       "id": "ex4-1",
       "rarity": "Rare Holo",
       "name": "Team Aqua's Cacturne",
-      "number": "1"
+      "number": "1/95"
     },
     {
       "id": "ex4-2",
       "rarity": "Rare Holo",
       "name": "Team Aqua's Crawdaunt",
-      "number": "2"
+      "number": "2/95"
     },
     {
       "id": "ex4-3",
       "rarity": "Rare Holo",
       "name": "Team Aqua's Kyogre",
-      "number": "3"
+      "number": "3/95"
     },
     {
       "id": "ex4-4",
       "rarity": "Rare Holo",
       "name": "Team Aqua's Manectric",
-      "number": "4"
+      "number": "4/95"
     },
     {
       "id": "ex4-5",
       "rarity": "Rare Holo",
       "name": "Team Aqua's Sharpedo",
-      "number": "5"
+      "number": "5/95"
     },
     {
       "id": "ex4-6",
       "rarity": "Rare Holo",
       "name": "Team Aqua's Walrein",
-      "number": "6"
+      "number": "6/95"
     },
     {
       "id": "ex4-7",
       "rarity": "Rare Holo",
       "name": "Team Magma's Aggron",
-      "number": "7"
+      "number": "7/95"
     },
     {
       "id": "ex4-8",
       "rarity": "Rare Holo",
       "name": "Team Magma's Claydol",
-      "number": "8"
+      "number": "8/95"
     },
     {
       "id": "ex4-9",
       "rarity": "Rare Holo",
       "name": "Team Magma's Groudon",
-      "number": "9"
+      "number": "9/95"
     },
     {
       "id": "ex4-10",
       "rarity": "Rare Holo",
       "name": "Team Magma's Houndoom",
-      "number": "10"
+      "number": "10/95"
     },
     {
       "id": "ex4-11",
       "rarity": "Rare Holo",
       "name": "Team Magma's Rhydon",
-      "number": "11"
+      "number": "11/95"
     },
     {
       "id": "ex4-12",
       "rarity": "Rare Holo",
       "name": "Team Magma's Torkoal",
-      "number": "12"
+      "number": "12/95"
     },
     {
       "id": "ex4-13",
       "rarity": "Rare",
       "name": "Raichu",
-      "number": "13"
+      "number": "13/95"
     },
     {
       "id": "ex4-14",
       "rarity": "Rare",
       "name": "Team Aqua's Crawdaunt",
-      "number": "14"
+      "number": "14/95"
     },
     {
       "id": "ex4-15",
       "rarity": "Rare",
       "name": "Team Aqua's Mightyena",
-      "number": "15"
+      "number": "15/95"
     },
     {
       "id": "ex4-16",
       "rarity": "Rare",
       "name": "Team Aqua's Sealeo",
-      "number": "16"
+      "number": "16/95"
     },
     {
       "id": "ex4-17",
       "rarity": "Rare",
       "name": "Team Aqua's Seviper",
-      "number": "17"
+      "number": "17/95"
     },
     {
       "id": "ex4-18",
       "rarity": "Rare",
       "name": "Team Aqua's Sharpedo",
-      "number": "18"
+      "number": "18/95"
     },
     {
       "id": "ex4-19",
       "rarity": "Rare",
       "name": "Team Magma's Camerupt",
-      "number": "19"
+      "number": "19/95"
     },
     {
       "id": "ex4-20",
       "rarity": "Rare",
       "name": "Team Magma's Lairon",
-      "number": "20"
+      "number": "20/95"
     },
     {
       "id": "ex4-21",
       "rarity": "Rare",
       "name": "Team Magma's Mightyena",
-      "number": "21"
+      "number": "21/95"
     },
     {
       "id": "ex4-22",
       "rarity": "Rare",
       "name": "Team Magma's Rhydon",
-      "number": "22"
+      "number": "22/95"
     },
     {
       "id": "ex4-23",
       "rarity": "Rare",
       "name": "Team Magma's Zangoose",
-      "number": "23"
+      "number": "23/95"
     },
     {
       "id": "ex4-24",
       "rarity": "Uncommon",
       "name": "Team Aqua's Cacnea",
-      "number": "24"
+      "number": "24/95"
     },
     {
       "id": "ex4-25",
       "rarity": "Uncommon",
       "name": "Team Aqua's Carvanha",
-      "number": "25"
+      "number": "25/95"
     },
     {
       "id": "ex4-26",
       "rarity": "Uncommon",
       "name": "Team Aqua's Corphish",
-      "number": "26"
+      "number": "26/95"
     },
     {
       "id": "ex4-27",
       "rarity": "Uncommon",
       "name": "Team Aqua's Electrike",
-      "number": "27"
+      "number": "27/95"
     },
     {
       "id": "ex4-28",
       "rarity": "Uncommon",
       "name": "Team Aqua's Lanturn",
-      "number": "28"
+      "number": "28/95"
     },
     {
       "id": "ex4-29",
       "rarity": "Uncommon",
       "name": "Team Aqua's Manectric",
-      "number": "29"
+      "number": "29/95"
     },
     {
       "id": "ex4-30",
       "rarity": "Uncommon",
       "name": "Team Aqua's Mightyena",
-      "number": "30"
+      "number": "30/95"
     },
     {
       "id": "ex4-31",
       "rarity": "Uncommon",
       "name": "Team Aqua's Sealeo",
-      "number": "31"
+      "number": "31/95"
     },
     {
       "id": "ex4-32",
       "rarity": "Uncommon",
       "name": "Team Magma's Baltoy",
-      "number": "32"
+      "number": "32/95"
     },
     {
       "id": "ex4-33",
       "rarity": "Uncommon",
       "name": "Team Magma's Claydol",
-      "number": "33"
+      "number": "33/95"
     },
     {
       "id": "ex4-34",
       "rarity": "Uncommon",
       "name": "Team Magma's Houndoom",
-      "number": "34"
+      "number": "34/95"
     },
     {
       "id": "ex4-35",
       "rarity": "Uncommon",
       "name": "Team Magma's Houndour",
-      "number": "35"
+      "number": "35/95"
     },
     {
       "id": "ex4-36",
       "rarity": "Uncommon",
       "name": "Team Magma's Lairon",
-      "number": "36"
+      "number": "36/95"
     },
     {
       "id": "ex4-37",
       "rarity": "Uncommon",
       "name": "Team Magma's Mightyena",
-      "number": "37"
+      "number": "37/95"
     },
     {
       "id": "ex4-38",
       "rarity": "Uncommon",
       "name": "Team Magma's Rhyhorn",
-      "number": "38"
+      "number": "38/95"
     },
     {
       "id": "ex4-39",
       "rarity": "Common",
       "name": "Bulbasaur",
-      "number": "39"
+      "number": "39/95"
     },
     {
       "id": "ex4-40",
       "rarity": "Common",
       "name": "Cubone",
-      "number": "40"
+      "number": "40/95"
     },
     {
       "id": "ex4-41",
       "rarity": "Common",
       "name": "Jigglypuff",
-      "number": "41"
+      "number": "41/95"
     },
     {
       "id": "ex4-42",
       "rarity": "Common",
       "name": "Meowth",
-      "number": "42"
+      "number": "42/95"
     },
     {
       "id": "ex4-43",
       "rarity": "Common",
       "name": "Pikachu",
-      "number": "43"
+      "number": "43/95"
     },
     {
       "id": "ex4-44",
       "rarity": "Common",
       "name": "Psyduck",
-      "number": "44"
+      "number": "44/95"
     },
     {
       "id": "ex4-45",
       "rarity": "Common",
       "name": "Slowpoke",
-      "number": "45"
+      "number": "45/95"
     },
     {
       "id": "ex4-46",
       "rarity": "Common",
       "name": "Squirtle",
-      "number": "46"
+      "number": "46/95"
     },
     {
       "id": "ex4-47",
       "rarity": "Common",
       "name": "Team Aqua's Carvanha",
-      "number": "47"
+      "number": "47/95"
     },
     {
       "id": "ex4-48",
       "rarity": "Common",
       "name": "Team Aqua's Carvanha",
-      "number": "48"
+      "number": "48/95"
     },
     {
       "id": "ex4-49",
       "rarity": "Common",
       "name": "Team Aqua's Chinchou",
-      "number": "49"
+      "number": "49/95"
     },
     {
       "id": "ex4-50",
       "rarity": "Common",
       "name": "Team Aqua's Corphish",
-      "number": "50"
+      "number": "50/95"
     },
     {
       "id": "ex4-51",
       "rarity": "Common",
       "name": "Team Aqua's Corphish",
-      "number": "51"
+      "number": "51/95"
     },
     {
       "id": "ex4-52",
       "rarity": "Common",
       "name": "Team Aqua's Electrike",
-      "number": "52"
+      "number": "52/95"
     },
     {
       "id": "ex4-53",
       "rarity": "Common",
       "name": "Team Aqua's Electrike",
-      "number": "53"
+      "number": "53/95"
     },
     {
       "id": "ex4-54",
       "rarity": "Common",
       "name": "Team Aqua's Poochyena",
-      "number": "54"
+      "number": "54/95"
     },
     {
       "id": "ex4-55",
       "rarity": "Common",
       "name": "Team Aqua's Poochyena",
-      "number": "55"
+      "number": "55/95"
     },
     {
       "id": "ex4-56",
       "rarity": "Common",
       "name": "Team Aqua's Spheal",
-      "number": "56"
+      "number": "56/95"
     },
     {
       "id": "ex4-57",
       "rarity": "Common",
       "name": "Team Aqua's Spheal",
-      "number": "57"
+      "number": "57/95"
     },
     {
       "id": "ex4-58",
       "rarity": "Common",
       "name": "Team Magma's Aron",
-      "number": "58"
+      "number": "58/95"
     },
     {
       "id": "ex4-59",
       "rarity": "Common",
       "name": "Team Magma's Aron",
-      "number": "59"
+      "number": "59/95"
     },
     {
       "id": "ex4-60",
       "rarity": "Common",
       "name": "Team Magma's Baltoy",
-      "number": "60"
+      "number": "60/95"
     },
     {
       "id": "ex4-61",
       "rarity": "Common",
       "name": "Team Magma's Baltoy",
-      "number": "61"
+      "number": "61/95"
     },
     {
       "id": "ex4-62",
       "rarity": "Common",
       "name": "Team Magma's Houndour",
-      "number": "62"
+      "number": "62/95"
     },
     {
       "id": "ex4-63",
       "rarity": "Common",
       "name": "Team Magma's Houndour",
-      "number": "63"
+      "number": "63/95"
     },
     {
       "id": "ex4-64",
       "rarity": "Common",
       "name": "Team Magma's Numel",
-      "number": "64"
+      "number": "64/95"
     },
     {
       "id": "ex4-65",
       "rarity": "Common",
       "name": "Team Magma's Poochyena",
-      "number": "65"
+      "number": "65/95"
     },
     {
       "id": "ex4-66",
       "rarity": "Common",
       "name": "Team Magma's Poochyena",
-      "number": "66"
+      "number": "66/95"
     },
     {
       "id": "ex4-67",
       "rarity": "Common",
       "name": "Team Magma's Rhyhorn",
-      "number": "67"
+      "number": "67/95"
     },
     {
       "id": "ex4-68",
       "rarity": "Common",
       "name": "Team Magma's Rhyhorn",
-      "number": "68"
+      "number": "68/95"
     },
     {
       "id": "ex4-69",
       "rarity": "Common",
       "name": "Team Aqua Schemer",
-      "number": "69"
+      "number": "69/95"
     },
     {
       "id": "ex4-70",
       "rarity": "Common",
       "name": "Team Magma Schemer",
-      "number": "70"
+      "number": "70/95"
     },
     {
       "id": "ex4-71",
       "rarity": "Uncommon",
       "name": "Archie",
-      "number": "71"
+      "number": "71/95"
     },
     {
       "id": "ex4-72",
       "rarity": "Uncommon",
       "name": "Dual Ball",
-      "number": "72"
+      "number": "72/95"
     },
     {
       "id": "ex4-73",
       "rarity": "Uncommon",
       "name": "Maxie",
-      "number": "73"
+      "number": "73/95"
     },
     {
       "id": "ex4-74",
       "rarity": "Uncommon",
       "name": "Strength Charm",
-      "number": "74"
+      "number": "74/95"
     },
     {
       "id": "ex4-75",
       "rarity": "Uncommon",
       "name": "Team Aqua Ball",
-      "number": "75"
+      "number": "75/95"
     },
     {
       "id": "ex4-76",
       "rarity": "Uncommon",
       "name": "Team Aqua Belt",
-      "number": "76"
+      "number": "76/95"
     },
     {
       "id": "ex4-77",
       "rarity": "Uncommon",
       "name": "Team Aqua Conspirator",
-      "number": "77"
+      "number": "77/95"
     },
     {
       "id": "ex4-78",
       "rarity": "Uncommon",
       "name": "Team Aqua Hideout",
-      "number": "78"
+      "number": "78/95"
     },
     {
       "id": "ex4-79",
       "rarity": "Uncommon",
       "name": "Team Aqua's Technical Machine 01",
-      "number": "79"
+      "number": "79/95"
     },
     {
       "id": "ex4-80",
       "rarity": "Uncommon",
       "name": "Team Magma Ball",
-      "number": "80"
+      "number": "80/95"
     },
     {
       "id": "ex4-81",
       "rarity": "Uncommon",
       "name": "Team Magma Belt",
-      "number": "81"
+      "number": "81/95"
     },
     {
       "id": "ex4-82",
       "rarity": "Uncommon",
       "name": "Team Magma Conspirator",
-      "number": "82"
+      "number": "82/95"
     },
     {
       "id": "ex4-83",
       "rarity": "Uncommon",
       "name": "Team Magma Hideout",
-      "number": "83"
+      "number": "83/95"
     },
     {
       "id": "ex4-84",
       "rarity": "Uncommon",
       "name": "Team Magma's Technical Machine 01",
-      "number": "84"
+      "number": "84/95"
     },
     {
       "id": "ex4-85",
       "rarity": "Uncommon",
       "name": "Warp Point",
-      "number": "85"
+      "number": "85/95"
     },
     {
       "id": "ex4-86",
       "rarity": "Uncommon",
       "name": "Aqua Energy",
-      "number": "86"
+      "number": "86/95"
     },
     {
       "id": "ex4-87",
       "rarity": "Uncommon",
       "name": "Magma Energy",
-      "number": "87"
+      "number": "87/95"
     },
     {
       "id": "ex4-88",
       "rarity": "Rare",
       "name": "Double Rainbow Energy",
-      "number": "88"
+      "number": "88/95"
     },
     {
       "id": "ex4-89",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Blaziken ex",
-      "number": "89",
+      "number": "89/95",
       "variants":["core"]
     },
     {
       "id": "ex4-90",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Cradily ex",
-      "number": "90",
+      "number": "90/95",
       "variants":["core"]
     },
     {
       "id": "ex4-91",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Entei ex",
-      "number": "91",
+      "number": "91/95",
       "variants":["core"]
     },
     {
       "id": "ex4-92",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Raikou ex",
-      "number": "92",
+      "number": "92/95",
       "variants":["core"]
     },
     {
       "id": "ex4-93",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Sceptile ex",
-      "number": "93",
+      "number": "93/95",
       "variants":["core"]
     },
     {
       "id": "ex4-94",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Suicune ex",
-      "number": "94",
+      "number": "94/95",
       "variants":["core"]
     },
     {
       "id": "ex4-95",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Swampert ex",
-      "number": "95",
+      "number": "95/95",
       "variants":["core"]
     },
     {
       "id": "ex4-96",
-      "rarity": "Ultra Rare",
+      "rarity": "Secret Rare",
       "name": "Absol",
-      "number": "96",
+      "number": "96/95",
       "variants":["core"]
     },
     {
       "id": "ex4-97",
-      "rarity": "Ultra Rare",
+      "rarity": "Secret Rare",
       "name": "Jirachi",
-      "number": "97",
+      "number": "97/95",
       "variants":["core"]
     }
   ],
   "additionalCards": [
     {
       "name": "Team Aquas Kyogre",
-      "number": 3,
+      "number": "3/95",
       "rarity": "",
       "id": "ex4-ac-3",
       "Description": "Aqua Theme Deck exclusive"
     },
     {
       "name": "Team Magmas Groudon",
-      "number": 9,
+      "number": "9/95",
       "rarity": "",
       "id": "ex4-ac-9",
       "Description": "Magma Theme Deck Exclusive"

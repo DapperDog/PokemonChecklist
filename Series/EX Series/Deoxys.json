@@ -1,8 +1,8 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Core",
+    "Reverse"
   ],
   "coreCards": [
     {
@@ -577,77 +577,161 @@
     },
     {
       "id": "ex8-96",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Crobat ex",
       "number": "96"
     },
     {
       "id": "ex8-97",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Deoxys ex",
       "number": "97"
     },
     {
       "id": "ex8-98",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Deoxys ex",
       "number": "98"
     },
     {
       "id": "ex8-99",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Deoxys ex",
       "number": "99"
     },
     {
       "id": "ex8-100",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Hariyama ex",
       "number": "100"
     },
     {
       "id": "ex8-101",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Manectric ex",
       "number": "101"
     },
     {
       "id": "ex8-102",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Rayquaza ex",
       "number": "102"
     },
     {
       "id": "ex8-103",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Salamence ex",
       "number": "103"
     },
     {
       "id": "ex8-104",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Sharpedo ex",
       "number": "104"
     },
     {
       "id": "ex8-105",
-      "rarity": "Rare Holo",
+      "rarity": "Gold Star",
       "name": "Latias Star",
       "number": "105"
     },
     {
       "id": "ex8-106",
-      "rarity": "Rare Holo",
+      "rarity": "Gold Star",
       "name": "Latios Star",
       "number": "106"
     },
     {
       "id": "ex8-107",
-      "rarity": "Rare Holo",
+      "rarity": "Gold Star",
       "name": "Rayquaza Star",
+      "number": "107"
+    },
+    {
+      "id": "ex8-108",
+      "rarity": "Secret Rare",
+      "name": "Rocket's Raikou",
       "number": "107"
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "Camerupt",
+      "number": "4/107",
+      "rarity": "",
+      "id": "ex8-ac-4",
+      "Description": "Non Holo Jetstream Theme Deck Exclusive"
+    },
+    {
+      "name": "Shedinja",
+      "number": "14/107",
+      "rarity": "",
+      "id": "ex8-ac-14",
+      "Description": "Non Holo Starcharge Theme Deck Exclusive"
+    },
+    {
+      "name": "Deoxys",
+      "number": "16/107",
+      "rarity": "",
+      "id": "ex8-ac-16-1",
+      "Description": "Holo Starcharge Theme Deck Exclusive"
+    },
+    {
+      "name": "Deoxys",
+      "number": "16/107",
+      "rarity": "",
+      "id": "ex8-ac-16-2",
+      "Description": "Destiny Deoxys Stamped Movie Promo"
+    },
+    {
+      "name": "Deoxys",
+      "number": "16/107",
+      "rarity": "",
+      "id": "ex8-ac-16-3",
+      "Description": "Regional Championships 2004-2005 Promo"
+    },
+    {
+      "name": "Deoxys",
+      "number": "16/107",
+      "rarity": "",
+      "id": "ex8-ac-16-4",
+      "Description": "Stadium Challenge 2004-2005 Promo"
+    },
+    {
+      "name": "Rayquaza",
+      "number": "22/107",
+      "rarity": "",
+      "id": "ex8-ac-22-1",
+      "Description": "Holo Jetstream Theme Deck Exclusive"
+    },
+    {
+      "name": "Rayquaza",
+      "number": "22/107",
+      "rarity": "",
+      "id": "ex8-ac-22-2",
+      "Description": "Gym Challenge 2004-2005 Promo"
+    },
+    {
+      "name": "Rayquaza",
+      "number": "22/107",
+      "rarity": "",
+      "id": "ex8-ac-22-3",
+      "Description": "German Pokemon Day Promo"
+    },
+    {
+      "name": "Manectric",
+      "number": "38/107",
+      "rarity": "",
+      "id": "ex8-ac-38",
+      "Description": "Prerelease Ex Deoxys Promo"
+    },
+    {
+      "name": "Space Center",
+      "number": "91/107",
+      "rarity": "",
+      "id": "ex8-ac-91",
+      "Description": "10th Anniversary Promo"
+    }
+  ],
+  "misprints": []
 }

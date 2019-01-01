@@ -1,611 +1,675 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Core",
+    "Reverse"
   ],
   "coreCards": [
     {
       "id": "ex14-1",
       "rarity": "Rare Holo",
       "name": "Banette",
-      "number": "1"
+      "number": "1/100"
     },
     {
       "id": "ex14-2",
       "rarity": "Rare Holo",
       "name": "Blastoise \u03b4",
-      "number": "2"
+      "number": "2/100"
     },
     {
       "id": "ex14-3",
       "rarity": "Rare Holo",
       "name": "Camerupt",
-      "number": "3"
+      "number": "3/100"
     },
     {
       "id": "ex14-4",
       "rarity": "Rare Holo",
       "name": "Charizard \u03b4",
-      "number": "4"
+      "number": "4/100"
     },
     {
       "id": "ex14-5",
       "rarity": "Rare Holo",
       "name": "Dugtrio",
-      "number": "5"
+      "number": "5/100"
     },
     {
       "id": "ex14-6",
       "rarity": "Rare Holo",
       "name": "Ludicolo \u03b4",
-      "number": "6"
+      "number": "6/100"
     },
     {
       "id": "ex14-7",
       "rarity": "Rare Holo",
       "name": "Luvdisc",
-      "number": "7"
+      "number": "7/100"
     },
     {
       "id": "ex14-8",
       "rarity": "Rare Holo",
       "name": "Manectric",
-      "number": "8"
+      "number": "8/100"
     },
     {
       "id": "ex14-9",
       "rarity": "Rare Holo",
       "name": "Mawile",
-      "number": "9"
+      "number": "9/100"
     },
     {
       "id": "ex14-10",
       "rarity": "Rare Holo",
       "name": "Sableye",
-      "number": "10"
+      "number": "10/100"
     },
     {
       "id": "ex14-11",
       "rarity": "Rare Holo",
       "name": "Swalot",
-      "number": "11"
+      "number": "11/100"
     },
     {
       "id": "ex14-12",
       "rarity": "Rare Holo",
       "name": "Tauros",
-      "number": "12"
+      "number": "12/100"
     },
     {
       "id": "ex14-13",
       "rarity": "Rare Holo",
       "name": "Wigglytuff",
-      "number": "13"
+      "number": "13/100"
     },
     {
       "id": "ex14-14",
       "rarity": "Rare",
       "name": "Blastoise",
-      "number": "14"
+      "number": "14/100"
     },
     {
       "id": "ex14-15",
       "rarity": "Rare",
       "name": "Cacturne \u03b4",
-      "number": "15"
+      "number": "15/100"
     },
     {
       "id": "ex14-16",
       "rarity": "Rare",
       "name": "Combusken",
-      "number": "16"
+      "number": "16/100"
     },
     {
       "id": "ex14-17",
       "rarity": "Rare",
       "name": "Dusclops",
-      "number": "17"
+      "number": "17/100"
     },
     {
       "id": "ex14-18",
       "rarity": "Rare",
       "name": "Fearow \u03b4",
-      "number": "18"
+      "number": "18/100"
     },
     {
       "id": "ex14-19",
       "rarity": "Rare",
       "name": "Grovyle \u03b4",
-      "number": "19"
+      "number": "19/100"
     },
     {
       "id": "ex14-20",
       "rarity": "Rare",
       "name": "Grumpig",
-      "number": "20"
+      "number": "20/100"
     },
     {
       "id": "ex14-21",
       "rarity": "Rare",
       "name": "Igglybuff",
-      "number": "21"
+      "number": "21/100"
     },
     {
       "id": "ex14-22",
       "rarity": "Rare",
       "name": "Kingler \u03b4",
-      "number": "22"
+      "number": "22/100"
     },
     {
       "id": "ex14-23",
       "rarity": "Rare",
       "name": "Loudred",
-      "number": "23"
+      "number": "23/100"
     },
     {
       "id": "ex14-24",
       "rarity": "Rare",
       "name": "Marshtomp",
-      "number": "24"
+      "number": "24/100"
     },
     {
       "id": "ex14-25",
       "rarity": "Rare",
       "name": "Medicham",
-      "number": "25"
+      "number": "25/100"
     },
     {
       "id": "ex14-26",
       "rarity": "Rare",
       "name": "Pelipper \u03b4",
-      "number": "26"
+      "number": "26/100"
     },
     {
       "id": "ex14-27",
       "rarity": "Rare",
       "name": "Swampert",
-      "number": "27"
+      "number": "27/100"
     },
     {
       "id": "ex14-28",
       "rarity": "Rare",
       "name": "Venusaur",
-      "number": "28"
+      "number": "28/100"
     },
     {
       "id": "ex14-29",
       "rarity": "Uncommon",
       "name": "Charmeleon",
-      "number": "29"
+      "number": "29/100"
     },
     {
       "id": "ex14-30",
       "rarity": "Uncommon",
       "name": "Charmeleon \u03b4",
-      "number": "30"
+      "number": "30/100"
     },
     {
       "id": "ex14-31",
       "rarity": "Uncommon",
       "name": "Combusken",
-      "number": "31"
+      "number": "31/100"
     },
     {
       "id": "ex14-32",
       "rarity": "Uncommon",
       "name": "Grovyle",
-      "number": "32"
+      "number": "32/100"
     },
     {
       "id": "ex14-33",
       "rarity": "Uncommon",
       "name": "Gulpin",
-      "number": "33"
+      "number": "33/100"
     },
     {
       "id": "ex14-34",
       "rarity": "Uncommon",
       "name": "Ivysaur",
-      "number": "34"
+      "number": "34/100"
     },
     {
       "id": "ex14-35",
       "rarity": "Uncommon",
       "name": "Ivysaur",
-      "number": "35"
+      "number": "35/100"
     },
     {
       "id": "ex14-36",
       "rarity": "Uncommon",
       "name": "Lairon",
-      "number": "36"
+      "number": "36/100"
     },
     {
       "id": "ex14-37",
       "rarity": "Uncommon",
       "name": "Lombre",
-      "number": "37"
+      "number": "37/100"
     },
     {
       "id": "ex14-38",
       "rarity": "Uncommon",
       "name": "Marshtomp",
-      "number": "38"
+      "number": "38/100"
     },
     {
       "id": "ex14-39",
       "rarity": "Uncommon",
       "name": "Nuzleaf",
-      "number": "39"
+      "number": "39/100"
     },
     {
       "id": "ex14-40",
       "rarity": "Uncommon",
       "name": "Shuppet",
-      "number": "40"
+      "number": "40/100"
     },
     {
       "id": "ex14-41",
       "rarity": "Uncommon",
       "name": "Skitty",
-      "number": "41"
+      "number": "41/100"
     },
     {
       "id": "ex14-42",
       "rarity": "Uncommon",
       "name": "Wartortle",
-      "number": "42"
+      "number": "42/100"
     },
     {
       "id": "ex14-43",
       "rarity": "Uncommon",
       "name": "Wartortle",
-      "number": "43"
+      "number": "43/100"
     },
     {
       "id": "ex14-44",
       "rarity": "Common",
       "name": "Aron",
-      "number": "44"
+      "number": "44/100"
     },
     {
       "id": "ex14-45",
       "rarity": "Common",
       "name": "Bulbasaur",
-      "number": "45"
+      "number": "45/100"
     },
     {
       "id": "ex14-46",
       "rarity": "Common",
       "name": "Bulbasaur",
-      "number": "46"
+      "number": "46/100"
     },
     {
       "id": "ex14-47",
       "rarity": "Common",
       "name": "Cacnea",
-      "number": "47"
+      "number": "47/100"
     },
     {
       "id": "ex14-48",
       "rarity": "Common",
       "name": "Charmander",
-      "number": "48"
+      "number": "48/100"
     },
     {
       "id": "ex14-49",
       "rarity": "Common",
       "name": "Charmander \u03b4",
-      "number": "49"
+      "number": "49/100"
     },
     {
       "id": "ex14-50",
       "rarity": "Common",
       "name": "Diglett",
-      "number": "50"
+      "number": "50/100"
     },
     {
       "id": "ex14-51",
       "rarity": "Common",
       "name": "Duskull",
-      "number": "51"
+      "number": "51/100"
     },
     {
       "id": "ex14-52",
       "rarity": "Common",
       "name": "Electrike",
-      "number": "52"
+      "number": "52/100"
     },
     {
       "id": "ex14-53",
       "rarity": "Common",
       "name": "Jigglypuff",
-      "number": "53"
+      "number": "53/100"
     },
     {
       "id": "ex14-54",
       "rarity": "Common",
       "name": "Krabby",
-      "number": "54"
+      "number": "54/100"
     },
     {
       "id": "ex14-55",
       "rarity": "Common",
       "name": "Lotad",
-      "number": "55"
+      "number": "55/100"
     },
     {
       "id": "ex14-56",
       "rarity": "Common",
       "name": "Meditite",
-      "number": "56"
+      "number": "56/100"
     },
     {
       "id": "ex14-57",
       "rarity": "Common",
       "name": "Mudkip",
-      "number": "57"
+      "number": "57/100"
     },
     {
       "id": "ex14-58",
       "rarity": "Common",
       "name": "Mudkip",
-      "number": "58"
+      "number": "58/100"
     },
     {
       "id": "ex14-59",
       "rarity": "Common",
       "name": "Numel",
-      "number": "59"
+      "number": "59/100"
     },
     {
       "id": "ex14-60",
       "rarity": "Common",
       "name": "Seedot",
-      "number": "60"
+      "number": "60/100"
     },
     {
       "id": "ex14-61",
       "rarity": "Common",
       "name": "Spearow",
-      "number": "61"
+      "number": "61/100"
     },
     {
       "id": "ex14-62",
       "rarity": "Common",
       "name": "Spoink",
-      "number": "62"
+      "number": "62/100"
     },
     {
       "id": "ex14-63",
       "rarity": "Common",
       "name": "Squirtle",
-      "number": "63"
+      "number": "63/100"
     },
     {
       "id": "ex14-64",
       "rarity": "Common",
       "name": "Squirtle",
-      "number": "64"
+      "number": "64/100"
     },
     {
       "id": "ex14-65",
       "rarity": "Common",
       "name": "Torchic",
-      "number": "65"
+      "number": "65/100"
     },
     {
       "id": "ex14-66",
       "rarity": "Common",
       "name": "Torchic",
-      "number": "66"
+      "number": "66/100"
     },
     {
       "id": "ex14-67",
       "rarity": "Common",
       "name": "Treecko",
-      "number": "67"
+      "number": "67/100"
     },
     {
       "id": "ex14-68",
       "rarity": "Common",
       "name": "Treecko \u03b4",
-      "number": "68"
+      "number": "68/100"
     },
     {
       "id": "ex14-69",
       "rarity": "Common",
       "name": "Whismur",
-      "number": "69"
+      "number": "69/100"
     },
     {
       "id": "ex14-70",
       "rarity": "Common",
       "name": "Wingull",
-      "number": "70"
+      "number": "70/100"
     },
     {
       "id": "ex14-71",
       "rarity": "Uncommon",
       "name": "Bill's Maintenance",
-      "number": "71"
+      "number": "71/100"
     },
     {
       "id": "ex14-72",
       "rarity": "Uncommon",
       "name": "Castaway",
-      "number": "72"
+      "number": "72/100"
     },
     {
       "id": "ex14-73",
       "rarity": "Uncommon",
       "name": "Celio's Network",
-      "number": "73"
+      "number": "73/100"
     },
     {
       "id": "ex14-74",
       "rarity": "Uncommon",
       "name": "Cessation Crystal",
-      "number": "74"
+      "number": "74/100"
     },
     {
       "id": "ex14-75",
       "rarity": "Uncommon",
       "name": "Crystal Beach",
-      "number": "75"
+      "number": "75/100"
     },
     {
       "id": "ex14-76",
       "rarity": "Uncommon",
       "name": "Crystal Shard",
-      "number": "76"
+      "number": "76/100"
     },
     {
       "id": "ex14-77",
       "rarity": "Uncommon",
       "name": "Double Full Heal",
-      "number": "77"
+      "number": "77/100"
     },
     {
       "id": "ex14-78",
       "rarity": "Uncommon",
       "name": "Dual Ball",
-      "number": "78"
+      "number": "78/100"
     },
     {
       "id": "ex14-79",
       "rarity": "Uncommon",
       "name": "Holon Circle",
-      "number": "79"
+      "number": "79/100"
     },
     {
       "id": "ex14-80",
       "rarity": "Uncommon",
       "name": "Memory Berry",
-      "number": "80"
+      "number": "80/100"
     },
     {
       "id": "ex14-81",
       "rarity": "Uncommon",
       "name": "Mysterious Shard",
-      "number": "81"
+      "number": "81/100"
     },
     {
       "id": "ex14-82",
       "rarity": "Uncommon",
       "name": "Pok\u00e9 Ball",
-      "number": "82"
+      "number": "82/100"
     },
     {
       "id": "ex14-83",
       "rarity": "Uncommon",
       "name": "Pok\u00e9Nav",
-      "number": "83"
+      "number": "83/100"
     },
     {
       "id": "ex14-84",
       "rarity": "Uncommon",
       "name": "Warp Point",
-      "number": "84"
+      "number": "84/100"
     },
     {
       "id": "ex14-85",
       "rarity": "Uncommon",
       "name": "Windstorm",
-      "number": "85"
+      "number": "85/100"
     },
     {
       "id": "ex14-86",
       "rarity": "Common",
       "name": "Energy Search",
-      "number": "86"
+      "number": "86/100"
     },
     {
       "id": "ex14-87",
       "rarity": "Common",
       "name": "Potion",
-      "number": "87"
+      "number": "87/100"
     },
     {
       "id": "ex14-88",
       "rarity": "Rare",
       "name": "Double Rainbow Energy",
-      "number": "88"
+      "number": "88/100"
     },
     {
       "id": "ex14-89",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Aggron ex",
-      "number": "89"
+      "number": "89/100"
     },
     {
       "id": "ex14-90",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Blaziken ex",
-      "number": "90"
+      "number": "90/100"
     },
     {
       "id": "ex14-91",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Delcatty ex",
-      "number": "91"
+      "number": "91/100"
     },
     {
       "id": "ex14-92",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Exploud ex",
-      "number": "92"
+      "number": "92/100"
     },
     {
       "id": "ex14-93",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Groudon ex",
-      "number": "93"
+      "number": "93/100"
     },
     {
       "id": "ex14-94",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Jirachi ex",
-      "number": "94"
+      "number": "94/100"
     },
     {
       "id": "ex14-95",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Kyogre ex",
-      "number": "95"
+      "number": "95/100"
     },
     {
       "id": "ex14-96",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Sceptile ex \u03b4",
-      "number": "96"
+      "number": "96/100"
     },
     {
       "id": "ex14-97",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Shiftry ex",
-      "number": "97"
+      "number": "97/100"
     },
     {
       "id": "ex14-98",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Swampert ex",
-      "number": "98"
+      "number": "98/100"
     },
     {
       "id": "ex14-99",
-      "rarity": "Rare Holo",
+      "rarity": "Gold Star",
       "name": "Alakazam Star",
-      "number": "99"
+      "number": "99/100"
     },
     {
       "id": "ex14-100",
-      "rarity": "Rare Holo",
+      "rarity": "Gold Star",
       "name": "Celebi Star",
-      "number": "100"
+      "number": "100/100"
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "Dugtrio",
+      "number": "5/100",
+      "rarity": "",
+      "id": "ex14-ac-5",
+      "Description": "Earth Shower Teme Deck Exclusive"
+    },
+    {
+      "name": "Blastoise",
+      "number": "14/100",
+      "rarity": "",
+      "id": "ex14-ac-14-1",
+      "Description": "National championships Promo"
+    },
+    {
+      "name": "Blastoise",
+      "number": "14/100",
+      "rarity": "",
+      "id": "ex14-ac-14-2",
+      "Description": "Staff Stamped National Championships Promo"
+    },
+    {
+      "name": "Blastoise",
+      "number": "14/100",
+      "rarity": "",
+      "id": "ex14-ac-14-3",
+      "Description": "Storm Surge Theme Deck Exclusive"
+    },
+    {
+      "name": "Swampert",
+      "number": "27/100",
+      "rarity": "",
+      "id": "ex14-ac-27",
+      "Description": "Earth Shower Teme Deck Exclusive"
+    },
+    {
+      "name": "Venusaur",
+      "number": "28/100",
+      "rarity": "",
+      "id": "ex14-ac-28-1",
+      "Description": "Regional Championship Promo"
+    },
+    {
+      "name": "Venusaur",
+      "number": "28/100",
+      "rarity": "",
+      "id": "ex14-ac-28-2",
+      "Description": "Green Cyclone Theme Deck Exclusive"
+    },
+    {
+      "name": "Wartortle",
+      "number": "42/100",
+      "rarity": "",
+      "id": "ex14-ac-42",
+      "Description": "State/Province/Territory Championships Promo"
+    },
+    {
+      "name": "Squirtle",
+      "number": "63/100",
+      "rarity": "",
+      "id": "ex14-ac-63",
+      "Description": "City Championships Promo"
+    }
+  ],
+  "misprints": []
 }

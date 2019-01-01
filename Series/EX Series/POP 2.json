@@ -1,113 +1,123 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Core",
+    "Holo"
   ],
   "coreCards": [
     {
       "id": "pop2-1",
       "rarity": "Rare",
       "name": "Entei",
-      "number": "1"
+      "number": "1/17"
     },
     {
       "id": "pop2-2",
       "rarity": "Rare",
       "name": "Pidgeot",
-      "number": "2"
+      "number": "2/17"
     },
     {
       "id": "pop2-3",
       "rarity": "Rare",
       "name": "Raikou",
-      "number": "3"
+      "number": "3/17"
     },
     {
       "id": "pop2-4",
       "rarity": "Rare",
       "name": "Suicune",
-      "number": "4"
+      "number": "4/17"
     },
     {
       "id": "pop2-5",
       "rarity": "Rare",
       "name": "Tauros",
-      "number": "5"
+      "number": "5/17"
     },
     {
       "id": "pop2-6",
       "rarity": "Rare",
       "name": "Venusaur",
-      "number": "6"
+      "number": "6/17"
     },
     {
       "id": "pop2-7",
       "rarity": "Uncommon",
       "name": "Ivysaur",
-      "number": "7"
+      "number": "7/17",
+      "variants":["Core"]
     },
     {
       "id": "pop2-8",
       "rarity": "Uncommon",
       "name": "Mr. Briney's Compassion",
-      "number": "8"
+      "number": "8/17",
+      "variants":["Core"]
     },
     {
       "id": "pop2-9",
       "rarity": "Uncommon",
       "name": "Multi Technical Machine 01",
-      "number": "9"
+      "number": "9/17",
+      "variants":["Core"]
     },
     {
       "id": "pop2-10",
       "rarity": "Uncommon",
       "name": "Pok\u00e9mon Park",
-      "number": "10"
+      "number": "10/17",
+      "variants":["Core"]
     },
     {
       "id": "pop2-11",
       "rarity": "Uncommon",
       "name": "TV Reporter",
-      "number": "11"
+      "number": "11/17",
+      "variants":["Core"]
     },
     {
       "id": "pop2-12",
       "rarity": "Common",
       "name": "Bulbasaur",
-      "number": "12"
+      "number": "12/17",
+      "variants":["Core"]
     },
     {
       "id": "pop2-13",
       "rarity": "Common",
       "name": "Cacnea",
-      "number": "13"
+      "number": "13/17",
+      "variants":["Core"]
     },
     {
       "id": "pop2-14",
       "rarity": "Common",
       "name": "Luvdisc",
-      "number": "14"
+      "number": "14/17",
+      "variants":["Core"]
     },
     {
       "id": "pop2-15",
       "rarity": "Common",
       "name": "Phanpy",
-      "number": "15"
+      "number": "15/17",
+      "variants":["Core"]
     },
     {
       "id": "pop2-16",
       "rarity": "Common",
       "name": "Pikachu",
-      "number": "16"
+      "number": "16/17",
+      "variants":["Core"]
     },
     {
       "id": "pop2-17",
       "rarity": "Rare Holo",
       "name": "Celebi ex",
-      "number": "17"
+      "number": "17/17"
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }

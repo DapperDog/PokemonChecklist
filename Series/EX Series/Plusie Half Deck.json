@@ -1,17 +1,82 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Have"
   ],
   "coreCards": [
     {
-      "id": "placeholder-1",
+      "name": "Beldum",
+      "number": "1/12",
       "rarity": "Common",
-      "name": "placeholder pkmn",
-      "number": "1"
+      "id": "ex-plusie-1"
+    },
+    {
+      "name": "Electrike",
+      "number": "2/12",
+      "rarity": "Common",
+      "id": "ex-plusie-2"
+    },
+    {
+      "name": "Grumpig",
+      "number": "3/12",
+      "rarity": "Common",
+      "id": "ex-plusie-3"
+    },
+    {
+      "name": "Meowth",
+      "number": "4/12",
+      "rarity": "Common",
+      "id": "ex-plusie-4"
+    },
+    {
+      "name": "Metang",
+      "number": "5/12",
+      "rarity": "Common",
+      "id": "ex-plusie-5"
+    },
+    {
+      "name": "Plusle",
+      "number": "6/12",
+      "rarity": "Common",
+      "id": "ex-plusie-6"
+    },
+    {
+      "name": "Spoink",
+      "number": "7/12",
+      "rarity": "Common",
+      "id": "ex-plusie-7"
+    },
+    {
+      "name": "Energy Search",
+      "number": "8/12",
+      "rarity": "Common",
+      "id": "ex-plusie-8"
+    },
+    {
+      "name": "Potion",
+      "number": "9/12",
+      "rarity": "Common",
+      "id": "ex-plusie-9"
+    },
+    {
+      "name": "Professor Cozmo's Discovery",
+      "number": "10/12",
+      "rarity": "Common",
+      "id": "ex-plusie-10"
+    },
+    {
+      "name": "Lightning Energy",
+      "number": "11/12",
+      "rarity": "Common",
+      "id": "ex-plusie-11"
+    },
+    {
+      "name": "Psychic Energy",
+      "number": "12/12",
+      "rarity": "Common",
+      "id": "ex-plusie-12"
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }

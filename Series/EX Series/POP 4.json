@@ -1,113 +1,124 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Core",
+    "Holo"
   ],
   "coreCards": [
     {
       "id": "pop4-1",
       "rarity": "Rare",
       "name": "Chimecho (Delta Species)",
-      "number": "1"
+      "number": "1/17"
     },
     {
       "id": "pop4-2",
       "rarity": "Rare",
       "name": "Deoxys \u03b4",
-      "number": "2"
+      "number": "2/17"
     },
     {
       "id": "pop4-3",
       "rarity": "Rare",
       "name": "Flygon",
-      "number": "3"
+      "number": "3/17"
     },
     {
       "id": "pop4-4",
       "rarity": "Rare",
       "name": "Mew",
-      "number": "4"
+      "number": "4/17"
     },
     {
       "id": "pop4-5",
       "rarity": "Rare",
       "name": "Sceptile",
-      "number": "5"
+      "number": "5/17"
     },
     {
       "id": "pop4-6",
       "rarity": "Uncommon",
       "name": "Combusken",
-      "number": "6"
+      "number": "6/17",
+      "variants":["Core"]
     },
     {
       "id": "pop4-7",
       "rarity": "Uncommon",
       "name": "Grovyle",
-      "number": "7"
+      "number": "7/17",
+      "variants":["Core"]
     },
     {
       "id": "pop4-8",
       "rarity": "Uncommon",
       "name": "Heal Energy",
-      "number": "8"
+      "number": "8/17",
+      "variants":["Core"]
     },
     {
       "id": "pop4-9",
       "rarity": "Uncommon",
       "name": "Pok\u00e9mon Fan Club",
-      "number": "9"
+      "number": "9/17",
+      "variants":["Core"]
     },
     {
       "id": "pop4-10",
       "rarity": "Uncommon",
       "name": "Scramble Energy",
-      "number": "10"
+      "number": "10/17",
+      "variants":["Core"]
     },
     {
       "id": "pop4-11",
       "rarity": "Common",
       "name": "Mudkip",
-      "number": "11"
+      "number": "11/17",
+      "variants":["Core"]
     },
     {
       "id": "pop4-12",
       "rarity": "Common",
       "name": "Pidgey",
-      "number": "12"
+      "number": "12/17",
+      "variants":["Core"]
     },
     {
       "id": "pop4-13",
       "rarity": "Common",
       "name": "Pikachu",
-      "number": "13"
+      "number": "13/17",
+      "variants":["Core"]
     },
     {
       "id": "pop4-14",
       "rarity": "Common",
       "name": "Squirtle",
-      "number": "14"
+      "number": "14/17",
+      "variants":["Core"]
     },
     {
       "id": "pop4-15",
       "rarity": "Common",
       "name": "Treecko (Delta Species)",
-      "number": "15"
+      "number": "15/17",
+      "variants":["Core"]
     },
     {
       "id": "pop4-16",
       "rarity": "Common",
       "name": "Wobbuffet",
-      "number": "16"
+      "number": "16/17",
+      "variants":["Core"]
     },
     {
       "id": "pop4-17",
       "rarity": "Rare Holo",
       "name": "Deoxys ex",
-      "number": "17"
+      "number": "17/17"
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }

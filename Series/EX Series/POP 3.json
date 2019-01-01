@@ -1,113 +1,123 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Core",
+    "Holo"
   ],
   "coreCards": [
     {
       "id": "pop3-1",
       "rarity": "Rare",
       "name": "Blastoise",
-      "number": "1"
+      "number": "1/17"
     },
     {
       "id": "pop3-2",
       "rarity": "Rare",
       "name": "Flareon",
-      "number": "2"
+      "number": "2/17"
     },
     {
       "id": "pop3-3",
       "rarity": "Rare",
       "name": "Jolteon",
-      "number": "3"
+      "number": "3/17"
     },
     {
       "id": "pop3-4",
       "rarity": "Rare",
       "name": "Minun",
-      "number": "4"
+      "number": "4/17"
     },
     {
       "id": "pop3-5",
       "rarity": "Rare",
       "name": "Plusle",
-      "number": "5"
+      "number": "5/17"
     },
     {
       "id": "pop3-6",
       "rarity": "Rare",
       "name": "Vaporeon",
-      "number": "6"
+      "number": "6/17"
     },
     {
       "id": "pop3-7",
       "rarity": "Uncommon",
       "name": "Combusken",
-      "number": "7"
+      "number": "7/17",
+      "variants":["Core"]
     },
     {
       "id": "pop3-8",
       "rarity": "Uncommon",
       "name": "Donphan",
-      "number": "8"
+      "number": "8/17",
+      "variants":["Core"]
     },
     {
       "id": "pop3-9",
       "rarity": "Uncommon",
       "name": "Forretress",
-      "number": "9"
+      "number": "9/17",
+      "variants":["Core"]
     },
     {
       "id": "pop3-10",
       "rarity": "Uncommon",
       "name": "High Pressure System",
-      "number": "10"
+      "number": "10/17",
+      "variants":["Core"]
     },
     {
       "id": "pop3-11",
       "rarity": "Uncommon",
       "name": "Low Pressure System",
-      "number": "11"
+      "number": "11/17",
+      "variants":["Core"]
     },
     {
       "id": "pop3-12",
       "rarity": "Common",
       "name": "Ditto",
-      "number": "12"
+      "number": "12/17",
+      "variants":["Core"]
     },
     {
       "id": "pop3-13",
       "rarity": "Common",
       "name": "Eevee",
-      "number": "13"
+      "number": "13/17",
+      "variants":["Core"]
     },
     {
       "id": "pop3-14",
       "rarity": "Common",
       "name": "Ivysaur",
-      "number": "14"
+      "number": "14/17",
+      "variants":["Core"]
     },
     {
       "id": "pop3-15",
       "rarity": "Common",
       "name": "Marshtomp",
-      "number": "15"
+      "number": "15/17",
+      "variants":["Core"]
     },
     {
       "id": "pop3-16",
       "rarity": "Common",
       "name": "Pichu Bros.",
-      "number": "16"
+      "number": "16/17",
+      "variants":["Core"]
     },
     {
       "id": "pop3-17",
       "rarity": "Rare Holo",
       "name": "Ho-Oh ex",
-      "number": "17"
+      "number": "17/17"
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }

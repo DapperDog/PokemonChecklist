@@ -1,17 +1,315 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Core",
+    "Reverse"
   ],
   "coreCards": [
     {
-      "id": "placeholder-1",
-      "rarity": "Common",
-      "name": "placeholder pkmn",
-      "number": "1"
+      "name": "Kyogre ex",
+      "number": "1",
+      "rarity": "Promo",
+      "id": "nintendo-1"
+    },
+    {
+      "name": "Groudon ex",
+      "number": "2",
+      "rarity": "Promo",
+      "id": "nintendo-2"
+    },
+    {
+      "name": "Treecko",
+      "number": "3",
+      "rarity": "Promo",
+      "id": "nintendo-3"
+    },
+    {
+      "name": "Grovyle (Winner)",
+      "number": "4",
+      "rarity": "Promo",
+      "id": "nintendo-4"
+    },
+    {
+      "name": "Mudkip",
+      "number": "5",
+      "rarity": "Promo",
+      "id": "nintendo-5"
+    },
+    {
+      "name": "Torchic",
+      "number": "6",
+      "rarity": "Promo",
+      "id": "nintendo-6"
+    },
+    {
+      "name": "Treecko",
+      "number": "7",
+      "rarity": "Promo",
+      "id": "nintendo-7"
+    },
+    {
+      "name": "Torchic",
+      "number": "8",
+      "rarity": "Promo",
+      "id": "nintendo-8"
+    },
+    {
+      "name": "Combusken (Winner)",
+      "number": "9",
+      "rarity": "Promo",
+      "id": "nintendo-9"
+    },
+    {
+      "name": "Mudkip",
+      "number": "10",
+      "rarity": "Promo",
+      "id": "nintendo-10"
+    },
+    {
+      "name": "Marshtomp (Winner)",
+      "number": "11",
+      "rarity": "Promo",
+      "id": "nintendo-11"
+    },
+    {
+      "name": "Pikachu",
+      "number": "12",
+      "rarity": "Promo",
+      "id": "nintendo-12"
+    },
+    {
+      "name": "Meowth",
+      "number": "13",
+      "rarity": "Promo",
+      "id": "nintendo-13"
+    },
+    {
+      "name": "Latias",
+      "number": "14",
+      "rarity": "Promo",
+      "id": "nintendo-14"
+    },
+    {
+      "name": "Latios",
+      "number": "15",
+      "rarity": "Promo",
+      "id": "nintendo-15"
+    },
+    {
+      "name": "Treecko",
+      "number": "16",
+      "rarity": "Promo",
+      "id": "nintendo-16"
+    },
+    {
+      "name": "Torchic",
+      "number": "17",
+      "rarity": "Promo",
+      "id": "nintendo-17"
+    },
+    {
+      "name": "Mudkip",
+      "number": "18",
+      "rarity": "Promo",
+      "id": "nintendo-18"
+    },
+    {
+      "name": "Whismur",
+      "number": "19",
+      "rarity": "Promo",
+      "id": "nintendo-19"
+    },
+    {
+      "name": "Ludicolo",
+      "number": "20",
+      "rarity": "Promo",
+      "id": "nintendo-20"
+    },
+    {
+      "name": "Jirachi",
+      "number": "21",
+      "rarity": "Promo",
+      "id": "nintendo-21"
+    },
+    {
+      "name": "Beldum",
+      "number": "22",
+      "rarity": "Promo",
+      "id": "nintendo-22"
+    },
+    {
+      "name": "Metang",
+      "number": "23",
+      "rarity": "Promo",
+      "id": "nintendo-23"
+    },
+    {
+      "name": "Chimecho",
+      "number": "24",
+      "rarity": "Promo",
+      "id": "nintendo-24"
+    },
+    {
+      "name": "Flygon",
+      "number": "25",
+      "rarity": "Promo",
+      "id": "nintendo-25"
+    },
+    {
+      "name": "Tropical Wind (Worlds 2004)",
+      "number": "26",
+      "rarity": "Promo",
+      "id": "nintendo-26"
+    },
+    {
+      "name": "Tropical Tidal Wave (Worlds 2005)",
+      "number": "27",
+      "rarity": "Promo",
+      "id": "nintendo-27"
+    },
+    {
+      "name": "Championship Arena",
+      "number": "28",
+      "rarity": "Promo",
+      "id": "nintendo-28"
+    },
+    {
+      "name": "Celebi",
+      "number": "29",
+      "rarity": "Promo",
+      "id": "nintendo-29"
+    },
+    {
+      "name": "Suicune",
+      "number": "30",
+      "rarity": "Promo",
+      "id": "nintendo-30"
+    },
+    {
+      "name": "Moltres ex",
+      "number": "31",
+      "rarity": "Promo",
+      "id": "nintendo-31"
+    },
+    {
+      "name": "Articuno ex",
+      "number": "32",
+      "rarity": "Promo",
+      "id": "nintendo-32"
+    },
+    {
+      "name": "Zapdos ex",
+      "number": "33",
+      "rarity": "Promo",
+      "id": "nintendo-33"
+    },
+    {
+      "name": "Typhlosion",
+      "number": "34",
+      "rarity": "Promo",
+      "id": "nintendo-34"
+    },
+    {
+      "name": "Pikachu (Delta Species)",
+      "number": "35",
+      "rarity": "Promo",
+      "id": "nintendo-35"
+    },
+    {
+      "name": "Tropical Tidal Wave (Worlds 2006)",
+      "number": "36",
+      "rarity": "Promo",
+      "id": "nintendo-36"
+    },
+    {
+      "name": "Kyogre ex",
+      "number": "37",
+      "rarity": "Promo",
+      "id": "nintendo-1-37"
+    },
+    {
+      "name": "Groudon ex",
+      "number": "38",
+      "rarity": "Promo",
+      "id": "nintendo-38"
+    },
+    {
+      "name": "Rayquaza ex",
+      "number": "39",
+      "rarity": "Promo",
+      "id": "nintendo-39"
+    },
+    {
+      "name": "Mew",
+      "number": "40",
+      "rarity": "Promo",
+      "id": "nintendo-40"
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "Kyogre ex (Holofoil)",
+      "number": 1,
+      "rarity": "Promo",
+      "id": "nintendo-ac-1",
+      "Description": ""
+    },
+    {
+      "name": "Groudon ex (Holofoil)",
+      "number": 2,
+      "rarity": "Promo",
+      "id": "nintendo-ac-2",
+      "Description": ""
+    },
+    {
+      "name": "Treecko (Holofoil)",
+      "number": 16,
+      "rarity": "Promo",
+      "id": "nintendo-ac-16",
+      "Description": ""
+    },
+    {
+      "name": "Torchic (Holofoil)",
+      "number": 17,
+      "rarity": "Promo",
+      "id": "nintendo-ac-17",
+      "Description": ""
+    },
+    {
+      "name": "Mudkip (Holofoil)",
+      "number": 18,
+      "rarity": "Promo",
+      "id": "nintendo-ac-18",
+      "Description": ""
+    },
+    {
+      "name": "Whismur (Holofoil)",
+      "number": 19,
+      "rarity": "Promo",
+      "id": "nintendo-ac-19",
+      "Description": ""
+    },
+    {
+      "name": "Beldum (Winner)",
+      "number": 22,
+      "rarity": "Promo",
+      "id": "nintendo-ac-22",
+      "Description": ""
+    },
+    {
+      "name": "Chimecho (Winner)",
+      "number": 24,
+      "rarity": "Promo",
+      "id": "nintendo-ac-24",
+      "Description": ""
+    },
+    {
+      "name": "Flygon (Winner)",
+      "number": 25,
+      "rarity": "Promo",
+      "id": "nintendo-ac-25",
+      "Description": ""
+    }
+  ],
+  "misprints": []
 }

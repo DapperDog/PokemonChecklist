@@ -1,1097 +1,1097 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Core",
+    "Reverse"
   ],
   "coreCards": [
     {
       "id": "ex1-1",
       "rarity": "Rare Holo",
       "name": "Aggron",
-      "number": "1"
+      "number": "1/109"
     },
     {
       "id": "ex1-2",
       "rarity": "Rare Holo",
       "name": "Beautifly",
-      "number": "2"
+      "number": "2/109"
     },
     {
       "id": "ex1-3",
       "rarity": "Rare Holo",
       "name": "Blaziken",
-      "number": "3"
+      "number": "3/109"
     },
     {
       "id": "ex1-4",
       "rarity": "Rare Holo",
       "name": "Camerupt",
-      "number": "4"
+      "number": "4/109"
     },
     {
       "id": "ex1-5",
       "rarity": "Rare Holo",
       "name": "Delcatty",
-      "number": "5"
+      "number": "5/109"
     },
     {
       "id": "ex1-6",
       "rarity": "Rare Holo",
       "name": "Dustox",
-      "number": "6"
+      "number": "6/109"
     },
     {
       "id": "ex1-7",
       "rarity": "Rare Holo",
       "name": "Gardevoir",
-      "number": "7"
+      "number": "7/109"
     },
     {
       "id": "ex1-8",
       "rarity": "Rare Holo",
       "name": "Hariyama",
-      "number": "8"
+      "number": "8/109"
     },
     {
       "id": "ex1-9",
       "rarity": "Rare Holo",
       "name": "Manectric",
-      "number": "9"
+      "number": "9/109"
     },
     {
       "id": "ex1-10",
       "rarity": "Rare Holo",
       "name": "Mightyena",
-      "number": "10"
+      "number": "10/109"
     },
     {
       "id": "ex1-11",
       "rarity": "Rare Holo",
       "name": "Sceptile",
-      "number": "11"
+      "number": "11/109"
     },
     {
       "id": "ex1-12",
       "rarity": "Rare Holo",
       "name": "Slaking",
-      "number": "12"
+      "number": "12/109"
     },
     {
       "id": "ex1-13",
       "rarity": "Rare Holo",
       "name": "Swampert",
-      "number": "13"
+      "number": "13/109"
     },
     {
       "id": "ex1-14",
       "rarity": "Rare Holo",
       "name": "Wailord",
-      "number": "14"
+      "number": "14/109"
     },
     {
       "id": "ex1-15",
       "rarity": "Rare",
       "name": "Blaziken",
-      "number": "15"
+      "number": "15/109"
     },
     {
       "id": "ex1-16",
       "rarity": "Rare",
       "name": "Breloom",
-      "number": "16"
+      "number": "16/109"
     },
     {
       "id": "ex1-17",
       "rarity": "Rare",
       "name": "Donphan",
-      "number": "17"
+      "number": "17/109"
     },
     {
       "id": "ex1-18",
       "rarity": "Rare",
       "name": "Nosepass",
-      "number": "18"
+      "number": "18/109"
     },
     {
       "id": "ex1-19",
       "rarity": "Rare",
       "name": "Pelipper",
-      "number": "19"
+      "number": "19/109"
     },
     {
       "id": "ex1-20",
       "rarity": "Rare",
       "name": "Sceptile",
-      "number": "20"
+      "number": "20/109"
     },
     {
       "id": "ex1-21",
       "rarity": "Rare",
       "name": "Seaking",
-      "number": "21"
+      "number": "21/109"
     },
     {
       "id": "ex1-22",
       "rarity": "Rare",
       "name": "Sharpedo",
-      "number": "22"
+      "number": "22/109"
     },
     {
       "id": "ex1-23",
       "rarity": "Rare",
       "name": "Swampert",
-      "number": "23"
+      "number": "23/109"
     },
     {
       "id": "ex1-24",
       "rarity": "Rare",
       "name": "Weezing",
-      "number": "24"
+      "number": "24/109"
     },
     {
       "id": "ex1-25",
       "rarity": "Uncommon",
       "name": "Aron",
-      "number": "25"
+      "number": "25/109"
     },
     {
       "id": "ex1-26",
       "rarity": "Uncommon",
       "name": "Cascoon",
-      "number": "26"
+      "number": "26/109"
     },
     {
       "id": "ex1-27",
       "rarity": "Uncommon",
       "name": "Combusken",
-      "number": "27"
+      "number": "27/109"
     },
     {
       "id": "ex1-28",
       "rarity": "Uncommon",
       "name": "Combusken",
-      "number": "28"
+      "number": "28/109"
     },
     {
       "id": "ex1-29",
       "rarity": "Uncommon",
       "name": "Delcatty",
-      "number": "29"
+      "number": "29/109"
     },
     {
       "id": "ex1-30",
       "rarity": "Uncommon",
       "name": "Electrike",
-      "number": "30"
+      "number": "30/109"
     },
     {
       "id": "ex1-31",
       "rarity": "Uncommon",
       "name": "Grovyle",
-      "number": "31"
+      "number": "31/109"
     },
     {
       "id": "ex1-32",
       "rarity": "Uncommon",
       "name": "Grovyle",
-      "number": "32"
+      "number": "32/109"
     },
     {
       "id": "ex1-33",
       "rarity": "Uncommon",
       "name": "Hariyama",
-      "number": "33"
+      "number": "33/109"
     },
     {
       "id": "ex1-34",
       "rarity": "Uncommon",
       "name": "Kirlia",
-      "number": "34"
+      "number": "34/109"
     },
     {
       "id": "ex1-35",
       "rarity": "Uncommon",
       "name": "Kirlia",
-      "number": "35"
+      "number": "35/109"
     },
     {
       "id": "ex1-36",
       "rarity": "Uncommon",
       "name": "Lairon",
-      "number": "36"
+      "number": "36/109"
     },
     {
       "id": "ex1-37",
       "rarity": "Uncommon",
       "name": "Lairon",
-      "number": "37"
+      "number": "37/109"
     },
     {
       "id": "ex1-38",
       "rarity": "Uncommon",
       "name": "Linoone",
-      "number": "38"
+      "number": "38/109"
     },
     {
       "id": "ex1-39",
       "rarity": "Uncommon",
       "name": "Manectric",
-      "number": "39"
+      "number": "39/109"
     },
     {
       "id": "ex1-40",
       "rarity": "Uncommon",
       "name": "Marshtomp",
-      "number": "40"
+      "number": "40/109"
     },
     {
       "id": "ex1-41",
       "rarity": "Uncommon",
       "name": "Marshtomp",
-      "number": "41"
+      "number": "41/109"
     },
     {
       "id": "ex1-42",
       "rarity": "Uncommon",
       "name": "Mightyena",
-      "number": "42"
+      "number": "42/109"
     },
     {
       "id": "ex1-43",
       "rarity": "Uncommon",
       "name": "Silcoon",
-      "number": "43"
+      "number": "43/109"
     },
     {
       "id": "ex1-44",
       "rarity": "Uncommon",
       "name": "Skitty",
-      "number": "44"
+      "number": "44/109"
     },
     {
       "id": "ex1-45",
       "rarity": "Uncommon",
       "name": "Slakoth",
-      "number": "45"
+      "number": "45/109"
     },
     {
       "id": "ex1-46",
       "rarity": "Uncommon",
       "name": "Swellow",
-      "number": "46"
+      "number": "46/109"
     },
     {
       "id": "ex1-47",
       "rarity": "Uncommon",
       "name": "Vigoroth",
-      "number": "47"
+      "number": "47/109"
     },
     {
       "id": "ex1-48",
       "rarity": "Uncommon",
       "name": "Wailmer",
-      "number": "48"
+      "number": "48/109"
     },
     {
       "id": "ex1-49",
       "rarity": "Common",
       "name": "Aron",
-      "number": "49"
+      "number": "49/109"
     },
     {
       "id": "ex1-50",
       "rarity": "Common",
       "name": "Aron",
-      "number": "50"
+      "number": "50/109"
     },
     {
       "id": "ex1-51",
       "rarity": "Common",
       "name": "Carvanha",
-      "number": "51"
+      "number": "51/109"
     },
     {
       "id": "ex1-52",
       "rarity": "Common",
       "name": "Electrike",
-      "number": "52"
+      "number": "52/109"
     },
     {
       "id": "ex1-53",
       "rarity": "Common",
       "name": "Electrike",
-      "number": "53"
+      "number": "53/109"
     },
     {
       "id": "ex1-54",
       "rarity": "Common",
       "name": "Koffing",
-      "number": "54"
+      "number": "54/109"
     },
     {
       "id": "ex1-55",
       "rarity": "Common",
       "name": "Goldeen",
-      "number": "55"
+      "number": "55/109"
     },
     {
       "id": "ex1-56",
       "rarity": "Common",
       "name": "Makuhita",
-      "number": "56"
+      "number": "56/109"
     },
     {
       "id": "ex1-57",
       "rarity": "Common",
       "name": "Makuhita",
-      "number": "57"
+      "number": "57/109"
     },
     {
       "id": "ex1-58",
       "rarity": "Common",
       "name": "Makuhita",
-      "number": "58"
+      "number": "58/109"
     },
     {
       "id": "ex1-59",
       "rarity": "Common",
       "name": "Mudkip",
-      "number": "59"
+      "number": "59/109"
     },
     {
       "id": "ex1-60",
       "rarity": "Common",
       "name": "Mudkip",
-      "number": "60"
+      "number": "60/109"
     },
     {
       "id": "ex1-61",
       "rarity": "Common",
       "name": "Numel",
-      "number": "61"
+      "number": "61/109"
     },
     {
       "id": "ex1-62",
       "rarity": "Common",
       "name": "Phanpy",
-      "number": "62"
+      "number": "62/109"
     },
     {
       "id": "ex1-63",
       "rarity": "Common",
       "name": "Poochyena",
-      "number": "63"
+      "number": "63/109"
     },
     {
       "id": "ex1-64",
       "rarity": "Common",
       "name": "Poochyena",
-      "number": "64"
+      "number": "64/109"
     },
     {
       "id": "ex1-65",
       "rarity": "Common",
       "name": "Poochyena",
-      "number": "65"
+      "number": "65/109"
     },
     {
       "id": "ex1-66",
       "rarity": "Common",
       "name": "Ralts",
-      "number": "66"
+      "number": "66/109"
     },
     {
       "id": "ex1-67",
       "rarity": "Common",
       "name": "Ralts",
-      "number": "67"
+      "number": "67/109"
     },
     {
       "id": "ex1-68",
       "rarity": "Common",
       "name": "Ralts",
-      "number": "68"
+      "number": "68/109"
     },
     {
       "id": "ex1-69",
       "rarity": "Common",
       "name": "Shroomish",
-      "number": "69"
+      "number": "69/109"
     },
     {
       "id": "ex1-70",
       "rarity": "Common",
       "name": "Skitty",
-      "number": "70"
+      "number": "70/109"
     },
     {
       "id": "ex1-71",
       "rarity": "Common",
       "name": "Skitty",
-      "number": "71"
+      "number": "71/109"
     },
     {
       "id": "ex1-72",
       "rarity": "Common",
       "name": "Taillow",
-      "number": "72"
+      "number": "72/109"
     },
     {
       "id": "ex1-73",
       "rarity": "Common",
       "name": "Torchic",
-      "number": "73"
+      "number": "73/109"
     },
     {
       "id": "ex1-74",
       "rarity": "Common",
       "name": "Torchic",
-      "number": "74"
+      "number": "74/109"
     },
     {
       "id": "ex1-75",
       "rarity": "Common",
       "name": "Treecko",
-      "number": "75"
+      "number": "75/109"
     },
     {
       "id": "ex1-76",
       "rarity": "Common",
       "name": "Treecko",
-      "number": "76"
+      "number": "76/109"
     },
     {
       "id": "ex1-77",
       "rarity": "Common",
       "name": "Wingull",
-      "number": "77"
+      "number": "77/109"
     },
     {
       "id": "ex1-78",
       "rarity": "Common",
       "name": "Wurmple",
-      "number": "78"
+      "number": "78/109"
     },
     {
       "id": "ex1-79",
       "rarity": "Common",
       "name": "Zigzagoon",
-      "number": "79"
+      "number": "79/109"
     },
     {
       "id": "ex1-80",
       "rarity": "Uncommon",
       "name": "Energy Removal 2",
-      "number": "80"
+      "number": "80/109"
     },
     {
       "id": "ex1-81",
       "rarity": "Uncommon",
       "name": "Energy Restore",
-      "number": "81"
+      "number": "81/109"
     },
     {
       "id": "ex1-82",
       "rarity": "Uncommon",
       "name": "Energy Switch",
-      "number": "82"
+      "number": "82/109"
     },
     {
       "id": "ex1-83",
       "rarity": "Uncommon",
       "name": "Lady Outing",
-      "number": "83"
+      "number": "83/109"
     },
     {
       "id": "ex1-84",
       "rarity": "Uncommon",
       "name": "Lum Berry",
-      "number": "84"
+      "number": "84/109"
     },
     {
       "id": "ex1-85",
       "rarity": "Uncommon",
       "name": "Oran Berry",
-      "number": "85"
+      "number": "85/109"
     },
     {
       "id": "ex1-86",
       "rarity": "Uncommon",
       "name": "Pok\u00e9 Ball",
-      "number": "86"
+      "number": "86/109"
     },
     {
       "id": "ex1-87",
       "rarity": "Uncommon",
       "name": "Pok\u00e9mon Reversal",
-      "number": "87"
+      "number": "87/109"
     },
     {
       "id": "ex1-88",
       "rarity": "Uncommon",
       "name": "Pok\u00e9Nav",
-      "number": "88"
+      "number": "88/109"
     },
     {
       "id": "ex1-89",
       "rarity": "Uncommon",
       "name": "Professor Birch",
-      "number": "89"
+      "number": "89/109"
     },
     {
       "id": "ex1-90",
       "rarity": "Common",
       "name": "Energy Search",
-      "number": "90"
+      "number": "90/109"
     },
     {
       "id": "ex1-91",
       "rarity": "Common",
       "name": "Potion",
-      "number": "91"
+      "number": "91/109"
     },
     {
       "id": "ex1-92",
       "rarity": "Common",
       "name": "Switch",
-      "number": "92"
+      "number": "92/109"
     },
     {
       "id": "ex1-93",
       "rarity": "Rare",
       "name": "Darkness Energy",
-      "number": "93"
+      "number": "93/109"
     },
     {
       "id": "ex1-94",
       "rarity": "Rare",
       "name": "Metal Energy",
-      "number": "94"
+      "number": "94/109"
     },
     {
       "id": "ex1-95",
       "rarity": "Rare",
       "name": "Rainbow Energy",
-      "number": "95"
+      "number": "95/109"
     },
     {
       "id": "ex1-96",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Chansey ex",
-      "number": "96",
+      "number": "96/109",
       "variants":["core"]
     },
     {
       "id": "ex1-97",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Electabuzz ex",
-      "number": "97",
+      "number": "97/109",
       "variants":["core"]
     },
     {
       "id": "ex1-98",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Hitmonchan ex",
-      "number": "98",
+      "number": "98/109",
       "variants":["core"]
     },
     {
       "id": "ex1-99",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Lapras ex",
-      "number": "99",
+      "number": "99/109",
       "variants":["core"]
     },
     {
       "id": "ex1-100",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Magmar ex",
-      "number": "100",
+      "number": "100/109",
       "variants":["core"]
     },
     {
       "id": "ex1-101",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Mewtwo ex",
-      "number": "101",
+      "number": "101/109",
       "variants":["core"]
     },
     {
       "id": "ex1-102",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Scyther ex",
-      "number": "102",
+      "number": "102/109",
       "variants":["core"]
     },
     {
       "id": "ex1-103",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Sneasel ex",
-      "number": "103",
+      "number": "103/109",
       "variants":["core"]
     },
     {
       "id": "ex1-104",
       "rarity": "Common",
       "name": "Grass Energy",
-      "number": "104"
+      "number": "104/109"
     },
     {
       "id": "ex1-105",
       "rarity": "Common",
       "name": "Fighting Energy",
-      "number": "105"
+      "number": "105/109"
     },
     {
       "id": "ex1-106",
       "rarity": "Common",
       "name": "Water Energy",
-      "number": "106"
+      "number": "106/109"
     },
     {
       "id": "ex1-107",
       "rarity": "Common",
       "name": "Psychic Energy",
-      "number": "107"
+      "number": "107/109"
     },
     {
       "id": "ex1-108",
       "rarity": "Common",
       "name": "Fire Energy",
-      "number": "108"
+      "number": "108/109"
     },
     {
       "id": "ex1-109",
       "rarity": "Common",
       "name": "Lightning Energy",
-      "number": "109"
+      "number": "109/109"
     }
   ],
   "additionalCards": [
     {
       "name": "Blaziken",
-      "number": 3,
+      "number": "3/109",
       "rarity": "",
       "id": "ex1-ac-3-1",
       "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Blaziken",
-      "number": 3,
+      "number": "3/109",
       "rarity": "",
       "id": "ex1-ac-3-2",
       "Description": "Holo EX Battle Stadium Exclusive"
     },
     {
       "name": "Gardevoir",
-      "number": 7,
+      "number": "7/109",
       "rarity": "",
       "id": "ex1-ac-7-1",
       "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Gardevoir",
-      "number": 7,
+      "number": "7/109",
       "rarity": "",
       "id": "ex1-ac-7-2",
       "Description": "Holo EX Battle Stadium Exclusive"
     },
     {
       "name": "Seaking",
-      "number": 21,
+      "number": "21/109",
       "rarity": "",
       "id": "ex1-ac-21",
       "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Delcatty",
-      "number": 29,
+      "number": "29/109",
       "rarity": "",
       "id": "ex1-ac-29",
       "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Hariyama",
-      "number": 33,
+      "number": "33/109",
       "rarity": "",
       "id": "ex1-ac-33",
       "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Kirlia",
-      "number": 34,
+      "number": "34/109",
       "rarity": "",
       "id": "ex1-ac-34",
       "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Swellow",
-      "number": 46,
+      "number": "46/109",
       "rarity": "",
       "id": "ex1-ac-46",
       "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Goldeen",
-      "number": 55,
+      "number": "55/109",
       "rarity": "",
       "id": "ex1-ac-55",
       "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Makuhita",
-      "number": 57,
+      "number": "57/109",
       "rarity": "",
       "id": "ex1-ac-57",
       "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Numel",
-      "number": 61,
+      "number": "61/109",
       "rarity": "",
       "id": "ex1-ac-61",
       "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Taillow",
-      "number": 72,
+      "number": "72/109",
       "rarity": "",
       "id": "ex1-ac-72",
       "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Torchic",
-      "number": 73,
+      "number": "73/109",
       "rarity": "",
       "id": "ex1-ac-73",
       "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Energy removal 2",
-      "number": 80,
+      "number": "80/109",
       "rarity": "",
       "id": "ex1-ac-80",
       "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Lady Outing",
-      "number": 83,
+      "number": "83/109",
       "rarity": "",
       "id": "ex1-ac-83",
       "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Oran Berry",
-      "number": 85,
+      "number": "85/109",
       "rarity": "",
       "id": "ex1-ac-85-1",
       "Description": "Winner Stamped League Promo"
     },
     {
       "name": "Oran Berry",
-      "number": 85,
+      "number": "85/109",
       "rarity": "",
       "id": "ex1-ac-85-2",
       "Description": "Non holo winner stamped league promo"
     },
     {
       "name": "Pokenav",
-      "number": 88,
+      "number": "88/109",
       "rarity": "",
       "id": "ex1-ac-88",
       "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Professors Birch",
-      "number": 89,
+      "number": "89/109",
       "rarity": "",
       "id": "ex1-ac-89",
       "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Energy Search",
-      "number": 90,
+      "number": "90/109",
       "rarity": "",
       "id": "ex1-ac-90-1",
       "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Energy Search",
-      "number": 90,
+      "number": "90/109",
       "rarity": "",
       "id": "ex1-ac-90-2",
       "Description": "2005 EX Emerald and EX Deoxys Theme deck exclusive"
     },
     {
       "name": "Potion",
-      "number": 91,
+      "number": "91/109",
       "rarity": "",
       "id": "ex1-ac-91",
       "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Switch",
-      "number": 92,
+      "number": "92/109",
       "rarity": "",
       "id": "ex1-ac-92",
       "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Darkness Energy",
-      "number": 93,
+      "number": "93/109",
       "rarity": "",
       "id": "ex1-ac-93-1",
       "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Darkness Energy",
-      "number": 93,
+      "number": "93/109",
       "rarity": "",
       "id": "ex1-ac-93-2",
       "Description": "Leage Promo"
     },
     {
       "name": "Darkness Energy",
-      "number": 93,
+      "number": "93/109",
       "rarity": "",
       "id": "ex1-ac-93-3",
       "Description": "Winner stamped league promo"
     },
     {
       "name": "Metal energy",
-      "number": 94,
+      "number": "94/109",
       "rarity": "",
       "id": "ex1-ac-94-1",
       "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Metal energy",
-      "number": 94,
+      "number": "94/109",
       "rarity": "",
       "id": "ex1-ac-94-2",
       "Description": "league promo"
     },
     {
       "name": "Metal energy",
-      "number": 94,
+      "number": "94/109",
       "rarity": "",
       "id": "ex1-ac-94-3",
       "Description": "winner stamped league promo"
     },
     {
       "name": "Metal energy",
-      "number": 94,
+      "number": "94/109",
       "rarity": "",
       "id": "ex1-ac-94-4",
       "Description": "non holo winner stamped league promo"
     },
     {
       "name": "Grass Energy",
-      "number": 104,
+      "number": "104/109",
       "rarity": "",
       "id": "ex1-ac-104-1",
       "Description": "2003 non ereader foring theme deck exclusive"
     },
     {
       "name": "Grass Energy",
-      "number": 104,
+      "number": "104/109",
       "rarity": "",
       "id": "ex1-ac-104-2",
       "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Grass Energy",
-      "number": 104,
+      "number": "104/109",
       "rarity": "",
       "id": "ex1-ac-104-3",
       "Description": "2005 non e reader - ex emerald and ex deoxys theme deck exclusive"
     },
     {
       "name": "Grass Energy",
-      "number": 104,
+      "number": "104/109",
       "rarity": "",
       "id": "ex1-ac-104-4",
       "Description": "2004-2005 professor program stamped promo"
     },
     {
       "name": "Grass Energy",
-      "number": 104,
+      "number": "104/109",
       "rarity": "",
       "id": "ex1-ac-104-5",
       "Description": "2003 non-e-reader foreing theme deck exclusive"
     },
     {
       "name": "Fighting energy",
-      "number": 105,
+      "number": "105/109",
       "rarity": "",
       "id": "ex1-ac-105-1",
       "Description": "2003 non ereader foring theme deck exclusive"
     },
     {
       "name": "Fighting energy",
-      "number": 105,
+      "number": "105/109",
       "rarity": "",
       "id": "ex1-ac-105-2",
       "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Fighting energy",
-      "number": 105,
+      "number": "105/109",
       "rarity": "",
       "id": "ex1-ac-105-3",
       "Description": "2005 non e reader - ex emerald and ex deoxys theme deck exclusive"
     },
     {
       "name": "Fighting energy",
-      "number": 105,
+      "number": "105/109",
       "rarity": "",
       "id": "ex1-ac-105-4",
       "Description": "2004-2005 professor program stamped promo"
     },
     {
       "name": "Fighting energy",
-      "number": 105,
+      "number": "105/109",
       "rarity": "",
       "id": "ex1-ac-105-5",
       "Description": "2003 non-e-reader foreing theme deck exclusive"
     },
     {
       "name": "Water Energy",
-      "number": 106,
+      "number": "106/109",
       "rarity": "",
       "id": "ex1-ac-106-1",
       "Description": "2003 non ereader foring theme deck exclusive"
     },
     {
       "name": "Water Energy",
-      "number": 106,
+      "number": "106/109",
       "rarity": "",
       "id": "ex1-ac-106-2",
       "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Water Energy",
-      "number": 106,
+      "number": "106/109",
       "rarity": "",
       "id": "ex1-ac-106-3",
       "Description": "2005 non e reader - ex emerald and ex deoxys theme deck exclusive"
     },
     {
       "name": "Water Energy",
-      "number": 106,
+      "number": "106/109",
       "rarity": "",
       "id": "ex1-ac-106-4",
       "Description": "2004-2005 professor program stamped promo"
     },
     {
       "name": "Water Energy",
-      "number": 106,
+      "number": "106/109",
       "rarity": "",
       "id": "ex1-ac-106-5",
       "Description": "2003 non-e-reader foreing theme deck exclusive"
     },
     {
       "name": "Psychic Energy",
-      "number": 107,
+      "number": "107/109",
       "rarity": "",
       "id": "ex1-ac-107-1",
       "Description": "2003 non ereader foring theme deck exclusive"
     },
     {
       "name": "Psychic Energy",
-      "number": 107,
+      "number": "107/109",
       "rarity": "",
       "id": "ex1-ac-107-2",
       "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Psychic Energy",
-      "number": 107,
+      "number": "107/109",
       "rarity": "",
       "id": "ex1-ac-107-3",
       "Description": "2005 non e reader - ex emerald and ex deoxys theme deck exclusive"
     },
     {
       "name": "Psychic Energy",
-      "number": 107,
+      "number": "107/109",
       "rarity": "",
       "id": "ex1-ac-107-4",
       "Description": "2004-2005 professor program stamped promo"
     },
     {
       "name": "Psychic Energy",
-      "number": 107,
+      "number": "107/109",
       "rarity": "",
       "id": "ex1-ac-107-5",
       "Description": "2003 non-e-reader foreing theme deck exclusive"
     },
     {
       "name": "Fire Energy",
-      "number": 108,
+      "number": "108/109",
       "rarity": "",
       "id": "ex1-ac-108-1",
       "Description": "2003 non ereader foring theme deck exclusive"
     },
     {
       "name": "Fire Energy",
-      "number": 108,
+      "number": "108/109",
       "rarity": "",
       "id": "ex1-ac-108-2",
       "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Fire Energy",
-      "number": 108,
+      "number": "108/109",
       "rarity": "",
       "id": "ex1-ac-108-3",
       "Description": "2005 non e reader - ex emerald and ex deoxys theme deck exclusive"
     },
     {
       "name": "Fire Energy",
-      "number": 108,
+      "number": "108/109",
       "rarity": "",
       "id": "ex1-ac-108-4",
       "Description": "2004-2005 professor program stamped promo"
     },
     {
       "name": "Fire Energy",
-      "number": 108,
+      "number": "108/109",
       "rarity": "",
       "id": "ex1-ac-108-5",
       "Description": "2003 non-e-reader foreing theme deck exclusive"
     },
     {
       "name": "Lightning Energy",
-      "number": 109,
+      "number": "109/109",
       "rarity": "",
       "id": "ex1-ac-109-1",
       "Description": "2003 non ereader foring theme deck exclusive"
     },
     {
       "name": "Lightning Energy",
-      "number": 109,
+      "number": "109/109",
       "rarity": "",
       "id": "ex1-ac-109-2",
       "Description": "2004 EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Lightning Energy",
-      "number": 109,
+      "number": "109/109",
       "rarity": "",
       "id": "ex1-ac-109-3",
       "Description": "2005 non e reader - ex emerald and ex deoxys theme deck exclusive"
     },
     {
       "name": "Lightning Energy",
-      "number": 109,
+      "number": "109/109",
       "rarity": "",
       "id": "ex1-ac-109-4",
       "Description": "2004-2005 professor program stamped promo"
     },
     {
       "name": "Lightning Energy",
-      "number": 109,
+      "number": "109/109",
       "rarity": "",
       "id": "ex1-ac-109-5",
       "Description": "2003 non-e-reader foreing theme deck exclusive"

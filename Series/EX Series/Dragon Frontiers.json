@@ -1,617 +1,632 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Core",
+    "Reverse"
   ],
   "coreCards": [
     {
       "id": "ex15-1",
       "rarity": "Rare Holo",
       "name": "Ampharos \u03b4",
-      "number": "1"
+      "number": "1/101"
     },
     {
       "id": "ex15-2",
       "rarity": "Rare Holo",
       "name": "Feraligatr \u03b4",
-      "number": "2"
+      "number": "2/101"
     },
     {
       "id": "ex15-3",
       "rarity": "Rare Holo",
       "name": "Heracross \u03b4",
-      "number": "3"
+      "number": "3/101"
     },
     {
       "id": "ex15-4",
       "rarity": "Rare Holo",
       "name": "Meganium \u03b4",
-      "number": "4"
+      "number": "4/101"
     },
     {
       "id": "ex15-5",
       "rarity": "Rare Holo",
       "name": "Milotic \u03b4",
-      "number": "5"
+      "number": "5/101"
     },
     {
       "id": "ex15-6",
       "rarity": "Rare Holo",
       "name": "Nidoking \u03b4",
-      "number": "6"
+      "number": "6/101"
     },
     {
       "id": "ex15-7",
       "rarity": "Rare Holo",
       "name": "Nidoqueen \u03b4",
-      "number": "7"
+      "number": "7/101"
     },
     {
       "id": "ex15-8",
       "rarity": "Rare Holo",
       "name": "Ninetales \u03b4",
-      "number": "8"
+      "number": "8/101"
     },
     {
       "id": "ex15-9",
       "rarity": "Rare Holo",
       "name": "Pinsir \u03b4",
-      "number": "9"
+      "number": "9/101"
     },
     {
       "id": "ex15-10",
       "rarity": "Rare Holo",
       "name": "Snorlax \u03b4",
-      "number": "10"
+      "number": "10/101"
     },
     {
       "id": "ex15-11",
       "rarity": "Rare Holo",
       "name": "Togetic \u03b4",
-      "number": "11"
+      "number": "11/101"
     },
     {
       "id": "ex15-12",
       "rarity": "Rare Holo",
       "name": "Typhlosion \u03b4",
-      "number": "12"
+      "number": "12/101"
     },
     {
       "id": "ex15-13",
       "rarity": "Rare",
       "name": "Arbok \u03b4",
-      "number": "13"
+      "number": "13/101"
     },
     {
       "id": "ex15-14",
       "rarity": "Rare",
       "name": "Cloyster \u03b4",
-      "number": "14"
+      "number": "14/101"
     },
     {
       "id": "ex15-15",
       "rarity": "Rare",
       "name": "Dewgong \u03b4",
-      "number": "15"
+      "number": "15/101"
     },
     {
       "id": "ex15-16",
       "rarity": "Rare",
       "name": "Gligar \u03b4",
-      "number": "16"
+      "number": "16/101"
     },
     {
       "id": "ex15-17",
       "rarity": "Rare",
       "name": "Jynx \u03b4",
-      "number": "17"
+      "number": "17/101"
     },
     {
       "id": "ex15-18",
       "rarity": "Rare",
       "name": "Ledian \u03b4",
-      "number": "18"
+      "number": "18/101"
     },
     {
       "id": "ex15-19",
       "rarity": "Rare",
       "name": "Lickitung \u03b4",
-      "number": "19"
+      "number": "19/101"
     },
     {
       "id": "ex15-20",
       "rarity": "Rare",
       "name": "Mantine \u03b4",
-      "number": "20"
+      "number": "20/101"
     },
     {
       "id": "ex15-21",
       "rarity": "Rare",
       "name": "Quagsire \u03b4",
-      "number": "21"
+      "number": "21/101"
     },
     {
       "id": "ex15-22",
       "rarity": "Rare",
       "name": "Seadra \u03b4",
-      "number": "22"
+      "number": "22/101"
     },
     {
       "id": "ex15-23",
       "rarity": "Rare",
       "name": "Tropius \u03b4",
-      "number": "23"
+      "number": "23/101"
     },
     {
       "id": "ex15-24",
       "rarity": "Rare",
       "name": "Vibrava \u03b4",
-      "number": "24"
+      "number": "24/101"
     },
     {
       "id": "ex15-25",
       "rarity": "Rare",
       "name": "Xatu \u03b4",
-      "number": "25"
+      "number": "25/101"
     },
     {
       "id": "ex15-26",
       "rarity": "Uncommon",
       "name": "Bayleef \u03b4",
-      "number": "26"
+      "number": "26/101"
     },
     {
       "id": "ex15-27",
       "rarity": "Uncommon",
       "name": "Croconaw \u03b4",
-      "number": "27"
+      "number": "27/101"
     },
     {
       "id": "ex15-28",
       "rarity": "Uncommon",
       "name": "Dragonair \u03b4",
-      "number": "28"
+      "number": "28/101"
     },
     {
       "id": "ex15-29",
       "rarity": "Uncommon",
       "name": "Electabuzz \u03b4",
-      "number": "29"
+      "number": "29/101"
     },
     {
       "id": "ex15-30",
       "rarity": "Uncommon",
       "name": "Flaaffy \u03b4",
-      "number": "30"
+      "number": "30/101"
     },
     {
       "id": "ex15-31",
       "rarity": "Uncommon",
       "name": "Horsea \u03b4",
-      "number": "31"
+      "number": "31/101"
     },
     {
       "id": "ex15-32",
       "rarity": "Uncommon",
       "name": "Kirlia",
-      "number": "32"
+      "number": "32/101"
     },
     {
       "id": "ex15-33",
       "rarity": "Uncommon",
       "name": "Kirlia \u03b4",
-      "number": "33"
+      "number": "33/101"
     },
     {
       "id": "ex15-34",
       "rarity": "Uncommon",
       "name": "Nidorina \u03b4",
-      "number": "34"
+      "number": "34/101"
     },
     {
       "id": "ex15-35",
       "rarity": "Uncommon",
       "name": "Nidorino \u03b4",
-      "number": "35"
+      "number": "35/101"
     },
     {
       "id": "ex15-36",
       "rarity": "Uncommon",
       "name": "Quilava \u03b4",
-      "number": "36"
+      "number": "36/101"
     },
     {
       "id": "ex15-37",
       "rarity": "Uncommon",
       "name": "Seadra \u03b4",
-      "number": "37"
+      "number": "37/101"
     },
     {
       "id": "ex15-38",
       "rarity": "Uncommon",
       "name": "Shelgon \u03b4",
-      "number": "38"
+      "number": "38/101"
     },
     {
       "id": "ex15-39",
       "rarity": "Uncommon",
       "name": "Smeargle \u03b4",
-      "number": "39"
+      "number": "39/101"
     },
     {
       "id": "ex15-40",
       "rarity": "Uncommon",
       "name": "Swellow \u03b4",
-      "number": "40"
+      "number": "40/101"
     },
     {
       "id": "ex15-41",
       "rarity": "Uncommon",
       "name": "Togepi \u03b4",
-      "number": "41"
+      "number": "41/101"
     },
     {
       "id": "ex15-42",
       "rarity": "Uncommon",
       "name": "Vibrava \u03b4",
-      "number": "42"
+      "number": "42/101"
     },
     {
       "id": "ex15-43",
       "rarity": "Common",
       "name": "Bagon \u03b4",
-      "number": "43"
+      "number": "43/101"
     },
     {
       "id": "ex15-44",
       "rarity": "Common",
       "name": "Chikorita \u03b4",
-      "number": "44"
+      "number": "44/101"
     },
     {
       "id": "ex15-45",
       "rarity": "Common",
       "name": "Cyndaquil \u03b4",
-      "number": "45"
+      "number": "45/101"
     },
     {
       "id": "ex15-46",
       "rarity": "Common",
       "name": "Dratini \u03b4",
-      "number": "46"
+      "number": "46/101"
     },
     {
       "id": "ex15-47",
       "rarity": "Common",
       "name": "Ekans \u03b4",
-      "number": "47"
+      "number": "47/101"
     },
     {
       "id": "ex15-48",
       "rarity": "Common",
       "name": "Elekid \u03b4",
-      "number": "48"
+      "number": "48/101"
     },
     {
       "id": "ex15-49",
       "rarity": "Common",
       "name": "Feebas \u03b4",
-      "number": "49"
+      "number": "49/101"
     },
     {
       "id": "ex15-50",
       "rarity": "Common",
       "name": "Horsea \u03b4",
-      "number": "50"
+      "number": "50/101"
     },
     {
       "id": "ex15-51",
       "rarity": "Common",
       "name": "Larvitar",
-      "number": "51"
+      "number": "51/101"
     },
     {
       "id": "ex15-52",
       "rarity": "Common",
       "name": "Larvitar \u03b4",
-      "number": "52"
+      "number": "52/101"
     },
     {
       "id": "ex15-53",
       "rarity": "Common",
       "name": "Ledyba \u03b4",
-      "number": "53"
+      "number": "53/101"
     },
     {
       "id": "ex15-54",
       "rarity": "Common",
       "name": "Mareep \u03b4",
-      "number": "54"
+      "number": "54/101"
     },
     {
       "id": "ex15-55",
       "rarity": "Common",
       "name": "Natu \u03b4",
-      "number": "55"
+      "number": "55/101"
     },
     {
       "id": "ex15-56",
       "rarity": "Common",
       "name": "Nidoran\u2640 \u03b4",
-      "number": "56"
+      "number": "56/101"
     },
     {
       "id": "ex15-57",
       "rarity": "Common",
       "name": "Nidoran\u2642 \u03b4",
-      "number": "57"
+      "number": "57/101"
     },
     {
       "id": "ex15-58",
       "rarity": "Common",
       "name": "Pupitar",
-      "number": "58"
+      "number": "58/101"
     },
     {
       "id": "ex15-59",
       "rarity": "Common",
       "name": "Pupitar \u03b4",
-      "number": "59"
+      "number": "59/101"
     },
     {
       "id": "ex15-60",
       "rarity": "Common",
       "name": "Ralts",
-      "number": "60"
+      "number": "60/101"
     },
     {
       "id": "ex15-61",
       "rarity": "Common",
       "name": "Ralts \u03b4",
-      "number": "61"
+      "number": "61/101"
     },
     {
       "id": "ex15-62",
       "rarity": "Common",
       "name": "Seel \u03b4",
-      "number": "62"
+      "number": "62/101"
     },
     {
       "id": "ex15-63",
       "rarity": "Common",
       "name": "Shellder \u03b4",
-      "number": "63"
+      "number": "63/101"
     },
     {
       "id": "ex15-64",
       "rarity": "Common",
       "name": "Smoochum \u03b4",
-      "number": "64"
+      "number": "64/101"
     },
     {
       "id": "ex15-65",
       "rarity": "Common",
       "name": "Swablu \u03b4",
-      "number": "65"
+      "number": "65/101"
     },
     {
       "id": "ex15-66",
       "rarity": "Common",
       "name": "Taillow \u03b4",
-      "number": "66"
+      "number": "66/101"
     },
     {
       "id": "ex15-67",
       "rarity": "Common",
       "name": "Totodile \u03b4",
-      "number": "67"
+      "number": "67/101"
     },
     {
       "id": "ex15-68",
       "rarity": "Common",
       "name": "Trapinch \u03b4",
-      "number": "68"
+      "number": "68/101"
     },
     {
       "id": "ex15-69",
       "rarity": "Common",
       "name": "Trapinch \u03b4",
-      "number": "69"
+      "number": "69/101"
     },
     {
       "id": "ex15-70",
       "rarity": "Common",
       "name": "Vulpix \u03b4",
-      "number": "70"
+      "number": "70/101"
     },
     {
       "id": "ex15-71",
       "rarity": "Common",
       "name": "Wooper \u03b4",
-      "number": "71"
+      "number": "71/101"
     },
     {
       "id": "ex15-72",
       "rarity": "Uncommon",
       "name": "Buffer Piece",
-      "number": "72"
+      "number": "72/101"
     },
     {
       "id": "ex15-73",
       "rarity": "Uncommon",
       "name": "Copycat",
-      "number": "73"
+      "number": "73/101"
     },
     {
       "id": "ex15-74",
       "rarity": "Uncommon",
       "name": "Holon Legacy",
-      "number": "74"
+      "number": "74/101"
     },
     {
       "id": "ex15-75",
       "rarity": "Uncommon",
       "name": "Holon Mentor",
-      "number": "75"
+      "number": "75/101"
     },
     {
       "id": "ex15-76",
       "rarity": "Uncommon",
       "name": "Island Hermit",
-      "number": "76"
+      "number": "76/101"
     },
     {
       "id": "ex15-77",
       "rarity": "Uncommon",
       "name": "Mr. Stone's Project",
-      "number": "77"
+      "number": "77/101"
     },
     {
       "id": "ex15-78",
       "rarity": "Uncommon",
       "name": "Old Rod",
-      "number": "78"
+      "number": "78/101"
     },
     {
       "id": "ex15-79",
       "rarity": "Uncommon",
       "name": "Professor Elm's Training Method",
-      "number": "79"
+      "number": "79/101"
     },
     {
       "id": "ex15-80",
       "rarity": "Uncommon",
       "name": "Professor Oak's Research",
-      "number": "80"
+      "number": "80/101"
     },
     {
       "id": "ex15-81",
       "rarity": "Uncommon",
       "name": "Strength Charm",
-      "number": "81"
+      "number": "81/101"
     },
     {
       "id": "ex15-82",
       "rarity": "Uncommon",
       "name": "TV Reporter",
-      "number": "82"
+      "number": "82/101"
     },
     {
       "id": "ex15-83",
       "rarity": "Common",
       "name": "Switch",
-      "number": "83"
+      "number": "83/101"
     },
     {
       "id": "ex15-84",
       "rarity": "Rare",
       "name": "Holon Energy FF",
-      "number": "84"
+      "number": "84/101"
     },
     {
       "id": "ex15-85",
       "rarity": "Rare",
       "name": "Holon Energy GL",
-      "number": "85"
+      "number": "85/101"
     },
     {
       "id": "ex15-86",
       "rarity": "Rare",
       "name": "Holon Energy WP",
-      "number": "86"
+      "number": "86/101"
     },
     {
       "id": "ex15-87",
       "rarity": "Uncommon",
       "name": "Boost Energy",
-      "number": "87"
+      "number": "87/101"
     },
     {
       "id": "ex15-88",
       "rarity": "Uncommon",
       "name": "\u03b4 Rainbow Energy",
-      "number": "88"
+      "number": "88/101"
     },
     {
       "id": "ex15-89",
       "rarity": "Uncommon",
       "name": "Scramble Energy",
-      "number": "89"
+      "number": "89/101"
     },
     {
       "id": "ex15-90",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Altaria ex \u03b4",
-      "number": "90"
+      "number": "90/101"
     },
     {
       "id": "ex15-91",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Dragonite ex \u03b4",
-      "number": "91"
+      "number": "91/101"
     },
     {
       "id": "ex15-92",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Flygon ex \u03b4",
-      "number": "92"
+      "number": "92/101"
     },
     {
       "id": "ex15-93",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Gardevoir ex \u03b4",
-      "number": "93"
+      "number": "93/101"
     },
     {
       "id": "ex15-94",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Kingdra ex \u03b4",
-      "number": "94"
+      "number": "94/101"
     },
     {
       "id": "ex15-95",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Latias ex \u03b4",
-      "number": "95"
+      "number": "95/101"
     },
     {
       "id": "ex15-96",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Latios ex \u03b4",
-      "number": "96"
+      "number": "96/101"
     },
     {
       "id": "ex15-97",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Rayquaza ex \u03b4",
-      "number": "97"
+      "number": "97/101"
     },
     {
       "id": "ex15-98",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Salamence ex \u03b4",
-      "number": "98"
+      "number": "98/101"
     },
     {
       "id": "ex15-99",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Tyranitar ex \u03b4",
-      "number": "99"
+      "number": "99/101"
     },
     {
       "id": "ex15-100",
-      "rarity": "Rare Holo",
+      "rarity": "Gold Star",
       "name": "Charizard Star \u03b4",
-      "number": "100"
+      "number": "100/101"
     },
     {
       "id": "ex15-101",
-      "rarity": "Rare Holo",
+      "rarity": "Gold Star",
       "name": "Mew Star \u03b4",
-      "number": "101"
+      "number": "101/101"
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "Professor Elms Training Method",
+      "number": "79/101",
+      "rarity": "",
+      "id": "ex15-ac-79-1",
+      "Description": "Professor Program 2006-2007 Stamped Promo"
+    },
+    {
+      "name": "Professor Elms Training Method",
+      "number": "79/101",
+      "rarity": "",
+      "id": "ex15-ac-79-2",
+      "Description": "Professor Program 2006-2007 Stamped Promo - Missing Gold Text"
+    }
+  ],
+  "misprints": []
 }

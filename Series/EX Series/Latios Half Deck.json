@@ -1,66 +1,66 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "have"
+    "Have"
   ],
   "coreCards": [
     {
       "name": "Electrike",
-      "number": 1,
+      "number": "1/10",
       "rarity": "Common",
       "id": "ex-latios-1"
     },
     {
       "name": "Latios",
-      "number": 2,
+      "number": "2/10",
       "rarity": "Common",
       "id": "ex-latios-2"
     },
     {
       "name": "Linoone",
-      "number": 3,
+      "number": "3/10",
       "rarity": "Common",
       "id": "ex-latios-3"
     },
     {
       "name": "Magnemite",
-      "number": 4,
+      "number": "4/10",
       "rarity": "Common",
       "id": "ex-latios-4"
     },
     {
       "name": "Magneton",
-      "number": 5,
+      "number": "5/10",
       "rarity": "Common",
       "id": "ex-latios-5"
     },
     {
       "name": "Pikachu",
-      "number": 6,
+      "number": "6/10",
       "rarity": "Common",
       "id": "ex-latios-6"
     },
     {
       "name": "Zigzagoon",
-      "number": 7,
+      "number": "7/10",
       "rarity": "Common",
       "id": "ex-latios-7"
     },
     {
       "name": "Potion",
-      "number": 8,
+      "number": "8/10",
       "rarity": "Common",
       "id": "ex-latios-8"
     },
     {
       "name": "Energy Search",
-      "number": 9,
+      "number": "9/10",
       "rarity": "Common",
       "id": "ex-latios-9"
     },
     {
       "name": "Lightning Energy",
-      "number": 10,
+      "number": "10/10",
       "rarity": "Common",
       "id": "ex-latios-10"
     }

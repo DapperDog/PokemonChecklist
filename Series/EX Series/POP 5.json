@@ -1,113 +1,122 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Core",
+    "Holo"
   ],
   "coreCards": [
     {
       "id": "pop5-1",
       "rarity": "Rare",
       "name": "Ho-oh",
-      "number": "1"
+      "number": "1/17"
     },
     {
       "id": "pop5-2",
       "rarity": "Rare",
       "name": "Lugia",
-      "number": "2"
+      "number": "2/17"
     },
     {
       "id": "pop5-3",
       "rarity": "Rare",
       "name": "Mew (Delta Species)",
-      "number": "3"
+      "number": "3/17"
     },
     {
       "id": "pop5-4",
       "rarity": "Rare",
       "name": "Double Rainbow Energy",
-      "number": "4"
+      "number": "4/17",
+      "variants":["Core"]
     },
     {
       "id": "pop5-5",
       "rarity": "Uncommon",
       "name": "Charmeleon (Delta Species)",
-      "number": "5"
+      "number": "5/17",
+      "variants":["Core"]
     },
     {
       "id": "pop5-6",
       "rarity": "Uncommon",
       "name": "Bill's Maintenance",
-      "number": "6"
+      "number": "6/17",
+      "variants":["Core"]
     },
     {
       "id": "pop5-7",
       "rarity": "Uncommon",
       "name": "Rare Candy",
-      "number": "7"
+      "number": "7/17",
+      "variants":["Core"]
     },
     {
       "id": "pop5-8",
       "rarity": "Uncommon",
       "name": "Boost Energy",
-      "number": "8"
+      "number": "8/17",
+      "variants":["Core"]
     },
     {
       "id": "pop5-9",
       "rarity": "Uncommon",
       "name": "Delta Species Rainbow Energy",
-      "number": "9"
+      "number": "9/17",
+      "variants":["Core"]
     },
     {
       "id": "pop5-10",
       "rarity": "Common",
       "name": "Charmander (Delta Species)",
-      "number": "10"
+      "number": "10/17",
+      "variants":["Core"]
     },
     {
       "id": "pop5-11",
       "rarity": "Common",
       "name": "Meowth (Delta Species)",
-      "number": "11"
+      "number": "11/17",
+      "variants":["Core"]
     },
     {
       "id": "pop5-12",
       "rarity": "Common",
       "name": "Pikachu",
-      "number": "12"
+      "number": "12/17"
     },
     {
       "id": "pop5-13",
       "rarity": "Common",
       "name": "Pikachu (Delta Species)",
-      "number": "13"
+      "number": "13/17",
+      "variants":["Core"]
     },
     {
       "id": "pop5-14",
       "rarity": "Common",
       "name": "Pelipper (Delta Species)",
-      "number": "14"
+      "number": "14/17"
     },
     {
       "id": "pop5-15",
       "rarity": "Common",
       "name": "Zangoose (Delta Species)",
-      "number": "15"
+      "number": "15/17"
     },
     {
       "id": "pop5-16",
-      "rarity": "Rare Holo",
+      "rarity": "Gold Star",
       "name": "Espeon Star",
-      "number": "16"
+      "number": "16/17"
     },
     {
       "id": "pop5-17",
-      "rarity": "Rare Holo",
+      "rarity": "Gold Star",
       "name": "Umbreon Star",
-      "number": "17"
+      "number": "17/17"
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }

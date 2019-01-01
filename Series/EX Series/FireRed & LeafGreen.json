@@ -1,742 +1,742 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Core",
+    "Reverse"
   ],
   "coreCards": [
     {
       "id": "ex6-1",
       "rarity": "Rare Holo",
       "name": "Beedrill",
-      "number": "1"
+      "number": "1/116"
     },
     {
       "id": "ex6-2",
       "rarity": "Rare Holo",
       "name": "Butterfree",
-      "number": "2"
+      "number": "2/116"
     },
     {
       "id": "ex6-3",
       "rarity": "Rare Holo",
       "name": "Dewgong",
-      "number": "3"
+      "number": "3/116"
     },
     {
       "id": "ex6-4",
       "rarity": "Rare Holo",
       "name": "Ditto",
-      "number": "4"
+      "number": "4/116"
     },
     {
       "id": "ex6-5",
       "rarity": "Rare Holo",
       "name": "Exeggutor",
-      "number": "5"
+      "number": "5/116"
     },
     {
       "id": "ex6-6",
       "rarity": "Rare Holo",
       "name": "Kangaskhan",
-      "number": "6"
+      "number": "6/116"
     },
     {
       "id": "ex6-7",
       "rarity": "Rare Holo",
       "name": "Marowak",
-      "number": "7"
+      "number": "7/116"
     },
     {
       "id": "ex6-8",
       "rarity": "Rare Holo",
       "name": "Nidoking",
-      "number": "8"
+      "number": "8/116"
     },
     {
       "id": "ex6-9",
       "rarity": "Rare Holo",
       "name": "Nidoqueen",
-      "number": "9"
+      "number": "9/116"
     },
     {
       "id": "ex6-10",
       "rarity": "Rare Holo",
       "name": "Pidgeot",
-      "number": "10"
+      "number": "10/116"
     },
     {
       "id": "ex6-11",
       "rarity": "Rare Holo",
       "name": "Poliwrath",
-      "number": "11"
+      "number": "11/116"
     },
     {
       "id": "ex6-12",
       "rarity": "Rare Holo",
       "name": "Raichu",
-      "number": "12"
+      "number": "12/116"
     },
     {
       "id": "ex6-13",
       "rarity": "Rare Holo",
       "name": "Rapidash",
-      "number": "13"
+      "number": "13/116"
     },
     {
       "id": "ex6-14",
       "rarity": "Rare Holo",
       "name": "Slowbro",
-      "number": "14"
+      "number": "14/116"
     },
     {
       "id": "ex6-15",
       "rarity": "Rare Holo",
       "name": "Snorlax",
-      "number": "15"
+      "number": "15/116"
     },
     {
       "id": "ex6-16",
       "rarity": "Rare Holo",
       "name": "Tauros",
-      "number": "16"
+      "number": "16/116"
     },
     {
       "id": "ex6-17",
       "rarity": "Rare Holo",
       "name": "Victreebel",
-      "number": "17"
+      "number": "17/116"
     },
     {
       "id": "ex6-18",
       "rarity": "Rare",
       "name": "Arcanine",
-      "number": "18"
+      "number": "18/116"
     },
     {
       "id": "ex6-19",
       "rarity": "Rare",
       "name": "Chansey",
-      "number": "19"
+      "number": "19/116"
     },
     {
       "id": "ex6-20",
       "rarity": "Rare",
       "name": "Cloyster",
-      "number": "20"
+      "number": "20/116"
     },
     {
       "id": "ex6-21",
       "rarity": "Rare",
       "name": "Dodrio",
-      "number": "21"
+      "number": "21/116"
     },
     {
       "id": "ex6-22",
       "rarity": "Rare",
       "name": "Dugtrio",
-      "number": "22"
+      "number": "22/116"
     },
     {
       "id": "ex6-23",
       "rarity": "Rare",
       "name": "Farfetch'd",
-      "number": "23"
+      "number": "23/116"
     },
     {
       "id": "ex6-24",
       "rarity": "Rare",
       "name": "Fearow",
-      "number": "24"
+      "number": "24/116"
     },
     {
       "id": "ex6-25",
       "rarity": "Rare",
       "name": "Hypno",
-      "number": "25"
+      "number": "25/116"
     },
     {
       "id": "ex6-26",
       "rarity": "Rare",
       "name": "Kingler",
-      "number": "26"
+      "number": "26/116"
     },
     {
       "id": "ex6-27",
       "rarity": "Rare",
       "name": "Magneton",
-      "number": "27"
+      "number": "27/116"
     },
     {
       "id": "ex6-28",
       "rarity": "Rare",
       "name": "Primeape",
-      "number": "28"
+      "number": "28/116"
     },
     {
       "id": "ex6-29",
       "rarity": "Rare",
       "name": "Scyther",
-      "number": "29"
+      "number": "29/116"
     },
     {
       "id": "ex6-30",
       "rarity": "Rare",
       "name": "Tangela",
-      "number": "30"
+      "number": "30/116"
     },
     {
       "id": "ex6-31",
       "rarity": "Uncommon",
       "name": "Charmeleon",
-      "number": "31"
+      "number": "31/116"
     },
     {
       "id": "ex6-32",
       "rarity": "Uncommon",
       "name": "Drowzee",
-      "number": "32"
+      "number": "32/116"
     },
     {
       "id": "ex6-33",
       "rarity": "Uncommon",
       "name": "Exeggcute",
-      "number": "33"
+      "number": "33/116"
     },
     {
       "id": "ex6-34",
       "rarity": "Uncommon",
       "name": "Haunter",
-      "number": "34"
+      "number": "34/116"
     },
     {
       "id": "ex6-35",
       "rarity": "Uncommon",
       "name": "Ivysaur",
-      "number": "35"
+      "number": "35/116"
     },
     {
       "id": "ex6-36",
       "rarity": "Uncommon",
       "name": "Kakuna",
-      "number": "36"
+      "number": "36/116"
     },
     {
       "id": "ex6-37",
       "rarity": "Uncommon",
       "name": "Lickitung",
-      "number": "37"
+      "number": "37/116"
     },
     {
       "id": "ex6-38",
       "rarity": "Uncommon",
       "name": "Mankey",
-      "number": "38"
+      "number": "38/116"
     },
     {
       "id": "ex6-39",
       "rarity": "Uncommon",
       "name": "Metapod",
-      "number": "39"
+      "number": "39/116"
     },
     {
       "id": "ex6-40",
       "rarity": "Uncommon",
       "name": "Nidorina",
-      "number": "40"
+      "number": "40/116"
     },
     {
       "id": "ex6-41",
       "rarity": "Uncommon",
       "name": "Nidorino",
-      "number": "41"
+      "number": "41/116"
     },
     {
       "id": "ex6-42",
       "rarity": "Uncommon",
       "name": "Onix",
-      "number": "42"
+      "number": "42/116"
     },
     {
       "id": "ex6-43",
       "rarity": "Uncommon",
       "name": "Parasect",
-      "number": "43"
+      "number": "43/116"
     },
     {
       "id": "ex6-44",
       "rarity": "Uncommon",
       "name": "Persian",
-      "number": "44"
+      "number": "44/116"
     },
     {
       "id": "ex6-45",
       "rarity": "Uncommon",
       "name": "Pidgeotto",
-      "number": "45"
+      "number": "45/116"
     },
     {
       "id": "ex6-46",
       "rarity": "Uncommon",
       "name": "Poliwhirl",
-      "number": "46"
+      "number": "46/116"
     },
     {
       "id": "ex6-47",
       "rarity": "Uncommon",
       "name": "Porygon",
-      "number": "47"
+      "number": "47/116"
     },
     {
       "id": "ex6-48",
       "rarity": "Uncommon",
       "name": "Raticate",
-      "number": "48"
+      "number": "48/116"
     },
     {
       "id": "ex6-49",
       "rarity": "Uncommon",
       "name": "Venomoth",
-      "number": "49"
+      "number": "49/116"
     },
     {
       "id": "ex6-50",
       "rarity": "Uncommon",
       "name": "Wartortle",
-      "number": "50"
+      "number": "50/116"
     },
     {
       "id": "ex6-51",
       "rarity": "Uncommon",
       "name": "Weepinbell",
-      "number": "51"
+      "number": "51/116"
     },
     {
       "id": "ex6-52",
       "rarity": "Uncommon",
       "name": "Wigglytuff",
-      "number": "52"
+      "number": "52/116"
     },
     {
       "id": "ex6-53",
       "rarity": "Common",
       "name": "Bellsprout",
-      "number": "53"
+      "number": "53/116"
     },
     {
       "id": "ex6-54",
       "rarity": "Common",
       "name": "Bulbasaur",
-      "number": "54"
+      "number": "54/116"
     },
     {
       "id": "ex6-55",
       "rarity": "Common",
       "name": "Bulbasaur",
-      "number": "55"
+      "number": "55/116"
     },
     {
       "id": "ex6-56",
       "rarity": "Common",
       "name": "Caterpie",
-      "number": "56"
+      "number": "56/116"
     },
     {
       "id": "ex6-57",
       "rarity": "Common",
       "name": "Charmander",
-      "number": "57"
+      "number": "57/116"
     },
     {
       "id": "ex6-58",
       "rarity": "Common",
       "name": "Charmander",
-      "number": "58"
+      "number": "58/116"
     },
     {
       "id": "ex6-59",
       "rarity": "Common",
       "name": "Clefairy",
-      "number": "59"
+      "number": "59/116"
     },
     {
       "id": "ex6-60",
       "rarity": "Common",
       "name": "Cubone",
-      "number": "60"
+      "number": "60/116"
     },
     {
       "id": "ex6-61",
       "rarity": "Common",
       "name": "Diglett",
-      "number": "61"
+      "number": "61/116"
     },
     {
       "id": "ex6-62",
       "rarity": "Common",
       "name": "Doduo",
-      "number": "62"
+      "number": "62/116"
     },
     {
       "id": "ex6-63",
       "rarity": "Common",
       "name": "Gastly",
-      "number": "63"
+      "number": "63/116"
     },
     {
       "id": "ex6-64",
       "rarity": "Common",
       "name": "Growlithe",
-      "number": "64"
+      "number": "64/116"
     },
     {
       "id": "ex6-65",
       "rarity": "Common",
       "name": "Jigglypuff",
-      "number": "65"
+      "number": "65/116"
     },
     {
       "id": "ex6-66",
       "rarity": "Common",
       "name": "Krabby",
-      "number": "66"
+      "number": "66/116"
     },
     {
       "id": "ex6-67",
       "rarity": "Common",
       "name": "Magikarp",
-      "number": "67"
+      "number": "67/116"
     },
     {
       "id": "ex6-68",
       "rarity": "Common",
       "name": "Magnemite",
-      "number": "68"
+      "number": "68/116"
     },
     {
       "id": "ex6-69",
       "rarity": "Common",
       "name": "Meowth",
-      "number": "69"
+      "number": "69/116"
     },
     {
       "id": "ex6-70",
       "rarity": "Common",
       "name": "Nidoran\u2640",
-      "number": "70"
+      "number": "70/116"
     },
     {
       "id": "ex6-71",
       "rarity": "Common",
       "name": "Nidoran\u2642",
-      "number": "71"
+      "number": "71/116"
     },
     {
       "id": "ex6-72",
       "rarity": "Common",
       "name": "Paras",
-      "number": "72"
+      "number": "72/116"
     },
     {
       "id": "ex6-73",
       "rarity": "Common",
       "name": "Pidgey",
-      "number": "73"
+      "number": "73/116"
     },
     {
       "id": "ex6-74",
       "rarity": "Common",
       "name": "Pikachu",
-      "number": "74"
+      "number": "74/116"
     },
     {
       "id": "ex6-75",
       "rarity": "Common",
       "name": "Poliwag",
-      "number": "75"
+      "number": "75/116"
     },
     {
       "id": "ex6-76",
       "rarity": "Common",
       "name": "Ponyta",
-      "number": "76"
+      "number": "76/116"
     },
     {
       "id": "ex6-77",
       "rarity": "Common",
       "name": "Rattata",
-      "number": "77"
+      "number": "77/116"
     },
     {
       "id": "ex6-78",
       "rarity": "Common",
       "name": "Seel",
-      "number": "78"
+      "number": "78/116"
     },
     {
       "id": "ex6-79",
       "rarity": "Common",
       "name": "Shellder",
-      "number": "79"
+      "number": "79/116"
     },
     {
       "id": "ex6-80",
       "rarity": "Common",
       "name": "Slowpoke",
-      "number": "80"
+      "number": "80/116"
     },
     {
       "id": "ex6-81",
       "rarity": "Common",
       "name": "Spearow",
-      "number": "81"
+      "number": "81/116"
     },
     {
       "id": "ex6-82",
       "rarity": "Common",
       "name": "Squirtle",
-      "number": "82"
+      "number": "82/116"
     },
     {
       "id": "ex6-83",
       "rarity": "Common",
       "name": "Squirtle",
-      "number": "83"
+      "number": "83/116"
     },
     {
       "id": "ex6-84",
       "rarity": "Common",
       "name": "Venonat",
-      "number": "84"
+      "number": "84/116"
     },
     {
       "id": "ex6-85",
       "rarity": "Common",
       "name": "Voltorb",
-      "number": "85"
+      "number": "85/116"
     },
     {
       "id": "ex6-86",
       "rarity": "Common",
       "name": "Weedle",
-      "number": "86"
+      "number": "86/116"
     },
     {
       "id": "ex6-87",
       "rarity": "Uncommon",
       "name": "Bill's Maintenance",
-      "number": "87"
+      "number": "87/116"
     },
     {
       "id": "ex6-88",
       "rarity": "Uncommon",
       "name": "Celio's Network",
-      "number": "88"
+      "number": "88/116"
     },
     {
       "id": "ex6-89",
       "rarity": "Uncommon",
       "name": "Energy Removal 2",
-      "number": "89"
+      "number": "89/116"
     },
     {
       "id": "ex6-90",
       "rarity": "Uncommon",
       "name": "Energy Switch",
-      "number": "90"
+      "number": "90/116"
     },
     {
       "id": "ex6-91",
       "rarity": "Uncommon",
       "name": "EXP. ALL",
-      "number": "91"
+      "number": "91/116"
     },
     {
       "id": "ex6-92",
       "rarity": "Uncommon",
       "name": "Great Ball",
-      "number": "92"
+      "number": "92/116"
     },
     {
       "id": "ex6-93",
       "rarity": "Uncommon",
       "name": "Life Herb",
-      "number": "93"
+      "number": "93/116"
     },
     {
       "id": "ex6-94",
       "rarity": "Uncommon",
       "name": "Mt. Moon",
-      "number": "94"
+      "number": "94/116"
     },
     {
       "id": "ex6-95",
       "rarity": "Uncommon",
       "name": "Pok\u00e9 Ball",
-      "number": "95"
+      "number": "95/116"
     },
     {
       "id": "ex6-96",
       "rarity": "Uncommon",
       "name": "Pok\u00e9Dex (HANDY909)",
-      "number": "96"
+      "number": "96/116"
     },
     {
       "id": "ex6-97",
       "rarity": "Uncommon",
       "name": "Pok\u00e9mon Reversal",
-      "number": "97"
+      "number": "97/116"
     },
     {
       "id": "ex6-98",
       "rarity": "Uncommon",
       "name": "Prof. Oak's Research",
-      "number": "98"
+      "number": "98/116"
     },
     {
       "id": "ex6-99",
       "rarity": "Uncommon",
       "name": "Super Scoop Up",
-      "number": "99"
+      "number": "99/116"
     },
     {
       "id": "ex6-100",
       "rarity": "Uncommon",
       "name": "VS Seeker",
-      "number": "100"
+      "number": "100/116"
     },
     {
       "id": "ex6-101",
       "rarity": "Common",
       "name": "Potion",
-      "number": "101"
+      "number": "101/116"
     },
     {
       "id": "ex6-102",
       "rarity": "Common",
       "name": "Switch",
-      "number": "102"
+      "number": "102/116"
     },
     {
       "id": "ex6-103",
       "rarity": "Rare",
       "name": "Multi Energy",
-      "number": "103"
+      "number": "103/116"
     },
     {
       "id": "ex6-104",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Blastoise ex",
-      "number": "104",
+      "number": "104/116",
       "variants":["core"]
     },
     {
       "id": "ex6-105",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Charizard ex",
-      "number": "105",
+      "number": "105/116",
       "variants":["core"]
     },
     {
       "id": "ex6-106",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Clefable ex",
-      "number": "106",
+      "number": "106/116",
       "variants":["core"]
     },
     {
       "id": "ex6-107",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Electrode ex",
-      "number": "107",
+      "number": "107/116",
       "variants":["core"]
     },
     {
       "id": "ex6-108",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Gengar ex",
-      "number": "108",
+      "number": "108/116",
       "variants":["core"]
     },
     {
       "id": "ex6-109",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Gyarados ex",
-      "number": "109",
+      "number": "109/116",
       "variants":["core"]
     },
     {
       "id": "ex6-110",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Mr. Mime ex",
-      "number": "110",
+      "number": "110/116",
       "variants":["core"]
     },
     {
       "id": "ex6-111",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Mr. Mime ex",
-      "number": "111",
+      "number": "111/116",
       "variants":["core"]
     },
     {
       "id": "ex6-112",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Venusaur ex",
-      "number": "112",
+      "number": "112/116",
       "variants":["core"]
     },
     {
       "id": "ex6-113",
       "rarity": "Holo Rare",
       "name": "Charmander",
-      "number": "113",
+      "number": "113/116",
       "variants":["core"]
     },
     {
       "id": "ex6-114",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Articuno ex",
-      "number": "114",
+      "number": "114/116",
       "variants":["core"]
     },
     {
       "id": "ex6-115",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Moltres ex",
-      "number": "115",
+      "number": "115/116",
       "variants":["core"]
     },
     {
       "id": "ex6-116",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Zapdos ex",
-      "number": "116",
+      "number": "116/116",
       "variants":["core"]
     }
   ],
   "additionalCards": [
     {
       "name": "Prof Oaks Research",
-      "number": 98,
+      "number": "98/116",
       "rarity": "",
       "id": "ex6-ac-98",
       "Description": "Professor Program 2004-2005 stamped promo"
     },
     {
       "name": "Potion",
-      "number": 101,
+      "number": "101/116",
       "rarity": "",
       "id": "ex6-ac-101",
       "Description": "EX Emeralnd and Deoxys Theme Deck Exclusive"
     },
     {
       "name": "Switch",
-      "number": 102,
+      "number": "102/116",
       "rarity": "",
       "id": "ex6-c-102",
       "Description": "EX Emeralnd and Deoxys Theme Deck Exclusive"
     }
   ],
-  "other": []
+  "misprints": []
 }

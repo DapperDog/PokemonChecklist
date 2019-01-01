@@ -1,17 +1,82 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Have"
   ],
   "coreCards": [
     {
-      "id": "placeholder-1",
+      "name": "Arcanine",
+      "number": "1/12",
       "rarity": "Common",
-      "name": "placeholder pkmn",
-      "number": "1"
+      "id": ""
+    },
+    {
+      "name": "Charmander",
+      "number": "2/12",
+      "rarity": "Common",
+      "id": ""
+    },
+    {
+      "name": "Charmeleon",
+      "number": "3/12",
+      "rarity": "Common",
+      "id": ""
+    },
+    {
+      "name": "Growlithe",
+      "number": "4/12",
+      "rarity": "Common",
+      "id": ""
+    },
+    {
+      "name": "Mareep",
+      "number": "5/12",
+      "rarity": "Common",
+      "id": ""
+    },
+    {
+      "name": "Minun",
+      "number": "6/12",
+      "rarity": "Common",
+      "id": ""
+    },
+    {
+      "name": "Vulpix",
+      "number": "7/12",
+      "rarity": "Common",
+      "id": ""
+    },
+    {
+      "name": "Celio's Network",
+      "number": "8/12",
+      "rarity": "Common",
+      "id": ""
+    },
+    {
+      "name": "Energy Search",
+      "number": "9/12",
+      "rarity": "Common",
+      "id": ""
+    },
+    {
+      "name": "Potion",
+      "number": "10/12",
+      "rarity": "Common",
+      "id": ""
+    },
+    {
+      "name": "Fire Energy",
+      "number": "11/12",
+      "rarity": "Common",
+      "id": ""
+    },
+    {
+      "name": "Lightning Energy",
+      "number": "12/12",
+      "rarity": "Common",
+      "id": ""
     }
   ],
   "additionalCards": [],
-  "other": []
+  "misprints": []
 }

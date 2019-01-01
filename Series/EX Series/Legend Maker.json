@@ -1,569 +1,591 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Core",
+    "Reverse"
   ],
   "coreCards": [
     {
       "id": "ex12-1",
       "rarity": "Rare Holo",
       "name": "Aerodactyl",
-      "number": "1"
+      "number": "1/92"
     },
     {
       "id": "ex12-2",
       "rarity": "Rare Holo",
       "name": "Aggron",
-      "number": "2"
+      "number": "2/92"
     },
     {
       "id": "ex12-3",
       "rarity": "Rare Holo",
       "name": "Cradily",
-      "number": "3"
+      "number": "3/92"
     },
     {
       "id": "ex12-4",
       "rarity": "Rare Holo",
       "name": "Delcatty",
-      "number": "4"
+      "number": "4/92"
     },
     {
       "id": "ex12-5",
       "rarity": "Rare Holo",
       "name": "Gengar",
-      "number": "5"
+      "number": "5/92"
     },
     {
       "id": "ex12-6",
       "rarity": "Rare Holo",
       "name": "Golem",
-      "number": "6"
+      "number": "6/92"
     },
     {
       "id": "ex12-7",
       "rarity": "Rare Holo",
       "name": "Kabutops",
-      "number": "7"
+      "number": "7/92"
     },
     {
       "id": "ex12-8",
       "rarity": "Rare Holo",
       "name": "Lapras",
-      "number": "8"
+      "number": "8/92"
     },
     {
       "id": "ex12-9",
       "rarity": "Rare Holo",
       "name": "Machamp",
-      "number": "9"
+      "number": "9/92"
     },
     {
       "id": "ex12-10",
       "rarity": "Rare Holo",
       "name": "Mew",
-      "number": "10"
+      "number": "10/92"
     },
     {
       "id": "ex12-11",
       "rarity": "Rare Holo",
       "name": "Muk",
-      "number": "11"
+      "number": "11/92"
     },
     {
       "id": "ex12-12",
       "rarity": "Rare Holo",
       "name": "Shiftry",
-      "number": "12"
+      "number": "12/92"
     },
     {
       "id": "ex12-13",
       "rarity": "Rare Holo",
       "name": "Victreebel",
-      "number": "13"
+      "number": "13/92"
     },
     {
       "id": "ex12-14",
       "rarity": "Rare Holo",
       "name": "Wailord",
-      "number": "14"
+      "number": "14/92"
     },
     {
       "id": "ex12-15",
       "rarity": "Rare",
       "name": "Absol",
-      "number": "15"
+      "number": "15/92"
     },
     {
       "id": "ex12-16",
       "rarity": "Rare",
       "name": "Girafarig",
-      "number": "16"
+      "number": "16/92"
     },
     {
       "id": "ex12-17",
       "rarity": "Rare",
       "name": "Gorebyss",
-      "number": "17"
+      "number": "17/92"
     },
     {
       "id": "ex12-18",
       "rarity": "Rare",
       "name": "Huntail",
-      "number": "18"
+      "number": "18/92"
     },
     {
       "id": "ex12-19",
       "rarity": "Rare",
       "name": "Lanturn",
-      "number": "19"
+      "number": "19/92"
     },
     {
       "id": "ex12-20",
       "rarity": "Rare",
       "name": "Lunatone",
-      "number": "20"
+      "number": "20/92"
     },
     {
       "id": "ex12-21",
       "rarity": "Rare",
       "name": "Magmar",
-      "number": "21"
+      "number": "21/92"
     },
     {
       "id": "ex12-22",
       "rarity": "Rare",
       "name": "Magneton",
-      "number": "22"
+      "number": "22/92"
     },
     {
       "id": "ex12-23",
       "rarity": "Rare",
       "name": "Omastar",
-      "number": "23"
+      "number": "23/92"
     },
     {
       "id": "ex12-24",
       "rarity": "Rare",
       "name": "Pinsir",
-      "number": "24"
+      "number": "24/92"
     },
     {
       "id": "ex12-25",
       "rarity": "Rare",
       "name": "Solrock",
-      "number": "25"
+      "number": "25/92"
     },
     {
       "id": "ex12-26",
       "rarity": "Rare",
       "name": "Spinda",
-      "number": "26"
+      "number": "26/92"
     },
     {
       "id": "ex12-27",
       "rarity": "Rare",
       "name": "Torkoal",
-      "number": "27"
+      "number": "27/92"
     },
     {
       "id": "ex12-28",
       "rarity": "Rare",
       "name": "Wobbuffet",
-      "number": "28"
+      "number": "28/92"
     },
     {
       "id": "ex12-29",
       "rarity": "Uncommon",
       "name": "Anorith",
-      "number": "29"
+      "number": "29/92"
     },
     {
       "id": "ex12-30",
       "rarity": "Uncommon",
       "name": "Cascoon",
-      "number": "30"
+      "number": "30/92"
     },
     {
       "id": "ex12-31",
       "rarity": "Uncommon",
       "name": "Dunsparce",
-      "number": "31"
+      "number": "31/92"
     },
     {
       "id": "ex12-32",
       "rarity": "Uncommon",
       "name": "Electrode",
-      "number": "32"
+      "number": "32/92"
     },
     {
       "id": "ex12-33",
       "rarity": "Uncommon",
       "name": "Furret",
-      "number": "33"
+      "number": "33/92"
     },
     {
       "id": "ex12-34",
       "rarity": "Uncommon",
       "name": "Graveler",
-      "number": "34"
+      "number": "34/92"
     },
     {
       "id": "ex12-35",
       "rarity": "Uncommon",
       "name": "Haunter",
-      "number": "35"
+      "number": "35/92"
     },
     {
       "id": "ex12-36",
       "rarity": "Uncommon",
       "name": "Kabuto",
-      "number": "36"
+      "number": "36/92"
     },
     {
       "id": "ex12-37",
       "rarity": "Uncommon",
       "name": "Kecleon",
-      "number": "37"
+      "number": "37/92"
     },
     {
       "id": "ex12-38",
       "rarity": "Uncommon",
       "name": "Lairon",
-      "number": "38"
+      "number": "38/92"
     },
     {
       "id": "ex12-39",
       "rarity": "Uncommon",
       "name": "Machoke",
-      "number": "39"
+      "number": "39/92"
     },
     {
       "id": "ex12-40",
       "rarity": "Uncommon",
       "name": "Misdreavus",
-      "number": "40"
+      "number": "40/92"
     },
     {
       "id": "ex12-41",
       "rarity": "Uncommon",
       "name": "Nuzleaf",
-      "number": "41"
+      "number": "41/92"
     },
     {
       "id": "ex12-42",
       "rarity": "Uncommon",
       "name": "Roselia",
-      "number": "42"
+      "number": "42/92"
     },
     {
       "id": "ex12-43",
       "rarity": "Uncommon",
       "name": "Sealeo",
-      "number": "43"
+      "number": "43/92"
     },
     {
       "id": "ex12-44",
       "rarity": "Uncommon",
       "name": "Tangela",
-      "number": "44"
+      "number": "44/92"
     },
     {
       "id": "ex12-45",
       "rarity": "Uncommon",
       "name": "Tentacruel",
-      "number": "45"
+      "number": "45/92"
     },
     {
       "id": "ex12-46",
       "rarity": "Uncommon",
       "name": "Vibrava",
-      "number": "46"
+      "number": "46/92"
     },
     {
       "id": "ex12-47",
       "rarity": "Uncommon",
       "name": "Weepinbell",
-      "number": "47"
+      "number": "47/92"
     },
     {
       "id": "ex12-48",
       "rarity": "Common",
       "name": "Aron",
-      "number": "48"
+      "number": "48/92"
     },
     {
       "id": "ex12-49",
       "rarity": "Common",
       "name": "Bellsprout",
-      "number": "49"
+      "number": "49/92"
     },
     {
       "id": "ex12-50",
       "rarity": "Common",
       "name": "Chinchou",
-      "number": "50"
+      "number": "50/92"
     },
     {
       "id": "ex12-51",
       "rarity": "Common",
       "name": "Clamperl",
-      "number": "51"
+      "number": "51/92"
     },
     {
       "id": "ex12-52",
       "rarity": "Common",
       "name": "Gastly",
-      "number": "52"
+      "number": "52/92"
     },
     {
       "id": "ex12-53",
       "rarity": "Common",
       "name": "Geodude",
-      "number": "53"
+      "number": "53/92"
     },
     {
       "id": "ex12-54",
       "rarity": "Common",
       "name": "Grimer",
-      "number": "54"
+      "number": "54/92"
     },
     {
       "id": "ex12-55",
       "rarity": "Common",
       "name": "Growlithe",
-      "number": "55"
+      "number": "55/92"
     },
     {
       "id": "ex12-56",
       "rarity": "Common",
       "name": "Lileep",
-      "number": "56"
+      "number": "56/92"
     },
     {
       "id": "ex12-57",
       "rarity": "Common",
       "name": "Machop",
-      "number": "57"
+      "number": "57/92"
     },
     {
       "id": "ex12-58",
       "rarity": "Common",
       "name": "Magby",
-      "number": "58"
+      "number": "58/92"
     },
     {
       "id": "ex12-59",
       "rarity": "Common",
       "name": "Magnemite",
-      "number": "59"
+      "number": "59/92"
     },
     {
       "id": "ex12-60",
       "rarity": "Common",
       "name": "Omanyte",
-      "number": "60"
+      "number": "60/92"
     },
     {
       "id": "ex12-61",
       "rarity": "Common",
       "name": "Seedot",
-      "number": "61"
+      "number": "61/92"
     },
     {
       "id": "ex12-62",
       "rarity": "Common",
       "name": "Sentret",
-      "number": "62"
+      "number": "62/92"
     },
     {
       "id": "ex12-63",
       "rarity": "Common",
       "name": "Shuppet",
-      "number": "63"
+      "number": "63/92"
     },
     {
       "id": "ex12-64",
       "rarity": "Common",
       "name": "Skitty",
-      "number": "64"
+      "number": "64/92"
     },
     {
       "id": "ex12-65",
       "rarity": "Common",
       "name": "Spheal",
-      "number": "65"
+      "number": "65/92"
     },
     {
       "id": "ex12-66",
       "rarity": "Common",
       "name": "Tentacool",
-      "number": "66"
+      "number": "66/92"
     },
     {
       "id": "ex12-67",
       "rarity": "Common",
       "name": "Trapinch",
-      "number": "67"
+      "number": "67/92"
     },
     {
       "id": "ex12-68",
       "rarity": "Common",
       "name": "Voltorb",
-      "number": "68"
+      "number": "68/92"
     },
     {
       "id": "ex12-69",
       "rarity": "Common",
       "name": "Wailmer",
-      "number": "69"
+      "number": "69/92"
     },
     {
       "id": "ex12-70",
       "rarity": "Common",
       "name": "Wurmple",
-      "number": "70"
+      "number": "70/92"
     },
     {
       "id": "ex12-71",
       "rarity": "Common",
       "name": "Wynaut",
-      "number": "71"
+      "number": "71/92"
     },
     {
       "id": "ex12-72",
       "rarity": "Uncommon",
       "name": "Cursed Stone",
-      "number": "72"
+      "number": "72/92"
     },
     {
       "id": "ex12-73",
       "rarity": "Uncommon",
       "name": "Fieldworker",
-      "number": "73"
+      "number": "73/92"
     },
     {
       "id": "ex12-74",
       "rarity": "Uncommon",
       "name": "Full Flame",
-      "number": "74"
+      "number": "74/92"
     },
     {
       "id": "ex12-75",
       "rarity": "Uncommon",
       "name": "Giant Stump",
-      "number": "75"
+      "number": "75/92"
     },
     {
       "id": "ex12-76",
       "rarity": "Uncommon",
       "name": "Power Tree",
-      "number": "76"
+      "number": "76/92"
     },
     {
       "id": "ex12-77",
       "rarity": "Uncommon",
       "name": "Strange Cave",
-      "number": "77"
+      "number": "77/92"
     },
     {
       "id": "ex12-78",
       "rarity": "Common",
       "name": "Claw Fossil",
-      "number": "78"
+      "number": "78/92"
     },
     {
       "id": "ex12-79",
       "rarity": "Common",
       "name": "Mysterious Fossil",
-      "number": "79"
+      "number": "79/92"
     },
     {
       "id": "ex12-80",
       "rarity": "Common",
       "name": "Root Fossil",
-      "number": "80"
+      "number": "80/92"
     },
     {
       "id": "ex12-81",
       "rarity": "Rare",
       "name": "Rainbow Energy",
-      "number": "81"
+      "number": "81/92"
     },
     {
       "id": "ex12-82",
       "rarity": "Uncommon",
       "name": "React Energy",
-      "number": "82"
+      "number": "82/92"
     },
     {
       "id": "ex12-83",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Arcanine ex",
-      "number": "83"
+      "number": "83/92"
     },
     {
       "id": "ex12-84",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Armaldo ex",
-      "number": "84"
+      "number": "84/92"
     },
     {
       "id": "ex12-85",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Banette ex",
-      "number": "85"
+      "number": "85/92"
     },
     {
       "id": "ex12-86",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Dustox ex",
-      "number": "86"
+      "number": "86/92"
     },
     {
       "id": "ex12-87",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Flygon ex",
-      "number": "87"
+      "number": "87/92"
     },
     {
       "id": "ex12-88",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Mew ex",
-      "number": "88"
+      "number": "88/92"
     },
     {
       "id": "ex12-89",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Walrein ex",
-      "number": "89"
+      "number": "89/92"
     },
     {
       "id": "ex12-90",
-      "rarity": "Rare Holo",
+      "rarity": "Gold Star",
       "name": "Regice Star",
-      "number": "90"
+      "number": "90/92"
     },
     {
       "id": "ex12-91",
-      "rarity": "Rare Holo",
+      "rarity": "Gold Star",
       "name": "Regirock Star",
-      "number": "91"
+      "number": "91/92"
     },
     {
       "id": "ex12-92",
-      "rarity": "Rare Holo",
+      "rarity": "Gold Star",
       "name": "Registeel Star",
-      "number": "92"
+      "number": "92/92"
     },
     {
       "id": "ex12-93",
-      "rarity": "Rare Holo",
+      "rarity": "Secret Rare",
       "name": "Pikachu \u03b4",
-      "number": "93"
+      "number": "93/92"
     }
   ],
-  "additionalCards": [],
-  "other": []
+  "additionalCards": [
+    {
+      "name": "Gengar",
+      "number": "5/92",
+      "rarity": "",
+      "id": "ex12-ac-5",
+      "Description": "Gym Challenge Stamped Promo"
+    },
+    {
+      "name": "Golem",
+      "number": "6/92",
+      "rarity": "",
+      "id": "ex12-ac-6",
+      "Description": "Regional Championships Promo"
+    },
+    {
+      "name": "Skitty",
+      "number": "64/92",
+      "rarity": "",
+      "id": "ex12-ac-64",
+      "Description": "Kraze club Stamped Promo"
+    }
+  ],
+  "misprints": []
 }
