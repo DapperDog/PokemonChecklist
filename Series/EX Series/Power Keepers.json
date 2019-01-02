@@ -7,79 +7,79 @@
   "coreCards": [
     {
       "id": "ex16-1",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Aggron",
       "number": "1/108"
     },
     {
       "id": "ex16-2",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Altaria",
       "number": "2/108"
     },
     {
       "id": "ex16-3",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Armaldo",
       "number": "3/108"
     },
     {
       "id": "ex16-4",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Banette",
       "number": "4/108"
     },
     {
       "id": "ex16-5",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Blaziken",
       "number": "5/108"
     },
     {
       "id": "ex16-6",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Charizard",
       "number": "6/108"
     },
     {
       "id": "ex16-7",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Cradily",
       "number": "7/108"
     },
     {
       "id": "ex16-8",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Delcatty",
       "number": "8/108"
     },
     {
       "id": "ex16-9",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Gardevoir",
       "number": "9/108"
     },
     {
       "id": "ex16-10",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Kabutops",
       "number": "10/108"
     },
     {
       "id": "ex16-11",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Machamp",
       "number": "11/108"
     },
     {
       "id": "ex16-12",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Raichu",
       "number": "12/108"
     },
     {
       "id": "ex16-13",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Slaking",
       "number": "13/108"
     },
@@ -619,42 +619,42 @@
     },
     {
       "id": "ex16-103",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Grass Energy",
       "number": "103/108",
       "variants": ["Reverse"]
     },
     {
       "id": "ex16-104",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Fire Energy",
       "number": "104/108",
       "variants": ["Reverse"]
     },
     {
       "id": "ex16-105",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Water Energy",
       "number": "105/108",
       "variants": ["Reverse"]
     },
     {
       "id": "ex16-106",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Lightning Energy",
       "number": "106/108",
       "variants": ["Reverse"]
     },
     {
       "id": "ex16-107",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Psychic Energy",
       "number": "107/108",
       "variants": ["Reverse"]
     },
     {
       "id": "ex16-108",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Fighting Energy",
       "number": "108/108",
       "variants": ["Reverse"]

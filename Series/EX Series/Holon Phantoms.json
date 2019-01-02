@@ -7,103 +7,103 @@
   "coreCards": [
     {
       "id": "ex13-1",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Armaldo \u03b4",
       "number": "1/110"
     },
     {
       "id": "ex13-2",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Cradily \u03b4",
       "number": "2/110"
     },
     {
       "id": "ex13-3",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Deoxys \u03b4",
       "number": "3/110"
     },
     {
       "id": "ex13-4",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Deoxys \u03b4",
       "number": "4/110"
     },
     {
       "id": "ex13-5",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Deoxys \u03b4",
       "number": "5/110"
     },
     {
       "id": "ex13-6",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Deoxys \u03b4",
       "number": "6/110"
     },
     {
       "id": "ex13-7",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Flygon \u03b4",
       "number": "7/110"
     },
     {
       "id": "ex13-8",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Gyarados \u03b4",
       "number": "8/110"
     },
     {
       "id": "ex13-9",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Kabutops \u03b4",
       "number": "9/110"
     },
     {
       "id": "ex13-10",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Kingdra \u03b4",
       "number": "10/110"
     },
     {
       "id": "ex13-11",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Latias \u03b4",
       "number": "11/110"
     },
     {
       "id": "ex13-12",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Latios \u03b4",
       "number": "12/110"
     },
     {
       "id": "ex13-13",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Omastar \u03b4",
       "number": "13/110"
     },
     {
       "id": "ex13-14",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Pidgeot \u03b4",
       "number": "14/110"
     },
     {
       "id": "ex13-15",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Raichu \u03b4",
       "number": "15/110"
     },
     {
       "id": "ex13-16",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Rayquaza \u03b4",
       "number": "16/110"
     },
     {
       "id": "ex13-17",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Vileplume \u03b4",
       "number": "17/110"
     },
@@ -631,42 +631,42 @@
     },
     {
       "id": "ex13-105",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Grass Energy",
       "number": "105/110",
       "variants": ["Reverse"]
     },
     {
       "id": "ex13-106",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Fire Energy",
       "number": "106/110",
       "variants": ["Reverse"]
     },
     {
       "id": "ex13-107",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Water Energy",
       "number": "107/110",
       "variants": ["Reverse"]
     },
     {
       "id": "ex13-108",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Lightning Energy",
       "number": "108/110",
       "variants": ["Reverse"]
     },
     {
       "id": "ex13-109",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Psychic Energy",
       "number": "109/110",
       "variants": ["Reverse"]
     },
     {
       "id": "ex13-110",
-      "rarity": "Rare Holo",
+      "rarity": "Holo Rare",
       "name": "Fighting Energy",
       "number": "110/110",
       "variants": ["Reverse"]
