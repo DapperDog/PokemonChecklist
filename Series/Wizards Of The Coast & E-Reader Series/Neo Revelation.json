@@ -1,405 +1,405 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "unlimited",
-    "1st edition"
+    "Unlimited",
+    "1st Edition"
   ],
   "coreCards": [
     {
       "id": "neo3-1",
       "rarity": "Rare",
       "name": "Ampharos",
-      "number": "1"
+      "number": "1/64"
     },
     {
       "id": "neo3-2",
       "rarity": "Rare",
       "name": "Blissey",
-      "number": "2"
+      "number": "2/64"
     },
     {
       "id": "neo3-3",
       "rarity": "Rare",
       "name": "Celebi",
-      "number": "3"
+      "number": "3/64"
     },
     {
       "id": "neo3-4",
       "rarity": "Rare",
       "name": "Crobat",
-      "number": "4"
+      "number": "4/64"
     },
     {
       "id": "neo3-5",
       "rarity": "Rare",
       "name": "Delibird",
-      "number": "5"
+      "number": "5/64"
     },
     {
       "id": "neo3-6",
       "rarity": "Rare",
       "name": "Entei",
-      "number": "6"
+      "number": "6/64"
     },
     {
       "id": "neo3-7",
       "rarity": "Rare",
       "name": "Ho-oh",
-      "number": "7"
+      "number": "7/64"
     },
     {
       "id": "neo3-8",
       "rarity": "Rare",
       "name": "Houndoom",
-      "number": "8"
+      "number": "8/64"
     },
     {
       "id": "neo3-9",
       "rarity": "Rare",
       "name": "Jumpluff",
-      "number": "9"
+      "number": "9/64"
     },
     {
       "id": "neo3-10",
       "rarity": "Rare",
       "name": "Magneton",
-      "number": "10"
+      "number": "10/64"
     },
     {
       "id": "neo3-11",
       "rarity": "Rare",
       "name": "Misdreavus",
-      "number": "11"
+      "number": "11/64"
     },
     {
       "id": "neo3-12",
       "rarity": "Rare",
       "name": "Porygon2",
-      "number": "12"
+      "number": "12/64"
     },
     {
       "id": "neo3-13",
       "rarity": "Rare",
       "name": "Raikou",
-      "number": "13"
+      "number": "13/64"
     },
     {
       "id": "neo3-14",
       "rarity": "Rare",
       "name": "Suicune",
-      "number": "14"
+      "number": "14/64"
     },
     {
       "id": "neo3-15",
       "rarity": "Rare",
       "name": "Aerodactyl",
-      "number": "15"
+      "number": "15/64"
     },
     {
       "id": "neo3-16",
       "rarity": "Rare",
       "name": "Celebi",
-      "number": "16"
+      "number": "16/64"
     },
     {
       "id": "neo3-17",
       "rarity": "Rare",
       "name": "Entei",
-      "number": "17"
+      "number": "17/64"
     },
     {
       "id": "neo3-18",
       "rarity": "Rare",
       "name": "Ho-oh",
-      "number": "18"
+      "number": "18/64"
     },
     {
       "id": "neo3-19",
       "rarity": "Rare",
       "name": "Kingdra",
-      "number": "19"
+      "number": "19/64"
     },
     {
       "id": "neo3-20",
       "rarity": "Rare",
       "name": "Lugia",
-      "number": "20"
+      "number": "20/64"
     },
     {
       "id": "neo3-21",
       "rarity": "Rare",
       "name": "Raichu",
-      "number": "21"
+      "number": "21/64"
     },
     {
       "id": "neo3-22",
       "rarity": "Rare",
       "name": "Raikou",
-      "number": "22"
+      "number": "22/64"
     },
     {
       "id": "neo3-23",
       "rarity": "Rare",
       "name": "Skarmory",
-      "number": "23"
+      "number": "23/64"
     },
     {
       "id": "neo3-24",
       "rarity": "Rare",
       "name": "Sneasel",
-      "number": "24"
+      "number": "24/64"
     },
     {
       "id": "neo3-25",
       "rarity": "Rare",
       "name": "Starmie",
-      "number": "25"
+      "number": "25/64"
     },
     {
       "id": "neo3-26",
       "rarity": "Rare",
       "name": "Sudowoodo",
-      "number": "26"
+      "number": "26/64"
     },
     {
       "id": "neo3-27",
       "rarity": "Rare",
       "name": "Suicune",
-      "number": "27"
+      "number": "27/64"
     },
     {
       "id": "neo3-28",
       "rarity": "Uncommon",
       "name": "Flaaffy",
-      "number": "28"
+      "number": "28/64"
     },
     {
       "id": "neo3-29",
       "rarity": "Uncommon",
       "name": "Golbat",
-      "number": "29"
+      "number": "29/64"
     },
     {
       "id": "neo3-30",
       "rarity": "Uncommon",
       "name": "Graveler",
-      "number": "30"
+      "number": "30/64"
     },
     {
       "id": "neo3-31",
       "rarity": "Uncommon",
       "name": "Jynx",
-      "number": "31"
+      "number": "31/64"
     },
     {
       "id": "neo3-32",
       "rarity": "Uncommon",
       "name": "Lanturn",
-      "number": "32"
+      "number": "32/64"
     },
     {
       "id": "neo3-33",
       "rarity": "Uncommon",
       "name": "Magcargo",
-      "number": "33"
+      "number": "33/64"
     },
     {
       "id": "neo3-34",
       "rarity": "Uncommon",
       "name": "Octillery",
-      "number": "34"
+      "number": "34/64"
     },
     {
       "id": "neo3-35",
       "rarity": "Uncommon",
       "name": "Parasect",
-      "number": "35"
+      "number": "35/64"
     },
     {
       "id": "neo3-36",
       "rarity": "Uncommon",
       "name": "Piloswine",
-      "number": "36"
+      "number": "36/64"
     },
     {
       "id": "neo3-37",
       "rarity": "Uncommon",
       "name": "Seaking",
-      "number": "37"
+      "number": "37/64"
     },
     {
       "id": "neo3-38",
       "rarity": "Uncommon",
       "name": "Stantler",
-      "number": "38"
+      "number": "38/64"
     },
     {
       "id": "neo3-39",
       "rarity": "Uncommon",
       "name": "Unown [B]",
-      "number": "39"
+      "number": "39/64"
     },
     {
       "id": "neo3-40",
       "rarity": "Uncommon",
       "name": "Unown [Y]",
-      "number": "40"
+      "number": "40/64"
     },
     {
       "id": "neo3-41",
       "rarity": "Common",
       "name": "Aipom",
-      "number": "41"
+      "number": "41/64"
     },
     {
       "id": "neo3-42",
       "rarity": "Common",
       "name": "Chinchou",
-      "number": "42"
+      "number": "42/64"
     },
     {
       "id": "neo3-43",
       "rarity": "Common",
       "name": "Farfetch'd",
-      "number": "43"
+      "number": "43/64"
     },
     {
       "id": "neo3-44",
       "rarity": "Common",
       "name": "Geodude",
-      "number": "44"
+      "number": "44/64"
     },
     {
       "id": "neo3-45",
       "rarity": "Common",
       "name": "Goldeen",
-      "number": "45"
+      "number": "45/64"
     },
     {
       "id": "neo3-46",
       "rarity": "Common",
       "name": "Murkrow",
-      "number": "46"
+      "number": "46/64"
     },
     {
       "id": "neo3-47",
       "rarity": "Common",
       "name": "Paras",
-      "number": "47"
+      "number": "47/64"
     },
     {
       "id": "neo3-48",
       "rarity": "Common",
       "name": "Quagsire",
-      "number": "48"
+      "number": "48/64"
     },
     {
       "id": "neo3-49",
       "rarity": "Common",
       "name": "Qwilfish",
-      "number": "49"
+      "number": "49/64"
     },
     {
       "id": "neo3-50",
       "rarity": "Common",
       "name": "Remoraid",
-      "number": "50"
+      "number": "50/64"
     },
     {
       "id": "neo3-51",
       "rarity": "Common",
       "name": "Shuckle",
-      "number": "51"
+      "number": "51/64"
     },
     {
       "id": "neo3-52",
       "rarity": "Common",
       "name": "Skiploom",
-      "number": "52"
+      "number": "52/64"
     },
     {
       "id": "neo3-53",
       "rarity": "Common",
       "name": "Slugma",
-      "number": "53"
+      "number": "53/64"
     },
     {
       "id": "neo3-54",
       "rarity": "Common",
       "name": "Smoochum",
-      "number": "54"
+      "number": "54/64"
     },
     {
       "id": "neo3-55",
       "rarity": "Common",
       "name": "Snubbull",
-      "number": "55"
+      "number": "55/64"
     },
     {
       "id": "neo3-56",
       "rarity": "Common",
       "name": "Staryu",
-      "number": "56"
+      "number": "56/64"
     },
     {
       "id": "neo3-57",
       "rarity": "Common",
       "name": "Swinub",
-      "number": "57"
+      "number": "57/64"
     },
     {
       "id": "neo3-58",
       "rarity": "Common",
       "name": "Unown [K]",
-      "number": "58"
+      "number": "58/64"
     },
     {
       "id": "neo3-59",
       "rarity": "Common",
       "name": "Zubat",
-      "number": "59"
+      "number": "59/64"
     },
     {
       "id": "neo3-60",
       "rarity": "Uncommon",
       "name": "Balloon Berry",
-      "number": "60"
+      "number": "60/64"
     },
     {
       "id": "neo3-61",
       "rarity": "Uncommon",
       "name": "Healing Field",
-      "number": "61"
+      "number": "61/64"
     },
     {
       "id": "neo3-62",
       "rarity": "Uncommon",
       "name": "Pok\u00e9mon Breeder Fields",
-      "number": "62"
+      "number": "62/64"
     },
     {
       "id": "neo3-63",
       "rarity": "Uncommon",
       "name": "Rocket's Hideout",
-      "number": "63"
+      "number": "63/64"
     },
     {
       "id": "neo3-64",
       "rarity": "Common",
       "name": "Old Rod",
-      "number": "64"
+      "number": "64/64"
     },
     {
       "id": "neo3-65",
-      "rarity": "Rare",
+      "rarity": "Secret Rare",
       "name": "Shining Gyarados",
-      "number": "65"
+      "number": "65/64"
     },
     {
       "id": "neo3-66",
-      "rarity": "Rare",
+      "rarity": "Secret Rare",
       "name": "Shining Magikarp",
-      "number": "66"
+      "number": "66/64"
     }
   ],
   "additionalCards": [],

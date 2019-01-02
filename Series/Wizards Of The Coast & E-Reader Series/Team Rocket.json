@@ -1,527 +1,527 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "unlimited",
-    "1st edition"
+    "Unlimited",
+    "1st Edition"
   ],
   "coreCards": [
     {
       "id": "base5-1",
       "rarity": "Rare",
       "name": "Dark Alakazam",
-      "number": "1"
+      "number": "1/82"
     },
     {
       "id": "base5-2",
       "rarity": "Rare",
       "name": "Dark Arbok",
-      "number": "2"
+      "number": "2/82"
     },
     {
       "id": "base5-3",
       "rarity": "Rare",
       "name": "Dark Blastoise",
-      "number": "3"
+      "number": "3/82"
     },
     {
       "id": "base5-4",
       "rarity": "Rare",
       "name": "Dark Charizard",
-      "number": "4"
+      "number": "4/82"
     },
     {
       "id": "base5-5",
       "rarity": "Rare",
       "name": "Dark Dragonite",
-      "number": "5"
+      "number": "5/82"
     },
     {
       "id": "base5-6",
       "rarity": "Rare",
       "name": "Dark Dugtrio",
-      "number": "6"
+      "number": "6/82"
     },
     {
       "id": "base5-7",
       "rarity": "Rare",
       "name": "Dark Golbat",
-      "number": "7"
+      "number": "7/82"
     },
     {
       "id": "base5-8",
       "rarity": "Rare",
       "name": "Dark Gyarados",
-      "number": "8"
+      "number": "8/82"
     },
     {
       "id": "base5-9",
       "rarity": "Rare",
       "name": "Dark Hypno",
-      "number": "9"
+      "number": "9/82"
     },
     {
       "id": "base5-10",
       "rarity": "Rare",
       "name": "Dark Machamp",
-      "number": "10"
+      "number": "10/82"
     },
     {
       "id": "base5-11",
       "rarity": "Rare",
       "name": "Dark Magneton",
-      "number": "11"
+      "number": "11/82"
     },
     {
       "id": "base5-12",
       "rarity": "Rare",
       "name": "Dark Slowbro",
-      "number": "12"
+      "number": "12/82"
     },
     {
       "id": "base5-13",
       "rarity": "Rare",
       "name": "Dark Vileplume",
-      "number": "13"
+      "number": "13/82"
     },
     {
       "id": "base5-14",
       "rarity": "Rare",
       "name": "Dark Weezing",
-      "number": "14"
+      "number": "14/82"
     },
     {
       "id": "base5-15",
       "rarity": "Rare",
       "name": "Here Comes Team Rocket!",
-      "number": "15"
+      "number": "15/82"
     },
     {
       "id": "base5-16",
       "rarity": "Rare",
       "name": "Rocket's Sneak Attack",
-      "number": "16"
+      "number": "16/82"
     },
     {
       "id": "base5-17",
       "rarity": "Rare",
       "name": "Rainbow Energy",
-      "number": "17"
+      "number": "17/82"
     },
     {
       "id": "base5-18",
       "rarity": "Rare",
       "name": "Dark Alakazam",
-      "number": "18"
+      "number": "18/82"
     },
     {
       "id": "base5-19",
       "rarity": "Rare",
       "name": "Dark Arbok",
-      "number": "19"
+      "number": "19/82"
     },
     {
       "id": "base5-20",
       "rarity": "Rare",
       "name": "Dark Blastoise",
-      "number": "20"
+      "number": "20/82"
     },
     {
       "id": "base5-21",
       "rarity": "Rare",
       "name": "Dark Charizard",
-      "number": "21"
+      "number": "21/82"
     },
     {
       "id": "base5-22",
       "rarity": "Rare",
       "name": "Dark Dragonite",
-      "number": "22"
+      "number": "22/82"
     },
     {
       "id": "base5-23",
       "rarity": "Rare",
       "name": "Dark Dugtrio",
-      "number": "23"
+      "number": "23/82"
     },
     {
       "id": "base5-24",
       "rarity": "Rare",
       "name": "Dark Golbat",
-      "number": "24"
+      "number": "24/82"
     },
     {
       "id": "base5-25",
       "rarity": "Rare",
       "name": "Dark Gyarados",
-      "number": "25"
+      "number": "25/82"
     },
     {
       "id": "base5-26",
       "rarity": "Rare",
       "name": "Dark Hypno",
-      "number": "26"
+      "number": "26/82"
     },
     {
       "id": "base5-27",
       "rarity": "Rare",
       "name": "Dark Machamp",
-      "number": "27"
+      "number": "27/82"
     },
     {
       "id": "base5-28",
       "rarity": "Rare",
       "name": "Dark Magneton",
-      "number": "28"
+      "number": "28/82"
     },
     {
       "id": "base5-29",
       "rarity": "Rare",
       "name": "Dark Slowbro",
-      "number": "29"
+      "number": "29/82"
     },
     {
       "id": "base5-30",
       "rarity": "Rare",
       "name": "Dark Vileplume",
-      "number": "30"
+      "number": "30/82"
     },
     {
       "id": "base5-31",
       "rarity": "Rare",
       "name": "Dark Weezing",
-      "number": "31"
+      "number": "31/82"
     },
     {
       "id": "base5-32",
       "rarity": "Uncommon",
       "name": "Dark Charmeleon",
-      "number": "32"
+      "number": "32/82"
     },
     {
       "id": "base5-33",
       "rarity": "Uncommon",
       "name": "Dark Dragonair",
-      "number": "33"
+      "number": "33/82"
     },
     {
       "id": "base5-34",
       "rarity": "Uncommon",
       "name": "Dark Electrode",
-      "number": "34"
+      "number": "34/82"
     },
     {
       "id": "base5-35",
       "rarity": "Uncommon",
       "name": "Dark Flareon",
-      "number": "35"
+      "number": "35/82"
     },
     {
       "id": "base5-36",
       "rarity": "Uncommon",
       "name": "Dark Gloom",
-      "number": "36"
+      "number": "36/82"
     },
     {
       "id": "base5-37",
       "rarity": "Uncommon",
       "name": "Dark Golduck",
-      "number": "37"
+      "number": "37/82"
     },
     {
       "id": "base5-38",
       "rarity": "Uncommon",
       "name": "Dark Jolteon",
-      "number": "38"
+      "number": "38/82"
     },
     {
       "id": "base5-39",
       "rarity": "Uncommon",
       "name": "Dark Kadabra",
-      "number": "39"
+      "number": "39/82"
     },
     {
       "id": "base5-40",
       "rarity": "Uncommon",
       "name": "Dark Machoke",
-      "number": "40"
+      "number": "40/82"
     },
     {
       "id": "base5-41",
       "rarity": "Uncommon",
       "name": "Dark Muk",
-      "number": "41"
+      "number": "41/82"
     },
     {
       "id": "base5-42",
       "rarity": "Uncommon",
       "name": "Dark Persian",
-      "number": "42"
+      "number": "42/82"
     },
     {
       "id": "base5-43",
       "rarity": "Uncommon",
       "name": "Dark Primeape",
-      "number": "43"
+      "number": "43/82"
     },
     {
       "id": "base5-44",
       "rarity": "Uncommon",
       "name": "Dark Rapidash",
-      "number": "44"
+      "number": "44/82"
     },
     {
       "id": "base5-45",
       "rarity": "Uncommon",
       "name": "Dark Vaporeon",
-      "number": "45"
+      "number": "45/82"
     },
     {
       "id": "base5-46",
       "rarity": "Uncommon",
       "name": "Dark Wartortle",
-      "number": "46"
+      "number": "46/82"
     },
     {
       "id": "base5-47",
       "rarity": "Uncommon",
       "name": "Magikarp",
-      "number": "47"
+      "number": "47/82"
     },
     {
       "id": "base5-48",
       "rarity": "Uncommon",
       "name": "Porygon",
-      "number": "48"
+      "number": "48/82"
     },
     {
       "id": "base5-49",
       "rarity": "Common",
       "name": "Abra",
-      "number": "49"
+      "number": "49/82"
     },
     {
       "id": "base5-50",
       "rarity": "Common",
       "name": "Charmander",
-      "number": "50"
+      "number": "50/82"
     },
     {
       "id": "base5-51",
       "rarity": "Common",
       "name": "Dark Raticate",
-      "number": "51"
+      "number": "51/82"
     },
     {
       "id": "base5-52",
       "rarity": "Common",
       "name": "Diglett",
-      "number": "52"
+      "number": "52/82"
     },
     {
       "id": "base5-53",
       "rarity": "Common",
       "name": "Dratini",
-      "number": "53"
+      "number": "53/82"
     },
     {
       "id": "base5-54",
       "rarity": "Common",
       "name": "Drowzee",
-      "number": "54"
+      "number": "54/82"
     },
     {
       "id": "base5-55",
       "rarity": "Common",
       "name": "Eevee",
-      "number": "55"
+      "number": "55/82"
     },
     {
       "id": "base5-56",
       "rarity": "Common",
       "name": "Ekans",
-      "number": "56"
+      "number": "56/82"
     },
     {
       "id": "base5-57",
       "rarity": "Common",
       "name": "Grimer",
-      "number": "57"
+      "number": "57/82"
     },
     {
       "id": "base5-58",
       "rarity": "Common",
       "name": "Koffing",
-      "number": "58"
+      "number": "58/82"
     },
     {
       "id": "base5-59",
       "rarity": "Common",
       "name": "Machop",
-      "number": "59"
+      "number": "59/82"
     },
     {
       "id": "base5-60",
       "rarity": "Common",
       "name": "Magnemite",
-      "number": "60"
+      "number": "60/82"
     },
     {
       "id": "base5-61",
       "rarity": "Common",
       "name": "Mankey",
-      "number": "61"
+      "number": "61/82"
     },
     {
       "id": "base5-62",
       "rarity": "Common",
       "name": "Meowth",
-      "number": "62"
+      "number": "62/82"
     },
     {
       "id": "base5-63",
       "rarity": "Common",
       "name": "Oddish",
-      "number": "63"
+      "number": "63/82"
     },
     {
       "id": "base5-64",
       "rarity": "Common",
       "name": "Ponyta",
-      "number": "64"
+      "number": "64/82"
     },
     {
       "id": "base5-65",
       "rarity": "Common",
       "name": "Psyduck",
-      "number": "65"
+      "number": "65/82"
     },
     {
       "id": "base5-66",
       "rarity": "Common",
       "name": "Rattata",
-      "number": "66"
+      "number": "66/82"
     },
     {
       "id": "base5-67",
       "rarity": "Common",
       "name": "Slowpoke",
-      "number": "67"
+      "number": "67/82"
     },
     {
       "id": "base5-68",
       "rarity": "Common",
       "name": "Squirtle",
-      "number": "68"
+      "number": "68/82"
     },
     {
       "id": "base5-69",
       "rarity": "Common",
       "name": "Voltorb",
-      "number": "69"
+      "number": "69/82"
     },
     {
       "id": "base5-70",
       "rarity": "Common",
       "name": "Zubat",
-      "number": "70"
+      "number": "70/82"
     },
     {
       "id": "base5-71",
       "rarity": "Rare",
       "name": "Here Comes Team Rocket!",
-      "number": "71"
+      "number": "71/82"
     },
     {
       "id": "base5-72",
       "rarity": "Rare",
       "name": "Rocket's Sneak Attack",
-      "number": "72"
+      "number": "72/82"
     },
     {
       "id": "base5-73",
       "rarity": "Uncommon",
       "name": "The Boss's Way",
-      "number": "73"
+      "number": "73/82"
     },
     {
       "id": "base5-74",
       "rarity": "Uncommon",
       "name": "Challenge!",
-      "number": "74"
+      "number": "74/82"
     },
     {
       "id": "base5-75",
       "rarity": "Uncommon",
       "name": "Digger",
-      "number": "75"
+      "number": "75/82"
     },
     {
       "id": "base5-76",
       "rarity": "Uncommon",
       "name": "Imposter Oak's Revenge",
-      "number": "76"
+      "number": "76/82"
     },
     {
       "id": "base5-77",
       "rarity": "Uncommon",
       "name": "Nightly Garbage Run",
-      "number": "77"
+      "number": "77/82"
     },
     {
       "id": "base5-78",
       "rarity": "Common",
       "name": "Goop Gas Attack",
-      "number": "78"
+      "number": "78/82"
     },
     {
       "id": "base5-79",
       "rarity": "Common",
       "name": "Sleep!",
-      "number": "79"
+      "number": "79/82"
     },
     {
       "id": "base5-80",
       "rarity": "Rare",
       "name": "Rainbow Energy",
-      "number": "80"
+      "number": "80/82"
     },
     {
       "id": "base5-81",
       "rarity": "Uncommon",
       "name": "Full Heal Energy",
-      "number": "81"
+      "number": "81/82"
     },
     {
       "id": "base5-82",
       "rarity": "Uncommon",
       "name": "Potion Energy",
-      "number": "82"
+      "number": "82/82"
     },
     {
       "id": "base5-83",
-      "rarity": "Rare",
+      "rarity": "Secret Rare",
       "name": "Dark Raichu",
-      "number": "83"
+      "number": "83/82"
     }
   ],
   "additionalCards": [
     {
       "name": "Dark Gyarados",
-      "number": 8,
+      "number": "8/82",
       "rarity": "Pre-release",
       "id": "base5-ac-8",
       "description": "Prerelease stamp"
     },
     {
       "name": "Arbok",
-      "number": 19,
+      "number": "19/82",
       "rarity": "",
       "id": "base5-ac-19",
       "description": "W Stamped"
     },
     {
       "name": "Dark Charmeleon",
-      "number": 32,
+      "number": "32/82",
       "rarity": "",
       "id": "base5-ac-32",
       "description": "W Stamped"
@@ -530,7 +530,7 @@
   "misprints": [
     {
       "name": "Dark Dragonite",
-      "number": 5,
+      "number": "5/82",
       "rarity": "non-holo misprint",
       "id": "base5-mp-5",
       "description": "non-holo version with #5 instead of 22"

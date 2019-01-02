@@ -1,78 +1,78 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "have"
+    "Have"
   ],
   "coreCards": [
     {
       "name": "Alakazam",
-      "number": 1,
+      "number": "1/12",
       "rarity": "Oversized",
       "id": "boxtop-1"
     },
     {
       "name": "Feraligatr",
-      "number": 2,
+      "number": "2/12",
       "rarity": "Oversized",
       "id": "boxtop-2"
     },
     {
       "name": "Tyranitar",
-      "number": 3,
+      "number": "3/12",
       "rarity": "Oversized",
       "id": "boxtop-3"
     },
     {
       "name": "Venusaur",
-      "number": 4,
+      "number": "4/12",
       "rarity": "Oversized",
       "id": "boxtop-4"
     },
     {
       "name": "Entei",
-      "number": 5,
+      "number": "5/12",
       "rarity": "Oversized",
       "id": "boxtop-5"
     },
     {
       "name": "Espeon",
-      "number": 6,
+      "number": "6/12",
       "rarity": "Oversized",
       "id": "boxtop-6"
     },
     {
       "name": "Scizor",
-      "number": 7,
+      "number": "7/12",
       "rarity": "Oversized",
       "id": "boxtop-7"
     },
     {
       "name": "Suicune",
-      "number": 8,
+      "number": "8/12",
       "rarity": "Oversized",
       "id": "boxtop-8"
     },
     {
       "name": "Charizard",
-      "number": 9,
+      "number": "9/12",
       "rarity": "Oversized",
       "id": "boxtop-9"
     },
     {
       "name": "Crobat",
-      "number": 10,
+      "number": "10/12",
       "rarity": "Oversized",
       "id": "boxtop-10"
     },
     {
       "name": "Ho-oh",
-      "number": 11,
+      "number": "11/12",
       "rarity": "Oversized",
       "id": "boxtop-11"
     },
     {
       "name": "Kabutops",
-      "number": 12,
+      "number": "12/12",
       "rarity": "Oversized",
       "id": "boxtop-12"
     }

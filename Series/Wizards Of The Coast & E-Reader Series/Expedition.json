@@ -1,1019 +1,1019 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Core",
+    "Reverse"
   ],
   "coreCards": [
     {
       "id": "ecard1-1",
       "rarity": "Rare",
       "name": "Alakazam",
-      "number": "1"
+      "number": "1/165"
     },
     {
       "id": "ecard1-2",
       "rarity": "Rare",
       "name": "Ampharos",
-      "number": "2"
+      "number": "2/165"
     },
     {
       "id": "ecard1-3",
       "rarity": "Rare",
       "name": "Arbok",
-      "number": "3"
+      "number": "3/165"
     },
     {
       "id": "ecard1-4",
       "rarity": "Rare",
       "name": "Blastoise",
-      "number": "4"
+      "number": "4/165"
     },
     {
       "id": "ecard1-5",
       "rarity": "Rare",
       "name": "Butterfree",
-      "number": "5"
+      "number": "5/165"
     },
     {
       "id": "ecard1-6",
       "rarity": "Rare",
       "name": "Charizard",
-      "number": "6"
+      "number": "6/165"
     },
     {
       "id": "ecard1-7",
       "rarity": "Rare",
       "name": "Clefable",
-      "number": "7"
+      "number": "7/165"
     },
     {
       "id": "ecard1-8",
       "rarity": "Rare",
       "name": "Cloyster",
-      "number": "8"
+      "number": "8/165"
     },
     {
       "id": "ecard1-9",
       "rarity": "Rare",
       "name": "Dragonite",
-      "number": "9"
+      "number": "9/165"
     },
     {
       "id": "ecard1-10",
       "rarity": "Rare",
       "name": "Dugtrio",
-      "number": "10"
+      "number": "10/165"
     },
     {
       "id": "ecard1-11",
       "rarity": "Rare",
       "name": "Fearow",
-      "number": "11"
+      "number": "11/165"
     },
     {
       "id": "ecard1-12",
       "rarity": "Rare",
       "name": "Feraligatr",
-      "number": "12"
+      "number": "12/165"
     },
     {
       "id": "ecard1-13",
       "rarity": "Rare",
       "name": "Gengar",
-      "number": "13"
+      "number": "13/165"
     },
     {
       "id": "ecard1-14",
       "rarity": "Rare",
       "name": "Golem",
-      "number": "14"
+      "number": "14/165"
     },
     {
       "id": "ecard1-15",
       "rarity": "Rare",
       "name": "Kingler",
-      "number": "15"
+      "number": "15/165"
     },
     {
       "id": "ecard1-16",
       "rarity": "Rare",
       "name": "Machamp",
-      "number": "16"
+      "number": "16/165"
     },
     {
       "id": "ecard1-17",
       "rarity": "Rare",
       "name": "Magby",
-      "number": "17"
+      "number": "17/165"
     },
     {
       "id": "ecard1-18",
       "rarity": "Rare",
       "name": "Meganium",
-      "number": "18"
+      "number": "18/165"
     },
     {
       "id": "ecard1-19",
       "rarity": "Rare",
       "name": "Mew",
-      "number": "19"
+      "number": "19/165"
     },
     {
       "id": "ecard1-20",
       "rarity": "Rare",
       "name": "Mewtwo",
-      "number": "20"
+      "number": "20/165"
     },
     {
       "id": "ecard1-21",
       "rarity": "Rare",
       "name": "Ninetales",
-      "number": "21"
+      "number": "21/165"
     },
     {
       "id": "ecard1-22",
       "rarity": "Rare",
       "name": "Pichu",
-      "number": "22"
+      "number": "22/165"
     },
     {
       "id": "ecard1-23",
       "rarity": "Rare",
       "name": "Pidgeot",
-      "number": "23"
+      "number": "23/165"
     },
     {
       "id": "ecard1-24",
       "rarity": "Rare",
       "name": "Poliwrath",
-      "number": "24"
+      "number": "24/165"
     },
     {
       "id": "ecard1-25",
       "rarity": "Rare",
       "name": "Raichu",
-      "number": "25"
+      "number": "25/165"
     },
     {
       "id": "ecard1-26",
       "rarity": "Rare",
       "name": "Rapidash",
-      "number": "26"
+      "number": "26/165"
     },
     {
       "id": "ecard1-27",
       "rarity": "Rare",
       "name": "Skarmory",
-      "number": "27"
+      "number": "27/165"
     },
     {
       "id": "ecard1-28",
       "rarity": "Rare",
       "name": "Typhlosion",
-      "number": "28"
+      "number": "28/165"
     },
     {
       "id": "ecard1-29",
       "rarity": "Rare",
       "name": "Tyranitar",
-      "number": "29"
+      "number": "29/165"
     },
     {
       "id": "ecard1-30",
       "rarity": "Rare",
       "name": "Venusaur",
-      "number": "30"
+      "number": "30/165"
     },
     {
       "id": "ecard1-31",
       "rarity": "Rare",
       "name": "Vileplume",
-      "number": "31"
+      "number": "31/165"
     },
     {
       "id": "ecard1-32",
       "rarity": "Rare",
       "name": "Weezing",
-      "number": "32"
+      "number": "32/165"
     },
     {
       "id": "ecard1-33",
       "rarity": "Rare",
       "name": "Alakazam",
-      "number": "33"
+      "number": "33/165"
     },
     {
       "id": "ecard1-34",
       "rarity": "Rare",
       "name": "Ampharos",
-      "number": "34"
+      "number": "34/165"
     },
     {
       "id": "ecard1-35",
       "rarity": "Rare",
       "name": "Arbok",
-      "number": "35"
+      "number": "35/165"
     },
     {
       "id": "ecard1-36",
       "rarity": "Rare",
       "name": "Blastoise",
-      "number": "36"
+      "number": "36/165"
     },
     {
       "id": "ecard1-37",
       "rarity": "Rare",
       "name": "Blastoise",
-      "number": "37"
+      "number": "37/165"
     },
     {
       "id": "ecard1-38",
       "rarity": "Rare",
       "name": "Butterfree",
-      "number": "38"
+      "number": "38/165"
     },
     {
       "id": "ecard1-39",
       "rarity": "Rare",
       "name": "Charizard",
-      "number": "39"
+      "number": "39/165"
     },
     {
       "id": "ecard1-40",
       "rarity": "Rare",
       "name": "Charizard",
-      "number": "40"
+      "number": "40/165"
     },
     {
       "id": "ecard1-41",
       "rarity": "Rare",
       "name": "Clefable",
-      "number": "41"
+      "number": "41/165"
     },
     {
       "id": "ecard1-42",
       "rarity": "Rare",
       "name": "Cloyster",
-      "number": "42"
+      "number": "42/165"
     },
     {
       "id": "ecard1-43",
       "rarity": "Rare",
       "name": "Dragonite",
-      "number": "43"
+      "number": "43/165"
     },
     {
       "id": "ecard1-44",
       "rarity": "Rare",
       "name": "Dugtrio",
-      "number": "44"
+      "number": "44/165"
     },
     {
       "id": "ecard1-45",
       "rarity": "Rare",
       "name": "Fearow",
-      "number": "45"
+      "number": "45/165"
     },
     {
       "id": "ecard1-46",
       "rarity": "Rare",
       "name": "Feraligatr",
-      "number": "46"
+      "number": "46/165"
     },
     {
       "id": "ecard1-47",
       "rarity": "Rare",
       "name": "Feraligatr",
-      "number": "47"
+      "number": "47/165"
     },
     {
       "id": "ecard1-48",
       "rarity": "Rare",
       "name": "Gengar",
-      "number": "48"
+      "number": "48/165"
     },
     {
       "id": "ecard1-49",
       "rarity": "Rare",
       "name": "Golem",
-      "number": "49"
+      "number": "49/165"
     },
     {
       "id": "ecard1-50",
       "rarity": "Rare",
       "name": "Kingler",
-      "number": "50"
+      "number": "50/165"
     },
     {
       "id": "ecard1-51",
       "rarity": "Rare",
       "name": "Machamp",
-      "number": "51"
+      "number": "51/165"
     },
     {
       "id": "ecard1-52",
       "rarity": "Rare",
       "name": "Magby",
-      "number": "52"
+      "number": "52/165"
     },
     {
       "id": "ecard1-53",
       "rarity": "Rare",
       "name": "Meganium",
-      "number": "53"
+      "number": "53/165"
     },
     {
       "id": "ecard1-54",
       "rarity": "Rare",
       "name": "Meganium",
-      "number": "54"
+      "number": "54/165"
     },
     {
       "id": "ecard1-55",
       "rarity": "Rare",
       "name": "Mew",
-      "number": "55"
+      "number": "55/165"
     },
     {
       "id": "ecard1-56",
       "rarity": "Rare",
       "name": "Mewtwo",
-      "number": "56"
+      "number": "56/165"
     },
     {
       "id": "ecard1-57",
       "rarity": "Rare",
       "name": "Ninetales",
-      "number": "57"
+      "number": "57/165"
     },
     {
       "id": "ecard1-58",
       "rarity": "Rare",
       "name": "Pichu",
-      "number": "58"
+      "number": "58/165"
     },
     {
       "id": "ecard1-59",
       "rarity": "Rare",
       "name": "Pidgeot",
-      "number": "59"
+      "number": "59/165"
     },
     {
       "id": "ecard1-60",
       "rarity": "Rare",
       "name": "Poliwrath",
-      "number": "60"
+      "number": "60/165"
     },
     {
       "id": "ecard1-61",
       "rarity": "Rare",
       "name": "Raichu",
-      "number": "61"
+      "number": "61/165"
     },
     {
       "id": "ecard1-62",
       "rarity": "Rare",
       "name": "Rapidash",
-      "number": "62"
+      "number": "62/165"
     },
     {
       "id": "ecard1-63",
       "rarity": "Rare",
       "name": "Skarmory",
-      "number": "63"
+      "number": "63/165"
     },
     {
       "id": "ecard1-64",
       "rarity": "Rare",
       "name": "Typhlosion",
-      "number": "64"
+      "number": "64/165"
     },
     {
       "id": "ecard1-65",
       "rarity": "Rare",
       "name": "Typhlosion",
-      "number": "65"
+      "number": "65/165"
     },
     {
       "id": "ecard1-66",
       "rarity": "Rare",
       "name": "Tyranitar",
-      "number": "66"
+      "number": "66/165"
     },
     {
       "id": "ecard1-67",
       "rarity": "Rare",
       "name": "Venusaur",
-      "number": "67"
+      "number": "67/165"
     },
     {
       "id": "ecard1-68",
       "rarity": "Rare",
       "name": "Venusaur",
-      "number": "68"
+      "number": "68/165"
     },
     {
       "id": "ecard1-69",
       "rarity": "Rare",
       "name": "Vileplume",
-      "number": "69"
+      "number": "69/165"
     },
     {
       "id": "ecard1-70",
       "rarity": "Rare",
       "name": "Weezing",
-      "number": "70"
+      "number": "70/165"
     },
     {
       "id": "ecard1-71",
       "rarity": "Uncommon",
       "name": "Bayleef",
-      "number": "71"
+      "number": "71/165"
     },
     {
       "id": "ecard1-72",
       "rarity": "Uncommon",
       "name": "Chansey",
-      "number": "72"
+      "number": "72/165"
     },
     {
       "id": "ecard1-73",
       "rarity": "Uncommon",
       "name": "Charmeleon",
-      "number": "73"
+      "number": "73/165"
     },
     {
       "id": "ecard1-74",
       "rarity": "Uncommon",
       "name": "Croconaw",
-      "number": "74"
+      "number": "74/165"
     },
     {
       "id": "ecard1-75",
       "rarity": "Uncommon",
       "name": "Dragonair",
-      "number": "75"
+      "number": "75/165"
     },
     {
       "id": "ecard1-76",
       "rarity": "Uncommon",
       "name": "Electabuzz",
-      "number": "76"
+      "number": "76/165"
     },
     {
       "id": "ecard1-77",
       "rarity": "Uncommon",
       "name": "Flaaffy",
-      "number": "77"
+      "number": "77/165"
     },
     {
       "id": "ecard1-78",
       "rarity": "Uncommon",
       "name": "Gloom",
-      "number": "78"
+      "number": "78/165"
     },
     {
       "id": "ecard1-79",
       "rarity": "Uncommon",
       "name": "Graveler",
-      "number": "79"
+      "number": "79/165"
     },
     {
       "id": "ecard1-80",
       "rarity": "Uncommon",
       "name": "Haunter",
-      "number": "80"
+      "number": "80/165"
     },
     {
       "id": "ecard1-81",
       "rarity": "Uncommon",
       "name": "Hitmonlee",
-      "number": "81"
+      "number": "81/165"
     },
     {
       "id": "ecard1-82",
       "rarity": "Uncommon",
       "name": "Ivysaur",
-      "number": "82"
+      "number": "82/165"
     },
     {
       "id": "ecard1-83",
       "rarity": "Uncommon",
       "name": "Jynx",
-      "number": "83"
+      "number": "83/165"
     },
     {
       "id": "ecard1-84",
       "rarity": "Uncommon",
       "name": "Kadabra",
-      "number": "84"
+      "number": "84/165"
     },
     {
       "id": "ecard1-85",
       "rarity": "Uncommon",
       "name": "Machoke",
-      "number": "85"
+      "number": "85/165"
     },
     {
       "id": "ecard1-86",
       "rarity": "Uncommon",
       "name": "Magmar",
-      "number": "86"
+      "number": "86/165"
     },
     {
       "id": "ecard1-87",
       "rarity": "Uncommon",
       "name": "Metapod",
-      "number": "87"
+      "number": "87/165"
     },
     {
       "id": "ecard1-88",
       "rarity": "Uncommon",
       "name": "Pidgeotto",
-      "number": "88"
+      "number": "88/165"
     },
     {
       "id": "ecard1-89",
       "rarity": "Uncommon",
       "name": "Poliwhirl",
-      "number": "89"
+      "number": "89/165"
     },
     {
       "id": "ecard1-90",
       "rarity": "Uncommon",
       "name": "Pupitar",
-      "number": "90"
+      "number": "90/165"
     },
     {
       "id": "ecard1-91",
       "rarity": "Uncommon",
       "name": "Quilava",
-      "number": "91"
+      "number": "91/165"
     },
     {
       "id": "ecard1-92",
       "rarity": "Uncommon",
       "name": "Wartortle",
-      "number": "92"
+      "number": "92/165"
     },
     {
       "id": "ecard1-93",
       "rarity": "Common",
       "name": "Abra",
-      "number": "93"
+      "number": "93/165"
     },
     {
       "id": "ecard1-94",
       "rarity": "Common",
       "name": "Bulbasaur",
-      "number": "94"
+      "number": "94/165"
     },
     {
       "id": "ecard1-95",
       "rarity": "Common",
       "name": "Bulbasaur",
-      "number": "95"
+      "number": "95/165"
     },
     {
       "id": "ecard1-96",
       "rarity": "Common",
       "name": "Caterpie",
-      "number": "96"
+      "number": "96/165"
     },
     {
       "id": "ecard1-97",
       "rarity": "Common",
       "name": "Charmander",
-      "number": "97"
+      "number": "97/165"
     },
     {
       "id": "ecard1-98",
       "rarity": "Common",
       "name": "Charmander",
-      "number": "98"
+      "number": "98/165"
     },
     {
       "id": "ecard1-99",
       "rarity": "Common",
       "name": "Chikorita",
-      "number": "99"
+      "number": "99/165"
     },
     {
       "id": "ecard1-100",
       "rarity": "Common",
       "name": "Chikorita",
-      "number": "100"
+      "number": "100/165"
     },
     {
       "id": "ecard1-101",
       "rarity": "Common",
       "name": "Clefairy",
-      "number": "101"
+      "number": "101/165"
     },
     {
       "id": "ecard1-102",
       "rarity": "Common",
       "name": "Corsola",
-      "number": "102"
+      "number": "102/165"
     },
     {
       "id": "ecard1-103",
       "rarity": "Common",
       "name": "Cubone",
-      "number": "103"
+      "number": "103/165"
     },
     {
       "id": "ecard1-104",
       "rarity": "Common",
       "name": "Cyndaquil",
-      "number": "104"
+      "number": "104/165"
     },
     {
       "id": "ecard1-105",
       "rarity": "Common",
       "name": "Cyndaquil",
-      "number": "105"
+      "number": "105/165"
     },
     {
       "id": "ecard1-106",
       "rarity": "Common",
       "name": "Diglett",
-      "number": "106"
+      "number": "106/165"
     },
     {
       "id": "ecard1-107",
       "rarity": "Common",
       "name": "Dratini",
-      "number": "107"
+      "number": "107/165"
     },
     {
       "id": "ecard1-108",
       "rarity": "Common",
       "name": "Ekans",
-      "number": "108"
+      "number": "108/165"
     },
     {
       "id": "ecard1-109",
       "rarity": "Common",
       "name": "Gastly",
-      "number": "109"
+      "number": "109/165"
     },
     {
       "id": "ecard1-110",
       "rarity": "Common",
       "name": "Geodude",
-      "number": "110"
+      "number": "110/165"
     },
     {
       "id": "ecard1-111",
       "rarity": "Common",
       "name": "Goldeen",
-      "number": "111"
+      "number": "111/165"
     },
     {
       "id": "ecard1-112",
       "rarity": "Common",
       "name": "Hoppip",
-      "number": "112"
+      "number": "112/165"
     },
     {
       "id": "ecard1-113",
       "rarity": "Common",
       "name": "Houndour",
-      "number": "113"
+      "number": "113/165"
     },
     {
       "id": "ecard1-114",
       "rarity": "Common",
       "name": "Koffing",
-      "number": "114"
+      "number": "114/165"
     },
     {
       "id": "ecard1-115",
       "rarity": "Common",
       "name": "Krabby",
-      "number": "115"
+      "number": "115/165"
     },
     {
       "id": "ecard1-116",
       "rarity": "Common",
       "name": "Larvitar",
-      "number": "116"
+      "number": "116/165"
     },
     {
       "id": "ecard1-117",
       "rarity": "Common",
       "name": "Machop",
-      "number": "117"
+      "number": "117/165"
     },
     {
       "id": "ecard1-118",
       "rarity": "Common",
       "name": "Magikarp",
-      "number": "118"
+      "number": "118/165"
     },
     {
       "id": "ecard1-119",
       "rarity": "Common",
       "name": "Mareep",
-      "number": "119"
+      "number": "119/165"
     },
     {
       "id": "ecard1-120",
       "rarity": "Common",
       "name": "Marill",
-      "number": "120"
+      "number": "120/165"
     },
     {
       "id": "ecard1-121",
       "rarity": "Common",
       "name": "Meowth",
-      "number": "121"
+      "number": "121/165"
     },
     {
       "id": "ecard1-122",
       "rarity": "Common",
       "name": "Oddish",
-      "number": "122"
+      "number": "122/165"
     },
     {
       "id": "ecard1-123",
       "rarity": "Common",
       "name": "Pidgey",
-      "number": "123"
+      "number": "123/165"
     },
     {
       "id": "ecard1-124",
       "rarity": "Common",
       "name": "Pikachu",
-      "number": "124"
+      "number": "124/165"
     },
     {
       "id": "ecard1-125",
       "rarity": "Common",
       "name": "Poliwag",
-      "number": "125"
+      "number": "125/165"
     },
     {
       "id": "ecard1-126",
       "rarity": "Common",
       "name": "Ponyta",
-      "number": "126"
+      "number": "126/165"
     },
     {
       "id": "ecard1-127",
       "rarity": "Common",
       "name": "Qwilfish",
-      "number": "127"
+      "number": "127/165"
     },
     {
       "id": "ecard1-128",
       "rarity": "Common",
       "name": "Rattata",
-      "number": "128"
+      "number": "128/165"
     },
     {
       "id": "ecard1-129",
       "rarity": "Common",
       "name": "Shellder",
-      "number": "129"
+      "number": "129/165"
     },
     {
       "id": "ecard1-130",
       "rarity": "Common",
       "name": "Spearow",
-      "number": "130"
+      "number": "130/165"
     },
     {
       "id": "ecard1-131",
       "rarity": "Common",
       "name": "Squirtle",
-      "number": "131"
+      "number": "131/165"
     },
     {
       "id": "ecard1-132",
       "rarity": "Common",
       "name": "Squirtle",
-      "number": "132"
+      "number": "132/165"
     },
     {
       "id": "ecard1-133",
       "rarity": "Common",
       "name": "Tauros",
-      "number": "133"
+      "number": "133/165"
     },
     {
       "id": "ecard1-134",
       "rarity": "Common",
       "name": "Totodile",
-      "number": "134"
+      "number": "134/165"
     },
     {
       "id": "ecard1-135",
       "rarity": "Common",
       "name": "Totodile",
-      "number": "135"
+      "number": "135/165"
     },
     {
       "id": "ecard1-136",
       "rarity": "Common",
       "name": "Vulpix",
-      "number": "136"
+      "number": "136/165"
     },
     {
       "id": "ecard1-137",
       "rarity": "Uncommon",
       "name": "Bill's Maintenance",
-      "number": "137"
+      "number": "137/165"
     },
     {
       "id": "ecard1-138",
       "rarity": "Uncommon",
       "name": "Copycat",
-      "number": "138"
+      "number": "138/165"
     },
     {
       "id": "ecard1-139",
       "rarity": "Uncommon",
       "name": "Dual Ball",
-      "number": "139"
+      "number": "139/165"
     },
     {
       "id": "ecard1-140",
       "rarity": "Uncommon",
       "name": "Energy Removal 2",
-      "number": "140"
+      "number": "140/165"
     },
     {
       "id": "ecard1-141",
       "rarity": "Uncommon",
       "name": "Energy Restore",
-      "number": "141"
+      "number": "141/165"
     },
     {
       "id": "ecard1-142",
       "rarity": "Uncommon",
       "name": "Mary's Impulse",
-      "number": "142"
+      "number": "142/165"
     },
     {
       "id": "ecard1-143",
       "rarity": "Uncommon",
       "name": "Master Ball",
-      "number": "143"
+      "number": "143/165"
     },
     {
       "id": "ecard1-144",
       "rarity": "Uncommon",
       "name": "Multi Technical Machine 01",
-      "number": "144"
+      "number": "144/165"
     },
     {
       "id": "ecard1-145",
       "rarity": "Uncommon",
       "name": "Pok\u00e9mon Nurse",
-      "number": "145"
+      "number": "145/165"
     },
     {
       "id": "ecard1-146",
       "rarity": "Uncommon",
       "name": "Pok\u00e9mon Reversal",
-      "number": "146"
+      "number": "146/165"
     },
     {
       "id": "ecard1-147",
       "rarity": "Uncommon",
       "name": "Power Charge",
-      "number": "147"
+      "number": "147/165"
     },
     {
       "id": "ecard1-148",
       "rarity": "Uncommon",
       "name": "Professor Elm's Training Method",
-      "number": "148"
+      "number": "148/165"
     },
     {
       "id": "ecard1-149",
       "rarity": "Uncommon",
       "name": "Professor Oak's Research",
-      "number": "149"
+      "number": "149/165"
     },
     {
       "id": "ecard1-150",
       "rarity": "Uncommon",
       "name": "Strength Charm",
-      "number": "150"
+      "number": "150/165"
     },
     {
       "id": "ecard1-151",
       "rarity": "Uncommon",
       "name": "Super Scoop Up",
-      "number": "151"
+      "number": "151/165"
     },
     {
       "id": "ecard1-152",
       "rarity": "Uncommon",
       "name": "Warp Point",
-      "number": "152"
+      "number": "152/165"
     },
     {
       "id": "ecard1-153",
       "rarity": "Common",
       "name": "Energy Search",
-      "number": "153"
+      "number": "153/165"
     },
     {
       "id": "ecard1-154",
       "rarity": "Common",
       "name": "Full Heal",
-      "number": "154"
+      "number": "154/165"
     },
     {
       "id": "ecard1-155",
       "rarity": "Common",
       "name": "Moo-Moo Milk",
-      "number": "155"
+      "number": "155/165"
     },
     {
       "id": "ecard1-156",
       "rarity": "Common",
       "name": "Potion",
-      "number": "156"
+      "number": "156/165"
     },
     {
       "id": "ecard1-157",
       "rarity": "Common",
       "name": "Switch",
-      "number": "157"
+      "number": "157/165"
     },
     {
       "id": "ecard1-158",
       "rarity": "Rare",
       "name": "Darkness Energy",
-      "number": "158"
+      "number": "158/165"
     },
     {
       "id": "ecard1-159",
       "rarity": "Rare",
       "name": "Metal Energy",
-      "number": "159"
+      "number": "159/165"
     },
     {
       "id": "ecard1-160",
       "rarity": "Common",
       "name": "Fighting Energy",
-      "number": "160",
-      "variants":["core"]
+      "number": "160/165",
+      "variants":["Core"]
     },
     {
       "id": "ecard1-161",
       "rarity": "Common",
       "name": "Fire Energy",
-      "number": "161",
-      "variants":["core"]
+      "number": "161/165",
+      "variants":["Core"]
     },
     {
       "id": "ecard1-162",
       "rarity": "Common",
       "name": "Grass Energy",
-      "number": "162",
-      "variants":["core"]
+      "number": "162/165",
+      "variants":["Core"]
     },
     {
       "id": "ecard1-163",
       "rarity": "Common",
       "name": "Lightning Energy",
-      "number": "163",
-      "variants":["core"]
+      "number": "163/165",
+      "variants":["Core"]
     },
     {
       "id": "ecard1-164",
       "rarity": "Common",
       "name": "Psychic Energy",
-      "number": "164",
-      "variants":["core"]
+      "number": "164/165",
+      "variants":["Core"]
     },
     {
       "id": "ecard1-165",
       "rarity": "Common",
       "name": "Water Energy",
-      "number": "165",
-      "variants":["core"]
+      "number": "165/165",
+      "variants":["Core"]
     }
   ],
   "additionalCards": [],
   "misprints": [
     {
       "name": "Pichu",
-      "number": 58,
+      "number": "58/165",
       "rarity": "",
       "id": "ecard1-mp-58",
       "description": "Japanese Back Printed - E3 2002 Promo"
     },
     {
       "name": "Hoppip",
-      "number": 112,
+      "number": "112/165",
       "rarity": "",
       "id": "ecard1-mp-112",
       "description": "Japanese Back Printed - E3 2002 Promo"

@@ -1,114 +1,114 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "have"
+    "Have"
   ],
   "coreCards": [
     {
       "name": "Mew",
-      "number": 1,
+      "number": "1/18",
       "rarity": "Promo",
       "id": "south-1"
     },
     {
       "name": "Pidgeot",
-      "number": 2,
+      "number": "2/18",
       "rarity": "Promo",
       "id": "south-2"
     },
     {
       "name": "Onix",
-      "number": 3,
+      "number": "3/18",
       "rarity": "Promo",
       "id": "south-3"
     },
     {
       "name": "Togepi",
-      "number": 4,
+      "number": "4/18",
       "rarity": "Promo",
       "id": "south-4"
     },
     {
       "name": "Ivysaur",
-      "number": 5,
+      "number": "5/18",
       "rarity": "Promo",
       "id": "south-5"
     },
     {
       "name": "Raticate",
-      "number": 6,
+      "number": "6/18",
       "rarity": "Promo",
       "id": "south-6"
     },
     {
       "name": "Ledyba",
-      "number": 7,
+      "number": "7/18",
       "rarity": "Promo",
       "id": "south-7"
     },
     {
       "name": "Jigglypuff",
-      "number": 8,
+      "number": "8/18",
       "rarity": "Promo",
       "id": "south-8"
     },
     {
       "name": "Butterfree",
-      "number": 9,
+      "number": "9/18",
       "rarity": "Promo",
       "id": "south-9"
     },
     {
       "name": "Tentacruel",
-      "number": 10,
+      "number": "10/18",
       "rarity": "Promo",
       "id": "south-10"
     },
     {
       "name": "Marill",
-      "number": 11,
+      "number": "11/18",
       "rarity": "Promo",
       "id": "south-11"
     },
     {
       "name": "Lapras",
-      "number": 12,
+      "number": "12/18",
       "rarity": "Promo",
       "id": "south-12"
     },
     {
       "name": "Exeggutor",
-      "number": 13,
+      "number": "13/18",
       "rarity": "Promo",
       "id": "south-13"
     },
     {
       "name": "Slowking",
-      "number": 14,
+      "number": "14/18",
       "rarity": "Promo",
       "id": "south-14"
     },
     {
       "name": "Wartortle",
-      "number": 15,
+      "number": "15/18",
       "rarity": "Promo",
       "id": "south-15"
     },
     {
       "name": "Lickitung",
-      "number": 16,
+      "number": "16/18",
       "rarity": "Promo",
       "id": "south-16"
     },
     {
       "name": "Vileplume",
-      "number": 17,
+      "number": "17/18",
       "rarity": "Promo",
       "id": "south-17"
     },
     {
       "name": "Primeape",
-      "number": 18,
+      "number": "18/18",
       "rarity": "Promo",
       "id": "south-18"
     }

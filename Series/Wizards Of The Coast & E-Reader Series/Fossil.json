@@ -1,8 +1,8 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "unlimited",
-    "1st edition",
+    "Unlimited",
+    "1st Edition",
     "1999-2000"
   ],
   "coreCards": [
@@ -10,401 +10,401 @@
       "id": "base3-1",
       "rarity": "Rare",
       "name": "Aerodactyl",
-      "number": "1",
+      "number": "1/62",
       "variants":["unlimited","1st edition"]
     },
     {
       "id": "base3-2",
       "rarity": "Rare",
       "name": "Articuno",
-      "number": "2",
+      "number": "2/62",
       "variants":["unlimited","1st edition"]
     },
     {
       "id": "base3-3",
       "rarity": "Rare",
       "name": "Ditto",
-      "number": "3",
+      "number": "3/62",
       "variants":["unlimited","1st edition"]
     },
     {
       "id": "base3-4",
       "rarity": "Rare",
       "name": "Dragonite",
-      "number": "4",
+      "number": "4/62",
       "variants":["unlimited","1st edition"]
     },
     {
       "id": "base3-5",
       "rarity": "Rare",
       "name": "Gengar",
-      "number": "5",
+      "number": "5/62",
       "variants":["unlimited","1st edition"]
     },
     {
       "id": "base3-6",
       "rarity": "Rare",
       "name": "Haunter",
-      "number": "6",
+      "number": "6/62",
       "variants":["unlimited","1st edition"]
     },
     {
       "id": "base3-7",
       "rarity": "Rare",
       "name": "Hitmonlee",
-      "number": "7",
+      "number": "7/62",
       "variants":["unlimited","1st edition"]
     },
     {
       "id": "base3-8",
       "rarity": "Rare",
       "name": "Hypno",
-      "number": "8",
+      "number": "8/62",
       "variants":["unlimited","1st edition"]
     },
     {
       "id": "base3-9",
       "rarity": "Rare",
       "name": "Kabutops",
-      "number": "9",
+      "number": "9/62",
       "variants":["unlimited","1st edition"]
     },
     {
       "id": "base3-10",
       "rarity": "Rare",
       "name": "Lapras",
-      "number": "10",
+      "number": "10/62",
       "variants":["unlimited","1st edition"]
     },
     {
       "id": "base3-11",
       "rarity": "Rare",
       "name": "Magneton",
-      "number": "11",
+      "number": "11/62",
       "variants":["unlimited","1st edition"]
     },
     {
       "id": "base3-12",
       "rarity": "Rare",
       "name": "Moltres",
-      "number": "12",
+      "number": "12/62",
       "variants":["unlimited","1st edition"]
     },
     {
       "id": "base3-13",
       "rarity": "Rare",
       "name": "Muk",
-      "number": "13",
+      "number": "13/62",
       "variants":["unlimited","1st edition"]
     },
     {
       "id": "base3-14",
       "rarity": "Rare",
       "name": "Raichu",
-      "number": "14",
+      "number": "14/62",
       "variants":["unlimited","1st edition"]
     },
     {
       "id": "base3-15",
       "rarity": "Rare",
       "name": "Zapdos",
-      "number": "15",
+      "number": "15/62",
       "variants":["unlimited","1st edition"]
     },
     {
       "id": "base3-16",
       "rarity": "Rare",
       "name": "Aerodactyl",
-      "number": "16"
+      "number": "16/62"
     },
     {
       "id": "base3-17",
       "rarity": "Rare",
       "name": "Articuno",
-      "number": "17"
+      "number": "17/62"
     },
     {
       "id": "base3-18",
       "rarity": "Rare",
       "name": "Ditto",
-      "number": "18"
+      "number": "18/62"
     },
     {
       "id": "base3-19",
       "rarity": "Rare",
       "name": "Dragonite",
-      "number": "19"
+      "number": "19/62"
     },
     {
       "id": "base3-20",
       "rarity": "Rare",
       "name": "Gengar",
-      "number": "20"
+      "number": "20/62"
     },
     {
       "id": "base3-21",
       "rarity": "Rare",
       "name": "Haunter",
-      "number": "21"
+      "number": "21/62"
     },
     {
       "id": "base3-22",
       "rarity": "Rare",
       "name": "Hitmonlee",
-      "number": "22"
+      "number": "22/62"
     },
     {
       "id": "base3-23",
       "rarity": "Rare",
       "name": "Hypno",
-      "number": "23"
+      "number": "23/62"
     },
     {
       "id": "base3-24",
       "rarity": "Rare",
       "name": "Kabutops",
-      "number": "24"
+      "number": "24/62"
     },
     {
       "id": "base3-25",
       "rarity": "Rare",
       "name": "Lapras",
-      "number": "25"
+      "number": "25/62"
     },
     {
       "id": "base3-26",
       "rarity": "Rare",
       "name": "Magneton",
-      "number": "26"
+      "number": "26/62"
     },
     {
       "id": "base3-27",
       "rarity": "Rare",
       "name": "Moltres",
-      "number": "27"
+      "number": "27/62"
     },
     {
       "id": "base3-28",
       "rarity": "Rare",
       "name": "Muk",
-      "number": "28"
+      "number": "28/62"
     },
     {
       "id": "base3-29",
       "rarity": "Rare",
       "name": "Raichu",
-      "number": "29"
+      "number": "29/62"
     },
     {
       "id": "base3-30",
       "rarity": "Rare",
       "name": "Zapdos",
-      "number": "30"
+      "number": "30/62"
     },
     {
       "id": "base3-31",
       "rarity": "Uncommon",
       "name": "Arbok",
-      "number": "31"
+      "number": "31/62"
     },
     {
       "id": "base3-32",
       "rarity": "Uncommon",
       "name": "Cloyster",
-      "number": "32"
+      "number": "32/62"
     },
     {
       "id": "base3-33",
       "rarity": "Uncommon",
       "name": "Gastly",
-      "number": "33"
+      "number": "33/62"
     },
     {
       "id": "base3-34",
       "rarity": "Uncommon",
       "name": "Golbat",
-      "number": "34"
+      "number": "34/62"
     },
     {
       "id": "base3-35",
       "rarity": "Uncommon",
       "name": "Golduck",
-      "number": "35"
+      "number": "35/62"
     },
     {
       "id": "base3-36",
       "rarity": "Uncommon",
       "name": "Golem",
-      "number": "36"
+      "number": "36/62"
     },
     {
       "id": "base3-37",
       "rarity": "Uncommon",
       "name": "Graveler",
-      "number": "37"
+      "number": "37/62"
     },
     {
       "id": "base3-38",
       "rarity": "Uncommon",
       "name": "Kingler",
-      "number": "38"
+      "number": "38/62"
     },
     {
       "id": "base3-39",
       "rarity": "Uncommon",
       "name": "Magmar",
-      "number": "39"
+      "number": "39/62"
     },
     {
       "id": "base3-40",
       "rarity": "Uncommon",
       "name": "Omastar",
-      "number": "40"
+      "number": "40/62"
     },
     {
       "id": "base3-41",
       "rarity": "Uncommon",
       "name": "Sandslash",
-      "number": "41"
+      "number": "41/62"
     },
     {
       "id": "base3-42",
       "rarity": "Uncommon",
       "name": "Seadra",
-      "number": "42"
+      "number": "42/62"
     },
     {
       "id": "base3-43",
       "rarity": "Uncommon",
       "name": "Slowbro",
-      "number": "43"
+      "number": "43/62"
     },
     {
       "id": "base3-44",
       "rarity": "Uncommon",
       "name": "Tentacruel",
-      "number": "44"
+      "number": "44/62"
     },
     {
       "id": "base3-45",
       "rarity": "Uncommon",
       "name": "Weezing",
-      "number": "45"
+      "number": "45/62"
     },
     {
       "id": "base3-46",
       "rarity": "Common",
       "name": "Ekans",
-      "number": "46"
+      "number": "46/62"
     },
     {
       "id": "base3-47",
       "rarity": "Common",
       "name": "Geodude",
-      "number": "47"
+      "number": "47/62"
     },
     {
       "id": "base3-48",
       "rarity": "Common",
       "name": "Grimer",
-      "number": "48"
+      "number": "48/62"
     },
     {
       "id": "base3-49",
       "rarity": "Common",
       "name": "Horsea",
-      "number": "49"
+      "number": "49/62"
     },
     {
       "id": "base3-50",
       "rarity": "Common",
       "name": "Kabuto",
-      "number": "50"
+      "number": "50/62"
     },
     {
       "id": "base3-51",
       "rarity": "Common",
       "name": "Krabby",
-      "number": "51"
+      "number": "51/62"
     },
     {
       "id": "base3-52",
       "rarity": "Common",
       "name": "Omanyte",
-      "number": "52"
+      "number": "52/62"
     },
     {
       "id": "base3-53",
       "rarity": "Common",
       "name": "Psyduck",
-      "number": "53"
+      "number": "53/62"
     },
     {
       "id": "base3-54",
       "rarity": "Common",
       "name": "Shellder",
-      "number": "54"
+      "number": "54/62"
     },
     {
       "id": "base3-55",
       "rarity": "Common",
       "name": "Slowpoke",
-      "number": "55"
+      "number": "55/62"
     },
     {
       "id": "base3-56",
       "rarity": "Common",
       "name": "Tentacool",
-      "number": "56"
+      "number": "56/62"
     },
     {
       "id": "base3-57",
       "rarity": "Common",
       "name": "Zubat",
-      "number": "57"
+      "number": "57/62"
     },
     {
       "id": "base3-58",
       "rarity": "Uncommon",
       "name": "Mr. Fuji",
-      "number": "58"
+      "number": "58/62"
     },
     {
       "id": "base3-59",
       "rarity": "Common",
       "name": "Energy Search",
-      "number": "59"
+      "number": "59/62"
     },
     {
       "id": "base3-60",
       "rarity": "Common",
       "name": "Gambler",
-      "number": "60"
+      "number": "60/62"
     },
     {
       "id": "base3-61",
       "rarity": "Common",
       "name": "Recycle",
-      "number": "61"
+      "number": "61/62"
     },
     {
       "id": "base3-62",
       "rarity": "Common",
       "name": "Mysterious Fossil",
-      "number": "62"
+      "number": "62/62"
     }
   ],
   "additionalCards": [
     {
       "name": "Aerodactyl",
-      "number": 1,
+      "number": "1/62",
       "rarity": "",
       "id": "base3-ac-1",
       "description": "1st edition pre-release"
     },
     {
       "name": "Kabuto",
-      "number": 50,
+      "number": "50/62",
       "rarity": "",
       "id": "base3-ac-50",
       "description": "W Stamped"
@@ -413,7 +413,7 @@
   "misprints": [
     {
       "name": "Krabby",
-      "number": 51,
+      "number": "51/62",
       "rarity": "",
       "id": "base3-mp-51",
       "description": "Set Symbol Error - Partially Erased"

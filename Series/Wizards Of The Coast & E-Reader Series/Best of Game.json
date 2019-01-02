@@ -1,15 +1,110 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "core",
-    "reverse"
+    "Have"
   ],
   "coreCards": [
     {
-      "id": "placeholder-1",
-      "rarity": "Common",
-      "name": "placeholder pkmn",
-      "number": "1"
+      "name": "Electabuzz",
+      "number": 1,
+      "rarity": "Promo",
+      "id": ""
+    },
+    {
+      "name": "Hitmonchan",
+      "number": 2,
+      "rarity": "Promo",
+      "id": ""
+    },
+    {
+      "name": "Professor Elm",
+      "number": 3,
+      "rarity": "Promo",
+      "id": ""
+    },
+    {
+      "name": "Rocket's Scizor",
+      "number": 4,
+      "rarity": "Promo",
+      "id": ""
+    },
+    {
+      "name": "Rocket's Sneasel",
+      "number": 5,
+      "rarity": "Promo",
+      "id": ""
+    },
+    {
+      "name": "Dark Ivysaur",
+      "number": 6,
+      "rarity": "Promo",
+      "id": ""
+    },
+    {
+      "name": "Dark Venusaur",
+      "number": 7,
+      "rarity": "Promo",
+      "id": ""
+    },
+    {
+      "name": "Rocket's Mewtwo",
+      "number": 8,
+      "rarity": "Promo",
+      "id": ""
+    },
+    {
+      "name": "Electabuzz (Winner)",
+      "number": 1,
+      "rarity": "Promo",
+      "id": ""
+    },
+    {
+      "name": "Hitmonchan (Winner)",
+      "number": 2,
+      "rarity": "Promo",
+      "id": ""
+    },
+    {
+      "name": "Professor Elm (Winner)",
+      "number": 3,
+      "rarity": "Promo",
+      "id": ""
+    },
+    {
+      "name": "Rocket's Scizor (Winner)",
+      "number": 4,
+      "rarity": "Promo",
+      "id": ""
+    },
+    {
+      "name": "Rocket's Sneasel (Winner)",
+      "number": 5,
+      "rarity": "Promo",
+      "id": ""
+    },
+    {
+      "name": "Dark Ivysaur (Winner)",
+      "number": 6,
+      "rarity": "Promo",
+      "id": ""
+    },
+    {
+      "name": "Dark Venusaur (Winner)",
+      "number": 7,
+      "rarity": "Promo",
+      "id": ""
+    },
+    {
+      "name": "Rocket's Mewtwo (Winner)",
+      "number": 8,
+      "rarity": "Promo",
+      "id": ""
+    },
+    {
+      "name": "Rocket's Hitmonchan (Winner)",
+      "number": 9,
+      "rarity": "Promo",
+      "id": ""
     }
   ],
   "additionalCards": [

@@ -1,7 +1,7 @@
 {
   "version": 1.0,
   "cardVariants": [
-    "have"
+    "Have"
   ],
   "coreCards": [
     {
@@ -326,35 +326,35 @@
   "additionalCards": [
     {
      "name": "Pikachu",
-     "number": 1,
+     "number": "1",
      "rarity": "",
      "id": "basep-ac-1",
      "description": "First Edition Logo Printed"
    },
    {
      "name": "Mewtwo",
-     "number": 3,
+     "number": "3",
      "rarity": "",
      "id": "basep-ac-3",
      "description": "Movie Logo Printed Upside Down"
    },
    {
      "name": "_______'s Pikachu",
-     "number": 24,
+     "number": "24",
      "rarity": "",
      "id": "basep-ac-24",
      "description": "Tail Stamped - Pikachu World Collection"
    },
    {
      "name": "Rapidash",
-     "number": 51,
+     "number": "51",
      "rarity": "",
      "id": "basep-ac-51",
      "description": "Pokemon Center New York Promo"
    },
    {
      "name": "Ho-oh",
-     "number": 52,
+     "number": "52",
      "rarity": "",
      "id": "basep-ac-52",
      "description": "Pokemon Center New York Promo"
@@ -377,28 +377,28 @@
   "misprints": [
     {
       "name": "Dark Persion",
-      "number": 17,
+      "number": "17",
       "rarity": "",
       "id": "basep-mp-17",
       "description": "Holo Misprint - No HP"
     },
     {
       "name": "Moltres",
-      "number": 21,
+      "number": "21",
       "rarity": "",
       "id": "basep-mp-21",
       "description": "Wrong Illustrator - Toshinao Aoki instead of Naoyo Kimura"
     },
     {
       "name": "Articuno",
-      "number": 22,
+      "number": "22",
       "rarity": "",
       "id": "basep-mp-22",
       "description": "Wrong Illustrator - Toshinao Aoki instead of Naoyo Kimura"
     },
     {
       "name": "Zapdos",
-      "number": 23,
+      "number": "23",
       "rarity": "",
       "id": "basep-mp-23",
       "description": "Wrong Illustrator - Toshinao Aoki instead of Naoyo Kimura"
