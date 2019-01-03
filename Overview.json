@@ -1,5 +1,3 @@
-#This file is used to organize which sets belong to which series, but most importantly controls the order that they appear
-#Promos are always first, since every series has promos
 [
   {
     "name":"Wizards Of The Coast and E-Reader Series",
@@ -28,6 +26,7 @@
   {
     "name":"EX Series",
     "sets":[
+      {"setName":"Nintendo Promo"},
       {"setName":"Ruby & Sapphire"},
       {"setName":"Sandstorm"},
       {"setName":"Dragon"},
@@ -53,13 +52,13 @@
       {"setName":"Crystal Guardians"},
       {"setName":"Dragon Frontiers"},
       {"setName":"Power Keepers"},
-      {"setName":"POP 5"},
-      {"setName":"Nintendo Promo"}
+      {"setName":"POP 5"}
     ]
   },
   {
     "name":"Diamond, Pearl & Platinum Series",
     "sets":[
+      {"setName":"Diamond & Pearl Promo"},
       {"setName":"Diamond & Pearl"},
       {"setName":"Mysterious Treasures"},
       {"setName":"POP 6"},
@@ -77,26 +76,26 @@
       {"setName":"Rising Rivals"},
       {"setName":"Supreme Victors"},
       {"setName":"Arceus"},
-      {"setName":"Pokemon Rumble"},
-      {"setName":"Diamond & Pearl Promo"}
+      {"setName":"Pokemon Rumble"}
     ]
   },
   {
     "name":"HeartGold SoulSilver Series",
     "sets":[
+      {"setName":"HeartGold & SoulSilver Promo"},
       {"setName":"HeartGold & SoulSilver"},
       {"setName":"Gyarados Half Deck"},
       {"setName":"Raichu Half Deck"},
       {"setName":"Unleashed"},
       {"setName":"Undaunted"},
       {"setName":"Triumphant"},
-      {"setName":"Call of Legends"},
-      {"setName":"HeartGold & SoulSilver Promo"}
+      {"setName":"Call of Legends"}
     ]
   },
   {
     "name":"Black & White Series",
     "sets":[
+      {"setName":"Black & White Promo"},
       {"setName":"Black & White"},
       {"setName":"Excadrill Half Deck"},
       {"setName":"Zoroark Half Deck"},
@@ -113,13 +112,13 @@
       {"setName":"Plasma Freeze"},
       {"setName":"Plasma Blast"},
       {"setName":"Legendary Treasures"},
-      {"setName":"McDonalds Collection 2013"},
-      {"setName":"Black & White Promo"}
+      {"setName":"McDonalds Collection 2013"}
     ]
   },
   {
     "name":"XY Series",
     "sets":[
+      {"setName":"XY Promo"},
       {"setName":"Legend of Kalos"},
       {"setName":"XY"},
       {"setName":"Sylveon Half Deck"},
@@ -145,13 +144,13 @@
       {"setName":"Fates Collide"},
       {"setName":"Steam Siege"},
       {"setName":"McDonalds Collection 2016"},
-      {"setName":"Evolutions"},
-      {"setName":"XY Promo"}
+      {"setName":"Evolutions"}
     ]
   },
   {
     "name":"Sun & Moon Series",
     "sets":[
+      {"setName":"Sun & Moon Promo"},
       {"setName":"Sun & Moon"},
       {"setName":"Lycanroc Half Deck"},
       {"setName":"Alolan Raichu Half Deck"},
@@ -165,8 +164,7 @@
       {"setName":"Celestial Storm"},
       {"setName":"Dragon Majesty"},
       {"setName":"McDonalds Collection 2018"},
-      {"setName":"Lost Thunder"},
-      {"setName":"Sun & Moon Promo"}
+      {"setName":"Lost Thunder"}
     ]
   }
 ]
