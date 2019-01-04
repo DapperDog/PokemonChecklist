@@ -537,64 +537,55 @@
       "id": "ex4-89",
       "rarity": "EX",
       "name": "Blaziken ex",
-      "number": "89/95",
-      "variants":["core"]
+      "number": "89/95"
     },
     {
       "id": "ex4-90",
       "rarity": "EX",
       "name": "Cradily ex",
-      "number": "90/95",
-      "variants":["core"]
+      "number": "90/95"
     },
     {
       "id": "ex4-91",
       "rarity": "EX",
       "name": "Entei ex",
-      "number": "91/95",
-      "variants":["core"]
+      "number": "91/95"
     },
     {
       "id": "ex4-92",
       "rarity": "EX",
       "name": "Raikou ex",
-      "number": "92/95",
-      "variants":["core"]
+      "number": "92/95"
     },
     {
       "id": "ex4-93",
       "rarity": "EX",
       "name": "Sceptile ex",
-      "number": "93/95",
-      "variants":["core"]
+      "number": "93/95"
     },
     {
       "id": "ex4-94",
       "rarity": "EX",
       "name": "Suicune ex",
-      "number": "94/95",
-      "variants":["core"]
+      "number": "94/95"
     },
     {
       "id": "ex4-95",
       "rarity": "EX",
       "name": "Swampert ex",
-      "number": "95/95",
-      "variants":["core"]
+      "number": "95/95"
     },
     {
       "id": "ex4-96",
       "rarity": "Secret Rare",
       "name": "Absol",
-      "number": "96/95",
-      "variants":["core"]
+      "number": "96/95"
     },
     {
       "id": "ex4-97",
       "rarity": "Secret Rare",
       "name": "Jirachi",
-      "number": "97/95",
-      "variants":["core"]
+      "number": "97/95"
     }
   ],
   "additionalCards": [

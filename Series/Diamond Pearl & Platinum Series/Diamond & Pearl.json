@@ -742,56 +742,56 @@
       "rarity": "Common",
       "name": "Grass Energy",
       "number": "123/130",
-      "variants":["core"]
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp1-124",
       "rarity": "Common",
       "name": "Fire Energy",
       "number": "124/130",
-      "variants":["core"]
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp1-125",
       "rarity": "Common",
       "name": "Water Energy",
       "number": "125/130",
-      "variants":["core"]
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp1-126",
       "rarity": "Common",
       "name": "Lightning Energy",
       "number": "126/130",
-      "variants":["core"]
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp1-127",
       "rarity": "Common",
       "name": "Psychic Energy",
       "number": "127/130",
-      "variants":["core"]
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp1-128",
       "rarity": "Common",
       "name": "Fighting Energy",
       "number": "128/130",
-      "variants":["core"]
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp1-129",
       "rarity": "Common",
       "name": "Darkness Energy",
       "number": "129/130",
-      "variants":["core"]
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp1-130",
       "rarity": "Common",
       "name": "Metal Energy",
       "number": "130/130",
-      "variants":["core"]
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

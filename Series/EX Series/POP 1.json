@@ -40,84 +40,82 @@
       "rarity": "Rare",
       "name": "Beautifly",
       "number": "6/17",
-      "variants":["Core"]
+      "exclusions":["Holo"]
     },
     {
       "id": "pop1-7",
       "rarity": "Uncommon",
       "name": "Masquerain",
       "number": "7/17",
-      "variants":["Core"]
+      "exclusions":["Holo"]
     },
     {
       "id": "pop1-8",
       "rarity": "Uncommon",
       "name": "Murkrow",
       "number": "8/17",
-      "variants":["Core"]
+      "exclusions":["Holo"]
     },
     {
       "id": "pop1-9",
       "rarity": "Uncommon",
       "name": "Pupitar",
       "number": "9/17",
-      "variants":["Core"]
+      "exclusions":["Holo"]
     },
     {
       "id": "pop1-10",
       "rarity": "Uncommon",
       "name": "Torkoal",
       "number": "10/17",
-      "variants":["Core"]
+      "exclusions":["Holo"]
     },
     {
       "id": "pop1-11",
       "rarity": "Common",
       "name": "Larvitar",
       "number": "11/17",
-      "variants":["Core"]
+      "exclusions":["Holo"]
     },
     {
       "id": "pop1-12",
       "rarity": "Common",
       "name": "Minun",
       "number": "12/17",
-      "variants":["Core"]
+      "exclusions":["Holo"]
     },
     {
       "id": "pop1-13",
       "rarity": "Common",
       "name": "Plusle",
       "number": "13/17",
-      "variants":["Core"]
+      "exclusions":["Holo"]
     },
     {
       "id": "pop1-14",
       "rarity": "Common",
       "name": "Surskit",
       "number": "14/17",
-      "variants":["Core"]
+      "exclusions":["Holo"]
     },
     {
       "id": "pop1-15",
       "rarity": "Common",
       "name": "Swellow",
       "number": "15/17",
-      "variants":["Core"]
+      "exclusions":["Holo"]
     },
     {
       "id": "pop1-16",
-      "rarity": "Rare",
+      "rarity": "EX",
       "name": "Armaldo ex",
-      "number": "16/17",
-      "variants":["Core"]
+      "number": "16/17"
     },
     {
       "id": "pop1-17",
-      "rarity": "Rare",
+      "rarity": "EX",
       "name": "Tyranitar ex",
-      "number": "17/17",
-      "variants":["Core"]
+      "number": "17/17"
     }
   ],
   "additionalCards": [],

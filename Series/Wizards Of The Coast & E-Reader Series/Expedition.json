@@ -964,42 +964,42 @@
       "rarity": "Common",
       "name": "Fighting Energy",
       "number": "160/165",
-      "variants":["Core"]
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard1-161",
       "rarity": "Common",
       "name": "Fire Energy",
       "number": "161/165",
-      "variants":["Core"]
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard1-162",
       "rarity": "Common",
       "name": "Grass Energy",
       "number": "162/165",
-      "variants":["Core"]
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard1-163",
       "rarity": "Common",
       "name": "Lightning Energy",
       "number": "163/165",
-      "variants":["Core"]
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard1-164",
       "rarity": "Common",
       "name": "Psychic Energy",
       "number": "164/165",
-      "variants":["Core"]
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard1-165",
       "rarity": "Common",
       "name": "Water Energy",
       "number": "165/165",
-      "variants":["Core"]
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [],

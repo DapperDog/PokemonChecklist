@@ -11,105 +11,105 @@
       "rarity": "Rare",
       "name": "Aerodactyl",
       "number": "1/62",
-      "variants":["unlimited","1st edition"]
+      "exclusions":["1999-2000"]
     },
     {
       "id": "base3-2",
       "rarity": "Rare",
       "name": "Articuno",
       "number": "2/62",
-      "variants":["unlimited","1st edition"]
+      "exclusions":["1999-2000"]
     },
     {
       "id": "base3-3",
       "rarity": "Rare",
       "name": "Ditto",
       "number": "3/62",
-      "variants":["unlimited","1st edition"]
+      "exclusions":["1999-2000"]
     },
     {
       "id": "base3-4",
       "rarity": "Rare",
       "name": "Dragonite",
       "number": "4/62",
-      "variants":["unlimited","1st edition"]
+      "exclusions":["1999-2000"]
     },
     {
       "id": "base3-5",
       "rarity": "Rare",
       "name": "Gengar",
       "number": "5/62",
-      "variants":["unlimited","1st edition"]
+      "exclusions":["1999-2000"]
     },
     {
       "id": "base3-6",
       "rarity": "Rare",
       "name": "Haunter",
       "number": "6/62",
-      "variants":["unlimited","1st edition"]
+      "exclusions":["1999-2000"]
     },
     {
       "id": "base3-7",
       "rarity": "Rare",
       "name": "Hitmonlee",
       "number": "7/62",
-      "variants":["unlimited","1st edition"]
+      "exclusions":["1999-2000"]
     },
     {
       "id": "base3-8",
       "rarity": "Rare",
       "name": "Hypno",
       "number": "8/62",
-      "variants":["unlimited","1st edition"]
+      "exclusions":["1999-2000"]
     },
     {
       "id": "base3-9",
       "rarity": "Rare",
       "name": "Kabutops",
       "number": "9/62",
-      "variants":["unlimited","1st edition"]
+      "exclusions":["1999-2000"]
     },
     {
       "id": "base3-10",
       "rarity": "Rare",
       "name": "Lapras",
       "number": "10/62",
-      "variants":["unlimited","1st edition"]
+      "exclusions":["1999-2000"]
     },
     {
       "id": "base3-11",
       "rarity": "Rare",
       "name": "Magneton",
       "number": "11/62",
-      "variants":["unlimited","1st edition"]
+      "exclusions":["1999-2000"]
     },
     {
       "id": "base3-12",
       "rarity": "Rare",
       "name": "Moltres",
       "number": "12/62",
-      "variants":["unlimited","1st edition"]
+      "exclusions":["1999-2000"]
     },
     {
       "id": "base3-13",
       "rarity": "Rare",
       "name": "Muk",
       "number": "13/62",
-      "variants":["unlimited","1st edition"]
+      "exclusions":["1999-2000"]
     },
     {
       "id": "base3-14",
       "rarity": "Rare",
       "name": "Raichu",
       "number": "14/62",
-      "variants":["unlimited","1st edition"]
+      "exclusions":["1999-2000"]
     },
     {
       "id": "base3-15",
       "rarity": "Rare",
       "name": "Zapdos",
       "number": "15/62",
-      "variants":["unlimited","1st edition"]
+      "exclusions":["1999-2000"]
     },
     {
       "id": "base3-16",

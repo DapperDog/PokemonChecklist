@@ -2,7 +2,7 @@
   "version": 1.0,
   "cardVariants": [
     "Core",
-    "Reverse"
+    "Holo"
   ],
   "coreCards": [
     {
@@ -10,7 +10,7 @@
       "rarity": "Rare",
       "name": "Garchomp",
       "number": "1/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop9-2",
@@ -41,21 +41,21 @@
       "rarity": "Uncommon",
       "name": "Buizel",
       "number": "6/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop9-7",
       "rarity": "Uncommon",
       "name": "Croagunk",
       "number": "7/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop9-8",
       "rarity": "Uncommon",
       "name": "Gabite",
       "number": "8/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop9-9",
@@ -68,56 +68,56 @@
       "rarity": "Uncommon",
       "name": "Pachirisu",
       "number": "10/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop9-11",
       "rarity": "Uncommon",
       "name": "Pichu",
       "number": "11/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop9-12",
       "rarity": "Common",
       "name": "Buneary",
       "number": "12/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop9-13",
       "rarity": "Common",
       "name": "Chimchar",
       "number": "13/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop9-14",
       "rarity": "Common",
       "name": "Gible",
       "number": "14/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop9-15",
       "rarity": "Common",
       "name": "Pikachu",
       "number": "15/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop9-16",
       "rarity": "Common",
       "name": "Piplup",
       "number": "16/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop9-17",
       "rarity": "Common",
       "name": "Turtwig",
       "number": "17/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     }
   ],
   "additionalCards": [

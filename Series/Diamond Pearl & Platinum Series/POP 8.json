@@ -2,7 +2,7 @@
   "version": 1.0,
   "cardVariants": [
     "Core",
-    "Reverse"
+    "Holo"
   ],
   "coreCards": [
     {
@@ -58,21 +58,21 @@
       "rarity": "Uncommon",
       "name": "Night Maintenance",
       "number": "9/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop8-10",
       "rarity": "Uncommon",
       "name": "Rare Candy",
       "number": "10/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop8-11",
       "rarity": "Uncommon",
       "name": "Roseanne's Research",
       "number": "11/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop8-12",
@@ -97,7 +97,7 @@
       "rarity": "Common",
       "name": "Piplup",
       "number": "15/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop8-16",
@@ -110,7 +110,7 @@
       "rarity": "Common",
       "name": "Turtwig",
       "number": "17/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     }
   ],
   "additionalCards": [],

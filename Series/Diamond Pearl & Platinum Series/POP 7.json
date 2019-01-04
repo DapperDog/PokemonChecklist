@@ -2,7 +2,7 @@
   "version": 1.0,
   "cardVariants": [
     "Core",
-    "Reverse"
+    "Holo"
   ],
   "coreCards": [
     {
@@ -40,14 +40,14 @@
       "rarity": "Uncommon",
       "name": "Delibird",
       "number": "6/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop7-7",
       "rarity": "Uncommon",
       "name": "Flaaffy",
       "number": "7/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop7-8",
@@ -60,63 +60,63 @@
       "rarity": "Uncommon",
       "name": "Stantler",
       "number": "9/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop7-10",
       "rarity": "Uncommon",
       "name": "Wormadam Sandy Cloak",
       "number": "10/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop7-11",
       "rarity": "Common",
       "name": "Burmy Plant Cloak",
       "number": "11/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop7-12",
       "rarity": "Common",
       "name": "Burmy Sandy Cloak",
       "number": "12/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop7-13",
       "rarity": "Common",
       "name": "Corsola",
       "number": "13/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop7-14",
       "rarity": "Common",
       "name": "Mareep",
       "number": "14/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop7-15",
       "rarity": "Common",
       "name": "Ralts",
       "number": "15/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop7-16",
       "rarity": "Common",
       "name": "Sentret",
       "number": "16/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop7-17",
       "rarity": "Common",
       "name": "Spinda",
       "number": "17/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     }
   ],
   "additionalCards": [],

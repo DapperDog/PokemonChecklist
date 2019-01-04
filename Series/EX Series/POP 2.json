@@ -46,70 +46,70 @@
       "rarity": "Uncommon",
       "name": "Ivysaur",
       "number": "7/17",
-      "variants":["Core"]
+      "exclusions":["Holo"]
     },
     {
       "id": "pop2-8",
       "rarity": "Uncommon",
       "name": "Mr. Briney's Compassion",
       "number": "8/17",
-      "variants":["Core"]
+      "exclusions":["Holo"]
     },
     {
       "id": "pop2-9",
       "rarity": "Uncommon",
       "name": "Multi Technical Machine 01",
       "number": "9/17",
-      "variants":["Core"]
+      "exclusions":["Holo"]
     },
     {
       "id": "pop2-10",
       "rarity": "Uncommon",
       "name": "Pok\u00e9mon Park",
       "number": "10/17",
-      "variants":["Core"]
+      "exclusions":["Holo"]
     },
     {
       "id": "pop2-11",
       "rarity": "Uncommon",
       "name": "TV Reporter",
       "number": "11/17",
-      "variants":["Core"]
+      "exclusions":["Holo"]
     },
     {
       "id": "pop2-12",
       "rarity": "Common",
       "name": "Bulbasaur",
       "number": "12/17",
-      "variants":["Core"]
+      "exclusions":["Holo"]
     },
     {
       "id": "pop2-13",
       "rarity": "Common",
       "name": "Cacnea",
       "number": "13/17",
-      "variants":["Core"]
+      "exclusions":["Holo"]
     },
     {
       "id": "pop2-14",
       "rarity": "Common",
       "name": "Luvdisc",
       "number": "14/17",
-      "variants":["Core"]
+      "exclusions":["Holo"]
     },
     {
       "id": "pop2-15",
       "rarity": "Common",
       "name": "Phanpy",
       "number": "15/17",
-      "variants":["Core"]
+      "exclusions":["Holo"]
     },
     {
       "id": "pop2-16",
       "rarity": "Common",
       "name": "Pikachu",
       "number": "16/17",
-      "variants":["Core"]
+      "exclusions":["Holo"]
     },
     {
       "id": "pop2-17",

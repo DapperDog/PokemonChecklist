@@ -537,85 +537,73 @@
       "id": "ex3-89",
       "rarity": "EX",
       "name": "Ampharos ex",
-      "number": "89/97",
-      "variants":["core"]
+      "number": "89/97"
     },
     {
       "id": "ex3-90",
       "rarity": "EX",
       "name": "Dragonite ex",
-      "number": "90/97",
-      "variants":["core"]
+      "number": "90/97"
     },
     {
       "id": "ex3-91",
       "rarity": "EX",
       "name": "Golem ex",
-      "number": "91/97",
-      "variants":["core"]
+      "number": "91/97"
     },
     {
       "id": "ex3-92",
       "rarity": "EX",
       "name": "Kingdra ex",
-      "number": "92/97",
-      "variants":["core"]
+      "number": "92/97"
     },
     {
       "id": "ex3-93",
       "rarity": "EX",
       "name": "Latias ex",
-      "number": "93/97",
-      "variants":["core"]
+      "number": "93/97"
     },
     {
       "id": "ex3-94",
       "rarity": "EX",
       "name": "Latios ex",
-      "number": "94/97",
-      "variants":["core"]
+      "number": "94/97"
     },
     {
       "id": "ex3-95",
       "rarity": "EX",
       "name": "Magcargo ex",
-      "number": "95/97",
-      "variants":["core"]
+      "number": "95/97"
     },
     {
       "id": "ex3-96",
       "rarity": "EX",
       "name": "Muk ex",
-      "number": "96/97",
-      "variants":["core"]
+      "number": "96/97"
     },
     {
       "id": "ex3-97",
       "rarity": "EX",
       "name": "Rayquaza ex",
-      "number": "97/97",
-      "variants":["core"]
+      "number": "97/97"
     },
     {
       "id": "ex3-98",
-      "rarity": "Ultra Rare",
+      "rarity": "Secret Rare",
       "name": "Charmander",
-      "number": "98/97",
-      "variants":["core"]
+      "number": "98/97"
     },
     {
       "id": "ex3-99",
-      "rarity": "Ultra Rare",
+      "rarity": "Secret Rare",
       "name": "Charmeleon",
-      "number": "99/97",
-      "variants":["core"]
+      "number": "99/97"
     },
     {
       "id": "ex3-100",
-      "rarity": "Ultra Rare",
+      "rarity": "Secret Rare",
       "name": "Charizard",
-      "number": "100/97",
-      "variants":["core"]
+      "number": "100/97"
     }
   ],
   "additionalCards": [

@@ -28,56 +28,56 @@
       "rarity": "Rare",
       "name": "Double Rainbow Energy",
       "number": "4/17",
-      "variants":["Core"]
+      "exclusions":["Holo"]
     },
     {
       "id": "pop5-5",
       "rarity": "Uncommon",
       "name": "Charmeleon (Delta Species)",
       "number": "5/17",
-      "variants":["Core"]
+      "exclusions":["Holo"]
     },
     {
       "id": "pop5-6",
       "rarity": "Uncommon",
       "name": "Bill's Maintenance",
       "number": "6/17",
-      "variants":["Core"]
+      "exclusions":["Holo"]
     },
     {
       "id": "pop5-7",
       "rarity": "Uncommon",
       "name": "Rare Candy",
       "number": "7/17",
-      "variants":["Core"]
+      "exclusions":["Holo"]
     },
     {
       "id": "pop5-8",
       "rarity": "Uncommon",
       "name": "Boost Energy",
       "number": "8/17",
-      "variants":["Core"]
+      "exclusions":["Holo"]
     },
     {
       "id": "pop5-9",
       "rarity": "Uncommon",
       "name": "Delta Species Rainbow Energy",
       "number": "9/17",
-      "variants":["Core"]
+      "exclusions":["Holo"]
     },
     {
       "id": "pop5-10",
       "rarity": "Common",
       "name": "Charmander (Delta Species)",
       "number": "10/17",
-      "variants":["Core"]
+      "exclusions":["Holo"]
     },
     {
       "id": "pop5-11",
       "rarity": "Common",
       "name": "Meowth (Delta Species)",
       "number": "11/17",
-      "variants":["Core"]
+      "exclusions":["Holo"]
     },
     {
       "id": "pop5-12",
@@ -90,7 +90,7 @@
       "rarity": "Common",
       "name": "Pikachu (Delta Species)",
       "number": "13/17",
-      "variants":["Core"]
+      "exclusions":["Holo"]
     },
     {
       "id": "pop5-14",

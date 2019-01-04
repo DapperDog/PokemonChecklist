@@ -580,56 +580,56 @@
       "rarity": "EX",
       "name": "Chansey ex",
       "number": "96/109",
-      "variants":["core"]
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex1-97",
       "rarity": "EX",
       "name": "Electabuzz ex",
       "number": "97/109",
-      "variants":["core"]
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex1-98",
       "rarity": "EX",
       "name": "Hitmonchan ex",
       "number": "98/109",
-      "variants":["core"]
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex1-99",
       "rarity": "EX",
       "name": "Lapras ex",
       "number": "99/109",
-      "variants":["core"]
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex1-100",
       "rarity": "EX",
       "name": "Magmar ex",
       "number": "100/109",
-      "variants":["core"]
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex1-101",
       "rarity": "EX",
       "name": "Mewtwo ex",
       "number": "101/109",
-      "variants":["core"]
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex1-102",
       "rarity": "EX",
       "name": "Scyther ex",
       "number": "102/109",
-      "variants":["core"]
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex1-103",
       "rarity": "EX",
       "name": "Sneasel ex",
       "number": "103/109",
-      "variants":["core"]
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex1-104",

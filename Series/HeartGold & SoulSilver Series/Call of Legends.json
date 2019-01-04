@@ -532,56 +532,56 @@
       "rarity": "Common",
       "name": "Grass Energy",
       "number": "88/95",
-      "variants":["reverse"]
+      "exclusions":["Core"]
     },
     {
       "id": "col1-89",
       "rarity": "Common",
       "name": "Fire Energy",
       "number": "89/95",
-      "variants":["reverse"]
+      "exclusions":["Core"]
     },
     {
       "id": "col1-90",
       "rarity": "Common",
       "name": "Water Energy",
       "number": "90/95",
-      "variants":["reverse"]
+      "exclusions":["Core"]
     },
     {
       "id": "col1-91",
       "rarity": "Common",
       "name": "Lightning Energy",
       "number": "91/95",
-      "variants":["reverse"]
+      "exclusions":["Core"]
     },
     {
       "id": "col1-92",
       "rarity": "Common",
       "name": "Psychic Energy",
       "number": "92/95",
-      "variants":["reverse"]
+      "exclusions":["Core"]
     },
     {
       "id": "col1-93",
       "rarity": "Common",
       "name": "Fighting Energy",
       "number": "93/95",
-      "variants":["reverse"]
+      "exclusions":["Core"]
     },
     {
       "id": "col1-94",
       "rarity": "Common",
       "name": "Darkness Energy",
       "number": "94/95",
-      "variants":["reverse"]
+      "exclusions":["Core"]
     },
     {
       "id": "col1-95",
       "rarity": "Common",
       "name": "Metal Energy",
       "number": "95/95",
-      "variants":["reverse"]
+      "exclusions":["Core"]
     },
     {
       "id": "col1-SL1",

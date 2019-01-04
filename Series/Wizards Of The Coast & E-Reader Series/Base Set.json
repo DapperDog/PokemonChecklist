@@ -54,7 +54,7 @@
       "rarity": "Rare",
       "name": "Machamp",
       "number": "8/102",
-      "variants":["1st Edition","Shadowless","1999-2000"]
+      "exclusions":["Unlimited"]
     },
     {
       "id": "base1-9",

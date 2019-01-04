@@ -2,7 +2,7 @@
   "version": 1.0,
   "cardVariants": [
     "Core",
-    "Reverse"
+    "Holo"
   ],
   "coreCards": [
     {
@@ -10,14 +10,14 @@
       "rarity": "Rare",
       "name": "Bastiodon",
       "number": "1/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop6-2",
       "rarity": "Rare",
       "name": "Lucario",
       "number": "2/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop6-3",
@@ -30,22 +30,21 @@
       "rarity": "Rare",
       "name": "Pachirisu",
       "number": "4/17",
-      "variants": ["Core"],
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop6-5",
       "rarity": "Rare",
       "name": "Rampardos",
       "number": "5/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop6-6",
       "rarity": "Uncommon",
       "name": "Drifloon",
       "number": "6/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop6-7",
@@ -70,28 +69,28 @@
       "rarity": "Uncommon",
       "name": "Staravia",
       "number": "10/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop6-11",
       "rarity": "Common",
       "name": "Bidoof",
       "number": "11/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop6-12",
       "rarity": "Common",
       "name": "Buneary",
       "number": "12/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop6-13",
       "rarity": "Common",
       "name": "Cherubi",
       "number": "13/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop6-14",
@@ -110,7 +109,7 @@
       "rarity": "Common",
       "name": "Starly",
       "number": "16/17",
-      "variants": ["Core"]
+      "exclusions": ["Holo"]
     },
     {
       "id": "pop6-17",

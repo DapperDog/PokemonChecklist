@@ -634,42 +634,42 @@
       "rarity": "Holo Rare",
       "name": "Grass Energy",
       "number": "105/110",
-      "variants": ["Reverse"]
+      "exclusions": ["Core"]
     },
     {
       "id": "ex13-106",
       "rarity": "Holo Rare",
       "name": "Fire Energy",
       "number": "106/110",
-      "variants": ["Reverse"]
+      "exclusions": ["Core"]
     },
     {
       "id": "ex13-107",
       "rarity": "Holo Rare",
       "name": "Water Energy",
       "number": "107/110",
-      "variants": ["Reverse"]
+      "exclusions": ["Core"]
     },
     {
       "id": "ex13-108",
       "rarity": "Holo Rare",
       "name": "Lightning Energy",
       "number": "108/110",
-      "variants": ["Reverse"]
+      "exclusions": ["Core"]
     },
     {
       "id": "ex13-109",
       "rarity": "Holo Rare",
       "name": "Psychic Energy",
       "number": "109/110",
-      "variants": ["Reverse"]
+      "exclusions": ["Core"]
     },
     {
       "id": "ex13-110",
       "rarity": "Holo Rare",
       "name": "Fighting Energy",
       "number": "110/110",
-      "variants": ["Reverse"]
+      "exclusions": ["Core"]
     },
     {
       "id": "ex13-111",
