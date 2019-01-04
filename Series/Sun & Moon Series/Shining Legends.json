@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -492,14 +492,14 @@
       "number": "10a/73",
       "rarity": "",
       "id": "sm35-ac-10a",
-      "Description": "Johto GX Premium Colelction Promo"
+      "description": "Johto GX Premium Colelction Promo"
     },
     {
       "name": "Pikachu",
       "number": "28/111",
       "rarity": "",
       "id": "sm35-ac-28",
-      "Description": "Water Web Holo Shining Legends Special Collection—Raichu-GX exclusive"
+      "description": "Water Web Holo Shining Legends Special Collection—Raichu-GX exclusive"
     }
   ],
   "misprints": []

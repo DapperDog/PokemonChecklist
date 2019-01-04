@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -677,28 +677,28 @@
       "number": "8/108",
       "rarity": "",
       "id": "ex16-ac-8",
-      "Description": "Dark Blast Theme Deck exclusive"
+      "description": "Dark Blast Theme Deck exclusive"
     },
     {
       "name": "Gardevoir",
       "number": "9/108",
       "rarity": "",
       "id": "ex16-ac-9",
-      "Description": "Mind Game Exclusive"
+      "description": "Mind Game Exclusive"
     },
     {
       "name": "Dusclops",
       "number": "14/108",
       "rarity": "",
       "id": "ex16-ac-14",
-      "Description": "Mind Game Exclusive"
+      "description": "Mind Game Exclusive"
     },
     {
       "name": "Mightyena",
       "number": "18/108",
       "rarity": "",
       "id": "ex16-ac-18",
-      "Description": "Dark Blast Theme Deck exclusive"
+      "description": "Dark Blast Theme Deck exclusive"
     }
   ],
   "misprints": []

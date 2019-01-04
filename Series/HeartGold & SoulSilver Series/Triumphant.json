@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -643,77 +643,77 @@
       "number": "3/102",
       "rarity": "",
       "id": "hgss4-ac-3",
-      "Description": "Non Holo Zoroark: Master of Illusions DVD exclusive"
+      "description": "Non Holo Zoroark: Master of Illusions DVD exclusive"
     },
     {
       "name": "Mamoswine",
       "number": "5/102",
       "rarity": "",
       "id": "hgss4-ac-5-1",
-      "Description": "Cracked Ice Holo Verdant Frost theme deck exclusive"
+      "description": "Cracked Ice Holo Verdant Frost theme deck exclusive"
     },
     {
       "name": "Mamoswine",
       "number": "5/102",
       "rarity": "",
       "id": "hgss4-ac-5-2",
-      "Description": "Non Holo Verdant Frost theme deck exclusive"
+      "description": "Non Holo Verdant Frost theme deck exclusive"
     },
     {
       "name": "Nidoking",
       "number": "6/102",
       "rarity": "",
       "id": "hgss4-ac-6-1",
-      "Description": "Cracked Ice Holo Royal Guard theme deck exclusive"
+      "description": "Cracked Ice Holo Royal Guard theme deck exclusive"
     },
     {
       "name": "Nidoking",
       "number": "6/102",
       "rarity": "",
       "id": "hgss4-ac-6-2",
-      "Description": "Non Holo Royal Guard theme deck exclusive"
+      "description": "Non Holo Royal Guard theme deck exclusive"
     },
     {
       "name": "Venomoth",
       "number": "11/102",
       "rarity": "",
       "id": "hgss4-ac-11",
-      "Description": "Non Holo Verdant Frost theme deck exclusive"
+      "description": "Non Holo Verdant Frost theme deck exclusive"
     },
     {
       "name": "Electivire",
       "number": "20/102",
       "rarity": "",
       "id": "hgss4-ac-20-1",
-      "Description": "Triumphant stamp Prerelease promo"
+      "description": "Triumphant stamp Prerelease promo"
     },
     {
       "name": "Electivire",
       "number": "20/102",
       "rarity": "",
       "id": "hgss4-ac-20-2",
-      "Description": "Staff \"Triumphant\" stamp Prerelease promo"
+      "description": "Staff \"Triumphant\" stamp Prerelease promo"
     },
     {
       "name": "Black Belt",
       "number": "85/102",
       "rarity": "",
       "id": "hgss4-ac-85",
-      "Description": "Crosshatch Holo 2011 Player Rewards (Tier 2)"
+      "description": "Crosshatch Holo 2011 Player Rewards (Tier 2)"
     },
     {
       "name": "Junk Arm",
       "number": "87/102",
       "rarity": "",
       "id": "hgss4-ac-87",
-      "Description": "Crosshatch Holo 2011 Player Rewards (Tier 2)"
+      "description": "Crosshatch Holo 2011 Player Rewards (Tier 2)"
     },
     {
       "name": "Seeker",
       "number": "88/102",
       "rarity": "",
       "id": "hgss4-ac-88",
-      "Description": "Crosshatch Holo 2011 Player Rewards (Tier 3)"
+      "description": "Crosshatch Holo 2011 Player Rewards (Tier 3)"
     }
   ],
   "misprints": []

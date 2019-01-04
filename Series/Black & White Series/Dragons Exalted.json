@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -796,105 +796,105 @@
       "number": "22/124",
       "rarity": "",
       "id": "bw6-ac-22",
-      "Description": "Sheen Holo Ho-Oh Legendary Battle Deck exclusive"
+      "description": "Sheen Holo Ho-Oh Legendary Battle Deck exclusive"
     },
     {
       "name": "Gyarados",
       "number": "24/124",
       "rarity": "",
       "id": "bw6-ac-24",
-      "Description": "Cosmos Holo XY Three Pack Blisters exclusive"
+      "description": "Cosmos Holo XY Three Pack Blisters exclusive"
     },
     {
       "name": "Milotic",
       "number": "28/124",
       "rarity": "",
       "id": "bw6-ac-28-1",
-      "Description": "Cosmos Holo Water Gym Collector Pack exclusive"
+      "description": "Cosmos Holo Water Gym Collector Pack exclusive"
     },
     {
       "name": "Milotic",
       "number": "28/124",
       "rarity": "",
       "id": "bw6-ac-28-2",
-      "Description": "Non Holo DragonSpeed Theme Deck exclusive"
+      "description": "Non Holo DragonSpeed Theme Deck exclusive"
     },
     {
       "name": "Ampharos",
       "number": "40/124",
       "rarity": "",
       "id": "bw6-ac-40",
-      "Description": "Cosmos Holo Legendary Treasures Single Pack Blisters exclusive"
+      "description": "Cosmos Holo Legendary Treasures Single Pack Blisters exclusive"
     },
     {
       "name": "Sigilyph",
       "number": "52/124",
       "rarity": "",
       "id": "bw6-ac-52-1",
-      "Description": "Cosmos Holo Psychic Gym Collector Pack exclusive"
+      "description": "Cosmos Holo Psychic Gym Collector Pack exclusive"
     },
     {
       "name": "Sigilyph",
       "number": "52/124",
       "rarity": "",
       "id": "bw6-ac-52-2",
-      "Description": "Non Holo Lugia Legendary Battle Deck exclusive"
+      "description": "Non Holo Lugia Legendary Battle Deck exclusive"
     },
     {
       "name": "Golurk",
       "number": "59/124",
       "rarity": "",
       "id": "bw6-ac-59",
-      "Description": "Non Holo DragonSnarl Theme Deck exclusive"
+      "description": "Non Holo DragonSnarl Theme Deck exclusive"
     },
     {
       "name": "Aggron",
       "number": "80/124",
       "rarity": "",
       "id": "bw6-ac-80",
-      "Description": "Cosmos Holo Legendary Treasures Single Pack Blisters exclusive"
+      "description": "Cosmos Holo Legendary Treasures Single Pack Blisters exclusive"
     },
     {
       "name": "Garchomp",
       "number": "91/124",
       "rarity": "",
       "id": "bw6-ac-91-1",
-      "Description": "Cracked Ice Holo DragonSpeed Theme Deck exclusive"
+      "description": "Cracked Ice Holo DragonSpeed Theme Deck exclusive"
     },
     {
       "name": "Garchomp",
       "number": "91/124",
       "rarity": "",
       "id": "bw6-ac-91-2",
-      "Description": "Cosmos Holo XY Two Pack Blisters/XY Knock Out Collection exclusive"
+      "description": "Cosmos Holo XY Two Pack Blisters/XY Knock Out Collection exclusive"
     },
     {
       "name": "Hydreigon",
       "number": "98/124",
       "rarity": "",
       "id": "bw6-ac-98-1",
-      "Description": "Cracked Ice Holo DragonSnarl Theme Deck exclusive"
+      "description": "Cracked Ice Holo DragonSnarl Theme Deck exclusive"
     },
     {
       "name": "Hydreigon",
       "number": "98/124",
       "rarity": "",
       "id": "bw6-ac-98-2",
-      "Description": "Cosmos Holo XY Two Pack Blisters/XY Knock Out Collection exclusive"
+      "description": "Cosmos Holo XY Two Pack Blisters/XY Knock Out Collection exclusive"
     },
     {
       "name": "Blend Energy GFPD",
       "number": "117/124",
       "rarity": "",
       "id": "bw6-ac-117",
-      "Description": "Crosshatch Holo 2012 Player Rewards (Tier 2)"
+      "description": "Crosshatch Holo 2012 Player Rewards (Tier 2)"
     },
     {
       "name": "Blend Energy WLFM",
       "number": "118/124",
       "rarity": "",
       "id": "bw6-ac-118",
-      "Description": "Crosshatch Holo 2012 Player Rewards (Tier 2)"
+      "description": "Crosshatch Holo 2012 Player Rewards (Tier 2)"
     }
   ],
   "misprints": []

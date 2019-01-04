@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Have"
   ],
@@ -161,14 +161,14 @@
       "number": "HGSS10",
       "rarity": "Promo",
       "id": "hgsspromo-ac-10",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "Latios (Prism Holofoil)",
       "number": "HGSS11",
       "rarity": "Promo",
       "id": "hgsspromo-ac-11",
-      "Description": ""
+      "description": ""
     }
   ],
   "misprints": []

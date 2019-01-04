@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -949,147 +949,147 @@
       "number": "3/149",
       "rarity": "",
       "id": "bw7-ac-3",
-      "Description": "Non Holo Ho-Oh Legendary Battle Deck exclusive"
+      "description": "Non Holo Ho-Oh Legendary Battle Deck exclusive"
     },
     {
       "name": "Serperior",
       "number": "13/149",
       "rarity": "",
       "id": "bw7-ac-13",
-      "Description": "Cosmos Holo Furious Fists Two Pack Blisters exclusive"
+      "description": "Cosmos Holo Furious Fists Two Pack Blisters exclusive"
     },
     {
       "name": "Charizard",
       "number": "20/149",
       "rarity": "",
       "id": "bw7-ac-20",
-      "Description": "Cosmos Holo XY Two Pack Blisters/XY Knock Out Collection/XY Kanto Two Pack Blisters exclusive"
+      "description": "Cosmos Holo XY Two Pack Blisters/XY Knock Out Collection/XY Kanto Two Pack Blisters exclusive"
     },
     {
       "name": "Emboar",
       "number": "26/149",
       "rarity": "",
       "id": "bw7-ac-26",
-      "Description": "Cosmos Holo Furious Fists Two Pack Blisters exclusive"
+      "description": "Cosmos Holo Furious Fists Two Pack Blisters exclusive"
     },
     {
       "name": "Blastoise",
       "number": "31/149",
       "rarity": "",
       "id": "bw7-ac-31",
-      "Description": "Non Holo Ice Shock Theme Deck/Battle Arena Decks: Rayquaza vs Keldeo exclusive"
+      "description": "Non Holo Ice Shock Theme Deck/Battle Arena Decks: Rayquaza vs Keldeo exclusive"
     },
     {
       "name": "Delibird",
       "number": "38/149",
       "rarity": "",
       "id": "bw7-ac-38-1",
-      "Description": "1st Place Crosshatch Holo Pokémon League Froakie/Xerneas Season League Challenge promo"
+      "description": "1st Place Crosshatch Holo Pokémon League Froakie/Xerneas Season League Challenge promo"
     },
     {
       "name": "Delibird",
       "number": "38/149",
       "rarity": "",
       "id": "bw7-ac-38-2",
-      "Description": "2nd Place Crosshatch Holo Pokémon League Froakie/Xerneas Season League Challenge promo"
+      "description": "2nd Place Crosshatch Holo Pokémon League Froakie/Xerneas Season League Challenge promo"
     },
     {
       "name": "Delibird",
       "number": "38/149",
       "rarity": "",
       "id": "bw7-ac-38-3",
-      "Description": "3rd Place Crosshatch Holo Pokémon League Froakie/Xerneas Season League Challenge promo"
+      "description": "3rd Place Crosshatch Holo Pokémon League Froakie/Xerneas Season League Challenge promo"
     },
     {
       "name": "Delibird",
       "number": "38/149",
       "rarity": "",
       "id": "bw7-ac-38-4",
-      "Description": "4th Place Crosshatch Holo Pokémon League Froakie/Xerneas Season League Challenge promo"
+      "description": "4th Place Crosshatch Holo Pokémon League Froakie/Xerneas Season League Challenge promo"
     },
     {
       "name": "Samurott",
       "number": "41/149",
       "rarity": "",
       "id": "bw7-ac-41",
-      "Description": "Cosmos Holo Furious Fists Two Pack Blisters exclusive"
+      "description": "Cosmos Holo Furious Fists Two Pack Blisters exclusive"
     },
     {
       "name": "Samurott",
       "number": "41/149",
       "rarity": "",
       "id": "",
-      "Description": "Non Holo Cold Fire Theme Deck exclusive"
+      "description": "Non Holo Cold Fire Theme Deck exclusive"
     },
     {
       "name": "Electivire",
       "number": "54/149",
       "rarity": "",
       "id": "bw7-ac-54-1",
-      "Description": "Cosmos Holo Furious Fists Two Pack Blisters exclusive"
+      "description": "Cosmos Holo Furious Fists Two Pack Blisters exclusive"
     },
     {
       "name": "Electivire",
       "number": "54/149",
       "rarity": "",
       "id": "bw7-ac-54-2",
-      "Description": "Non Holo Ice Shock Theme Deck exclusive"
+      "description": "Non Holo Ice Shock Theme Deck exclusive"
     },
     {
       "name": "Dusknoir",
       "number": "63/149",
       "rarity": "",
       "id": "bw7-ac-63",
-      "Description": "Cosmos Holo Psychic Gym Collector Pack/Furious Fists Two Pack Blisters exclusive"
+      "description": "Cosmos Holo Psychic Gym Collector Pack/Furious Fists Two Pack Blisters exclusive"
     },
     {
       "name": "Meloetta",
       "number": "77/149",
       "rarity": "",
       "id": "bw7-ac-77",
-      "Description": "Non Holo Ho-Oh Legendary Battle Deck exclusive"
+      "description": "Non Holo Ho-Oh Legendary Battle Deck exclusive"
     },
     {
       "name": "Scizor",
       "number": "94/149",
       "rarity": "",
       "id": "bw7-ac-94",
-      "Description": "Cosmos Holo Furious Fists Two Pack Blisters exclusive"
+      "description": "Cosmos Holo Furious Fists Two Pack Blisters exclusive"
     },
     {
       "name": "Black Kyurem",
       "number": "100/149",
       "rarity": "",
       "id": "bw7-ac-100",
-      "Description": "Cracked Ice Holo Ice Shock Theme Deck exclusive"
+      "description": "Cracked Ice Holo Ice Shock Theme Deck exclusive"
     },
     {
       "name": "Black Kyurem",
       "number": "101/149",
       "rarity": "",
       "id": "bw7-ac-101",
-      "Description": "Sheen Holo Battle Arena Decks: Black Kyurem vs White Kyurem exclusive"
+      "description": "Sheen Holo Battle Arena Decks: Black Kyurem vs White Kyurem exclusive"
     },
     {
       "name": "White Kyurem",
       "number": "102/149",
       "rarity": "",
       "id": "bw7-ac-102",
-      "Description": "Cracked Ice Holo Cold Fire Theme Deck exclusive"
+      "description": "Cracked Ice Holo Cold Fire Theme Deck exclusive"
     },
     {
       "name": "White Kyurem",
       "number": "103/149",
       "rarity": "",
       "id": "bw7-ac-103",
-      "Description": "Sheen Holo Battle Arena Decks: Black Kyurem vs White Kyurem exclusive"
+      "description": "Sheen Holo Battle Arena Decks: Black Kyurem vs White Kyurem exclusive"
     },
     {
       "name": "Skyla",
       "number": "134/149",
       "rarity": "",
       "id": "bw7-ac-134",
-      "Description": "Mirror Holo Pokémon League Chespin Season (October 2013)"
+      "description": "Mirror Holo Pokémon League Chespin Season (October 2013)"
     }
   ],
   "misprints": []

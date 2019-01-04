@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -943,175 +943,175 @@
       "number": "5/147",
       "rarity": "",
       "id": "pl3-ac-5-1",
-      "Description": "Crosshatch Holo National Championships 2009-2010 promo"
+      "description": "Crosshatch Holo National Championships 2009-2010 promo"
     },
     {
       "name": "Garchomp",
       "number": "5/147",
       "rarity": "",
       "id": "pl3-ac-5-2",
-      "Description": "Staff Crosshatch Holo National Championships 2009-2010 promo"
+      "description": "Staff Crosshatch Holo National Championships 2009-2010 promo"
     },
     {
       "name": "Garchomp",
       "number": "5/147",
       "rarity": "",
       "id": "pl3-ac-5-3",
-      "Description": "Cracked Ice Holo 2009 Fall Collector's Tins exclusive"
+      "description": "Cracked Ice Holo 2009 Fall Collector's Tins exclusive"
     },
     {
       "name": "Metagross",
       "number": "7/147",
       "rarity": "",
       "id": "pl3-ac-7",
-      "Description": "Cracked Ice Holo Evolutions Pack exclusive"
+      "description": "Cracked Ice Holo Evolutions Pack exclusive"
     },
     {
       "name": "Rayquaza",
       "number": "8/147",
       "rarity": "",
       "id": "pl3-ac-8",
-      "Description": "Cracked Ice Holo 2009 Fall Collector's Tins exclusive"
+      "description": "Cracked Ice Holo 2009 Fall Collector's Tins exclusive"
     },
     {
       "name": "Swampert",
       "number": "12/147",
       "rarity": "",
       "id": "pl3-ac-12",
-      "Description": "Non Holo Overflow theme deck exclusive"
+      "description": "Non Holo Overflow theme deck exclusive"
     },
     {
       "name": "Venusaur",
       "number": "13/147",
       "rarity": "",
       "id": "pl3-ac-13",
-      "Description": "Non Holo Ignition theme deck exclusive"
+      "description": "Non Holo Ignition theme deck exclusive"
     },
     {
       "name": "Arcanine",
       "number": "15/147",
       "rarity": "",
       "id": "pl3-ac-15-1",
-      "Description": "Cosmos Holo Ignition theme deck exclusive"
+      "description": "Cosmos Holo Ignition theme deck exclusive"
     },
     {
       "name": "Arcanine",
       "number": "15/147",
       "rarity": "",
       "id": "pl3-ac-15-1",
-      "Description": "Crosshatch Holo Pokémon League Cyrus Season (November 2009)"
+      "description": "Crosshatch Holo Pokémon League Cyrus Season (November 2009)"
     },
     {
       "name": "Butterfree",
       "number": "17/147",
       "rarity": "",
       "id": "pl3-ac-17",
-      "Description": "Crosshatch Holo Pokémon League Argenta Season (July 2010)"
+      "description": "Crosshatch Holo Pokémon League Argenta Season (July 2010)"
     },
     {
       "name": "Dusknoir",
       "number": "26/147",
       "rarity": "",
       "id": "pl3-ac-26",
-      "Description": "Crosshatch Holo Pokémon League Dahlia Season (May 2010)"
+      "description": "Crosshatch Holo Pokémon League Dahlia Season (May 2010)"
     },
     {
       "name": "Empoleon",
       "number": "27/147",
       "rarity": "",
       "id": "pl3-ac-27",
-      "Description": "Crosshatch Holo Pokémon League Darach Season (June 2010)"
+      "description": "Crosshatch Holo Pokémon League Darach Season (June 2010)"
     },
     {
       "name": "Milotic",
       "number": "35/147",
       "rarity": "",
       "id": "pl3-ac-35-1",
-      "Description": "Cosmos Holo Overflow theme deck exclusive"
+      "description": "Cosmos Holo Overflow theme deck exclusive"
     },
     {
       "name": "Milotic",
       "number": "35/147",
       "rarity": "",
       "id": "pl3-ac-35-2",
-      "Description": "Crosshatch Holo Pokémon League Cynthia Season (December 2009)"
+      "description": "Crosshatch Holo Pokémon League Cynthia Season (December 2009)"
     },
     {
       "name": "Dragonite",
       "number": "56/147",
       "rarity": "",
       "id": "pl3-ac-56",
-      "Description": "Crosshatch Holo Pokémon League Palmer Season (February 2010)"
+      "description": "Crosshatch Holo Pokémon League Palmer Season (February 2010)"
     },
     {
       "name": "Gabite",
       "number": "59/147",
       "rarity": "",
       "id": "pl3-ac-59-1",
-      "Description": "Crosshatch Holo State•Province•Territory Championships 2009-2010 promo"
+      "description": "Crosshatch Holo State•Province•Territory Championships 2009-2010 promo"
     },
     {
       "name": "Gabite",
       "number": "59/147",
       "rarity": "",
       "id": "pl3-ac-59-2",
-      "Description": "Staff Crosshatch Holo State•Province•Territory Championships 2009-2010 promo"
+      "description": "Staff Crosshatch Holo State•Province•Territory Championships 2009-2010 promo"
     },
     {
       "name": "Garchomp",
       "number": "60/147",
       "rarity": "",
       "id": "pl3-ac-60-1",
-      "Description": "Crosshatch Holo Regional Championships 2009-2010 promo"
+      "description": "Crosshatch Holo Regional Championships 2009-2010 promo"
     },
     {
       "name": "Garchomp",
       "number": "60/147",
       "rarity": "",
       "id": "pl3-ac-60-2",
-      "Description": "Staff Crosshatch Holo Regional Championships 2009-2010 promo"
+      "description": "Staff Crosshatch Holo Regional Championships 2009-2010 promo"
     },
     {
       "name": "Milotic",
       "number": "70/147",
       "rarity": "",
       "id": "pl3-ac-70-1",
-      "Description": "Prerelease stamp Prerelease promo"
+      "description": "Prerelease stamp Prerelease promo"
     },
     {
       "name": "Milotic",
       "number": "70/147",
       "rarity": "",
       "id": "pl3-ac-70-2",
-      "Description": "Staff Prerelease stamp Prerelease promo"
+      "description": "Staff Prerelease stamp Prerelease promo"
     },
     {
       "name": "Skarmory",
       "number": "83/147",
       "rarity": "",
       "id": "pl3-ac-83",
-      "Description": "Crosshatch Holo Pokémon League Thorton Season (March 2010)"
+      "description": "Crosshatch Holo Pokémon League Thorton Season (March 2010)"
     },
     {
       "name": "Gible",
       "number": "106/147",
       "rarity": "",
       "id": "pl3-ac-106-1",
-      "Description": "Crosshatch Holo City Championships 2009-2010 promo"
+      "description": "Crosshatch Holo City Championships 2009-2010 promo"
     },
     {
       "name": "Gible",
       "number": "106/147",
       "rarity": "",
       "id": "pl3-ac-106-2",
-      "Description": "Staff Crosshatch Holo City Championships 2009-2010 promo"
+      "description": "Staff Crosshatch Holo City Championships 2009-2010 promo"
     },
     {
       "name": "Cynthia's Guidance",
       "number": "136/147",
       "rarity": "",
       "id": "pl3-ac-136",
-      "Description": "Crosshatch Holo Player Rewards Program 2009-2010 (Tier Two)"
+      "description": "Crosshatch Holo Player Rewards Program 2009-2010 (Tier Two)"
     }
   ],
   "misprints": []

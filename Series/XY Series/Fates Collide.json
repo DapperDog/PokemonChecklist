@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -791,133 +791,133 @@
       "number": "10/124",
       "rarity": "",
       "id": "xy10-ac-10",
-      "Description": "Reverse Holo Pokémon League Promo"
+      "description": "Reverse Holo Pokémon League Promo"
     },
     {
       "name": "Braixen",
       "number": "12/124",
       "rarity": "",
       "id": "xy10-ac-12",
-      "Description": "Reverse Holo Pokémon League Promo"
+      "description": "Reverse Holo Pokémon League Promo"
     },
     {
       "name": "Delphox",
       "number": "13/124",
       "rarity": "",
       "id": "xy10-ac-13-1",
-      "Description": "Non Holo Fates Collide Prerelease Kit and Sky Guardian Theme Deck exclusive"
+      "description": "Non Holo Fates Collide Prerelease Kit and Sky Guardian Theme Deck exclusive"
     },
     {
       "name": "Delphox",
       "number": "13/124",
       "rarity": "",
       "id": "xy10-ac-13-2",
-      "Description": "Reverse Holo Pokémon League Promo"
+      "description": "Reverse Holo Pokémon League Promo"
     },
     {
       "name": "White Kyurem",
       "number": "21/124",
       "rarity": "",
       "id": "xy10-ac-21",
-      "Description": "Non Holo Battle Arena Decks: Black Kyurem vs White Kyurem exclusive"
+      "description": "Non Holo Battle Arena Decks: Black Kyurem vs White Kyurem exclusive"
     },
     {
       "name": "Regirock",
       "number": "43a/124",
       "rarity": "",
       "id": "xy10-ac-43a",
-      "Description": "Yellow A Alternate art Premium Trainer's XY Collection exclusive"
+      "description": "Yellow A Alternate art Premium Trainer's XY Collection exclusive"
     },
     {
       "name": "Zygarde",
       "number": "53/124",
       "rarity": "",
       "id": "xy10-ac-53",
-      "Description": "Cracked Ice Holo Battle Ruler Theme Deck exclusive"
+      "description": "Cracked Ice Holo Battle Ruler Theme Deck exclusive"
     },
     {
       "name": "Zygarde",
       "number": "54a/124",
       "rarity": "",
       "id": "xy10-ac-54a",
-      "Description": "Yellow A Alternate art Mega Powers Collection exclusive"
+      "description": "Yellow A Alternate art Mega Powers Collection exclusive"
     },
     {
       "name": "Tyranitar",
       "number": "56/124",
       "rarity": "",
       "id": "xy10-ac-56",
-      "Description": "Cosmos Holo -Knock Out collections Exclusive"
+      "description": "Cosmos Holo -Knock Out collections Exclusive"
     },
     {
       "name": "Lucario",
       "number": "63/124",
       "rarity": "",
       "id": "xy10-ac-63-1",
-      "Description": "Cosmos Holo -Knock Out collections Exclusive"
+      "description": "Cosmos Holo -Knock Out collections Exclusive"
     },
     {
       "name": "Lucario",
       "number": "63/124",
       "rarity": "",
       "id": "xy10-ac-63-2",
-      "Description": "1st Place Reverse Holo Pokémon League League Challenge promo"
+      "description": "1st Place Reverse Holo Pokémon League League Challenge promo"
     },
     {
       "name": "Lucario",
       "number": "63/124",
       "rarity": "",
       "id": "xy10-ac-63-3",
-      "Description": "2nd Place Reverse Holo Pokémon League League Challenge promo"
+      "description": "2nd Place Reverse Holo Pokémon League League Challenge promo"
     },
     {
       "name": "Lucario",
       "number": "63/124",
       "rarity": "",
       "id": "xy10-ac-63-4",
-      "Description": "3rd Place Reverse Holo Pokémon League League Challenge promo"
+      "description": "3rd Place Reverse Holo Pokémon League League Challenge promo"
     },
     {
       "name": "Lucario",
       "number": "63/124",
       "rarity": "",
       "id": "xy10-ac-63-5",
-      "Description": "4th Place Reverse Holo Pokémon League League Challenge promo"
+      "description": "4th Place Reverse Holo Pokémon League League Challenge promo"
     },
     {
       "name": "Lugia",
       "number": "78/124",
       "rarity": "",
       "id": "xy10-ac-78",
-      "Description": "Cracked Ice Holo Sky Guardian Theme Deck exclusive"
+      "description": "Cracked Ice Holo Sky Guardian Theme Deck exclusive"
     },
     {
       "name": "Chaos Tower",
       "number": "94/124",
       "rarity": "",
       "id": "xy10-ac-94-1",
-      "Description": "Reverse Holo National Championships 2016 promo"
+      "description": "Reverse Holo National Championships 2016 promo"
     },
     {
       "name": "[staff]Chaos Tower",
       "number": "94/124",
       "rarity": "",
       "id": "xy10-ac-94-2",
-      "Description": "Staff Reverse Holo National Championships 2016 promo"
+      "description": "Staff Reverse Holo National Championships 2016 promo"
     },
     {
       "name": "N",
       "number": "105a/124",
       "rarity": "",
       "id": "xy10-ac-105a",
-      "Description": "Yellow A Alternate art Premium Trainer's XY Collection exclusive"
+      "description": "Yellow A Alternate art Premium Trainer's XY Collection exclusive"
     },
     {
       "name": "Shauna",
       "number": "111a/124",
       "rarity": "",
       "id": "xy10-ac-111a",
-      "Description": "Yellow A Alternate art Premium Trainer's XY Collection exclusive"
+      "description": "Yellow A Alternate art Premium Trainer's XY Collection exclusive"
     }
   ],
   "misprints": []

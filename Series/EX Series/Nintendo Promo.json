@@ -1,5 +1,5 @@
 {
-  "version": 1.1,
+  "version": 1.2,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -252,63 +252,63 @@
       "number": 1,
       "rarity": "Promo",
       "id": "nintendo-ac-1",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "Groudon ex (Holofoil)",
       "number": 2,
       "rarity": "Promo",
       "id": "nintendo-ac-2",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "Treecko (Holofoil)",
       "number": 16,
       "rarity": "Promo",
       "id": "nintendo-ac-16",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "Torchic (Holofoil)",
       "number": 17,
       "rarity": "Promo",
       "id": "nintendo-ac-17",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "Mudkip (Holofoil)",
       "number": 18,
       "rarity": "Promo",
       "id": "nintendo-ac-18",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "Whismur (Holofoil)",
       "number": 19,
       "rarity": "Promo",
       "id": "nintendo-ac-19",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "Beldum (Winner)",
       "number": 22,
       "rarity": "Promo",
       "id": "nintendo-ac-22",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "Chimecho (Winner)",
       "number": 24,
       "rarity": "Promo",
       "id": "nintendo-ac-24",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "Flygon (Winner)",
       "number": 25,
       "rarity": "Promo",
       "id": "nintendo-ac-25",
-      "Description": ""
+      "description": ""
     }
   ],
   "misprints": []

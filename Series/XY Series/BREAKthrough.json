@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -1016,175 +1016,175 @@
       "number": "15/162",
       "rarity": "",
       "id": "xy8-ac-15",
-      "Description": "Cosmos Holo - Knock Out Collections Exclusive"
+      "description": "Cosmos Holo - Knock Out Collections Exclusive"
     },
     {
       "name": "Typhlosion",
       "number": "20/162",
       "rarity": "",
       "id": "xy8-ac-20",
-      "Description": "Cosmos Holo Sun & Moon Two Pack Blister exclusive"
+      "description": "Cosmos Holo Sun & Moon Two Pack Blister exclusive"
     },
     {
       "name": "Octillery",
       "number": "33/162",
       "rarity": "",
       "id": "xy8-ac-33",
-      "Description": "Non Holo Battle Arena Decks: Rayquaza vs Keldeo exclusive"
+      "description": "Non Holo Battle Arena Decks: Rayquaza vs Keldeo exclusive"
     },
     {
       "name": "Raichu",
       "number": "49/162",
       "rarity": "",
       "id": "xy8-ac-49",
-      "Description": "Cracked Ice Holo Burning Spark Theme Deck exclusive"
+      "description": "Cracked Ice Holo Burning Spark Theme Deck exclusive"
     },
     {
       "name": "Magnezone",
       "number": "54/162",
       "rarity": "",
       "id": "xy8-ac-54",
-      "Description": "Non Holo Burning Spark Theme Deck/Battle Arena Decks: Black Kyurem vs White Kyurem exclusive"
+      "description": "Non Holo Burning Spark Theme Deck/Battle Arena Decks: Black Kyurem vs White Kyurem exclusive"
     },
     {
       "name": "Raikou",
       "number": "55/162",
       "rarity": "",
       "id": "xy8-ac-55",
-      "Description": "Cosmos Holo Legendary Beast 3 pack blister exclusive"
+      "description": "Cosmos Holo Legendary Beast 3 pack blister exclusive"
     },
     {
       "name": "Gengar",
       "number": "60/162",
       "rarity": "",
       "id": "xy8-ac-60-1",
-      "Description": "Non Holo Night Striker Theme Deck exclusive"
+      "description": "Non Holo Night Striker Theme Deck exclusive"
     },
     {
       "name": "Gengar",
       "number": "60/162",
       "rarity": "",
       "id": "xy8-ac-60-2",
-      "Description": "Cosmos Holo Champions Tin exclusive"
+      "description": "Cosmos Holo Champions Tin exclusive"
     },
     {
       "name": "Marowak",
       "number": "78/162",
       "rarity": "",
       "id": "xy8-ac-78-1",
-      "Description": "1st Place Reverse Holo Pokémon League League Challenge promo"
+      "description": "1st Place Reverse Holo Pokémon League League Challenge promo"
     },
     {
       "name": "Marowak",
       "number": "78/162",
       "rarity": "",
       "id": "xy8-ac-78-2",
-      "Description": "2nd Place Reverse Holo Pokémon League League Challenge promo"
+      "description": "2nd Place Reverse Holo Pokémon League League Challenge promo"
     },
     {
       "name": "Marowak",
       "number": "78/162",
       "rarity": "",
       "id": "xy8-ac-78-3",
-      "Description": "3rd Place Reverse Holo Pokémon League League Challenge promo"
+      "description": "3rd Place Reverse Holo Pokémon League League Challenge promo"
     },
     {
       "name": "Marowak",
       "number": "78/162",
       "rarity": "",
       "id": "xy8-ac-78-4",
-      "Description": "4th Place Reverse Holo Pokémon League League Challenge promo"
+      "description": "4th Place Reverse Holo Pokémon League League Challenge promo"
     },
     {
       "name": "Zoroark",
       "number": "91/162",
       "rarity": "",
       "id": "xy8-ac-91-1",
-      "Description": "Non Holo Night Striker Theme Deck exclusive"
+      "description": "Non Holo Night Striker Theme Deck exclusive"
     },
     {
       "name": "Zoroark",
       "number": "91/162",
       "rarity": "",
       "id": "xy8-ac-91-2",
-      "Description": "Cosmos Holo Knockout Collection Promo"
+      "description": "Cosmos Holo Knockout Collection Promo"
     },
     {
       "name": "Yveltal",
       "number": "94/162",
       "rarity": "",
       "id": "xy8-ac-94",
-      "Description": "Cosmos Holo 3-Pack Blister Promo"
+      "description": "Cosmos Holo 3-Pack Blister Promo"
     },
     {
       "name": "Flabébé",
       "number": "101/162",
       "rarity": "",
       "id": "xy8-ac-101",
-      "Description": "Reverse Holo Pokémon League Promo"
+      "description": "Reverse Holo Pokémon League Promo"
     },
     {
       "name": "Floette",
       "number": "102/162",
       "rarity": "",
       "id": "xy8-ac-102",
-      "Description": "Reverse Holo Pokémon League Promo"
+      "description": "Reverse Holo Pokémon League Promo"
     },
     {
       "name": "Florges",
       "number": "103/162",
       "rarity": "",
       "id": "xy8-ac-103",
-      "Description": "Reverse Holo Pokémon League Promo"
+      "description": "Reverse Holo Pokémon League Promo"
     },
     {
       "name": "Xerneas",
       "number": "107/162",
       "rarity": "",
       "id": "xy8-ac-107-1",
-      "Description": "Cosmos Holo 3-Pack Blister Promo"
+      "description": "Cosmos Holo 3-Pack Blister Promo"
     },
     {
       "name": "Xerneas",
       "number": "107/162",
       "rarity": "",
       "id": "xy8-ac-107-2",
-      "Description": "Non Holo Ho-Oh Legendary Battle Deck exclusive"
+      "description": "Non Holo Ho-Oh Legendary Battle Deck exclusive"
     },
     {
       "name": "Noivern",
       "number": "112/162",
       "rarity": "",
       "id": "xy8-ac-112",
-      "Description": "Cracked Ice Holo Night Striker Theme Deck exclusive"
+      "description": "Cracked Ice Holo Night Striker Theme Deck exclusive"
     },
     {
       "name": "Giovanni's Scheme",
       "number": "138/162",
       "rarity": "",
       "id": "xy8-ac-138-1",
-      "Description": "Reverse Holo Regional Championships 2016 promo"
+      "description": "Reverse Holo Regional Championships 2016 promo"
     },
     {
       "name": "Giovanni's Scheme",
       "number": "138/162",
       "rarity": "",
       "id": "xy8-ac-138-2",
-      "Description": "Staff Reverse Holo Regional Championships 2016 promo"
+      "description": "Staff Reverse Holo Regional Championships 2016 promo"
     },
     {
       "name": "Parallel City",
       "number": "145/162",
       "rarity": "",
       "id": "xy8-ac-145-1",
-      "Description": "Reverse Holo City Championships 2016 promo"
+      "description": "Reverse Holo City Championships 2016 promo"
     },
     {
       "name": "Parallel City",
       "number": "145/162",
       "rarity": "",
       "id": "xy8-ac-145-2",
-      "Description": "Staff Reverse Holo City Championships 2016 promo"
+      "description": "Staff Reverse Holo City Championships 2016 promo"
     }
   ],
   "misprints": [
@@ -1193,42 +1193,42 @@
       "number": "12/162",
       "rarity": "misprint",
       "id": "xy8-mp-12",
-      "Description": "Back printed upside down"
+      "description": "Back printed upside down"
     },
     {
       "name": "RAichu Break",
       "number": "50/162",
       "rarity": "misprint",
       "id": "xy8-mp-50",
-      "Description": "Back printed upside down"
+      "description": "Back printed upside down"
     },
     {
       "name": "Marowak Break",
       "number": "79/162",
       "rarity": "misprint",
       "id": "xy8-mp-79",
-      "Description": "Back printed upside down"
+      "description": "Back printed upside down"
     },
     {
       "name": "Zoroark Break",
       "number": "92/162",
       "rarity": "misprint",
       "id": "xy8-mp-92",
-      "Description": "Back printed upside down"
+      "description": "Back printed upside down"
     },
     {
       "name": "Florges Break",
       "number": "104/162",
       "rarity": "misprint",
       "id": "xy8-mp-104",
-      "Description": "Back printed upside down"
+      "description": "Back printed upside down"
     },
     {
       "name": "Noivern Break",
       "number": "113/162",
       "rarity": "misprint",
       "id": "xy8-mp-113",
-      "Description": "Back printed upside down"
+      "description": "Back printed upside down"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -1098,126 +1098,126 @@
       "number": "9/156",
       "rarity": "",
       "id": "sm5-ac-9",
-      "Description": "reverse league promo"
+      "description": "reverse league promo"
     },
     {
       "name": "Infernape",
       "number": "23/156",
       "rarity": "",
       "id": "sm5-ac-23",
-      "Description": "reverse league promo"
+      "description": "reverse league promo"
     },
     {
       "name": "Piplup",
       "number": "32/156",
       "rarity": "",
       "id": "sm5-ac-32",
-      "Description": "cosomos holo toys r us"
+      "description": "cosomos holo toys r us"
     },
     {
       "name": "Empoleon",
       "number": "34/156",
       "rarity": "",
       "id": "sm5-ac-34-1",
-      "Description": "cracked ice holo - imperial command theme deck exclusive"
+      "description": "cracked ice holo - imperial command theme deck exclusive"
     },
     {
       "name": "Empoleon",
       "number": "34/156",
       "rarity": "",
       "id": "sm5-ac-34-2",
-      "Description": "reverse holo league promo"
+      "description": "reverse holo league promo"
     },
     {
       "name": "Lucario",
       "number": "67/156",
       "rarity": "",
       "id": "sm5-ac-67",
-      "Description": "Mach Strike theme deck exclusive"
+      "description": "Mach Strike theme deck exclusive"
     },
     {
       "name": "Magnezone",
       "number": "83/156",
       "rarity": "",
       "id": "sm5-ac-83-1",
-      "Description": "Prerelease exclusive"
+      "description": "Prerelease exclusive"
     },
     {
       "name": "Magnezone",
       "number": "83/156",
       "rarity": "",
       "id": "",
-      "Description": "1st place league promo"
+      "description": "1st place league promo"
     },
     {
       "name": "Magnezone",
       "number": "83/156",
       "rarity": "",
       "id": "sm5-ac-83-2",
-      "Description": "2nd place league promo"
+      "description": "2nd place league promo"
     },
     {
       "name": "Magnezone",
       "number": "83/156",
       "rarity": "",
       "id": "sm5-ac-83-3",
-      "Description": "3rd place league promo"
+      "description": "3rd place league promo"
     },
     {
       "name": "Magnezone",
       "number": "83/156",
       "rarity": "",
       "id": "sm5-ac-83-4",
-      "Description": "4th place league promo"
+      "description": "4th place league promo"
     },
     {
       "name": "Heatran",
       "number": "88/156",
       "rarity": "Rare",
       "id": "sm5-ac-88-1",
-      "Description": "Non-holo prerelease exclusive"
+      "description": "Non-holo prerelease exclusive"
     },
     {
       "name": "Heatran",
       "number": "88/156",
       "rarity": "Rare",
       "id": "sm5-ac-88-2",
-      "Description": "EB Games Alternate Holo Exclusive"
+      "description": "EB Games Alternate Holo Exclusive"
     },
     {
       "name": "Garchomp",
       "number": "99/156",
       "rarity": "",
       "id": "sm5-ac-99",
-      "Description": "Cracked ice mach strike theme deck exclusive"
+      "description": "Cracked ice mach strike theme deck exclusive"
     },
     {
       "name": "Cynthia",
       "number": "119/156",
       "rarity": "",
       "id": "sm5-ac-119-1",
-      "Description": "Regional promo"
+      "description": "Regional promo"
     },
     {
       "name": "Cynthia",
       "number": "119/156",
       "rarity": "",
       "id": "sm5-ac-119-2",
-      "Description": "STAFF promo"
+      "description": "STAFF promo"
     },
     {
       "name": "Escape Board",
       "number": "122/156",
       "rarity": "",
       "id": "sm5-ac-122-1",
-      "Description": "League cup promo"
+      "description": "League cup promo"
     },
     {
       "name": "Escape Board",
       "number": "122/156",
       "rarity": "",
       "id": "sm5-ac-122-2",
-      "Description": "STAFF league cup promo"
+      "description": "STAFF league cup promo"
     }
   ],
   "misprints": []

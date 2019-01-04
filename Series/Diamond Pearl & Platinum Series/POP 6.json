@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Holo"
@@ -124,7 +124,7 @@
       "number": 9,
       "rarity": "",
       "id": "pop6-ac-9",
-      "Description": "Pokemon Day Stamped Promo"
+      "description": "Pokemon Day Stamped Promo"
     }
   ],
   "misprints": []

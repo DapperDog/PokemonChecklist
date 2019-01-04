@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -929,112 +929,112 @@
       "number": "2/131",
       "rarity": "",
       "id": "sm6-ac-2-1",
-      "Description": "Cracked ice - tropical takedown theme deck"
+      "description": "Cracked ice - tropical takedown theme deck"
     },
     {
       "name": "Alolan Exeggutor",
       "number": "2/131",
       "rarity": "",
       "id": "sm6-ac-2-2",
-      "Description": "water web holo lost thunder 3 pack blister"
+      "description": "water web holo lost thunder 3 pack blister"
     },
     {
       "name": "Fennekin",
       "number": "15/131",
       "rarity": "",
       "id": "sm6-ac-15",
-      "Description": "toys r us promo"
+      "description": "toys r us promo"
     },
     {
       "name": "Magnezone",
       "number": "36/131",
       "rarity": "",
       "id": "sm6-ac-36",
-      "Description": "Prerelease kit"
+      "description": "Prerelease kit"
     },
     {
       "name": "Malamar",
       "number": "51/131",
       "rarity": "",
       "id": "sm6-ac-51-1",
-      "Description": "1st place league promo"
+      "description": "1st place league promo"
     },
     {
       "name": "Malamar",
       "number": "51/131",
       "rarity": "",
       "id": "sm6-ac-51-2",
-      "Description": "2nd place league promo"
+      "description": "2nd place league promo"
     },
     {
       "name": "Malamar",
       "number": "51/131",
       "rarity": "",
       "id": "sm6-ac-51-3",
-      "Description": "3rd place league promo"
+      "description": "3rd place league promo"
     },
     {
       "name": "Malamar",
       "number": "51/131",
       "rarity": "",
       "id": "sm6-ac-51-4",
-      "Description": "4th place league promo"
+      "description": "4th place league promo"
     },
     {
       "name": "Zygarde",
       "number": "71/131",
       "rarity": "",
       "id": "sm6-ac-71",
-      "Description": "Holo promo Gamestop exclusive"
+      "description": "Holo promo Gamestop exclusive"
     },
     {
       "name": "Lycanroc",
       "number": "76/131",
       "rarity": "",
       "id": "sm6-ac-76",
-      "Description": "Cracked ice twilight rogue theme deck exclusive"
+      "description": "Cracked ice twilight rogue theme deck exclusive"
     },
     {
       "name": "Buzzwole",
       "number": "77/131",
       "rarity": "",
       "id": "sm6-ac-77",
-      "Description": "league promo"
+      "description": "league promo"
     },
     {
       "name": "Guzzlord",
       "number": "80/131",
       "rarity": "",
       "id": "sm6-ac-80",
-      "Description": "league promo"
+      "description": "league promo"
     },
     {
       "name": "Diantha",
       "number": "105/131",
       "rarity": "",
       "id": "sm6-ac-105-1",
-      "Description": "Regional Championships promo"
+      "description": "Regional Championships promo"
     },
     {
       "name": "Diantha",
       "number": "105/131",
       "rarity": "",
       "id": "sm6-ac-105-2",
-      "Description": "STAFF regional championships promo"
+      "description": "STAFF regional championships promo"
     },
     {
       "name": "Mysterious Treasure",
       "number": "113/131",
       "rarity": "",
       "id": "sm6-ac-113-1",
-      "Description": "League cup promo"
+      "description": "League cup promo"
     },
     {
       "name": "Mysterious Treasure",
       "number": "113/131",
       "rarity": "",
       "id": "sm6-ac-113-2",
-      "Description": "STAFF league cup promo"
+      "description": "STAFF league cup promo"
     }
   ],
   "misprints": []

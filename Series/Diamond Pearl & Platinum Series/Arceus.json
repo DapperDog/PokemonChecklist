@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -696,56 +696,56 @@
       "number": "1/99",
       "rarity": "",
       "id": "pl4-ac-1",
-      "Description": "Cracked Ice Holo Evolutions Pack/2009 Fall Collector's Tins exclusive"
+      "description": "Cracked Ice Holo Evolutions Pack/2009 Fall Collector's Tins exclusive"
     },
     {
       "name": "Luxray",
       "number": "5/99",
       "rarity": "",
       "id": "pl4-ac-5",
-      "Description": "Non Holo Stormshaper theme deck exclusive"
+      "description": "Non Holo Stormshaper theme deck exclusive"
     },
     {
       "name": "Swalot",
       "number": "9/99",
       "rarity": "",
       "id": "pl4-ac-9",
-      "Description": "Non Holo Stormshaper theme deck exclusive"
+      "description": "Non Holo Stormshaper theme deck exclusive"
     },
     {
       "name": "Tangrowth",
       "number": "10/99",
       "rarity": "",
       "id": "pl4-ac-10",
-      "Description": "Non Holo Flamemaster theme deck exclusive"
+      "description": "Non Holo Flamemaster theme deck exclusive"
     },
     {
       "name": "Raichu",
       "number": "27/99",
       "rarity": "",
       "id": "pl4-ac-27-1",
-      "Description": "Prerelease stamp Prerelease promo"
+      "description": "Prerelease stamp Prerelease promo"
     },
     {
       "name": "Raichu",
       "number": "27/99",
       "rarity": "",
       "id": "pl4-ac-27-2",
-      "Description": "Staff Prerelease stamp Prerelease promo"
+      "description": "Staff Prerelease stamp Prerelease promo"
     },
     {
       "name": "Spiritomb",
       "number": "32/99",
       "rarity": "",
       "id": "pl4-ac-32",
-      "Description": "Crosshatch Holo Pokémon League Ring Drop Season (September 2010)"
+      "description": "Crosshatch Holo Pokémon League Ring Drop Season (September 2010)"
     },
     {
       "name": "Expert Belt",
       "number": "87/99",
       "rarity": "",
       "id": "pl4-ac-87",
-      "Description": "Crosshatch Holo Pokémon League Hurdle Dash Season (November 2010)"
+      "description": "Crosshatch Holo Pokémon League Hurdle Dash Season (November 2010)"
     }
   ],
   "misprints": []

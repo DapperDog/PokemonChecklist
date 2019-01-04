@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -1079,140 +1079,140 @@
       "number": "6/147",
       "rarity": "",
       "id": "sm3-ac-6",
-      "Description": "Non Holo Burning Shadows Prerelease Kit exclusive"
+      "description": "Non Holo Burning Shadows Prerelease Kit exclusive"
     },
     {
       "name": "Charmander",
       "number": "18/147",
       "rarity": "",
       "id": "sm3-ac-18",
-      "Description": "Water Web Holo Charizard-GX Premium Collection exclusive"
+      "description": "Water Web Holo Charizard-GX Premium Collection exclusive"
     },
     {
       "name": "Charmeleon",
       "number": "19/147",
       "rarity": "",
       "id": "sm3-ac-19",
-      "Description": "Water Web Holo Charizard-GX Premium Collection exclusive"
+      "description": "Water Web Holo Charizard-GX Premium Collection exclusive"
     },
     {
       "name": "Alolan Ninetales",
       "number": "28/147",
       "rarity": "",
       "id": "sm3-ac-28",
-      "Description": "Cracked Ice Holo Luminous Frost Theme Deck exclusive"
+      "description": "Cracked Ice Holo Luminous Frost Theme Deck exclusive"
     },
     {
       "name": "Kingdra",
       "number": "31/147",
       "rarity": "",
       "id": "sm3-ac-31",
-      "Description": "Non Holo Luminous Frost Theme Deck exclusive"
+      "description": "Non Holo Luminous Frost Theme Deck exclusive"
     },
     {
       "name": "Raichu",
       "number": "41/147",
       "rarity": "",
       "id": "sm3-ac-41-1",
-      "Description": "1st Place Reverse Holo Pokémon League League Challenge Promo"
+      "description": "1st Place Reverse Holo Pokémon League League Challenge Promo"
     },
     {
       "name": "Raichu",
       "number": "41/147",
       "rarity": "",
       "id": "sm3-ac-41-2",
-      "Description": "2nd Place Reverse Holo Pokémon League League Challenge Promo"
+      "description": "2nd Place Reverse Holo Pokémon League League Challenge Promo"
     },
     {
       "name": "Raichu",
       "number": "41/147",
       "rarity": "",
       "id": "sm3-ac-41-3",
-      "Description": "3rd Place Reverse Holo Pokémon League League Challenge Promo"
+      "description": "3rd Place Reverse Holo Pokémon League League Challenge Promo"
     },
     {
       "name": "Raichu",
       "number": "41/147",
       "rarity": "",
       "id": "sm3-ac-41-4",
-      "Description": "4th Place Reverse Holo Pokémon League League Challenge Promo"
+      "description": "4th Place Reverse Holo Pokémon League League Challenge Promo"
     },
     {
       "name": "Rhyperior",
       "number": "67/147",
       "rarity": "",
       "id": "sm3-ac-67",
-      "Description": "Non Holo Burning Shadows Prerelease Kit & Rock Steady Theme Deck exclusive"
+      "description": "Non Holo Burning Shadows Prerelease Kit & Rock Steady Theme Deck exclusive"
     },
     {
       "name": "Lucario",
       "number": "71/147",
       "rarity": "",
       "id": "sm3-ac-71",
-      "Description": "Non Holo Rock Steady Theme Deck exclusive"
+      "description": "Non Holo Rock Steady Theme Deck exclusive"
     },
     {
       "name": "Lycanroc",
       "number": "76/147",
       "rarity": "",
       "id": "sm3-ac-76",
-      "Description": "Cracked Ice Holo Rock Steady Theme Deck exclusive"
+      "description": "Cracked Ice Holo Rock Steady Theme Deck exclusive"
     },
     {
       "name": "Darkrai",
       "number": "87/147",
       "rarity": "",
       "id": "sm3-ac-87",
-      "Description": "Reverse Holo Pokémon League Promo"
+      "description": "Reverse Holo Pokémon League Promo"
     },
     {
       "name": "Diancie",
       "number": "94/147",
       "rarity": "",
       "id": "sm3-ac-94",
-      "Description": "Reverse Holo Pokémon League Promo"
+      "description": "Reverse Holo Pokémon League Promo"
     },
     {
       "name": "Zygarde",
       "number": "100/147",
       "rarity": "",
       "id": "sm3-ac-100",
-      "Description": "Reverse Holo Pokémon League Promo"
+      "description": "Reverse Holo Pokémon League Promo"
     },
     {
       "name": "Stufful",
       "number": "110/147",
       "rarity": "",
       "id": "sm3-ac-110",
-      "Description": "Cosmos Holo Toys \"R\" Us stamp exclusive"
+      "description": "Cosmos Holo Toys \"R\" Us stamp exclusive"
     },
     {
       "name": "Bodybuilding Dumbbells",
       "number": "113/147",
       "rarity": "",
       "id": "sm3-ac-113-1",
-      "Description": "Reverse Holo Pokémon League Promo"
+      "description": "Reverse Holo Pokémon League Promo"
     },
     {
       "name": "[STAFF]Bodybuilding Dumbbells",
       "number": "113/147",
       "rarity": "",
       "id": "sm3-ac-113-2",
-      "Description": "STAFF Reverse Holo Pokémon League Promo"
+      "description": "STAFF Reverse Holo Pokémon League Promo"
     },
     {
       "name": "Guzma",
       "number": "115/147",
       "rarity": "",
       "id": "sm3-ac-115-1",
-      "Description": "Regional Championship Promo"
+      "description": "Regional Championship Promo"
     },
     {
       "name": "[Staff]Guzma",
       "number": "115/147",
       "rarity": "",
       "id": "sm3-ac-115-2",
-      "Description": "[Staff] Stamped Regional Championship Promo"
+      "description": "[Staff] Stamped Regional Championship Promo"
     }
   ],
   "misprints": []

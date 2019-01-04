@@ -1,5 +1,5 @@
 {
-  "version": 1.1,
+  "version": 1.2,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -902,266 +902,266 @@
       "number": "14/146",
       "rarity": "",
       "id": "xy1-ac-14",
-      "Description": "Cosmos Holo Ancient Origins Two Pack Blister exclusive"
+      "description": "Cosmos Holo Ancient Origins Two Pack Blister exclusive"
     },
     {
       "name": "Vivillon [Meadow]",
       "number": "17/146",
       "rarity": "Holo",
       "id": "xy1-ac-17-1",
-      "Description": "Cosmos Holo Grass Gym Collector Pack exclusive"
+      "description": "Cosmos Holo Grass Gym Collector Pack exclusive"
     },
     {
       "name": "Vivillon [Meadow]",
       "number": "17/146",
       "rarity": "Reverse",
       "id": "xy1-ac-17-2",
-      "Description": "Cosmos Holo Grass Gym Collector Pack exclusive"
+      "description": "Cosmos Holo Grass Gym Collector Pack exclusive"
     },
     {
       "name": "Vivillon [Meadow]",
       "number": "17/146",
       "rarity": "Cosmos",
       "id": "xy1-ac-17-3",
-      "Description": "Grass Gym collectors pack"
+      "description": "Grass Gym collectors pack"
     },
     {
       "name": "Gogoat",
       "number": "19/146",
       "rarity": "",
       "id": "xy1-ac-19",
-      "Description": "Cosmos Holo Grass Gym Collector Pack exclusive"
+      "description": "Cosmos Holo Grass Gym Collector Pack exclusive"
     },
     {
       "name": "Delphox",
       "number": "26/146",
       "rarity": "",
       "id": "xy1-ac-26-1",
-      "Description": "Cosmos Holo Ancient Origins Two Pack Blister exclusive"
+      "description": "Cosmos Holo Ancient Origins Two Pack Blister exclusive"
     },
     {
       "name": "Delphox",
       "number": "26/146",
       "rarity": "",
       "id": "xy1-ac-26-2",
-      "Description": "Non Holo Battle Arena Decks: Black Kyurem vs White Kyurem exclusive"
+      "description": "Non Holo Battle Arena Decks: Black Kyurem vs White Kyurem exclusive"
     },
     {
       "name": "Talonflame",
       "number": "28/146",
       "rarity": "",
       "id": "xy1-ac-28",
-      "Description": "Cosmos Holo Phantom Forces Single Pack Blisters exclusive"
+      "description": "Cosmos Holo Phantom Forces Single Pack Blisters exclusive"
     },
     {
       "name": "Greninja",
       "number": "41/146",
       "rarity": "",
       "id": "xy1-ac-41",
-      "Description": "Cosmos Holo Ancient Origins Two Pack Blister exclusive"
+      "description": "Cosmos Holo Ancient Origins Two Pack Blister exclusive"
     },
     {
       "name": "Pikachu",
       "number": "42/146",
       "rarity": "",
       "id": "xy1-ac-42",
-      "Description": "Cosmos Holo The LEGO Movie theatrical release exclusive"
+      "description": "Cosmos Holo The LEGO Movie theatrical release exclusive"
     },
     {
       "name": "Raichu",
       "number": "43/146",
       "rarity": "",
       "id": "xy1-ac-43-1",
-      "Description": "Cosmos Holo Lightning Gym Collector Pack exclusive"
+      "description": "Cosmos Holo Lightning Gym Collector Pack exclusive"
     },
     {
       "name": "Raichu",
       "number": "43/146",
       "rarity": "",
       "id": "xy1-ac-43-2",
-      "Description": "Non Holo Battle Arena Decks: Rayquaza vs Keldeo exclusive"
+      "description": "Non Holo Battle Arena Decks: Rayquaza vs Keldeo exclusive"
     },
     {
       "name": "Pumpkaboo",
       "number": "56/146",
       "rarity": "",
       "id": "xy1-ac-56-1",
-      "Description": "1st Place Crosshatch Holo Pokémon League Rustboro/Dewford Season League Challenge promo"
+      "description": "1st Place Crosshatch Holo Pokémon League Rustboro/Dewford Season League Challenge promo"
     },
     {
       "name": "Pumpkaboo",
       "number": "56/146",
       "rarity": "",
       "id": "xy1-ac-56-2",
-      "Description": "2nd Place Crosshatch Holo Pokémon League Rustboro/Dewford Season League Challenge promo"
+      "description": "2nd Place Crosshatch Holo Pokémon League Rustboro/Dewford Season League Challenge promo"
     },
     {
       "name": "Pumpkaboo",
       "number": "56/146",
       "rarity": "",
       "id": "xy1-ac-56-3",
-      "Description": "3rd Place Crosshatch Holo Pokémon League Rustboro/Dewford Season League Challenge promo"
+      "description": "3rd Place Crosshatch Holo Pokémon League Rustboro/Dewford Season League Challenge promo"
     },
     {
       "name": "Pumpkaboo",
       "number": "56/146",
       "rarity": "",
       "id": "xy1-ac-56-4",
-      "Description": "4th Place Crosshatch Holo Pokémon League Rustboro/Dewford Season League Challenge promo"
+      "description": "4th Place Crosshatch Holo Pokémon League Rustboro/Dewford Season League Challenge promo"
     },
     {
       "name": "Rhyperior",
       "number": "62/146",
       "rarity": "",
       "id": "xy1-ac-62",
-      "Description": "Cosmos Holo Primal Clash Single Pack Blisters exclusive"
+      "description": "Cosmos Holo Primal Clash Single Pack Blisters exclusive"
     },
     {
       "name": "Solrock",
       "number": "64/146",
       "rarity": "",
       "id": "xy1-ac-64-1",
-      "Description": "1st Place Crosshatch Holo Pokémon League Delphox/Greninja Season League Challenge promo"
+      "description": "1st Place Crosshatch Holo Pokémon League Delphox/Greninja Season League Challenge promo"
     },
     {
       "name": "Solrock",
       "number": "64/146",
       "rarity": "",
       "id": "xy1-ac-64-2",
-      "Description": "2nd Place Crosshatch Holo Pokémon League Delphox/Greninja Season League Challenge promo"
+      "description": "2nd Place Crosshatch Holo Pokémon League Delphox/Greninja Season League Challenge promo"
     },
     {
       "name": "Solrock",
       "number": "64/146",
       "rarity": "",
       "id": "xy1-ac-64-3",
-      "Description": "3rd Place Crosshatch Holo Pokémon League Delphox/Greninja Season League Challenge promo"
+      "description": "3rd Place Crosshatch Holo Pokémon League Delphox/Greninja Season League Challenge promo"
     },
     {
       "name": "Solrock",
       "number": "64/146",
       "rarity": "",
       "id": "xy1-ac-64-4",
-      "Description": "4th Place Crosshatch Holo Pokémon League Delphox/Greninja Season League Challenge promo"
+      "description": "4th Place Crosshatch Holo Pokémon League Delphox/Greninja Season League Challenge promo"
     },
     {
       "name": "Zoroark",
       "number": "73/146",
       "rarity": "",
       "id": "xy1-ac-73",
-      "Description": "Cosmos Holo Primal Clash Single Pack Blisters exclusive"
+      "description": "Cosmos Holo Primal Clash Single Pack Blisters exclusive"
     },
     {
       "name": "Yveltal",
       "number": "78/146",
       "rarity": "",
       "id": "xy1-ac-78",
-      "Description": "Cracked Ice Holo Destruction Rush Theme Deck exclusive"
+      "description": "Cracked Ice Holo Destruction Rush Theme Deck exclusive"
     },
     {
       "name": "Honedge",
       "number": "83/146",
       "rarity": "",
       "id": "xy1-ac-83-1",
-      "Description": "Crosshatch Holo Autumn Regional Championships 2014-2015 promo"
+      "description": "Crosshatch Holo Autumn Regional Championships 2014-2015 promo"
     },
     {
       "name": "Honedge",
       "number": "83/146",
       "rarity": "",
       "id": "xy1-ac-83-2",
-      "Description": "Staff Crosshatch Holo Autumn Regional Championships 2014-2015 promo"
+      "description": "Staff Crosshatch Holo Autumn Regional Championships 2014-2015 promo"
     },
     {
       "name": "Doublade",
       "number": "84/146",
       "rarity": "",
       "id": "xy1-ac-84-1",
-      "Description": "Crosshatch Holo Winter Regional Championships 2014-2015 promo"
+      "description": "Crosshatch Holo Winter Regional Championships 2014-2015 promo"
     },
     {
       "name": "Doublade",
       "number": "84/146",
       "rarity": "",
       "id": "xy1-ac-84-2",
-      "Description": "Staff Crosshatch Holo Winter Regional Championships 2014-2015 promo"
+      "description": "Staff Crosshatch Holo Winter Regional Championships 2014-2015 promo"
     },
     {
       "name": "Aegislash",
       "number": "85/146",
       "rarity": "",
       "id": "xy1-ac-85-1",
-      "Description": "Crosshatch Holo Spring Regional Championships 2014-2015 promo"
+      "description": "Crosshatch Holo Spring Regional Championships 2014-2015 promo"
     },
     {
       "name": "Aegislash",
       "number": "85/146",
       "rarity": "",
       "id": "xy1-ac-85-2",
-      "Description": "Staff Crosshatch Holo Spring Regional Championships 2014-2015 promo"
+      "description": "Staff Crosshatch Holo Spring Regional Championships 2014-2015 promo"
     },
     {
       "name": "Aegislash",
       "number": "86/146",
       "rarity": "",
       "id": "xy1-ac-86-1",
-      "Description": "XY stamp Prerelease promo"
+      "description": "XY stamp Prerelease promo"
     },
     {
       "name": "Aegislash",
       "number": "86/146",
       "rarity": "",
       "id": "xy1-ac-86-2",
-      "Description": "Staff XY stamp Prerelease promo"
+      "description": "Staff XY stamp Prerelease promo"
     },
     {
       "name": "Aromatisse",
       "number": "93/146",
       "rarity": "",
       "id": "xy1-ac-93",
-      "Description": "Non Holo Resilient Life Theme Deck exclusive"
+      "description": "Non Holo Resilient Life Theme Deck exclusive"
     },
     {
       "name": "Slurpuff",
       "number": "95/146",
       "rarity": "",
       "id": "xy1-ac-95",
-      "Description": "Non Holo Resilient Life Theme Deck exclusive"
+      "description": "Non Holo Resilient Life Theme Deck exclusive"
     },
     {
       "name": "Xerneas",
       "number": "96/146",
       "rarity": "",
       "id": "xy1-ac-96",
-      "Description": "Cracked Ice Holo Resilient Life Theme Deck exclusive"
+      "description": "Cracked Ice Holo Resilient Life Theme Deck exclusive"
     },
     {
       "name": "Furfrou",
       "number": "114/146",
       "rarity": "",
       "id": "xy1-ac-114",
-      "Description": "Cosmos Holo Primal Clash Three Pack Blisters/Primal Clash Launch Kit exclusive"
+      "description": "Cosmos Holo Primal Clash Three Pack Blisters/Primal Clash Launch Kit exclusive"
     },
     {
       "name": "Muscle Band",
       "number": "121/146",
       "rarity": "",
       "id": "xy1-ac-121",
-      "Description": "Crosshatch Holo Pokémon League Dewford Season (January 2015)"
+      "description": "Crosshatch Holo Pokémon League Dewford Season (January 2015)"
     },
     {
       "name": "Professor Sycamore",
       "number": "122/146",
       "rarity": "",
       "id": "xy1-ac-122",
-      "Description": "Crosshatch Holo Professor Program stamp promo (August 2015)"
+      "description": "Crosshatch Holo Professor Program stamp promo (August 2015)"
     },
     {
       "name": "Professor's Letter",
       "number": "123/146",
       "rarity": "",
       "id": "xy1-ac-123",
-      "Description": "Crosshatch Holo Pokémon League Rustboro Season (December 2014)"
+      "description": "Crosshatch Holo Pokémon League Rustboro Season (December 2014)"
     }
   ],
   "misprints": []

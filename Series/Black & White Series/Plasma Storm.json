@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -856,98 +856,98 @@
       "number": "14/135",
       "rarity": "",
       "id": "bw8-ac-14",
-      "Description": "Sheen Holo Moltres Legendary Battle Deck exclusive"
+      "description": "Sheen Holo Moltres Legendary Battle Deck exclusive"
     },
     {
       "name": "Infernape",
       "number": "17/135",
       "rarity": "",
       "id": "bw8-ac-17",
-      "Description": "Non Holo Plasma Claw Theme Deck exclusive"
+      "description": "Non Holo Plasma Claw Theme Deck exclusive"
     },
     {
       "name": "Articuno",
       "number": "25/135",
       "rarity": "",
       "id": "bw8-ac-25",
-      "Description": "Sheen Holo Articuno Legendary Battle Deck exclusive"
+      "description": "Sheen Holo Articuno Legendary Battle Deck exclusive"
     },
     {
       "name": "Magnezone",
       "number": "46/135",
       "rarity": "",
       "id": "bw8-ac-46",
-      "Description": "Non Holo Zapdos Legendary Battle Deck exclusive"
+      "description": "Non Holo Zapdos Legendary Battle Deck exclusive"
     },
     {
       "name": "Zapdos",
       "number": "48/135",
       "rarity": "",
       "id": "bw8-ac-48",
-      "Description": "Sheen Holo Zapdos Legendary Battle Deck exclusive"
+      "description": "Sheen Holo Zapdos Legendary Battle Deck exclusive"
     },
     {
       "name": "Weezing",
       "number": "58/135",
       "rarity": "",
       "id": "bw8-ac-58",
-      "Description": "Non Holo Plasma Shadow Theme Deck exclusive"
+      "description": "Non Holo Plasma Shadow Theme Deck exclusive"
     },
     {
       "name": "Gallade",
       "number": "61/135",
       "rarity": "",
       "id": "bw8-ac-61",
-      "Description": "Cosmos Holo XY Three Pack Blisters exclusive"
+      "description": "Cosmos Holo XY Three Pack Blisters exclusive"
     },
     {
       "name": "Giratina",
       "number": "62/135",
       "rarity": "",
       "id": "bw8-ac-62",
-      "Description": "Cracked Ice Holo Plasma Shadow Theme Deck exclusive"
+      "description": "Cracked Ice Holo Plasma Shadow Theme Deck exclusive"
     },
     {
       "name": "Druddigon",
       "number": "94/135",
       "rarity": "",
       "id": "bw8-ac-94",
-      "Description": "Cracked Ice Holo Plasma Claw Theme Deck exclusive"
+      "description": "Cracked Ice Holo Plasma Claw Theme Deck exclusive"
     },
     {
       "name": "Black Kyurem",
       "number": "95/135",
       "rarity": "",
       "id": "bw8-ac-95",
-      "Description": "Sheen Holo Battle Arena Decks: Black Kyurem vs White Kyurem exclusive"
+      "description": "Sheen Holo Battle Arena Decks: Black Kyurem vs White Kyurem exclusive"
     },
     {
       "name": "White Kyurem",
       "number": "96/135",
       "rarity": "",
       "id": "bw8-ac-96",
-      "Description": "Sheen Holo Battle Arena Decks: Black Kyurem vs White Kyurem exclusive"
+      "description": "Sheen Holo Battle Arena Decks: Black Kyurem vs White Kyurem exclusive"
     },
     {
       "name": "Colress",
       "number": "118/135",
       "rarity": "",
       "id": "bw8-ac-118",
-      "Description": "Crosshatch Holo 2012-2013 Player Rewards (Tier 2)"
+      "description": "Crosshatch Holo 2012-2013 Player Rewards (Tier 2)"
     },
     {
       "name": "Escape Rope",
       "number": "120/135",
       "rarity": "",
       "id": "bw8-ac-120",
-      "Description": "Mirror Holo Pokémon League Yveltal Season (April 2014)"
+      "description": "Mirror Holo Pokémon League Yveltal Season (April 2014)"
     },
     {
       "name": "Hypnotoxic Laser",
       "number": "123/135",
       "rarity": "",
       "id": "bw8-ac-123",
-      "Description": "Crosshatch Holo 2012-2013 Player Rewards (Tier 3)"
+      "description": "Crosshatch Holo 2012-2013 Player Rewards (Tier 3)"
     }
   ],
   "misprints": []

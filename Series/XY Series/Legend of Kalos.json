@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -246,84 +246,84 @@
       "number": "3/39",
       "rarity": "",
       "id": "xy0-ac-3",
-      "Description": "Sheen Holo Chespin deck Deluxe Exclusive"
+      "description": "Sheen Holo Chespin deck Deluxe Exclusive"
     },
     {
       "name": "Quilladin",
       "number": "4/39",
       "rarity": "",
       "id": "xy0-ac-4",
-      "Description": "Sheen Holo Chespin deck Deluxe Exclusive"
+      "description": "Sheen Holo Chespin deck Deluxe Exclusive"
     },
     {
       "name": "Chesnaught",
       "number": "5/39",
       "rarity": "",
       "id": "xy0-ac-5",
-      "Description": "Sheen Holo Chespin deck Deluxe Exclusive"
+      "description": "Sheen Holo Chespin deck Deluxe Exclusive"
     },
     {
       "name": "Fennekin",
       "number": "8/39",
       "rarity": "",
       "id": "xy0-ac-8",
-      "Description": "Sheen Holo Fennekin Deck Deluxe Exclusive"
+      "description": "Sheen Holo Fennekin Deck Deluxe Exclusive"
     },
     {
       "name": "Braixen",
       "number": "9/39",
       "rarity": "",
       "id": "xy0-ac-9",
-      "Description": "Sheen Holo Fennekin Deck Deluxe Exclusive"
+      "description": "Sheen Holo Fennekin Deck Deluxe Exclusive"
     },
     {
       "name": "Delphox",
       "number": "10/39",
       "rarity": "",
       "id": "xy0-ac-10",
-      "Description": "Sheen Holo Fennekin Deck Deluxe Exclusive"
+      "description": "Sheen Holo Fennekin Deck Deluxe Exclusive"
     },
     {
       "name": "Froakie",
       "number": "12/39",
       "rarity": "",
       "id": "xy0-ac-12",
-      "Description": "Sheen Holo Froakie Deck Deluxe Exclusive"
+      "description": "Sheen Holo Froakie Deck Deluxe Exclusive"
     },
     {
       "name": "Frogadier",
       "number": "13/39",
       "rarity": "",
       "id": "xy0-ac-13",
-      "Description": "Sheen Holo Froakie Deck Deluxe Exclusive"
+      "description": "Sheen Holo Froakie Deck Deluxe Exclusive"
     },
     {
       "name": "Greninja",
       "number": "14/39",
       "rarity": "",
       "id": "xy0-ac-14",
-      "Description": "Sheen Holo Froakie Deck Deluxe Exclusive"
+      "description": "Sheen Holo Froakie Deck Deluxe Exclusive"
     },
     {
       "name": "Crushing Hammer",
       "number": "34/39",
       "rarity": "",
       "id": "xy0-ac-34",
-      "Description": "League Promo"
+      "description": "League Promo"
     },
     {
       "name": "Pokemon Catcher",
       "number": "36/39",
       "rarity": "",
       "id": "xy0-ac-36",
-      "Description": "League Promo"
+      "description": "League Promo"
     },
     {
       "name": "Tierno",
       "number": "39/39",
       "rarity": "",
       "id": "xy0-ac-39",
-      "Description": "League Promo"
+      "description": "League Promo"
     }
   ],
   "misprints": []

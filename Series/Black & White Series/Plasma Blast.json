@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -658,77 +658,77 @@
       "number": "5/101",
       "rarity": "",
       "id": "bw10-ac-5-1",
-      "Description": "Crosshatch Holo National Championships 2013-2014 promo"
+      "description": "Crosshatch Holo National Championships 2013-2014 promo"
     },
     {
       "name": "Tropius",
       "number": "5/101",
       "rarity": "",
       "id": "bw10-ac-5-2",
-      "Description": "Staff Crosshatch Holo National Championships 2013-2014 promo"
+      "description": "Staff Crosshatch Holo National Championships 2013-2014 promo"
     },
     {
       "name": "Genesect",
       "number": "10/101",
       "rarity": "",
       "id": "bw10-ac-10",
-      "Description": "Cracked Ice Holo Mind Wipe theme deck exclusive"
+      "description": "Cracked Ice Holo Mind Wipe theme deck exclusive"
     },
     {
       "name": "Volcarona",
       "number": "13/101",
       "rarity": "",
       "id": "bw10-ac-13",
-      "Description": "Cracked Ice Holo Solar Strike theme deck exclusive"
+      "description": "Cracked Ice Holo Solar Strike theme deck exclusive"
     },
     {
       "name": "Squirtle",
       "number": "14/101",
       "rarity": "",
       "id": "bw10-ac-14",
-      "Description": "Build-A-Bear Workshop stamp promo"
+      "description": "Build-A-Bear Workshop stamp promo"
     },
     {
       "name": "Blastoise",
       "number": "16/101",
       "rarity": "",
       "id": "bw10-ac-16-1",
-      "Description": "Non Holo Solar Strike theme deck exclusive"
+      "description": "Non Holo Solar Strike theme deck exclusive"
     },
     {
       "name": "Blastoise",
       "number": "16/101",
       "rarity": "",
       "id": "bw10-ac-16-2",
-      "Description": "Error ©2012 Cosmos Holo XY Two Pack Blisters exclusive"
+      "description": "Error ©2012 Cosmos Holo XY Two Pack Blisters exclusive"
     },
     {
       "name": "Blastoise",
       "number": "16/101",
       "rarity": "",
       "id": "bw10-ac-16-3",
-      "Description": "Corrected ©2013 Cosmos Holo XY Knock Out Collection/XY Kanto Two Pack Blisters exclusive"
+      "description": "Corrected ©2013 Cosmos Holo XY Knock Out Collection/XY Kanto Two Pack Blisters exclusive"
     },
     {
       "name": "Golurk",
       "number": "46/101",
       "rarity": "",
       "id": "bw10-ac-46",
-      "Description": "Non Holo Mind Wipe theme deck exclusive"
+      "description": "Non Holo Mind Wipe theme deck exclusive"
     },
     {
       "name": "Machamp",
       "number": "49/101",
       "rarity": "",
       "id": "bw10-ac-49",
-      "Description": "Cosmos Holo Flashfire Three Pack Blisters exclusive"
+      "description": "Cosmos Holo Flashfire Three Pack Blisters exclusive"
     },
     {
       "name": "Haxorus",
       "number": "69/101",
       "rarity": "",
       "id": "bw10-ac-69",
-      "Description": "Cosmos Holo Flashfire Three Pack Blisters exclusive"
+      "description": "Cosmos Holo Flashfire Three Pack Blisters exclusive"
     }
   ],
   "misprints": []

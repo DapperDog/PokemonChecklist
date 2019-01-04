@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -783,140 +783,140 @@
       "number": "1/122",
       "rarity": "",
       "id": "xy9-ac-1",
-      "Description": "Reverse Holo Pokémon League Promo"
+      "description": "Reverse Holo Pokémon League Promo"
     },
     {
       "name": "Bayleef",
       "number": "2/122",
       "rarity": "",
       "id": "xy9-ac-2",
-      "Description": "Reverse Holo Pokémon League Promo"
+      "description": "Reverse Holo Pokémon League Promo"
     },
     {
       "name": "Meganium",
       "number": "3/122",
       "rarity": "",
       "id": "xy9-ac-3-1",
-      "Description": "Reverse Holo Pokémon League Promo"
+      "description": "Reverse Holo Pokémon League Promo"
     },
     {
       "name": "Meganium",
       "number": "3/122",
       "rarity": "",
       "id": "xy9-ac-3-2",
-      "Description": "Cosmos Holo Sun & Moon Teo Pack Blister exclusive"
+      "description": "Cosmos Holo Sun & Moon Teo Pack Blister exclusive"
     },
     {
       "name": "Slowking",
       "number": "21/122",
       "rarity": "",
       "id": "xy9-ac-21-1",
-      "Description": "Non Holo Wave Slasher Theme Deck exclusive"
+      "description": "Non Holo Wave Slasher Theme Deck exclusive"
     },
     {
       "name": "Slowking",
       "number": "21/122",
       "rarity": "",
       "id": "xy9-ac-21-2",
-      "Description": "Cosmos Holo Legacy Evolution Pin Collection exclusive"
+      "description": "Cosmos Holo Legacy Evolution Pin Collection exclusive"
     },
     {
       "name": "Suicune",
       "number": "30/162",
       "rarity": "",
       "id": "xy9-ac-30",
-      "Description": "Cosmos Legendary Beast 3 pack blister exclusive"
+      "description": "Cosmos Legendary Beast 3 pack blister exclusive"
     },
     {
       "name": "Greninja",
       "number": "40/122",
       "rarity": "",
       "id": "xy9-ac-40-1",
-      "Description": "Cracked Ice Holo Wave Slasher Theme Deck exclusive"
+      "description": "Cracked Ice Holo Wave Slasher Theme Deck exclusive"
     },
     {
       "name": "Greninja",
       "number": "40/122",
       "rarity": "",
       "id": "xy9-ac-40-2",
-      "Description": "1st Place Reverse Holo Pokémon League League Challenge promo"
+      "description": "1st Place Reverse Holo Pokémon League League Challenge promo"
     },
     {
       "name": "Greninja",
       "number": "40/122",
       "rarity": "",
       "id": "xy9-ac-40-3",
-      "Description": "2nd Place Reverse Holo Pokémon League League Challenge promo"
+      "description": "2nd Place Reverse Holo Pokémon League League Challenge promo"
     },
     {
       "name": "Greninja",
       "number": "40/122",
       "rarity": "",
       "id": "xy9-ac-40-4",
-      "Description": "3rd Place Reverse Holo Pokémon League League Challenge promo"
+      "description": "3rd Place Reverse Holo Pokémon League League Challenge promo"
     },
     {
       "name": "Greninja",
       "number": "40/122",
       "rarity": "",
       "id": "xy9-ac-40-5",
-      "Description": "4th Place Reverse Holo Pokémon League League Challenge promo"
+      "description": "4th Place Reverse Holo Pokémon League League Challenge promo"
     },
     {
       "name": "Luxray",
       "number": "46/122",
       "rarity": "",
       "id": "xy9-ac-46",
-      "Description": "Cracked Ice Holo Electric Eye Theme Deck exclusive"
+      "description": "Cracked Ice Holo Electric Eye Theme Deck exclusive"
     },
     {
       "name": "Delinquent",
       "number": "98b/122",
       "rarity": "",
       "id": "xy9-ac-98b",
-      "Description": "Yellow A Alternate art Premium Trainer's XY Collection exclusive"
+      "description": "Yellow A Alternate art Premium Trainer's XY Collection exclusive"
     },
     {
       "name": "Misty's Determination",
       "number": "104/122",
       "rarity": "",
       "id": "xy9-ac-104-1",
-      "Description": "Reverse Regional Championships 2015-2016 promo"
+      "description": "Reverse Regional Championships 2015-2016 promo"
     },
     {
       "name": "[staff]Misty's Determination",
       "number": "104/122",
       "rarity": "",
       "id": "xy9-ac-104-2",
-      "Description": "Staff Reverse Regional Championships 2015-2016 promo"
+      "description": "Staff Reverse Regional Championships 2015-2016 promo"
     },
     {
       "name": "Professor Sycamore",
       "number": "107a/122",
       "rarity": "",
       "id": "xy9-ac-107a-1",
-      "Description": "Sheen Holo Yellow A Alternate art Battle Arena Decks: Black Kyurem vs White Kyurem exclusive"
+      "description": "Sheen Holo Yellow A Alternate art Battle Arena Decks: Black Kyurem vs White Kyurem exclusive"
     },
     {
       "name": "Professor Sycamore",
       "number": "107a/122",
       "rarity": "",
       "id": "xy9-ac-107a-2",
-      "Description": "Non Holo Yellow A Alternate art Battle Arena Decks: Black Kyurem vs White Kyurem exclusive"
+      "description": "Non Holo Yellow A Alternate art Battle Arena Decks: Black Kyurem vs White Kyurem exclusive"
     },
     {
       "name": "Reverse Valley",
       "number": "110/122",
       "rarity": "",
       "id": "xy9-ac-110-1",
-      "Description": "Reverse State•Province•Territory Championships Championships 2015-2016 promo"
+      "description": "Reverse State•Province•Territory Championships Championships 2015-2016 promo"
     },
     {
       "name": "[staff]Reverse Valley",
       "number": "110/122",
       "rarity": "",
       "id": "xy9-ac-110-2",
-      "Description": "Staff Reverse State•Province•Territory Championships Championships 2015-2016 promo"
+      "description": "Staff Reverse State•Province•Territory Championships Championships 2015-2016 promo"
     }
   ],
   "misprints": []

@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -764,133 +764,133 @@
       "number": "11/116",
       "rarity": "",
       "id": "bw9-ac-11-1",
-      "Description": "Cracked Ice Holo Psy Crusher Theme Deck exclusive"
+      "description": "Cracked Ice Holo Psy Crusher Theme Deck exclusive"
     },
     {
       "name": "Leafeon",
       "number": "11/116",
       "rarity": "",
       "id": "bw9-ac-11-2",
-      "Description": "Crosshatch Holo European Spring Regional Championships 2013-2014 promo"
+      "description": "Crosshatch Holo European Spring Regional Championships 2013-2014 promo"
     },
     {
       "name": "Leafeon",
       "number": "11/116",
       "rarity": "",
       "id": "bw9-ac-11-3",
-      "Description": "Staff Crosshatch Holo European Spring Regional Championships 2013-2014 promo"
+      "description": "Staff Crosshatch Holo European Spring Regional Championships 2013-2014 promo"
     },
     {
       "name": "Leafeon",
       "number": "11/116",
       "rarity": "",
       "id": "bw9-ac-11-4",
-      "Description": "Crosshatch Holo North American State•Province•Territory Championships 2013-2014 promo"
+      "description": "Crosshatch Holo North American State•Province•Territory Championships 2013-2014 promo"
     },
     {
       "name": "Leafeon",
       "number": "11/116",
       "rarity": "",
       "id": "bw9-ac-11-5",
-      "Description": "Staff Crosshatch Holo North American State•Province•Territory Championships 2013-2014 promo"
+      "description": "Staff Crosshatch Holo North American State•Province•Territory Championships 2013-2014 promo"
     },
     {
       "name": "Chandelure",
       "number": "16/116",
       "rarity": "",
       "id": "bw9-ac-16",
-      "Description": "Non Holo Battle Arena Decks: Black Kyurem vs White Kyurem exclusive"
+      "description": "Non Holo Battle Arena Decks: Black Kyurem vs White Kyurem exclusive"
     },
     {
       "name": "Reshiram",
       "number": "17/116",
       "rarity": "",
       "id": "bw9-ac-17",
-      "Description": "Cosmos Holo Legendary Dragons of Unova Collection exclusive"
+      "description": "Cosmos Holo Legendary Dragons of Unova Collection exclusive"
     },
     {
       "name": "Glaceon",
       "number": "23/116",
       "rarity": "",
       "id": "bw9-ac-23-1",
-      "Description": "Cracked Ice Holo Frost Ray Theme Deck exclusive"
+      "description": "Cracked Ice Holo Frost Ray Theme Deck exclusive"
     },
     {
       "name": "Glaceon",
       "number": "23/116",
       "rarity": "",
       "id": "bw9-ac-23-2",
-      "Description": "Crosshatch Holo City Championships 2013-2014 promo"
+      "description": "Crosshatch Holo City Championships 2013-2014 promo"
     },
     {
       "name": "Glaceon",
       "number": "23/116",
       "rarity": "",
       "id": "bw9-ac-23-3",
-      "Description": "Staff Crosshatch Holo City Championships 2013-2014 promo"
+      "description": "Staff Crosshatch Holo City Championships 2013-2014 promo"
     },
     {
       "name": "Kyurem",
       "number": "31/116",
       "rarity": "",
       "id": "bw9-ac-31",
-      "Description": "Non Holo Articuno Legendary Battle Deck exclusive"
+      "description": "Non Holo Articuno Legendary Battle Deck exclusive"
     },
     {
       "name": "Electrode",
       "number": "33/116",
       "rarity": "",
       "id": "bw9-ac-33",
-      "Description": "Non Holo Frost Ray Theme Deck/Battle Arena Decks: Black Kyurem vs White Kyurem exclusive"
+      "description": "Non Holo Frost Ray Theme Deck/Battle Arena Decks: Black Kyurem vs White Kyurem exclusive"
     },
     {
       "name": "Zekrom",
       "number": "39/116",
       "rarity": "",
       "id": "bw9-ac-39",
-      "Description": "Cosmos Holo Legendary Dragons of Unova Collection exclusive"
+      "description": "Cosmos Holo Legendary Dragons of Unova Collection exclusive"
     },
     {
       "name": "Umbreon",
       "number": "64/116",
       "rarity": "",
       "id": "bw9-ac-64",
-      "Description": "Non Holo Moltres Legendary Battle Deck exclusive"
+      "description": "Non Holo Moltres Legendary Battle Deck exclusive"
     },
     {
       "name": "Absol",
       "number": "67/116",
       "rarity": "",
       "id": "bw9-ac-67",
-      "Description": "Non Holo Moltres Legendary Battle Deck exclusive"
+      "description": "Non Holo Moltres Legendary Battle Deck exclusive"
     },
     {
       "name": "Dragonite",
       "number": "83/116",
       "rarity": "",
       "id": "bw9-ac-83",
-      "Description": "Cosmos Holo XY Single Pack Blisters exclusive"
+      "description": "Cosmos Holo XY Single Pack Blisters exclusive"
     },
     {
       "name": "Frozen City",
       "number": "100/116",
       "rarity": "",
       "id": "bw9-ac-100",
-      "Description": "Crosshatch Holo 2012-2013 Player Rewards (Tier 3)"
+      "description": "Crosshatch Holo 2012-2013 Player Rewards (Tier 3)"
     },
     {
       "name": "Ghetsis",
       "number": "101/116",
       "rarity": "",
       "id": "bw9-ac-101",
-      "Description": "Non Holo Articuno/Moltres Legendary Battle Deck exclusive"
+      "description": "Non Holo Articuno/Moltres Legendary Battle Deck exclusive"
     },
     {
       "name": "Plasma Energy",
       "number": "106/116",
       "rarity": "",
       "id": "bw9-ac-106",
-      "Description": "Crosshatch Holo 2012-2013 Player Rewards (Tier 3)"
+      "description": "Crosshatch Holo 2012-2013 Player Rewards (Tier 3)"
     }
   ],
   "misprints": []

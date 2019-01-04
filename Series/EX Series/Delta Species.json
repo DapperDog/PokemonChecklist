@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -703,49 +703,49 @@
       "number": "61/113",
       "rarity": "",
       "id": "ex11-ac-61",
-      "Description": "Origiins Game Fair Stamped Promo"
+      "description": "Origiins Game Fair Stamped Promo"
     },
     {
       "name": "Ditto",
       "number": "63/113",
       "rarity": "",
       "id": "ex11-ac-63",
-      "Description": "Comic Con Stamped Promo"
+      "description": "Comic Con Stamped Promo"
     },
     {
       "name": "Ditto",
       "number": "64/113",
       "rarity": "",
       "id": "ex11-ac-64",
-      "Description": "Games Expo Stamped Promo"
+      "description": "Games Expo Stamped Promo"
     },
     {
       "name": "Dratini",
       "number": "66/113",
       "rarity": "",
       "id": "ex11-ac-66",
-      "Description": "Delta Specia Stamped, Donald Duck Scandinavia Promo"
+      "description": "Delta Specia Stamped, Donald Duck Scandinavia Promo"
     },
     {
       "name": "Larvitar",
       "number": "73/113",
       "rarity": "",
       "id": "ex11-ac-73",
-      "Description": "Delta Specia Stamped, Donald Duck Scandinavia Promo"
+      "description": "Delta Specia Stamped, Donald Duck Scandinavia Promo"
     },
     {
       "name": "Potion",
       "number": "101/113",
       "rarity": "",
       "id": "ex11-ac-101",
-      "Description": "2006 Ex Legend Maker Theme Deck Exclusive"
+      "description": "2006 Ex Legend Maker Theme Deck Exclusive"
     },
     {
       "name": "Switch",
       "number": "102/113",
       "rarity": "",
       "id": "ex11-ac-102",
-      "Description": "2006 Ex Legend Maker Theme Deck Exclusive"
+      "description": "2006 Ex Legend Maker Theme Deck Exclusive"
     }
   ],
   "misprints": []

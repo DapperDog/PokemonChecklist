@@ -1,5 +1,5 @@
 {
-  "version": 1.1,
+  "version": 1.2,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -1028,70 +1028,70 @@
       "number": "6/160",
       "rarity": "",
       "id": "xy5-ac-6",
-      "Description": "Sheen Holo Collector Chest exclusive"
+      "description": "Sheen Holo Collector Chest exclusive"
     },
     {
       "name": "Vulpix",
       "number": "20/160",
       "rarity": "",
       "id": "xy5-ac-20",
-      "Description": "Build-A-Bear Workshop stamp promo"
+      "description": "Build-A-Bear Workshop stamp promo"
     },
     {
       "name": "Torchic",
       "number": "25/160",
       "rarity": "",
       "id": "xy5-ac-25",
-      "Description": "Sheen Holo Collector Chest exclusive"
+      "description": "Sheen Holo Collector Chest exclusive"
     },
     {
       "name": "Mudkip",
       "number": "33/160",
       "rarity": "",
       "id": "xy5-ac-33",
-      "Description": "Sheen Holo Collector Chest exclusive"
+      "description": "Sheen Holo Collector Chest exclusive"
     },
     {
       "name": "Milotic",
       "number": "44/160",
       "rarity": "",
       "id": "xy5-ac-44",
-      "Description": "Non Holo Ocean's Core Theme Deck exclusive"
+      "description": "Non Holo Ocean's Core Theme Deck exclusive"
     },
     {
       "name": "Kyogre",
       "number": "53/160",
       "rarity": "",
       "id": "xy5-ac-53",
-      "Description": "Cracked Ice Holo Ocean's Core Theme Deck exclusive"
+      "description": "Cracked Ice Holo Ocean's Core Theme Deck exclusive"
     },
     {
       "name": "Manectric",
       "number": "61/160",
       "rarity": "",
       "id": "xy5-ac-61",
-      "Description": "Non Holo Earth's Pulse Theme Deck exclusive"
+      "description": "Non Holo Earth's Pulse Theme Deck exclusive"
     },
     {
       "name": "Eelektross",
       "number": "65/160",
       "rarity": "",
       "id": "xy5-ac-65",
-      "Description": "Cosmos Holo Primal Clash Checklane Blister"
+      "description": "Cosmos Holo Primal Clash Checklane Blister"
     },
     {
       "name": "Groudon",
       "number": "84/160",
       "rarity": "",
       "id": "xy5-ac-84",
-      "Description": "Cracked Ice Holo Earth's Pulse Theme Deck exclusive"
+      "description": "Cracked Ice Holo Earth's Pulse Theme Deck exclusive"
     },
     {
       "name": "Flygon",
       "number": "110/160",
       "rarity": "",
       "id": "xy5-ac-110",
-      "Description": "Cosmos Holo Two Pack Dragon Blister"
+      "description": "Cosmos Holo Two Pack Dragon Blister"
     }
   ],
   "misprints": []

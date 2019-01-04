@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -601,168 +601,168 @@
       "number": "2/95",
       "rarity": "",
       "id": "hgss2-ac-2",
-      "Description": "Cracked Ice Holo Player's Collection exclusive"
+      "description": "Cracked Ice Holo Player's Collection exclusive"
     },
     {
       "name": "Metagross",
       "number": "4/95",
       "rarity": "",
       "id": "hgss2-ac-4",
-      "Description": "Cracked Ice Holo Player's Pack exclusive"
+      "description": "Cracked Ice Holo Player's Pack exclusive"
     },
     {
       "name": "Mismagius",
       "number": "5/95",
       "rarity": "",
       "id": "hgss2-ac-5",
-      "Description": "Non Holo Chaos Control theme deck exclusive"
+      "description": "Non Holo Chaos Control theme deck exclusive"
     },
     {
       "name": "Politoed",
       "number": "7/95",
       "rarity": "",
       "id": "hgss2-ac-7-1",
-      "Description": "Crosshatch Holo National Championships 2010-2011 promo"
+      "description": "Crosshatch Holo National Championships 2010-2011 promo"
     },
     {
       "name": "Politoed",
       "number": "7/95",
       "rarity": "",
       "id": "hgss2-ac-7-2",
-      "Description": "Staff Crosshatch Holo National Championships 2010-2011 promo"
+      "description": "Staff Crosshatch Holo National Championships 2010-2011 promo"
     },
     {
       "name": "Torterra",
       "number": "10/95",
       "rarity": "",
       "id": "hgss2-ac-10",
-      "Description": "Cracked Ice Holo Pokémon Evolutions Box/Pokémon Evolutions Pack exclusive"
+      "description": "Cracked Ice Holo Pokémon Evolutions Box/Pokémon Evolutions Pack exclusive"
     },
     {
       "name": "Xatu",
       "number": "11/95",
       "rarity": "",
       "id": "hgss2-ac-11",
-      "Description": "Cracked Ice Holo Stage 1 Blisters exclusive"
+      "description": "Cracked Ice Holo Stage 1 Blisters exclusive"
     },
     {
       "name": "Blastoise",
       "number": "13/95",
       "rarity": "",
       "id": "hgss2-ac-13-1",
-      "Description": "Unleashed stamp Prerelease promo"
+      "description": "Unleashed stamp Prerelease promo"
     },
     {
       "name": "Blastoise",
       "number": "13/95",
       "rarity": "",
       "id": "hgss2-ac-13-2",
-      "Description": "Staff \"Unleashed\" stamp Prerelease promo"
+      "description": "Staff \"Unleashed\" stamp Prerelease promo"
     },
     {
       "name": "Blastoise",
       "number": "13/95",
       "rarity": "",
       "id": "hgss2-ac-13-3",
-      "Description": "Cracked Ice Holo Pokémon Evolutions Box/Pokémon Evolutions Pack exclusive"
+      "description": "Cracked Ice Holo Pokémon Evolutions Box/Pokémon Evolutions Pack exclusive"
     },
     {
       "name": "Crobat",
       "number": "14/95",
       "rarity": "",
       "id": "hgss2-ac-14",
-      "Description": "Crosshatch Holo Pokémon League Hurdle Dash Season (November 2010)"
+      "description": "Crosshatch Holo Pokémon League Hurdle Dash Season (November 2010)"
     },
     {
       "name": "Poliwrath",
       "number": "21/95",
       "rarity": "",
       "id": "hgss2-ac-21-1",
-      "Description": "Crosshatch Holo Regional Championships 2010-2011 promo"
+      "description": "Crosshatch Holo Regional Championships 2010-2011 promo"
     },
     {
       "name": "Poliwrath",
       "number": "21/95",
       "rarity": "",
       "id": "hgss2-ac-21-2",
-      "Description": "Staff Crosshatch Holo Regional Championships 2010-2011 promo"
+      "description": "Staff Crosshatch Holo Regional Championships 2010-2011 promo"
     },
     {
       "name": "Steelix",
       "number": "24/95",
       "rarity": "",
       "id": "hgss2-ac-24-1",
-      "Description": "Crosshatch Holo Pokémon League Block Smash Season (February 2011)"
+      "description": "Crosshatch Holo Pokémon League Block Smash Season (February 2011)"
     },
     {
       "name": "Steelix",
       "number": "24/95",
       "rarity": "",
       "id": "hgss2-ac-24-2",
-      "Description": "Cosmos Holo Steel Sentinel theme deck exclusive"
+      "description": "Cosmos Holo Steel Sentinel theme deck exclusive"
     },
     {
       "name": "Tyranitar",
       "number": "26/95",
       "rarity": "",
       "id": "hgss2-ac-26",
-      "Description": "Cosmos Holo Chaos Control theme deck exclusive"
+      "description": "Cosmos Holo Chaos Control theme deck exclusive"
     },
     {
       "name": "Poliwhirl",
       "number": "37/95",
       "rarity": "",
       "id": "hgss2-ac-37-1",
-      "Description": "Crosshatch Holo State/Province/Territory Championships 2010-2011 promo"
+      "description": "Crosshatch Holo State/Province/Territory Championships 2010-2011 promo"
     },
     {
       "name": "Poliwhirl",
       "number": "37/95",
       "rarity": "",
       "id": "hgss2-ac-37-2",
-      "Description": "Staff Crosshatch Holo State/Province/Territory Championships 2010-2011 promo"
+      "description": "Staff Crosshatch Holo State/Province/Territory Championships 2010-2011 promo"
     },
     {
       "name": "Aipom",
       "number": "43/95",
       "rarity": "",
       "id": "hgss2-ac-43",
-      "Description": "Comic-Con International: San Diego 2010 stamped promo"
+      "description": "Comic-Con International: San Diego 2010 stamped promo"
     },
     {
       "name": "Poliwag",
       "number": "58/95",
       "rarity": "",
       "id": "hgss2-ac-58-1",
-      "Description": "Crosshatch Holo City Championships 2010-2011 promo"
+      "description": "Crosshatch Holo City Championships 2010-2011 promo"
     },
     {
       "name": "Poliwag",
       "number": "58/95",
       "rarity": "",
       "id": "hgss2-ac-58-2",
-      "Description": "Staff Crosshatch Holo City Championships 2010-2011 promo"
+      "description": "Staff Crosshatch Holo City Championships 2010-2011 promo"
     },
     {
       "name": "Judge",
       "number": "78/95",
       "rarity": "",
       "id": "hgss2-ac-78",
-      "Description": "Crosshatch Holo Professor Program stamp promo (January 2013)"
+      "description": "Crosshatch Holo Professor Program stamp promo (January 2013)"
     },
     {
       "name": "Rare Candy",
       "number": "82/95",
       "rarity": "",
       "id": "hgss2-ac-82",
-      "Description": "Crosshatch Holo Winter 2010-2011 Player Rewards (Tier 2)"
+      "description": "Crosshatch Holo Winter 2010-2011 Player Rewards (Tier 2)"
     },
     {
       "name": "Super Scoop Up",
       "number": "83/95",
       "rarity": "",
       "id": "hgss2-ac-83",
-      "Description": "Crosshatch Holo Spring 2011 Player Rewards (Tier 3)"
+      "description": "Crosshatch Holo Spring 2011 Player Rewards (Tier 3)"
     }
   ],
   "misprints": []

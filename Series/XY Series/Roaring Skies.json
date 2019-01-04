@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -702,77 +702,77 @@
       "number": "16/108",
       "rarity": "",
       "id": "xy6-ac-16",
-      "Description": "Cracked Ice Holo Aurora Blast Theme Deck exclusive"
+      "description": "Cracked Ice Holo Aurora Blast Theme Deck exclusive"
     },
     {
       "name": "Pikachu",
       "number": "20/108",
       "rarity": "",
       "id": "xy6-ac-20",
-      "Description": "Build-A-Bear Workshop stamp promo"
+      "description": "Build-A-Bear Workshop stamp promo"
     },
     {
       "name": "Zapdos",
       "number": "23/108",
       "rarity": "",
       "id": "xy6-ac-23",
-      "Description": "Cracked Ice Holo Storm Rider Theme Deck exclusive"
+      "description": "Cracked Ice Holo Storm Rider Theme Deck exclusive"
     },
     {
       "name": "Dragonite",
       "number": "52/108",
       "rarity": "",
       "id": "xy6-ac-52",
-      "Description": "Non Holo Storm Rider Theme Deck exclusive"
+      "description": "Non Holo Storm Rider Theme Deck exclusive"
     },
     {
       "name": "Salamence",
       "number": "57/108",
       "rarity": "",
       "id": "xy6-ac-57-1",
-      "Description": "Non Holo Aurora Blast Theme Deck exclusive"
+      "description": "Non Holo Aurora Blast Theme Deck exclusive"
     },
     {
       "name": "Salamence",
       "number": "57/108",
       "rarity": "",
       "id": "xy6-ac-57-2",
-      "Description": "cosmos holo"
+      "description": "cosmos holo"
     },
     {
       "name": "Meowth",
       "number": "67/108",
       "rarity": "",
       "id": "xy6-ac-67",
-      "Description": "Build-A-Bear Workshop stamp promo"
+      "description": "Build-A-Bear Workshop stamp promo"
     },
     {
       "name": "Swellow",
       "number": "72/108",
       "rarity": "",
       "id": "xy6-ac-72",
-      "Description": "Non Holo Aurora Blast Theme Deck exclusive"
+      "description": "Non Holo Aurora Blast Theme Deck exclusive"
     },
     {
       "name": "Shaymin",
       "number": "77a/108",
       "rarity": "",
       "id": "xy6-ac-77a",
-      "Description": "Yellow A Alternate art Premium Trainer's XY Collection exclusive"
+      "description": "Yellow A Alternate art Premium Trainer's XY Collection exclusive"
     },
     {
       "name": "Trainers' Mail",
       "number": "92a/108",
       "rarity": "",
       "id": "xy6-ac-92a-1",
-      "Description": "Sheen Holo Yellow A Alternate art Battle Arena Decks: Black Kyurem vs White Kyurem exclusive"
+      "description": "Sheen Holo Yellow A Alternate art Battle Arena Decks: Black Kyurem vs White Kyurem exclusive"
     },
     {
       "name": "Trainers' Mail",
       "number": "92a/108",
       "rarity": "",
       "id": "xy6-ac-92a-2",
-      "Description": "Non Holo Yellow A Alternate art Battle Arena Decks: Black Kyurem vs White Kyurem exclusive"
+      "description": "Non Holo Yellow A Alternate art Battle Arena Decks: Black Kyurem vs White Kyurem exclusive"
     }
   ],
   "misprints": []

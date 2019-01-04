@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -625,147 +625,147 @@
       "number": "12/99",
       "rarity": "",
       "id": "bw4-ac-12-1",
-      "Description": "Next Destinies stamp Prerelease promo"
+      "description": "Next Destinies stamp Prerelease promo"
     },
     {
       "name": "Arcanine",
       "number": "12/99",
       "rarity": "",
       "id": "bw4-ac-12-2",
-      "Description": "Staff Next Destinies stamp Prerelease promo"
+      "description": "Staff Next Destinies stamp Prerelease promo"
     },
     {
       "name": "Moltres",
       "number": "14/99",
       "rarity": "",
       "id": "bw4-ac-14",
-      "Description": "Cosmos Holo Plasma Freeze Single Pack Blisters/Black & White Two Pack Blister/XY Kanto Two Pack Blisters exclusive"
+      "description": "Cosmos Holo Plasma Freeze Single Pack Blisters/Black & White Two Pack Blister/XY Kanto Two Pack Blisters exclusive"
     },
     {
       "name": "Chandelure",
       "number": "20/99",
       "rarity": "",
       "id": "bw4-ac-20-1",
-      "Description": "Cracked Ice Holo Dragons Exalted Three Pack Blisters exclusive"
+      "description": "Cracked Ice Holo Dragons Exalted Three Pack Blisters exclusive"
     },
     {
       "name": "Chandelure",
       "number": "20/99",
       "rarity": "",
       "id": "bw4-ac-20-2",
-      "Description": "Non Holo Explosive Edge theme deck exclusive"
+      "description": "Non Holo Explosive Edge theme deck exclusive"
     },
     {
       "name": "Reshiram",
       "number": "21/99",
       "rarity": "",
       "id": "bw4-ac-21",
-      "Description": "Tinsel Holo Explosive Edge theme deck exclusive"
+      "description": "Tinsel Holo Explosive Edge theme deck exclusive"
     },
     {
       "name": "Articuno",
       "number": "27/99",
       "rarity": "",
       "id": "bw4-ac-27",
-      "Description": "Cosmos Holo Black & White Two Pack Blister/XY Kanto Two Pack Blisters exclusive"
+      "description": "Cosmos Holo Black & White Two Pack Blister/XY Kanto Two Pack Blisters exclusive"
     },
     {
       "name": "Raichu",
       "number": "40/99",
       "rarity": "",
       "id": "bw4-ac-40",
-      "Description": "Cosmos Holo Boundaries Crossed Stage 1 Blisters exclusive"
+      "description": "Cosmos Holo Boundaries Crossed Stage 1 Blisters exclusive"
     },
     {
       "name": "Zapdos",
       "number": "41/99",
       "rarity": "",
       "id": "bw4-ac-41",
-      "Description": "Cosmos Holo Black & White Two Pack Blister/XY Kanto Two Pack Blisters exclusive"
+      "description": "Cosmos Holo Black & White Two Pack Blister/XY Kanto Two Pack Blisters exclusive"
     },
     {
       "name": "Shinx",
       "number": "43/99",
       "rarity": "",
       "id": "bw4-ac-43",
-      "Description": "Cracked Ice Holo Dark Explorers Stage 2 Blisters exclusive"
+      "description": "Cracked Ice Holo Dark Explorers Stage 2 Blisters exclusive"
     },
     {
       "name": "Luxray",
       "number": "46/99",
       "rarity": "",
       "id": "bw4-ac-46-1",
-      "Description": "Cracked Ice Holo Dark Explorers Stage 2 Blisters exclusive"
+      "description": "Cracked Ice Holo Dark Explorers Stage 2 Blisters exclusive"
     },
     {
       "name": "Luxray",
       "number": "46/99",
       "rarity": "",
       "id": "bw4-ac-46-2",
-      "Description": "Cosmos Holo Lightning Gym Collector Pack exclusive"
+      "description": "Cosmos Holo Lightning Gym Collector Pack exclusive"
     },
     {
       "name": "Luxray",
       "number": "46/99",
       "rarity": "",
       "id": "bw4-ac-46-3",
-      "Description": "Non Holo Voltage Vortex theme deck exclusive"
+      "description": "Non Holo Voltage Vortex theme deck exclusive"
     },
     {
       "name": "Zekrom",
       "number": "50/99",
       "rarity": "",
       "id": "bw4-ac-50",
-      "Description": "Tinsel Holo Voltage Vortex theme deck exclusive"
+      "description": "Tinsel Holo Voltage Vortex theme deck exclusive"
     },
     {
       "name": "Mewtwo",
       "number": "54/99",
       "rarity": "",
       "id": "bw4-ac-54",
-      "Description": "Sheen Holo Battle Arena Decks: Mewtwo vs Darkrai exclusive"
+      "description": "Sheen Holo Battle Arena Decks: Mewtwo vs Darkrai exclusive"
     },
     {
       "name": "Beheeyem",
       "number": "62/99",
       "rarity": "",
       "id": "bw4-ac-62",
-      "Description": "Cosmos Holo Boundaries Crossed Stage 1 Blisters exclusive"
+      "description": "Cosmos Holo Boundaries Crossed Stage 1 Blisters exclusive"
     },
     {
       "name": "Lucario",
       "number": "64/99",
       "rarity": "",
       "id": "bw4-ac-64",
-      "Description": "Cosmos Holo Dark Explorers Stage 1 Blisters exclusive"
+      "description": "Cosmos Holo Dark Explorers Stage 1 Blisters exclusive"
     },
     {
       "name": "Scrafty",
       "number": "74/99",
       "rarity": "",
       "id": "bw4-ac-74",
-      "Description": "Non Holo Voltage Vortex theme deck exclusive"
+      "description": "Non Holo Voltage Vortex theme deck exclusive"
     },
     {
       "name": "Wigglytuff",
       "number": "79/99",
       "rarity": "",
       "id": "bw4-ac-79",
-      "Description": "Cosmos Holo Plasma Storm Stage 1 Blisters exclusive"
+      "description": "Cosmos Holo Plasma Storm Stage 1 Blisters exclusive"
     },
     {
       "name": "Meowth",
       "number": "80/99",
       "rarity": "",
       "id": "bw4-ac-80",
-      "Description": "Mirror Reverse Holo Black & White Variety Blisters exclusive"
+      "description": "Mirror Reverse Holo Black & White Variety Blisters exclusive"
     },
     {
       "name": "Persian",
       "number": "81/99",
       "rarity": "",
       "id": "bw4-ac-81",
-      "Description": "Cosmos Holo Dark Explorers Stage 1 Blisters exclusive"
+      "description": "Cosmos Holo Dark Explorers Stage 1 Blisters exclusive"
     }
   ],
   "misprints": []

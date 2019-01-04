@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -1029,294 +1029,294 @@
       "number": "9/149",
       "rarity": "",
       "id": "sm1-ac-9-1",
-      "Description": "Water-Web Holo Alola Collection (Sun) exclusive"
+      "description": "Water-Web Holo Alola Collection (Sun) exclusive"
     },
     {
       "name": "Rowlet",
       "number": "9/149",
       "rarity": "",
       "id": "sm1-ac-9-2",
-      "Description": "Cosmos Holo Decidueye-GX Premium Collection exclusive"
+      "description": "Cosmos Holo Decidueye-GX Premium Collection exclusive"
     },
     {
       "name": "Dartrix",
       "number": "10/149",
       "rarity": "",
       "id": "sm1-ac-10",
-      "Description": "Cosmos Holo Decidueye-GX Premium Collection exclusive"
+      "description": "Cosmos Holo Decidueye-GX Premium Collection exclusive"
     },
     {
       "name": "Decidueye",
       "number": "11/149",
       "rarity": "",
       "id": "sm1-ac-11-1",
-      "Description": "Cracked Ice Holo Forest Shadow Theme Deck exclusive"
+      "description": "Cracked Ice Holo Forest Shadow Theme Deck exclusive"
     },
     {
       "name": "Decidueye",
       "number": "11/149",
       "rarity": "",
       "id": "sm1-ac-11-2",
-      "Description": "Holo Pokémon League Promo"
+      "description": "Holo Pokémon League Promo"
     },
     {
       "name": "Shiinotic",
       "number": "17/149",
       "rarity": "",
       "id": "sm1-ac-17",
-      "Description": "Non Holo Forest Shadow Theme Deck exclusive"
+      "description": "Non Holo Forest Shadow Theme Deck exclusive"
     },
     {
       "name": "Tsareena",
       "number": "20/149",
       "rarity": "",
       "id": "sm1-ac-20-1",
-      "Description": "1st Place Reverse Holo Pokémon League League Challenge promo"
+      "description": "1st Place Reverse Holo Pokémon League League Challenge promo"
     },
     {
       "name": "Tsareena",
       "number": "20/149",
       "rarity": "",
       "id": "sm1-ac-20-2",
-      "Description": "2nd Place Reverse Holo Pokémon League League Challenge promo"
+      "description": "2nd Place Reverse Holo Pokémon League League Challenge promo"
     },
     {
       "name": "Tsareena",
       "number": "20/149",
       "rarity": "",
       "id": "sm1-ac-20-3",
-      "Description": "3rd Place Reverse Holo Pokémon League League Challenge promo"
+      "description": "3rd Place Reverse Holo Pokémon League League Challenge promo"
     },
     {
       "name": "Tsareena",
       "number": "20/149",
       "rarity": "",
       "id": "sm1-ac-20-4",
-      "Description": "4th Place Reverse Holo Pokémon League League Challenge promo"
+      "description": "4th Place Reverse Holo Pokémon League League Challenge promo"
     },
     {
       "name": "Litten",
       "number": "24/149",
       "rarity": "",
       "id": "sm1-ac-24-1",
-      "Description": "Water-Web Holo Alola Collection (Moon) exclusive"
+      "description": "Water-Web Holo Alola Collection (Moon) exclusive"
     },
     {
       "name": "Litten",
       "number": "24/149",
       "rarity": "",
       "id": "sm1-ac-24-2",
-      "Description": "Cosmos Holo Incineroar-GX Premium Collection exclusive"
+      "description": "Cosmos Holo Incineroar-GX Premium Collection exclusive"
     },
     {
       "name": "Torracat",
       "number": "25/149",
       "rarity": "",
       "id": "sm1-ac-25",
-      "Description": "Cosmos Holo Incineroar-GX Premium Collection exclusive"
+      "description": "Cosmos Holo Incineroar-GX Premium Collection exclusive"
     },
     {
       "name": "Incineroar",
       "number": "26/149",
       "rarity": "",
       "id": "sm1-ac-26-1",
-      "Description": "Cracked Ice Holo Roaring Heat Theme Deck exclusive"
+      "description": "Cracked Ice Holo Roaring Heat Theme Deck exclusive"
     },
     {
       "name": "Incineroar",
       "number": "26/149",
       "rarity": "",
       "id": "sm1-ac-26-2",
-      "Description": "Holo Pokémon League Promo"
+      "description": "Holo Pokémon League Promo"
     },
     {
       "name": "Popplio",
       "number": "39/149",
       "rarity": "",
       "id": "sm1-ac-39-1",
-      "Description": "Water-Web Holo Alola Collection (Sun) exclusive"
+      "description": "Water-Web Holo Alola Collection (Sun) exclusive"
     },
     {
       "name": "Popplio",
       "number": "39/149",
       "rarity": "",
       "id": "sm1-ac-39-2",
-      "Description": "Cosmos Holo Primarina-GX Premium Collection exclusive"
+      "description": "Cosmos Holo Primarina-GX Premium Collection exclusive"
     },
     {
       "name": "Brionne",
       "number": "40/149",
       "rarity": "",
       "id": "sm1-ac-40",
-      "Description": "Cosmos Holo Primarina-GX Premium Collection exclusive"
+      "description": "Cosmos Holo Primarina-GX Premium Collection exclusive"
     },
     {
       "name": "Primarina",
       "number": "41/149",
       "rarity": "",
       "id": "sm1-ac-41-1",
-      "Description": "Cracked Ice Holo Bright Tide Theme Deck exclusive"
+      "description": "Cracked Ice Holo Bright Tide Theme Deck exclusive"
     },
     {
       "name": "Primarina",
       "number": "41/149",
       "rarity": "",
       "id": "sm1-ac-41-2",
-      "Description": "Holo Pokémon League Promo"
+      "description": "Holo Pokémon League Promo"
     },
     {
       "name": "Vikavolt",
       "number": "52/149",
       "rarity": "",
       "id": "sm1-ac-52",
-      "Description": "Holo Pokémon League Promo"
+      "description": "Holo Pokémon League Promo"
     },
     {
       "name": "Crobat",
       "number": "56/149",
       "rarity": "",
       "id": "sm1-ac-56-1",
-      "Description": "Non Holo Sun & Moon Prerelease Kit Exclusive"
+      "description": "Non Holo Sun & Moon Prerelease Kit Exclusive"
     },
     {
       "name": "Crobat",
       "number": "56/149",
       "rarity": "",
       "id": "sm1-ac-56-2",
-      "Description": "Cosmos Holo Guardians Rising Spooky Blisters exclusive"
+      "description": "Cosmos Holo Guardians Rising Spooky Blisters exclusive"
     },
     {
       "name": "Cosmog",
       "number": "64/149",
       "rarity": "",
       "id": "sm1-ac-64",
-      "Description": "Cosmos Holo Toys \"R\" Us stamp exclusive (February 4, 2017)"
+      "description": "Cosmos Holo Toys \"R\" Us stamp exclusive (February 4, 2017)"
     },
     {
       "name": "Gigalith",
       "number": "71/149",
       "rarity": "",
       "id": "sm1-ac-71",
-      "Description": "Cosmos Holo Guardians Rising Single Pack Blisters exclusive"
+      "description": "Cosmos Holo Guardians Rising Single Pack Blisters exclusive"
     },
     {
       "name": "Alolan Persian",
       "number": "79/149",
       "rarity": "",
       "id": "sm1-ac-79",
-      "Description": "Cosmos Holo Guardians Rising Spooky Blisters exclusive"
+      "description": "Cosmos Holo Guardians Rising Spooky Blisters exclusive"
     },
     {
       "name": "Sharpedo",
       "number": "82/149",
       "rarity": "",
       "id": "sm1-ac-82",
-      "Description": "Cosmos Holo Guardians Rising Single Pack Blisters exclusive"
+      "description": "Cosmos Holo Guardians Rising Single Pack Blisters exclusive"
     },
     {
       "name": "Kangaskhan",
       "number": "99/149",
       "rarity": "",
       "id": "sm1-ac-99",
-      "Description": "Non Holo Forest Shadow Theme Deck exclusive"
+      "description": "Non Holo Forest Shadow Theme Deck exclusive"
     },
     {
       "name": "Eevee",
       "number": "101/149",
       "rarity": "",
       "id": "sm1-ac-101",
-      "Description": "Cosmos Holo Espeon-GX/Umbreon-GX Premium Collection exclusive"
+      "description": "Cosmos Holo Espeon-GX/Umbreon-GX Premium Collection exclusive"
     },
     {
       "name": "Oranguru",
       "number": "113/149",
       "rarity": "",
       "id": "sm1-ac-113",
-      "Description": "Non Holo Roaring Heat and Destruction Fang Theme Deck exclusive"
+      "description": "Non Holo Roaring Heat and Destruction Fang Theme Deck exclusive"
     },
     {
       "name": "Nest Ball",
       "number": "123/149",
       "rarity": "",
       "id": "sm1-ac-123-1",
-      "Description": "Reverse Holo Pokémon League Promo"
+      "description": "Reverse Holo Pokémon League Promo"
     },
     {
       "name": "[staff]Nest Ball",
       "number": "123/149",
       "rarity": "",
       "id": "sm1-ac-123-2",
-      "Description": "Reverse Holo Pokémon League Staff Promo"
+      "description": "Reverse Holo Pokémon League Staff Promo"
     },
     {
       "name": "Professor Kukui",
       "number": "128/149",
       "rarity": "",
       "id": "sm1-ac-128-1",
-      "Description": "Reverse Holo Pokémon Regional Championships Promo"
+      "description": "Reverse Holo Pokémon Regional Championships Promo"
     },
     {
       "name": "[staff] Professor Kukui",
       "number": "128/149",
       "rarity": "",
       "id": "sm1-ac-128-2",
-      "Description": "Reverse Holo Pokémon Regional Championships Staff Promo"
+      "description": "Reverse Holo Pokémon Regional Championships Staff Promo"
     },
     {
       "name": "Ultra Ball",
       "number": "135/149",
       "rarity": "",
       "id": "sm1-ac-135-1",
-      "Description": "International Championships Promo"
+      "description": "International Championships Promo"
     },
     {
       "name": "[staff] Ultra Ball",
       "number": "135",
       "rarity": "",
       "id": "sm1-ac-135-2",
-      "Description": "Staff International Championship Promo"
+      "description": "Staff International Championship Promo"
     },
     {
       "name": "Ultra Ball",
       "number": "135/149",
       "rarity": "",
       "id": "sm1-ac-135-3",
-      "Description": "Top 8 International Championships Promo"
+      "description": "Top 8 International Championships Promo"
     },
     {
       "name": "Ultra Ball",
       "number": "135/149",
       "rarity": "",
       "id": "sm1-ac-135-4",
-      "Description": "Champion International Championship Promo"
+      "description": "Champion International Championship Promo"
     },
     {
       "name": "Ultra Ball",
       "number": "135/149",
       "rarity": "",
       "id": "sm1-ac-135-5",
-      "Description": "Oceana Championships Promo"
+      "description": "Oceana Championships Promo"
     },
     {
       "name": "[staff] Ultra Ball",
       "number": "135/149",
       "rarity": "",
       "id": "sm1-ac-135-6",
-      "Description": "Staff Oceana Championship Promo"
+      "description": "Staff Oceana Championship Promo"
     },
     {
       "name": "Ultra Ball",
       "number": "135/149",
       "rarity": "",
       "id": "sm1-ac-135-7",
-      "Description": "Top 8 Oceana Championships Promo"
+      "description": "Top 8 Oceana Championships Promo"
     },
     {
       "name": "Ultra Ball",
       "number": "135/149",
       "rarity": "",
       "id": "sm1-ac-135-8",
-      "Description": "Champion Oceana Championship Promo"
+      "description": "Champion Oceana Championship Promo"
     }
   ],
   "misprints": []

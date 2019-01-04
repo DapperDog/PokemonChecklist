@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -603,14 +603,14 @@
       "number": "3/95",
       "rarity": "",
       "id": "ex4-ac-3",
-      "Description": "Aqua Theme Deck exclusive"
+      "description": "Aqua Theme Deck exclusive"
     },
     {
       "name": "Team Magmas Groudon",
       "number": "9/95",
       "rarity": "",
       "id": "ex4-ac-9",
-      "Description": "Magma Theme Deck Exclusive"
+      "description": "Magma Theme Deck Exclusive"
     }
   ],
   "misprints": []

@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -691,21 +691,21 @@
       "number": "21/110",
       "rarity": "",
       "id": "ex13-ac-21",
-      "Description": "Floodrush Theme Deck Exclusive"
+      "description": "Floodrush Theme Deck Exclusive"
     },
     {
       "name": "Latios",
       "number": "22/110",
       "rarity": "",
       "id": "ex13-ac-22",
-      "Description": "Floodrush Theme Deck Exclusive"
+      "description": "Floodrush Theme Deck Exclusive"
     },
     {
       "name": "Mew",
       "number": "111/110",
       "rarity": "",
       "id": "ex13-ac-111",
-      "Description": "Lucario and the Mystery of Mew Movie Exclusive"
+      "description": "Lucario and the Mystery of Mew Movie Exclusive"
     }
   ],
   "misprints": []

@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -652,77 +652,77 @@
       "number": "6/106",
       "rarity": "",
       "id": "dp4-ac-6",
-      "Description": "Non Holo Eternal Time Theme Deck Exclusive"
+      "description": "Non Holo Eternal Time Theme Deck Exclusive"
     },
     {
       "name": "Claydol",
       "number": "15/106",
       "rarity": "",
       "id": "dp4-ac-15",
-      "Description": "Pokémon League Cynthia Season (December 2009)"
+      "description": "Pokémon League Cynthia Season (December 2009)"
     },
     {
       "name": "Dialga",
       "number": "16/106",
       "rarity": "",
       "id": "dp4-ac-16-1",
-      "Description": "Holofoil Eternal Time Theme Deck Exclusive"
+      "description": "Holofoil Eternal Time Theme Deck Exclusive"
     },
     {
       "name": "Dialga",
       "number": "16/106",
       "rarity": "",
       "id": "dp4-ac-16-2",
-      "Description": "Reverse Holo Platinum stamp Burger King Collection 2009"
+      "description": "Reverse Holo Platinum stamp Burger King Collection 2009"
     },
     {
       "name": "Palkia",
       "number": "26/106",
       "rarity": "",
       "id": "dp4-ac-26-1",
-      "Description": "Holofoil Infinite Space Theme Deck Exclusive"
+      "description": "Holofoil Infinite Space Theme Deck Exclusive"
     },
     {
       "name": "Palkia",
       "number": "26/106",
       "rarity": "",
       "id": "dp4-ac-26-2",
-      "Description": "Reverse Holo Platinum stamp Burger King Collection 2009"
+      "description": "Reverse Holo Platinum stamp Burger King Collection 2009"
     },
     {
       "name": "Floatzel",
       "number": "37/106",
       "rarity": "",
       "id": "dp4-ac-37",
-      "Description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
+      "description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
     },
     {
       "name": "Porygon2",
       "number": "49/106",
       "rarity": "",
       "id": "dp4-ac-49-1",
-      "Description": "Prerelease stamp Prerelease promo"
+      "description": "Prerelease stamp Prerelease promo"
     },
     {
       "name": "Porygon2",
       "number": "49/106",
       "rarity": "",
       "id": "dp4-ac-49-2",
-      "Description": "Staff Prerelease stamp Prerelease promo"
+      "description": "Staff Prerelease stamp Prerelease promo"
     },
     {
       "name": "Buizel",
       "number": "61/106",
       "rarity": "",
       "id": "dp4-ac-61",
-      "Description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
+      "description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
     },
     {
       "name": "Felicity's Drawing",
       "number": "98/106",
       "rarity": "",
       "id": "dp4-ac-98",
-      "Description": "Pokémon League Thorton Season (March 2010)"
+      "description": "Pokémon League Thorton Season (March 2010)"
     }
   ],
   "misprints": []

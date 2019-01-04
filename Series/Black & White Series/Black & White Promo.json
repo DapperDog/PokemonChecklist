@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Have"
   ],
@@ -617,105 +617,105 @@
       "number": "BW13",
       "rarity": "Promo",
       "id": "bwp-ac-13",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "Scraggy (Shattered Holofoil)",
       "number": "BW25",
       "rarity": "Promo",
       "id": "bwp-ac-25",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "Volcarona (Staff)",
       "number": "BW40",
       "rarity": "Promo",
       "id": "bwp-ac-40",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "Altaria (Staff)",
       "number": "BW48",
       "rarity": "Promo",
       "id": "bwp-ac-48",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "Crobat (Staff)",
       "number": "BW51",
       "rarity": "Promo",
       "id": "bwp-ac-51",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "Flygon (Staff)",
       "number": "BW53",
       "rarity": "Promo",
       "id": "bwp-ac-53",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "Keldeo (Tinsel Holofoil)",
       "number": "BW60",
       "rarity": "Promo",
       "id": "bwp-ac-60",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "Drifblim (Smooth Cosmos Holofoil)",
       "number": "BW64",
       "rarity": "Promo",
       "id": "bwp-ac-64",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "Ninetales (Smooth Cosmos Holofoil)",
       "number": "BW66",
       "rarity": "Promo",
       "id": "bwp-ac-66",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "Ampharos (Smooth Cosmos Holofoil)",
       "number": "BW67",
       "rarity": "Promo",
       "id": "bwp-ac-67",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "Metagross (Staff)",
       "number": "BW75",
       "rarity": "Promo",
       "id": "bwp-ac-75",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "Druddigon (Tinsel Holofoil)",
       "number": "BW80",
       "rarity": "Promo",
       "id": "bwp-ac-80",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "Porygon-Z (Staff)",
       "number": "BW84",
       "rarity": "Promo",
       "id": "bwp-ac-84",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "TornadusEX (Staff)",
       "number": "BW96",
       "rarity": "Promo",
       "id": "bwp-ac-96",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "N",
       "number": "BW100",
       "rarity": "Promo",
       "id": "bwp-ac-100",
-      "Description": "Keldeo Vs Rayquaza Battle Arena Deck Exclusive"
+      "description": "Keldeo Vs Rayquaza Battle Arena Deck Exclusive"
     }
   ],
   "misprints": []

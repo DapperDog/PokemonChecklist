@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -754,133 +754,133 @@
       "number": "5/83",
       "rarity": "misprint",
       "id": "g1-ac-5",
-      "Description": "mirror holo"
+      "description": "mirror holo"
     },
     {
       "name": "Tangela",
       "number": "8/83",
       "rarity": "",
       "id": "g1-ac-8-1",
-      "Description": "Holo \"Toys \"R\" Us\" stamp promo (Canada)"
+      "description": "Holo \"Toys \"R\" Us\" stamp promo (Canada)"
     },
     {
       "name": "Tangela",
       "number": "8/83",
       "rarity": "",
       "id": "g1-ac-8-2",
-      "Description": "Holo 20th Anniversary GAME stamp promo (UK)"
+      "description": "Holo 20th Anniversary GAME stamp promo (UK)"
     },
     {
       "name": "Ponyta",
       "number": "14/83",
       "rarity": "",
       "id": "g1-ac-14-1",
-      "Description": "Holo \"Toys \"R\" Us\" stamp promo (Canada)"
+      "description": "Holo \"Toys \"R\" Us\" stamp promo (Canada)"
     },
     {
       "name": "Ponyta",
       "number": "14/83",
       "rarity": "",
       "id": "g1-ac-14-2",
-      "Description": "Holo 20th Anniversary GAME stamp promo (UK)"
+      "description": "Holo 20th Anniversary GAME stamp promo (UK)"
     },
     {
       "name": "Magikarp",
       "number": "22/83",
       "rarity": "",
       "id": "g1-ac-22-1",
-      "Description": "Holo \"Toys \"R\" Us\" stamp promo (USA and Canada)"
+      "description": "Holo \"Toys \"R\" Us\" stamp promo (USA and Canada)"
     },
     {
       "name": "Magikarp",
       "number": "22/83",
       "rarity": "",
       "id": "g1-ac-22-2",
-      "Description": "Holo 20th Anniversary GAME stamp promo (UK and France)"
+      "description": "Holo 20th Anniversary GAME stamp promo (UK and France)"
     },
     {
       "name": "Pikachu",
       "number": "26/83",
       "rarity": "",
       "id": "g1-ac-26-1",
-      "Description": "Holo \"Toys \"R\" Us\" stamp promo (USA and Canada)"
+      "description": "Holo \"Toys \"R\" Us\" stamp promo (USA and Canada)"
     },
     {
       "name": "Pikachu",
       "number": "26/83",
       "rarity": "",
       "id": "g1-ac-26-2",
-      "Description": "Holo 20th Anniversary stamp promo (UK, France, Australia)"
+      "description": "Holo 20th Anniversary stamp promo (UK, France, Australia)"
     },
     {
       "name": "Jolteon",
       "number": "28a/83",
       "rarity": "",
       "id": "g1-ac-28a",
-      "Description": "Yellow A Alternate art Mega Powers Collection exclusive"
+      "description": "Yellow A Alternate art Mega Powers Collection exclusive"
     },
     {
       "name": "Slowpoke",
       "number": "32/83",
       "rarity": "",
       "id": "g1-ac-32-1",
-      "Description": "Holo \"Toys \"R\" Us\" stamp promo (Canada)"
+      "description": "Holo \"Toys \"R\" Us\" stamp promo (Canada)"
     },
     {
       "name": "Slowpoke",
       "number": "32/83",
       "rarity": "",
       "id": "g1-ac-32-2",
-      "Description": "Holo 20th Anniversary GAME stamp promo (UK)"
+      "description": "Holo 20th Anniversary GAME stamp promo (UK)"
     },
     {
       "name": "Geodude",
       "number": "43/83",
       "rarity": "",
       "id": "g1-ac-43-1",
-      "Description": "Holo \"Toys \"R\" Us\" stamp promo (Canada)"
+      "description": "Holo \"Toys \"R\" Us\" stamp promo (Canada)"
     },
     {
       "name": "Geodude",
       "number": "43/83",
       "rarity": "",
       "id": "g1-ac-43-2",
-      "Description": "Holo 20th Anniversary GAME stamp promo (UK)"
+      "description": "Holo 20th Anniversary GAME stamp promo (UK)"
     },
     {
       "name": "Clefairy",
       "number": "50/83",
       "rarity": "",
       "id": "g1-ac-50-1",
-      "Description": "Holo \"Toys \"R\" Us\" stamp promo (USA and Canada)"
+      "description": "Holo \"Toys \"R\" Us\" stamp promo (USA and Canada)"
     },
     {
       "name": "Clefairy",
       "number": "50/83",
       "rarity": "",
       "id": "g1-ac-50-2",
-      "Description": "Holo 20th Anniversary GAME stamp promo (UK)"
+      "description": "Holo 20th Anniversary GAME stamp promo (UK)"
     },
     {
       "name": "Meowth",
       "number": "53/83",
       "rarity": "",
       "id": "g1-ac-53-1",
-      "Description": "Holo \"Toys \"R\" Us\" stamp promo (USA and Canada)"
+      "description": "Holo \"Toys \"R\" Us\" stamp promo (USA and Canada)"
     },
     {
       "name": "Meowth",
       "number": "53/83",
       "rarity": "",
       "id": "g1-ac-53-2",
-      "Description": "Holo 20th Anniversary stamp promo (UK and Australia)"
+      "description": "Holo 20th Anniversary stamp promo (UK and Australia)"
     },
     {
       "name": "Team Flare Grunt",
       "number": "73a/83",
       "rarity": "",
       "id": "g1-ac-73a",
-      "Description": "Yellow A Alternate art Premium Trainer's XY Collection exclusive"
+      "description": "Yellow A Alternate art Premium Trainer's XY Collection exclusive"
     }
   ],
   "misprints": [
@@ -889,21 +889,21 @@
       "number": "27/83",
       "rarity": "misprint",
       "id": "g1-mp-27",
-      "Description": "mirror holo"
+      "description": "mirror holo"
     },
     {
       "name": "Gengar",
       "number": "35/83",
       "rarity": "misprint",
       "id": "g1-mp-35",
-      "Description": "mirror holo"
+      "description": "mirror holo"
     },
     {
       "name": "Golem",
       "number": "45/83",
       "rarity": "misprint",
       "id": "g1-mp-45",
-      "Description": "mirror holo"
+      "description": "mirror holo"
     }
   ]
 }

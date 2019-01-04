@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -750,105 +750,105 @@
       "number": "5/111",
       "rarity": "",
       "id": "pl2-ac-5",
-      "Description": "Non Holo Drill Point theme deck exclusive"
+      "description": "Non Holo Drill Point theme deck exclusive"
     },
     {
       "name": "Gallade",
       "number": "20/111",
       "rarity": "",
       "id": "pl2-ac-20",
-      "Description": "Cosmos Holo Cutting Edge theme deck exclusive"
+      "description": "Cosmos Holo Cutting Edge theme deck exclusive"
     },
     {
       "name": "Rhyperior",
       "number": "32/111",
       "rarity": "",
       "id": "pl2-ac-32",
-      "Description": "Cosmos Holo Drill Point theme deck exclusive"
+      "description": "Cosmos Holo Drill Point theme deck exclusive"
     },
     {
       "name": "Snorlax",
       "number": "33/111",
       "rarity": "",
       "id": "pl2-ac-33",
-      "Description": "Crosshatch Holo Pokémon League Rival Season (September 2009)"
+      "description": "Crosshatch Holo Pokémon League Rival Season (September 2009)"
     },
     {
       "name": "Tropius",
       "number": "52/111",
       "rarity": "",
       "id": "pl2-ac-52-1",
-      "Description": "Prerelease stamp Prerelease promo"
+      "description": "Prerelease stamp Prerelease promo"
     },
     {
       "name": "Tropius",
       "number": "52/111",
       "rarity": "",
       "id": "pl2-ac-52-2",
-      "Description": "Staff Prerelease stamp Prerelease promo"
+      "description": "Staff Prerelease stamp Prerelease promo"
     },
     {
       "name": "Flareon",
       "number": "60/111",
       "rarity": "",
       "id": "pl2-ac-60",
-      "Description": "Cracked Ice Reverse Holo Value Box exclusive"
+      "description": "Cracked Ice Reverse Holo Value Box exclusive"
     },
     {
       "name": "Gliscor",
       "number": "62/111",
       "rarity": "",
       "id": "pl2-ac-62",
-      "Description": "Cracked Ice Reverse Holo Value Box exclusive"
+      "description": "Cracked Ice Reverse Holo Value Box exclusive"
     },
     {
       "name": "Munchlax",
       "number": "69/111",
       "rarity": "",
       "id": "pl2-ac-69",
-      "Description": "The Pokémon Company International Annual Distributors Meeting 2009 stamped promo"
+      "description": "The Pokémon Company International Annual Distributors Meeting 2009 stamped promo"
     },
     {
       "name": "Bebe's Search",
       "number": "89/111",
       "rarity": "",
       "id": "pl2-ac-89",
-      "Description": "Crosshatch Holo Pokémon League Dahlia Season (May 2010)"
+      "description": "Crosshatch Holo Pokémon League Dahlia Season (May 2010)"
     },
     {
       "name": "Lucian's Assignment",
       "number": "92/111",
       "rarity": "",
       "id": "pl2-ac-92",
-      "Description": "Crosshatch Holo Player Rewards Program 2009-2010 (Tier Two)"
+      "description": "Crosshatch Holo Player Rewards Program 2009-2010 (Tier Two)"
     },
     {
       "name": "Team Galactic's Invention G-109 SP Radar",
       "number": "96/111",
       "rarity": "",
       "id": "pl2-ac-96",
-      "Description": "Crosshatch Holo Player Rewards Program 2011-2012 (Tier Two)"
+      "description": "Crosshatch Holo Player Rewards Program 2011-2012 (Tier Two)"
     },
     {
       "name": "Underground Expedition",
       "number": "97/111",
       "rarity": "",
       "id": "pl2-ac-97",
-      "Description": "Crosshatch Holo Pokémon League Darach Season (June 2010)"
+      "description": "Crosshatch Holo Pokémon League Darach Season (June 2010)"
     },
     {
       "name": "Volkner's Philosophy",
       "number": "98/111",
       "rarity": "",
       "id": "pl2-ac-98",
-      "Description": "Crosshatch Holo Player Rewards Program 2009-2010 (Tier Two)"
+      "description": "Crosshatch Holo Player Rewards Program 2009-2010 (Tier Two)"
     },
     {
       "name": "Upper Energy",
       "number": "102/111",
       "rarity": "",
       "id": "pl2-ac-102",
-      "Description": "Crosshatch Holo Player Rewards Program 2009-2010 (Tier Two)"
+      "description": "Crosshatch Holo Player Rewards Program 2009-2010 (Tier Two)"
     }
   ],
   "misprints": []

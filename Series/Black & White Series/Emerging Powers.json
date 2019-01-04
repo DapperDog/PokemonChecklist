@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -602,84 +602,84 @@
       "number": "30/98",
       "rarity": "",
       "id": "bw2-ac-30-1",
-      "Description": "Cracked Ice Holo Next Destinies Stage 1 Blisters exclusive"
+      "description": "Cracked Ice Holo Next Destinies Stage 1 Blisters exclusive"
     },
     {
       "name": "Beartic",
       "number": "30/98",
       "rarity": "",
       "id": "bw2-ac-30-2",
-      "Description": "Cosmos Holo Water Gym Collector Pack exclusive"
+      "description": "Cosmos Holo Water Gym Collector Pack exclusive"
     },
     {
       "name": "Scolipede",
       "number": "40/98",
       "rarity": "",
       "id": "bw2-ac-40",
-      "Description": "Cracked Ice Holo Toxic Tricks theme deck exclusive"
+      "description": "Cracked Ice Holo Toxic Tricks theme deck exclusive"
     },
     {
       "name": "Roggenrola",
       "number": "49/98",
       "rarity": "",
       "id": "bw2-ac-49",
-      "Description": "Cracked Ice Holo Next Destinies Stage 2 Blisters exclusive"
+      "description": "Cracked Ice Holo Next Destinies Stage 2 Blisters exclusive"
     },
     {
       "name": "Boldore",
       "number": "51/98",
       "rarity": "",
       "id": "bw2-ac-51",
-      "Description": "Cracked Ice Holo Next Destinies Stage 2 Blisters exclusive"
+      "description": "Cracked Ice Holo Next Destinies Stage 2 Blisters exclusive"
     },
     {
       "name": "Gigalith",
       "number": "53/98",
       "rarity": "",
       "id": "bw2-ac-53-1",
-      "Description": "Emerging Powers stamp Prerelease promo"
+      "description": "Emerging Powers stamp Prerelease promo"
     },
     {
       "name": "Gigalith",
       "number": "53/98",
       "rarity": "",
       "id": "bw2-ac-53-2",
-      "Description": "Staff Emerging Powers stamp Prerelease promo"
+      "description": "Staff Emerging Powers stamp Prerelease promo"
     },
     {
       "name": "Gigalith",
       "number": "53/98",
       "rarity": "",
       "id": "bw2-ac-53-3",
-      "Description": "Cracked Ice Holo Next Destinies Stage 2 Blisters exclusive"
+      "description": "Cracked Ice Holo Next Destinies Stage 2 Blisters exclusive"
     },
     {
       "name": "Excadrill",
       "number": "56/98",
       "rarity": "",
       "id": "bw2-ac-56",
-      "Description": "Cosmos Holo Dragons Exalted Stage 1 Blisters exclusive"
+      "description": "Cosmos Holo Dragons Exalted Stage 1 Blisters exclusive"
     },
     {
       "name": "Krookodile",
       "number": "62/98",
       "rarity": "",
       "id": "bw2-ac-62",
-      "Description": "Cracked Ice Holo Power Play theme deck exclusive"
+      "description": "Cracked Ice Holo Power Play theme deck exclusive"
     },
     {
       "name": "Unfezant",
       "number": "82/98",
       "rarity": "",
       "id": "bw2-ac-82",
-      "Description": "Crosshatch Holo Pokémon League Jet Season (April 2012)"
+      "description": "Crosshatch Holo Pokémon League Jet Season (April 2012)"
     },
     {
       "name": "Pokémon Catcher",
       "number": "95/98",
       "rarity": "",
       "id": "bw2-ac-95",
-      "Description": "Crosshatch Holo 2012 Player Rewards (Tier 3)"
+      "description": "Crosshatch Holo 2012 Player Rewards (Tier 3)"
     }
   ],
   "misprints": []

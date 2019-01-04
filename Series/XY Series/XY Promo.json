@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Have"
   ],
@@ -1265,546 +1265,546 @@
       "number": "XY07",
       "rarity": "",
       "id": "xyp-ac-7",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "YveltalEX",
       "number": "XY08",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-8",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "GarchompEX",
       "number": "XY09",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-9",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "Dragalge (Staff)",
       "number": "XY10",
       "rarity": "Promo",
       "id": "xyp-ac-10",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "Machamp (Staff)",
       "number": "XY13",
       "rarity": "Promo",
       "id": "xyp-ac-13",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "CharizardEX",
       "number": "XY17",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-17",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "Bronzong (Staff)",
       "number": "XY21",
       "rarity": "Promo",
       "id": "xyp-ac-21",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "KrookodileEX",
       "number": "XY25",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-25",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "Champions Festival (Worlds 2014)",
       "number": "XY27",
       "rarity": "Promo",
       "id": "xyp-ac-27-1",
-      "Description": "Staff"
+      "description": "Staff"
     },
     {
       "name": "Champions Festival (Worlds 2014)",
       "number": "XY27",
       "rarity": "Promo",
       "id": "xyp-ac-27-2",
-      "Description": "top 32"
+      "description": "top 32"
     },
     {
       "name": "Champions Festival (Worlds 2014)",
       "number": "XY27",
       "rarity": "Promo",
       "id": "xyp-ac-27-3",
-      "Description": "top 16"
+      "description": "top 16"
     },
     {
       "name": "Champions Festival (Worlds 2014)",
       "number": "XY27",
       "rarity": "Promo",
       "id": "xyp-ac-27-4",
-      "Description": "quarter finalist"
+      "description": "quarter finalist"
     },
     {
       "name": "Champions Festival (Worlds 2014)",
       "number": "XY27",
       "rarity": "Promo",
       "id": "xyp-ac-27-5",
-      "Description": "semi finalist"
+      "description": "semi finalist"
     },
     {
       "name": "Champions Festival (Worlds 2014)",
       "number": "XY27",
       "rarity": "Promo",
       "id": "xyp-ac-27-6",
-      "Description": "finalist"
+      "description": "finalist"
     },
     {
       "name": "Champions Festival (Worlds 2014)",
       "number": "XY27",
       "rarity": "Promo",
       "id": "xyp-ac-27-7",
-      "Description": "champion"
+      "description": "champion"
     },
     {
       "name": "MegaMetagrossEX",
       "number": "XY35",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-35",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "Kingdra (Staff)",
       "number": "XY39",
       "rarity": "Promo",
       "id": "xyp-ac-39",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "MegaDiancieEX",
       "number": "XY44",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-44",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "GalladeEX",
       "number": "XY45",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-45",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "Altaria (Staff)",
       "number": "XY46",
       "rarity": "Promo",
       "id": "xyp-ac-46",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "Kyogre",
       "number": "XY51",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-51",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "Groudon",
       "number": "XY52",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-52",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "Gyarados (Staff)",
       "number": "XY60",
       "rarity": "Promo",
       "id": "xyp-ac-60",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "FlygonEX",
       "number": "XY61",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-61",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "MegaAbsolEX",
       "number": "XY63",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-63",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "Rayquaza",
       "number": "XY64",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-64",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "RayquazaEX",
       "number": "XY66",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-66",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "Jirachi",
       "number": "XY67a",
       "rarity": "Promo",
       "id": "xyp-ac-67a",
-      "Description": "alternate art"
+      "description": "alternate art"
     },
     {
       "name": "Chesnaught (Staff)",
       "number": "XY68",
       "rarity": "Promo",
       "id": "xyp-ac-68",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "RayquazaEX",
       "number": "XY69",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-69",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "TyrantrumEX",
       "number": "XY70",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-70",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "MegaBlazikenEX",
       "number": "XY86",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-86",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "MegaSwampertEX",
       "number": "XY87",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-87",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "Champions Festival (Worlds 2015)",
       "number": "XY91",
       "rarity": "Promo",
       "id": "xyp-ac-91-1",
-      "Description": "Staff"
+      "description": "Staff"
     },
     {
       "name": "Champions Festival (Worlds 2015)",
       "number": "XY91",
       "rarity": "Promo",
       "id": "xyp-ac-91-2",
-      "Description": "top 32"
+      "description": "top 32"
     },
     {
       "name": "Champions Festival (Worlds 2015)",
       "number": "XY91",
       "rarity": "Promo",
       "id": "xyp-ac-91-3",
-      "Description": "top 16"
+      "description": "top 16"
     },
     {
       "name": "Champions Festival (Worlds 2015)",
       "number": "XY91",
       "rarity": "Promo",
       "id": "xyp-ac-91-4",
-      "Description": "quarter finalist"
+      "description": "quarter finalist"
     },
     {
       "name": "Champions Festival (Worlds 2015)",
       "number": "XY91",
       "rarity": "Promo",
       "id": "xyp-ac-91-5",
-      "Description": "semi finalist"
+      "description": "semi finalist"
     },
     {
       "name": "Champions Festival (Worlds 2015)",
       "number": "XY91",
       "rarity": "Promo",
       "id": "xyp-ac-91-6",
-      "Description": "finalist"
+      "description": "finalist"
     },
     {
       "name": "Champions Festival (Worlds 2015)",
       "number": "XY91",
       "rarity": "Promo",
       "id": "xyp-ac-91-7",
-      "Description": "champion"
+      "description": "champion"
     },
     {
       "name": "Trevenant (Staff)",
       "number": "XY94",
       "rarity": "Promo",
       "id": "xyp-ac-94",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "MegaAerodactylEX",
       "number": "XY98",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-98",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "AurorusEX",
       "number": "XY102",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-102",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "MegaMawileEX",
       "number": "XY104",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-104",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "CharizardEX",
       "number": "XY121",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-121",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "BlastoiseEX",
       "number": "XY122",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-122",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "VenusaurEX",
       "number": "XY123",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-123",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "PikachuEX",
       "number": "XY124",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-124",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "Moltres (Staff)",
       "number": "XY127",
       "rarity": "Promo",
       "id": "xyp-ac-127",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "White Kyurem (Staff)",
       "number": "XY128",
       "rarity": "Promo",
       "id": "xyp-ac-128",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "Zygarde (Staff)",
       "number": "XY129",
       "rarity": "Promo",
       "id": "xyp-ac-129",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "Tyranitar (Staff)",
       "number": "XY130",
       "rarity": "Promo",
       "id": "xyp-ac-130",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "Ash-GreninjaEX",
       "number": "XY133",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-133",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "EmpoleonBREAK",
       "number": "XY134",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-134",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "Yanmega (Staff)",
       "number": "XY144",
       "rarity": "Promo",
       "id": "xyp-ac-144",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "Volcanion (Staff)",
       "number": "XY145",
       "rarity": "Promo",
       "id": "xyp-ac-145",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "Clawitzer (Staff)",
       "number": "XY146",
       "rarity": "Promo",
       "id": "xyp-ac-146",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "Hoopa (Staff)",
       "number": "XY147",
       "rarity": "Promo",
       "id": "xyp-ac-147",
-      "Description": ""
+      "description": ""
     },
     {
       "name": "YveltalEX",
       "number": "XY150a",
       "rarity": "Promo",
       "id": "xyp-ac-150a",
-      "Description": "alternate art"
+      "description": "alternate art"
     },
     {
       "name": "Ho-OhBREAK",
       "number": "XY154",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-154",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "MegaBeedrillEX",
       "number": "XY158",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-158",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "MegaGarchompEX",
       "number": "XY168",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-168",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "MegaSalamenceEX",
       "number": "XY171",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-171",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "PikachuEX",
       "number": "XY174",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-174",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "Champions Festival (Worlds 2016)",
       "number": "XY176",
       "rarity": "Promo",
       "id": "xyp-ac-176-1",
-      "Description": "Staff"
+      "description": "Staff"
     },
     {
       "name": "Champions Festival (Worlds 2016)",
       "number": "XY176",
       "rarity": "Promo",
       "id": "xyp-ac-176-2",
-      "Description": "Top 32"
+      "description": "Top 32"
     },
     {
       "name": "Champions Festival (Worlds 2016)",
       "number": "XY176",
       "rarity": "Promo",
       "id": "xyp-ac-176-3",
-      "Description": "Top 16"
+      "description": "Top 16"
     },
     {
       "name": "Champions Festival (Worlds 2016)",
       "number": "XY176",
       "rarity": "Promo",
       "id": "xyp-ac-176-4",
-      "Description": "Quarter Finalist"
+      "description": "Quarter Finalist"
     },
     {
       "name": "Champions Festival (Worlds 2016)",
       "number": "XY176",
       "rarity": "Promo",
       "id": "xyp-ac-176-5",
-      "Description": "Semi Finalist"
+      "description": "Semi Finalist"
     },
     {
       "name": "Champions Festival (Worlds 2016)",
       "number": "XY176",
       "rarity": "Promo",
       "id": "xyp-ac-176-6",
-      "Description": "Finalist"
+      "description": "Finalist"
     },
     {
       "name": "Champions Festival (Worlds 2016)",
       "number": "XY176",
       "rarity": "Promo",
       "id": "xyp-ac-176-7",
-      "Description": "Champion"
+      "description": "Champion"
     },
     {
       "name": "Karen",
       "number": "XY177a",
       "rarity": "Promo",
       "id": "xyp-ac-177a",
-      "Description": "alternate art"
+      "description": "alternate art"
     },
     {
       "name": "ArcanineBREAK",
       "number": "XY180",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-180",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "MewtwoEX",
       "number": "XY183",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-183",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "MegaCameruptEX",
       "number": "XY198",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-198-1",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "MegaCameruptEX",
       "number": "XY198a",
       "rarity": "Promo",
       "id": "xyp-ac-198-2",
-      "Description": "alternate art"
+      "description": "alternate art"
     },
     {
       "name": "MegaSharpedoEX",
       "number": "XY200",
       "rarity": "Oversized Promo",
       "id": "xyp-ac-200",
-      "Description": "Oversized Promo"
+      "description": "Oversized Promo"
     },
     {
       "name": "MegaSharpedoEX",
       "number": "XY200a",
       "rarity": "Promo",
       "id": "xyp-ac-200a",
-      "Description": "alternate art"
+      "description": "alternate art"
     }
   ],
   "misprints": []

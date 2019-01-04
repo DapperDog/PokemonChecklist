@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -760,112 +760,112 @@
       "number": "19/123",
       "rarity": "",
       "id": "dp2-ac-19",
-      "Description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
+      "description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
     },
     {
       "name": "Bastiodon",
       "number": "21/123",
       "rarity": "",
       "id": "dp2-ac-21",
-      "Description": "Holofoil Armor Fortress Theme Deck Exclusive"
+      "description": "Holofoil Armor Fortress Theme Deck Exclusive"
     },
     {
       "name": "Rampardos",
       "number": "33/123",
       "rarity": "",
       "id": "dp2-ac-33",
-      "Description": "Holofoil Skull Charge Theme Deck Exclusive"
+      "description": "Holofoil Skull Charge Theme Deck Exclusive"
     },
     {
       "name": "Chingling",
       "number": "42/123",
       "rarity": "",
       "id": "dp2-ac-42",
-      "Description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
+      "description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
     },
     {
       "name": "Gabite",
       "number": "48/123",
       "rarity": "",
       "id": "dp2-ac-48-1",
-      "Description": "Prerelease stamp Prerelease promo"
+      "description": "Prerelease stamp Prerelease promo"
     },
     {
       "name": "Gabite",
       "number": "48/123",
       "rarity": "",
       "id": "dp2-ac-48-2",
-      "Description": "Staff Prerelease stamp Prerelease promo"
+      "description": "Staff Prerelease stamp Prerelease promo"
     },
     {
       "name": "Gabite",
       "number": "48/123",
       "rarity": "",
       "id": "dp2-ac-48-3",
-      "Description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
+      "description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
     },
     {
       "name": "Happiny",
       "number": "52/123",
       "rarity": "",
       "id": "dp2-ac-52-1",
-      "Description": "Reverse Holo Diamond & Pearl stamp Burger King Collection 2008"
+      "description": "Reverse Holo Diamond & Pearl stamp Burger King Collection 2008"
     },
     {
       "name": "Happiny",
       "number": "52/123",
       "rarity": "",
       "id": "dp2-ac-52-2",
-      "Description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
+      "description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
     },
     {
       "name": "Bidoof",
       "number": "73/123",
       "rarity": "",
       "id": "dp2-ac-73",
-      "Description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
+      "description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
     },
     {
       "name": "Bronzor",
       "number": "74/123",
       "rarity": "",
       "id": "dp2-ac-74",
-      "Description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
+      "description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
     },
     {
       "name": "Kricketot",
       "number": "86/123",
       "rarity": "",
       "id": "dp2-ac-86",
-      "Description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
+      "description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
     },
     {
       "name": "Pikachu",
       "number": "94/123",
       "rarity": "",
       "id": "dp2-ac-94",
-      "Description": "Reverse Holo Diamond & Pearl stamp Burger King Collection 2008"
+      "description": "Reverse Holo Diamond & Pearl stamp Burger King Collection 2008"
     },
     {
       "name": "Shinx",
       "number": "98/123",
       "rarity": "",
       "id": "dp2-ac-98",
-      "Description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
+      "description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
     },
     {
       "name": "Snover",
       "number": "101/123",
       "rarity": "",
       "id": "dp2-ac-101",
-      "Description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
+      "description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
     },
     {
       "name": "Bebe's Search",
       "number": "109/123",
       "rarity": "",
       "id": "dp2-ac-109",
-      "Description": "Cosmos Holo Diamond & Pearl Collection exclusive"
+      "description": "Cosmos Holo Diamond & Pearl Collection exclusive"
     }
   ],
   "misprints": []

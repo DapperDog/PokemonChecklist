@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -624,63 +624,63 @@
       "number": "5/100",
       "rarity": "",
       "id": "ex14-ac-5",
-      "Description": "Earth Shower Teme Deck Exclusive"
+      "description": "Earth Shower Teme Deck Exclusive"
     },
     {
       "name": "Blastoise",
       "number": "14/100",
       "rarity": "",
       "id": "ex14-ac-14-1",
-      "Description": "National championships Promo"
+      "description": "National championships Promo"
     },
     {
       "name": "Blastoise",
       "number": "14/100",
       "rarity": "",
       "id": "ex14-ac-14-2",
-      "Description": "Staff Stamped National Championships Promo"
+      "description": "Staff Stamped National Championships Promo"
     },
     {
       "name": "Blastoise",
       "number": "14/100",
       "rarity": "",
       "id": "ex14-ac-14-3",
-      "Description": "Storm Surge Theme Deck Exclusive"
+      "description": "Storm Surge Theme Deck Exclusive"
     },
     {
       "name": "Swampert",
       "number": "27/100",
       "rarity": "",
       "id": "ex14-ac-27",
-      "Description": "Earth Shower Teme Deck Exclusive"
+      "description": "Earth Shower Teme Deck Exclusive"
     },
     {
       "name": "Venusaur",
       "number": "28/100",
       "rarity": "",
       "id": "ex14-ac-28-1",
-      "Description": "Regional Championship Promo"
+      "description": "Regional Championship Promo"
     },
     {
       "name": "Venusaur",
       "number": "28/100",
       "rarity": "",
       "id": "ex14-ac-28-2",
-      "Description": "Green Cyclone Theme Deck Exclusive"
+      "description": "Green Cyclone Theme Deck Exclusive"
     },
     {
       "name": "Wartortle",
       "number": "42/100",
       "rarity": "",
       "id": "ex14-ac-42",
-      "Description": "State/Province/Territory Championships Promo"
+      "description": "State/Province/Territory Championships Promo"
     },
     {
       "name": "Squirtle",
       "number": "63/100",
       "rarity": "",
       "id": "ex14-ac-63",
-      "Description": "City Championships Promo"
+      "description": "City Championships Promo"
     }
   ],
   "misprints": []

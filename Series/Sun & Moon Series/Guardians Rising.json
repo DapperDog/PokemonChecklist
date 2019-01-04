@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -1077,140 +1077,140 @@
       "number": "8/145",
       "rarity": "",
       "id": "sm2-ac-8",
-      "Description": "Water Web Holo Team Skull Pin Collection exclusive"
+      "description": "Water Web Holo Team Skull Pin Collection exclusive"
     },
     {
       "name": "Oricorio",
       "number": "14/145",
       "rarity": "",
       "id": "sm2-ac-14",
-      "Description": "Holo Pokémon League Promo"
+      "description": "Holo Pokémon League Promo"
     },
     {
       "name": "Salandit",
       "number": "15/145",
       "rarity": "",
       "id": "sm2-ac-15",
-      "Description": "Water Web Holo Team Skull Pin Collection exclusive"
+      "description": "Water Web Holo Team Skull Pin Collection exclusive"
     },
     {
       "name": "Alolan Vulpix",
       "number": "21/145",
       "rarity": "",
       "id": "sm2-ac-21-1",
-      "Description": "Cosmos Holo Toys \"R\" Us stamp exclusive"
+      "description": "Cosmos Holo Toys \"R\" Us stamp exclusive"
     },
     {
       "name": "Alolan Vulpix",
       "number": "21/145",
       "rarity": "",
       "id": "sm2-ac-21-2",
-      "Description": "Cosmos Holo 3 pack alternate art"
+      "description": "Cosmos Holo 3 pack alternate art"
     },
     {
       "name": "Oricorio",
       "number": "46/145",
       "rarity": "",
       "id": "sm2-ac-46",
-      "Description": "Holo Pokémon League Promo"
+      "description": "Holo Pokémon League Promo"
     },
     {
       "name": "Oricorio",
       "number": "55/145",
       "rarity": "",
       "id": "sm2-ac-55-1",
-      "Description": "1st Place Reverse Holo Pokémon League League Challenge Promo"
+      "description": "1st Place Reverse Holo Pokémon League League Challenge Promo"
     },
     {
       "name": "Oricorio",
       "number": "55/145",
       "rarity": "",
       "id": "sm2-ac-55-2",
-      "Description": "2nd Place Reverse Holo Pokémon League League Challenge Promo"
+      "description": "2nd Place Reverse Holo Pokémon League League Challenge Promo"
     },
     {
       "name": "Oricorio",
       "number": "55/145",
       "rarity": "",
       "id": "sm2-ac-55-3",
-      "Description": "3rd Place Reverse Holo Pokémon League League Challenge Promo"
+      "description": "3rd Place Reverse Holo Pokémon League League Challenge Promo"
     },
     {
       "name": "Oricorio",
       "number": "55/145",
       "rarity": "",
       "id": "sm2-ac-55-4",
-      "Description": "4th Place Reverse Holo Pokémon League League Challenge Promo"
+      "description": "4th Place Reverse Holo Pokémon League League Challenge Promo"
     },
     {
       "name": "Oricorio",
       "number": "56/145",
       "rarity": "",
       "id": "sm2-ac-56",
-      "Description": "Holo Pokémon League Promo"
+      "description": "Holo Pokémon League Promo"
     },
     {
       "name": "Mimikyu",
       "number": "58/145",
       "rarity": "",
       "id": "sm2-ac-58",
-      "Description": "Non Holo Hidden Moon Theme Deck exclusive"
+      "description": "Non Holo Hidden Moon Theme Deck exclusive"
     },
     {
       "name": "Dhelmise",
       "number": "59/145",
       "rarity": "",
       "id": "sm2-ac-59",
-      "Description": "Non Holo Steel Sun Theme Deck exclusive"
+      "description": "Non Holo Steel Sun Theme Deck exclusive"
     },
     {
       "name": "Lunala",
       "number": "61/145",
       "rarity": "",
       "id": "sm2-ac-61",
-      "Description": "Cracked Ice Holo Hidden Moon Theme Deck exclusive"
+      "description": "Cracked Ice Holo Hidden Moon Theme Deck exclusive"
     },
     {
       "name": "Mudsdale",
       "number": "76/145",
       "rarity": "",
       "id": "sm2-ac-76",
-      "Description": "Non Holo Guardians Rising Prerelease Kit exclusive"
+      "description": "Non Holo Guardians Rising Prerelease Kit exclusive"
     },
     {
       "name": "Solgaleo",
       "number": "87/145",
       "rarity": "",
       "id": "sm2-ac-87",
-      "Description": "Cracked Ice Holo Steel Sun Theme Deck exclusive"
+      "description": "Cracked Ice Holo Steel Sun Theme Deck exclusive"
     },
     {
       "name": "Aqua Patch",
       "number": "119/145",
       "rarity": "",
       "id": "sm2-ac-119-1",
-      "Description": "Reverse Holo Pokémon League Promo"
+      "description": "Reverse Holo Pokémon League Promo"
     },
     {
       "name": "[staff]Aqua Patch",
       "number": "119/145",
       "rarity": "",
       "id": "sm2-ac-119-2",
-      "Description": "Reverse Holo Pokémon League Staff Promo"
+      "description": "Reverse Holo Pokémon League Staff Promo"
     },
     {
       "name": "Hala",
       "number": "126/145",
       "rarity": "",
       "id": "sm2-ac-126-1",
-      "Description": "Reverse Holo Regional Championship Promo"
+      "description": "Reverse Holo Regional Championship Promo"
     },
     {
       "name": "[staff]Hala",
       "number": "126/145",
       "rarity": "",
       "id": "sm2-ac-126-2",
-      "Description": "Reverse Holo Regional Championship Staff Promo"
+      "description": "Reverse Holo Regional Championship Staff Promo"
     }
   ],
   "misprints": []

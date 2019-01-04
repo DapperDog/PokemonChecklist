@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -762,133 +762,133 @@
       "number": "10/119",
       "rarity": "",
       "id": "xy4-ad-10",
-      "Description": "Cracked Ice Holo Burning Winds Theme Deck exclusive"
+      "description": "Cracked Ice Holo Burning Winds Theme Deck exclusive"
     },
     {
       "name": "Pyroar",
       "number": "12/119",
       "rarity": "",
       "id": "xy4-ad-12-1",
-      "Description": "Non Holo Burning Winds Theme Deck exclusive"
+      "description": "Non Holo Burning Winds Theme Deck exclusive"
     },
     {
       "name": "Pyroar",
       "number": "12/119",
       "rarity": "",
       "id": "xy4-ad-12-2",
-      "Description": "Cosmos Holo BREAKpoint Three Pack Blisters"
+      "description": "Cosmos Holo BREAKpoint Three Pack Blisters"
     },
     {
       "name": "Feraligatr",
       "number": "17/119",
       "rarity": "",
       "id": "xy4-ad-17-1",
-      "Description": "Non Holo Bolt Twister Theme Deck exclusive"
+      "description": "Non Holo Bolt Twister Theme Deck exclusive"
     },
     {
       "name": "Feraligatr",
       "number": "17/119",
       "rarity": "",
       "id": "xy4-ad-17-2",
-      "Description": "Cosmos Holo Sun & Moon Two Pack Blister exclusive"
+      "description": "Cosmos Holo Sun & Moon Two Pack Blister exclusive"
     },
     {
       "name": "Manectric",
       "number": "24a/119",
       "rarity": "",
       "id": "xy4-ad-24a",
-      "Description": "Yellow A Alternate art Mega Powers Collection exclusive"
+      "description": "Yellow A Alternate art Mega Powers Collection exclusive"
     },
     {
       "name": "Galvantula",
       "number": "27/119",
       "rarity": "",
       "id": "xy4-ad-27",
-      "Description": "Cracked Ice Holo Bolt Twister Theme Deck exclusive"
+      "description": "Cracked Ice Holo Bolt Twister Theme Deck exclusive"
     },
     {
       "name": "Heliolisk",
       "number": "30/119",
       "rarity": "",
       "id": "xy4-ad-30",
-      "Description": "Non Holo Bolt Twister Theme Deck exclusive"
+      "description": "Non Holo Bolt Twister Theme Deck exclusive"
     },
     {
       "name": "Crobat",
       "number": "33/119",
       "rarity": "",
       "id": "xy4-ad-33",
-      "Description": "Cosmos Holo Legacy Evolution Pin Collection exclusive"
+      "description": "Cosmos Holo Legacy Evolution Pin Collection exclusive"
     },
     {
       "name": "Aegislash",
       "number": "65a/119",
       "rarity": "",
       "id": "xy4-ad-65a",
-      "Description": "Yellow A Alternate art Premium Trainer's XY Collection exclusive"
+      "description": "Yellow A Alternate art Premium Trainer's XY Collection exclusive"
     },
     {
       "name": "Klefki",
       "number": "66/119",
       "rarity": "",
       "id": "xy4-ad-66-1",
-      "Description": "1st Place Crosshatch Holo Pokémon League Mossdeep/Sootopolis Season League Challenge promo"
+      "description": "1st Place Crosshatch Holo Pokémon League Mossdeep/Sootopolis Season League Challenge promo"
     },
     {
       "name": "Klefki",
       "number": "66/119",
       "rarity": "",
       "id": "xy4-ad-66-2",
-      "Description": "2nd Place Crosshatch Holo Pokémon League Mossdeep/Sootopolis Season League Challenge promo"
+      "description": "2nd Place Crosshatch Holo Pokémon League Mossdeep/Sootopolis Season League Challenge promo"
     },
     {
       "name": "Klefki",
       "number": "66/119",
       "rarity": "",
       "id": "xy4-ad-66-3",
-      "Description": "3rd Place Crosshatch Holo Pokémon League Mossdeep/Sootopolis Season League Challenge promo"
+      "description": "3rd Place Crosshatch Holo Pokémon League Mossdeep/Sootopolis Season League Challenge promo"
     },
     {
       "name": "Klefki",
       "number": "66/119",
       "rarity": "",
       "id": "xy4-ad-66-4",
-      "Description": "4th Place Crosshatch Holo Pokémon League Mossdeep/Sootopolis Season League Challenge promo"
+      "description": "4th Place Crosshatch Holo Pokémon League Mossdeep/Sootopolis Season League Challenge promo"
     },
     {
       "name": "Hydreigon",
       "number": "74/119",
       "rarity": "",
       "id": "xy4-ad-74",
-      "Description": "Cosmos Holo BREAKpoint One Pack Blisters"
+      "description": "Cosmos Holo BREAKpoint One Pack Blisters"
     },
     {
       "name": "Goodra",
       "number": "77/119",
       "rarity": "",
       "id": "xy4-ad-77",
-      "Description": "Cosmos Holo Goodra Mini Album Blister Pack exclusive"
+      "description": "Cosmos Holo Goodra Mini Album Blister Pack exclusive"
     },
     {
       "name": "Blissey",
       "number": "81/119",
       "rarity": "",
       "id": "xy4-ad-81",
-      "Description": "Cosmos Holo Legacy Evolution Pin Collection exclusive"
+      "description": "Cosmos Holo Legacy Evolution Pin Collection exclusive"
     },
     {
       "name": "Dimension Valley",
       "number": "93/119",
       "rarity": "",
       "id": "xy4-ad-93",
-      "Description": "Crosshatch Holo Pokémon League Mossdeep Season promo (August 2015)"
+      "description": "Crosshatch Holo Pokémon League Mossdeep Season promo (August 2015)"
     },
     {
       "name": "Gengar Spirit Link",
       "number": "95/119",
       "rarity": "",
       "id": "xy4-ad-95",
-      "Description": "Sheen Holo Gengar Spirit Link 2-pack exclusive"
+      "description": "Sheen Holo Gengar Spirit Link 2-pack exclusive"
     }
   ],
   "misprints": []

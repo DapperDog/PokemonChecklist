@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -667,119 +667,119 @@
       "number": "6/95",
       "rarity": "",
       "id": "col1-ac-6",
-      "Description": "Non Holo Retort theme deck exclusive"
+      "description": "Non Holo Retort theme deck exclusive"
     },
     {
       "name": "Hitmontop",
       "number": "8/95",
       "rarity": "",
       "id": "col1-ac-8",
-      "Description": "Non Holo Retort theme deck exclusive"
+      "description": "Non Holo Retort theme deck exclusive"
     },
     {
       "name": "Lucario",
       "number": "14/95",
       "rarity": "",
       "id": "col1-ac-14-1",
-      "Description": "Cracked Ice Holo Retort theme deck exclusive"
+      "description": "Cracked Ice Holo Retort theme deck exclusive"
     },
     {
       "name": "Lucario",
       "number": "14/95",
       "rarity": "",
       "id": "col1-ac-14-2",
-      "Description": "Non Holo Retort theme deck exclusive"
+      "description": "Non Holo Retort theme deck exclusive"
     },
     {
       "name": "Magmortar",
       "number": "16/95",
       "rarity": "",
       "id": "col1-ac-16",
-      "Description": "Non Holo Recon theme deck exclusive"
+      "description": "Non Holo Recon theme deck exclusive"
     },
     {
       "name": "Ninetales",
       "number": "17/95",
       "rarity": "",
       "id": "col1-ac-17",
-      "Description": "Non Holo Recon theme deck exclusive"
+      "description": "Non Holo Recon theme deck exclusive"
     },
     {
       "name": "Snorlax",
       "number": "33/95",
       "rarity": "",
       "id": "col1-ac-33-1",
-      "Description": "Call of Legends stamp Prerelease promo"
+      "description": "Call of Legends stamp Prerelease promo"
     },
     {
       "name": "Snorlax",
       "number": "33/95",
       "rarity": "",
       "id": "col1-ac-33-2",
-      "Description": "Staff Call of Legends stamp Prerelease promo"
+      "description": "Staff Call of Legends stamp Prerelease promo"
     },
     {
       "name": "Tangrowth",
       "number": "34/95",
       "rarity": "",
       "id": "col1-ac-34",
-      "Description": "Cracked Ice Holo Recon theme deck exclusive"
+      "description": "Cracked Ice Holo Recon theme deck exclusive"
     },
     {
       "name": "Grass Energy",
       "number": "88/95",
       "rarity": "",
       "id": "col1-ac-88",
-      "Description": "Crosshatch Holo 2011 Player Rewards (Tier 1)"
+      "description": "Crosshatch Holo 2011 Player Rewards (Tier 1)"
     },
     {
       "name": "Fire Energy",
       "number": "89/95",
       "rarity": "",
       "id": "col1-ac-89",
-      "Description": "Crosshatch Holo 2011 Player Rewards (Tier 1)"
+      "description": "Crosshatch Holo 2011 Player Rewards (Tier 1)"
     },
     {
       "name": "Water Energy",
       "number": "90/95",
       "rarity": "",
       "id": "col1-ac-90",
-      "Description": "Crosshatch Holo 2011 Player Rewards (Tier 1)"
+      "description": "Crosshatch Holo 2011 Player Rewards (Tier 1)"
     },
     {
       "name": "Lightning Energy",
       "number": "91/95",
       "rarity": "",
       "id": "col1-ac-91",
-      "Description": "Crosshatch Holo 2011 Player Rewards (Tier 1)"
+      "description": "Crosshatch Holo 2011 Player Rewards (Tier 1)"
     },
     {
       "name": "Psychic Energy",
       "number": "92/95",
       "rarity": "",
       "id": "col1-ac-92",
-      "Description": "Crosshatch Holo 2011 Player Rewards (Tier 1)"
+      "description": "Crosshatch Holo 2011 Player Rewards (Tier 1)"
     },
     {
       "name": "Fighting Energy",
       "number": "93/95",
       "rarity": "",
       "id": "col1-ac-93",
-      "Description": "Crosshatch Holo 2011 Player Rewards (Tier 1)"
+      "description": "Crosshatch Holo 2011 Player Rewards (Tier 1)"
     },
     {
       "name": "Darkness Energy",
       "number": "94/95",
       "rarity": "",
       "id": "col1-ac-94",
-      "Description": "Crosshatch Holo 2011 Player Rewards (Tier 1)"
+      "description": "Crosshatch Holo 2011 Player Rewards (Tier 1)"
     },
     {
       "name": "Metal Energy",
       "number": "95/95",
       "rarity": "",
       "id": "col1-ac-95",
-      "Description": "Crosshatch Holo 2011 Player Rewards (Tier 1)"
+      "description": "Crosshatch Holo 2011 Player Rewards (Tier 1)"
     }
   ],
   "misprints": []

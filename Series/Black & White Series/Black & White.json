@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -705,301 +705,301 @@
       "number": "1/114",
       "rarity": "",
       "id": "bw1-ac-1-1",
-      "Description": "Crosshatch Holo Pokémon League Snivy Season (May 2011)"
+      "description": "Crosshatch Holo Pokémon League Snivy Season (May 2011)"
     },
     {
       "name": "Snivy",
       "number": "1/114",
       "rarity": "",
       "id": "bw1-ac-1-2",
-      "Description": "Cosmos Holo Super Snivy Box exclusive"
+      "description": "Cosmos Holo Super Snivy Box exclusive"
     },
     {
       "name": "Servine",
       "number": "3/114",
       "rarity": "",
       "id": "bw1-ac-3",
-      "Description": "Cracked Ice Holo Superb Serperior Box exclusive"
+      "description": "Cracked Ice Holo Superb Serperior Box exclusive"
     },
     {
       "name": "Serperior",
       "number": "5/114",
       "rarity": "",
       "id": "bw1-ac-5-1",
-      "Description": "Cracked Ice Holo Green Tornado theme deck exclusive"
+      "description": "Cracked Ice Holo Green Tornado theme deck exclusive"
     },
     {
       "name": "Serperior",
       "number": "5/114",
       "rarity": "",
       "id": "bw1-ac-5-2",
-      "Description": "Non Holo Green Tornado theme deck exclusive"
+      "description": "Non Holo Green Tornado theme deck exclusive"
     },
     {
       "name": "Pansage",
       "number": "7/114",
       "rarity": "",
       "id": "bw1-ac-7",
-      "Description": "Energy Reverse Holo Double Album Box exclusive"
+      "description": "Energy Reverse Holo Double Album Box exclusive"
     },
     {
       "name": "Tepig",
       "number": "15/114",
       "rarity": "",
       "id": "bw1-ac-15-1",
-      "Description": "Crosshatch Holo Pokémon League Tepig Season (June 2011)"
+      "description": "Crosshatch Holo Pokémon League Tepig Season (June 2011)"
     },
     {
       "name": "Tepig",
       "number": "15/114",
       "rarity": "",
       "id": "bw1-ac-15-2",
-      "Description": "Cosmos Holo Terrific Tepig Box exclusive"
+      "description": "Cosmos Holo Terrific Tepig Box exclusive"
     },
     {
       "name": "Pignite",
       "number": "17/114",
       "rarity": "",
       "id": "bw1-ac-17",
-      "Description": "Cracked Ice Holo Excellent Emboar Box exclusive"
+      "description": "Cracked Ice Holo Excellent Emboar Box exclusive"
     },
     {
       "name": "Emboar",
       "number": "19/114",
       "rarity": "",
       "id": "bw1-ac-19-1",
-      "Description": "Cracked Ice Holo Red Frenzy theme deck exclusive"
+      "description": "Cracked Ice Holo Red Frenzy theme deck exclusive"
     },
     {
       "name": "Emboar",
       "number": "19/114",
       "rarity": "",
       "id": "bw1-ac-19-2",
-      "Description": "Non Holo Red Frenzy theme deck exclusive"
+      "description": "Non Holo Red Frenzy theme deck exclusive"
     },
     {
       "name": "Pansear",
       "number": "21/114",
       "rarity": "",
       "id": "bw1-ac-21",
-      "Description": "Energy Reverse Holo Double Album Box exclusive"
+      "description": "Energy Reverse Holo Double Album Box exclusive"
     },
     {
       "name": "Darmanitan",
       "number": "25/114",
       "rarity": "",
       "id": "bw1-ac-25-1",
-      "Description": "Black & White stamp Prerelease promo"
+      "description": "Black & White stamp Prerelease promo"
     },
     {
       "name": "Darmanitan",
       "number": "25/114",
       "rarity": "",
       "id": "bw1-ac-25-2",
-      "Description": "Staff Black & White stamp Prerelease promo"
+      "description": "Staff Black & White stamp Prerelease promo"
     },
     {
       "name": "Oshawott",
       "number": "27/114",
       "rarity": "",
       "id": "bw1-ac-27-1",
-      "Description": "Crosshatch Holo Pokémon League Oshawott Season (July 2011)"
+      "description": "Crosshatch Holo Pokémon League Oshawott Season (July 2011)"
     },
     {
       "name": "Oshawott",
       "number": "27/114",
       "rarity": "",
       "id": "bw1-ac-27-2",
-      "Description": "Cosmos Holo Outstanding Oshawott Box exclusive"
+      "description": "Cosmos Holo Outstanding Oshawott Box exclusive"
     },
     {
       "name": "Dewott",
       "number": "29/114",
       "rarity": "",
       "id": "bw1-ac-29",
-      "Description": "Cracked Ice Holo Spectacular Samurott Box exclusive"
+      "description": "Cracked Ice Holo Spectacular Samurott Box exclusive"
     },
     {
       "name": "Samurott",
       "number": "31/114",
       "rarity": "",
       "id": "bw1-ac-31-1",
-      "Description": "Cracked Ice Holo Blue Assault theme deck exclusive"
+      "description": "Cracked Ice Holo Blue Assault theme deck exclusive"
     },
     {
       "name": "Samurott",
       "number": "31/114",
       "rarity": "",
       "id": "bw1-ac-31-2",
-      "Description": "Non Holo Blue Assault theme deck exclusive"
+      "description": "Non Holo Blue Assault theme deck exclusive"
     },
     {
       "name": "Panpour",
       "number": "33/114",
       "rarity": "",
       "id": "bw1-ac-33",
-      "Description": "Energy Reverse Holo Double Album Box exclusive"
+      "description": "Energy Reverse Holo Double Album Box exclusive"
     },
     {
       "name": "Zebstrika",
       "number": "42/114",
       "rarity": "",
       "id": "bw1-ac-42",
-      "Description": "Crosshatch Holo Pokémon League Bolt Season (February 2012)"
+      "description": "Crosshatch Holo Pokémon League Bolt Season (February 2012)"
     },
     {
       "name": "Whirlipede",
       "number": "53/114",
       "rarity": "",
       "id": "bw1-ac-53",
-      "Description": "Crosshatch Holo Pokémon League Insect Season (December 2011)"
+      "description": "Crosshatch Holo Pokémon League Insect Season (December 2011)"
     },
     {
       "name": "Scolipede",
       "number": "54/114",
       "rarity": "",
       "id": "bw1-ac-54",
-      "Description": "Cracked Ice Holo Dragons Exalted Three Pack Blisters exclusive"
+      "description": "Cracked Ice Holo Dragons Exalted Three Pack Blisters exclusive"
     },
     {
       "name": "Sandile",
       "number": "63/114",
       "rarity": "",
       "id": "bw1-ac-63",
-      "Description": "Cracked Ice Holo Dark Explorers Stage 2 Blisters exclusive"
+      "description": "Cracked Ice Holo Dark Explorers Stage 2 Blisters exclusive"
     },
     {
       "name": "Krokorok",
       "number": "64/114",
       "rarity": "",
       "id": "bw1-ac-64-1",
-      "Description": "Crosshatch Holo Pokémon League Quake Season (March 2012)"
+      "description": "Crosshatch Holo Pokémon League Quake Season (March 2012)"
     },
     {
       "name": "Krokorok",
       "number": "64/114",
       "rarity": "",
       "id": "bw1-ac-64-2",
-      "Description": "Cracked Ice Holo Dark Explorers Stage 2 Blisters exclusive"
+      "description": "Cracked Ice Holo Dark Explorers Stage 2 Blisters exclusive"
     },
     {
       "name": "Krookodile",
       "number": "65/114",
       "rarity": "",
       "id": "bw1-ac-65",
-      "Description": "Cracked Ice Holo Dark Explorers Stage 2 Blisters/Dark Explorers Three Pack Blisters exclusive"
+      "description": "Cracked Ice Holo Dark Explorers Stage 2 Blisters/Dark Explorers Three Pack Blisters exclusive"
     },
     {
       "name": "Zoroark",
       "number": "71/114",
       "rarity": "",
       "id": "bw1-ac-71-1",
-      "Description": "Cracked Ice Holo Next Destinies Stage 1 Blisters exclusive"
+      "description": "Cracked Ice Holo Next Destinies Stage 1 Blisters exclusive"
     },
     {
       "name": "Zoroark",
       "number": "71/114",
       "rarity": "",
       "id": "bw1-ac-71-2",
-      "Description": "Non Holo Battle Arena Decks: Mewtwo vs Darkrai exclusive"
+      "description": "Non Holo Battle Arena Decks: Mewtwo vs Darkrai exclusive"
     },
     {
       "name": "Klink",
       "number": "74/114",
       "rarity": "",
       "id": "bw1-ac-74",
-      "Description": "Cracked Ice Holo Next Destinies Stage 2 Blisters exclusive"
+      "description": "Cracked Ice Holo Next Destinies Stage 2 Blisters exclusive"
     },
     {
       "name": "Klang",
       "number": "75/114",
       "rarity": "",
       "id": "bw1-ac-75",
-      "Description": "Cracked Ice Holo Next Destinies Stage 2 Blisters exclusive"
+      "description": "Cracked Ice Holo Next Destinies Stage 2 Blisters exclusive"
     },
     {
       "name": "Klinklang",
       "number": "76/114",
       "rarity": "",
       "id": "bw1-ac-76",
-      "Description": "Cracked Ice Holo Next Destinies Stage 2 Blisters exclusive"
+      "description": "Cracked Ice Holo Next Destinies Stage 2 Blisters exclusive"
     },
     {
       "name": "Watchog",
       "number": "79/114",
       "rarity": "",
       "id": "bw1-ac-79",
-      "Description": "Crosshatch Holo Pokémon League Basic Season (November 2011)"
+      "description": "Crosshatch Holo Pokémon League Basic Season (November 2011)"
     },
     {
       "name": "Lillipup",
       "number": "81/114",
       "rarity": "",
       "id": "bw1-ac-81",
-      "Description": "Crosshatch Holo Pokémon League Trio Season (September 2011)"
+      "description": "Crosshatch Holo Pokémon League Trio Season (September 2011)"
     },
     {
       "name": "Professor Juniper",
       "number": "101/114",
       "rarity": "",
       "id": "bw1-ac-101",
-      "Description": "Crosshatch Holo Professor Program stamp promo (January 2013)"
+      "description": "Crosshatch Holo Professor Program stamp promo (January 2013)"
     },
     {
       "name": "Grass Energy",
       "number": "105/114",
       "rarity": "",
       "id": "bw1-ac-105",
-      "Description": "Crosshatch Holo Pokémon League Trio Season (September 2011)"
+      "description": "Crosshatch Holo Pokémon League Trio Season (September 2011)"
     },
     {
       "name": "Fire Energy",
       "number": "106/114",
       "rarity": "",
       "id": "bw1-ac-106",
-      "Description": "Crosshatch Holo Pokémon League Basic Season (November 2011)"
+      "description": "Crosshatch Holo Pokémon League Basic Season (November 2011)"
     },
     {
       "name": "Water Energy",
       "number": "107/114",
       "rarity": "",
       "id": "bw1-ac-107",
-      "Description": "Crosshatch Holo Pokémon League Freeze Season (June 2012)"
+      "description": "Crosshatch Holo Pokémon League Freeze Season (June 2012)"
     },
     {
       "name": "Lightning Energy",
       "number": "108/114",
       "rarity": "",
       "id": "bw1-ac-108",
-      "Description": "Crosshatch Holo Pokémon League Bolt Season (February 2012)"
+      "description": "Crosshatch Holo Pokémon League Bolt Season (February 2012)"
     },
     {
       "name": "Psychic Energy",
       "number": "109/114",
       "rarity": "",
       "id": "bw1-ac-109",
-      "Description": "Crosshatch Holo Pokémon League Insect Season (December 2011)"
+      "description": "Crosshatch Holo Pokémon League Insect Season (December 2011)"
     },
     {
       "name": "Fighting Energy",
       "number": "110/114",
       "rarity": "",
       "id": "bw1-ac-110",
-      "Description": "Crosshatch Holo Pokémon League Quake Season (March 2012)"
+      "description": "Crosshatch Holo Pokémon League Quake Season (March 2012)"
     },
     {
       "name": "Darkness Energy",
       "number": "111/114",
       "rarity": "",
       "id": "bw1-ac-111",
-      "Description": "Crosshatch Holo Pokémon League Legend Season (July 2012)"
+      "description": "Crosshatch Holo Pokémon League Legend Season (July 2012)"
     },
     {
       "name": "Metal Energy",
       "number": "112/114",
       "rarity": "",
       "id": "bw1-ac-112",
-      "Description": "Crosshatch Holo Pokémon League Jet Season (April 2012)"
+      "description": "Crosshatch Holo Pokémon League Jet Season (April 2012)"
     }
   ],
   "misprints": []

@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -659,42 +659,42 @@
       "number": "10/100",
       "rarity": "",
       "id": "dp7-ac-10",
-      "Description": "Non Holo Raging Sea Theme Deck exclusive"
+      "description": "Non Holo Raging Sea Theme Deck exclusive"
     },
     {
       "name": "Gyarados",
       "number": "19/100",
       "rarity": "",
       "id": "dp7-ac-19",
-      "Description": "Cosmos Holo Raging Sea Theme Deck exclusive"
+      "description": "Cosmos Holo Raging Sea Theme Deck exclusive"
     },
     {
       "name": "Tyranitar",
       "number": "30/100",
       "rarity": "",
       "id": "dp7-ac-30",
-      "Description": "Cosmos Holo Dark Rampage Theme Deck exclusive"
+      "description": "Cosmos Holo Dark Rampage Theme Deck exclusive"
     },
     {
       "name": "Pichu",
       "number": "45/100",
       "rarity": "",
       "id": "dp7-ac-45",
-      "Description": "Mirror Reverse Holofoil Platinum stamped Burger King exclusive (June 2009)"
+      "description": "Mirror Reverse Holofoil Platinum stamped Burger King exclusive (June 2009)"
     },
     {
       "name": "Piloswine",
       "number": "46/100",
       "rarity": "",
       "id": "dp7-ac-46-1",
-      "Description": "Prerelease stamp Prerelease promo"
+      "description": "Prerelease stamp Prerelease promo"
     },
     {
       "name": "Piloswine",
       "number": "46/100",
       "rarity": "",
       "id": "dp7-ac-46-2",
-      "Description": "Staff Prerelease stamp Prerelease promo"
+      "description": "Staff Prerelease stamp Prerelease promo"
     }
   ],
   "misprints": []

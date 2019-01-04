@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -724,119 +724,119 @@
       "number": "11/114",
       "rarity": "",
       "id": "xy11-ac-11",
-      "Description": "Cosmos Holo - Knock out collections exclusive"
+      "description": "Cosmos Holo - Knock out collections exclusive"
     },
     {
       "name": "Volcarona",
       "number": "15/114",
       "rarity": "",
       "id": "xy11-ac-15-1",
-      "Description": "1st Place Reverse Holo Pokémon League League Challenge promo"
+      "description": "1st Place Reverse Holo Pokémon League League Challenge promo"
     },
     {
       "name": "Volcarona",
       "number": "15/114",
       "rarity": "",
       "id": "xy11-ac-15-2",
-      "Description": "2nd Place Reverse Holo Pokémon League League Challenge promo"
+      "description": "2nd Place Reverse Holo Pokémon League League Challenge promo"
     },
     {
       "name": "Volcarona",
       "number": "15/114",
       "rarity": "",
       "id": "xy11-ac-15-3",
-      "Description": "3rd Place Reverse Holo Pokémon League League Challenge promo"
+      "description": "3rd Place Reverse Holo Pokémon League League Challenge promo"
     },
     {
       "name": "Volcarona",
       "number": "15/114",
       "rarity": "",
       "id": "xy11-ac-15-4",
-      "Description": "4th Place Reverse Holo Pokémon League League Challenge promo"
+      "description": "4th Place Reverse Holo Pokémon League League Challenge promo"
     },
     {
       "name": "Volcanion",
       "number": "25/114",
       "rarity": "",
       "id": "xy11-ac-25-1",
-      "Description": "Reverse Holo Pokémon League Promo"
+      "description": "Reverse Holo Pokémon League Promo"
     },
     {
       "name": "Volcanion",
       "number": "25/114",
       "rarity": "",
       "id": "xy11-ac-25-2",
-      "Description": "Cracked Ice Holo Gears of Fire Theme Deck Exclusive"
+      "description": "Cracked Ice Holo Gears of Fire Theme Deck Exclusive"
     },
     {
       "name": "Ampharos",
       "number": "40/114",
       "rarity": "",
       "id": "xy11-ac-40",
-      "Description": "Non Holo Ring of Lightning Theme Deck Exclusive"
+      "description": "Non Holo Ring of Lightning Theme Deck Exclusive"
     },
     {
       "name": "Hoopa",
       "number": "51/114",
       "rarity": "",
       "id": "xy11-ac-51",
-      "Description": "Cracked Ice Holo Ring of Lightning Theme Deck Exclusive"
+      "description": "Cracked Ice Holo Ring of Lightning Theme Deck Exclusive"
     },
     {
       "name": "Bisharp",
       "number": "64/114",
       "rarity": "",
       "id": "xy11-ac-64",
-      "Description": "Cosmos Holo - Knock out collections exclusive"
+      "description": "Cosmos Holo - Knock out collections exclusive"
     },
     {
       "name": "Yveltal",
       "number": "65/114",
       "rarity": "",
       "id": "xy11-ac-65",
-      "Description": "Reverse Holo Pokémon League Promo"
+      "description": "Reverse Holo Pokémon League Promo"
     },
     {
       "name": "Klinklang",
       "number": "73/114",
       "rarity": "",
       "id": "xy11-ac-73",
-      "Description": "Non Holo Gears of Fire Theme Deck Exclusive"
+      "description": "Non Holo Gears of Fire Theme Deck Exclusive"
     },
     {
       "name": "Xerneas",
       "number": "81/114",
       "rarity": "",
       "id": "xy11-ac-81",
-      "Description": "Reverse Holo Pokémon League Promo"
+      "description": "Reverse Holo Pokémon League Promo"
     },
     {
       "name": "Ninja Boy",
       "number": "103/114",
       "rarity": "",
       "id": "xy11-ac-103-1",
-      "Description": "Reverse Holo League Cup Promo"
+      "description": "Reverse Holo League Cup Promo"
     },
     {
       "name": "[staff]Ninja Boy",
       "number": "103/114",
       "rarity": "",
       "id": "xy11-ac-103-2",
-      "Description": "Staff Reverse Holo League Cup Promo"
+      "description": "Staff Reverse Holo League Cup Promo"
     },
     {
       "name": "Pokémon Ranger",
       "number": "104/114",
       "rarity": "",
       "id": "xy11-ac-104-1",
-      "Description": "Reverse Holo Regional Championships 2016 Promo"
+      "description": "Reverse Holo Regional Championships 2016 Promo"
     },
     {
       "name": "[staff]Pokémon Ranger",
       "number": "104/114",
       "rarity": "",
       "id": "xy11-ac-104-2",
-      "Description": "Staff Reverse Holo Regional Championships 2016 Promo"
+      "description": "Staff Reverse Holo Regional Championships 2016 Promo"
     }
   ],
   "misprints": []

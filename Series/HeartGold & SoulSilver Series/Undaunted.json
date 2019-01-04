@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -569,84 +569,84 @@
       "number": "1/90",
       "rarity": "",
       "id": "hgss3-ac-1",
-      "Description": "Non Holo Daybreak theme deck exclusive"
+      "description": "Non Holo Daybreak theme deck exclusive"
     },
     {
       "name": "Espeon",
       "number": "2/90",
       "rarity": "",
       "id": "hgss3-ac-2-1",
-      "Description": "Cracked Ice Holo Daybreak theme deck exclusive"
+      "description": "Cracked Ice Holo Daybreak theme deck exclusive"
     },
     {
       "name": "Espeon",
       "number": "2/90",
       "rarity": "",
       "id": "hgss3-ac-2-2",
-      "Description": "Non Holo Daybreak theme deck exclusive"
+      "description": "Non Holo Daybreak theme deck exclusive"
     },
     {
       "name": "Gliscor",
       "number": "4/90",
       "rarity": "",
       "id": "hgss3-ac-4",
-      "Description": "Cracked Ice Holo Stage 1 Blisters exclusive"
+      "description": "Cracked Ice Holo Stage 1 Blisters exclusive"
     },
     {
       "name": "Houndoom",
       "number": "5/90",
       "rarity": "",
       "id": "hgss3-ac-5",
-      "Description": "Crosshatch Holo Pokémon League Disc Catch Season (March 2011)"
+      "description": "Crosshatch Holo Pokémon League Disc Catch Season (March 2011)"
     },
     {
       "name": "Togekiss",
       "number": "9/90",
       "rarity": "",
       "id": "hgss3-ac-9",
-      "Description": "Non Holo Daybreak theme deck exclusive"
+      "description": "Non Holo Daybreak theme deck exclusive"
     },
     {
       "name": "Umbreon",
       "number": "10/90",
       "rarity": "",
       "id": "hgss3-ac-10-1",
-      "Description": "Cracked Ice Holo Nightfall theme deck exclusive"
+      "description": "Cracked Ice Holo Nightfall theme deck exclusive"
     },
     {
       "name": "Umbreon",
       "number": "10/90",
       "rarity": "",
       "id": "hgss3-ac-10-2",
-      "Description": "Non Holo Nightfall theme deck exclusive"
+      "description": "Non Holo Nightfall theme deck exclusive"
     },
     {
       "name": "Leafeon",
       "number": "17/90",
       "rarity": "",
       "id": "hgss3-ac-17-1",
-      "Description": "Undaunted stamp Prerelease promo"
+      "description": "Undaunted stamp Prerelease promo"
     },
     {
       "name": "Leafeon",
       "number": "17/90",
       "rarity": "",
       "id": "hgss3-ac-17-2",
-      "Description": "Staff Undaunted stamp Prerelease promo"
+      "description": "Staff Undaunted stamp Prerelease promo"
     },
     {
       "name": "Darkness Energy",
       "number": "79/90",
       "rarity": "",
       "id": "hgss3-ac-79",
-      "Description": "Crosshatch Holo Pokémon League Disc Catch Season (March 2011)"
+      "description": "Crosshatch Holo Pokémon League Disc Catch Season (March 2011)"
     },
     {
       "name": "Metal Energy",
       "number": "80/90",
       "rarity": "",
       "id": "hgss3-ac-80",
-      "Description": "Crosshatch Holo Pokémon League Block Smash Season (February 2011)"
+      "description": "Crosshatch Holo Pokémon League Block Smash Season (February 2011)"
     }
   ],
   "misprints": []

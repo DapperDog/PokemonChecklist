@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -789,147 +789,147 @@
       "number": "28/111",
       "rarity": "",
       "id": "sm4-ac-28",
-      "Description": "Reverse Holo Pokémon League Promo"
+      "description": "Reverse Holo Pokémon League Promo"
     },
     {
       "name": "Alolan Raichu",
       "number": "31/111",
       "rarity": "",
       "id": "sm4-ac-31",
-      "Description": "Non Holo Crimson Invasion Prerelease Kit and Clanging Thunder Theme Deck exclusive"
+      "description": "Non Holo Crimson Invasion Prerelease Kit and Clanging Thunder Theme Deck exclusive"
     },
     {
       "name": "Gengar",
       "number": "38/111",
       "rarity": "",
       "id": "sm4-ac-38",
-      "Description": "Non Holo Crimson Invasion Prerelease Kit exclusive"
+      "description": "Non Holo Crimson Invasion Prerelease Kit exclusive"
     },
     {
       "name": "Salazzle",
       "number": "47/111",
       "rarity": "",
       "id": "sm4-ac-47",
-      "Description": "Non Holo Destruction Fang Theme Deck exclusive"
+      "description": "Non Holo Destruction Fang Theme Deck exclusive"
     },
     {
       "name": "Regirock",
       "number": "53/111",
       "rarity": "",
       "id": "sm4-ac-53",
-      "Description": "Reverse Holo Pokémon League Promo"
+      "description": "Reverse Holo Pokémon League Promo"
     },
     {
       "name": "Bewear",
       "number": "56/111",
       "rarity": "",
       "id": "sm4-ac-56",
-      "Description": "Non Holo Crimson Invasion Prerelease Kit exclusive"
+      "description": "Non Holo Crimson Invasion Prerelease Kit exclusive"
     },
     {
       "name": "Hydreigon",
       "number": "62/111",
       "rarity": "",
       "id": "sm4-ac-62",
-      "Description": "Cracked Ice Holo Destruction Fang Theme Deck exclusive"
+      "description": "Cracked Ice Holo Destruction Fang Theme Deck exclusive"
     },
     {
       "name": "Guzzlord GX",
       "number": "63a/111",
       "rarity": "",
       "id": "sm4-ac-63a",
-      "Description": "Guzzlord GX Box Promo"
+      "description": "Guzzlord GX Box Promo"
     },
     {
       "name": "Registeel",
       "number": "68/111",
       "rarity": "",
       "id": "sm4-ac-68",
-      "Description": "Reverse Holo Pokémon League Promo"
+      "description": "Reverse Holo Pokémon League Promo"
     },
     {
       "name": "Jangmo-o",
       "number": "75/111",
       "rarity": "",
       "id": "sm4-ac-75-1",
-      "Description": "Cosmos Holo Toys \"R\" Us stamp exclusive"
+      "description": "Cosmos Holo Toys \"R\" Us stamp exclusive"
     },
     {
       "name": "Jangmo-o",
       "number": "75/111",
       "rarity": "",
       "id": "sm4-ac-75-2",
-      "Description": "EB Games stamped promo"
+      "description": "EB Games stamped promo"
     },
     {
       "name": "Kommo-o",
       "number": "77/111",
       "rarity": "",
       "id": "sm4-ac-77",
-      "Description": "Cracked Ice Holo Clanging Thunder Theme Deck exclusive"
+      "description": "Cracked Ice Holo Clanging Thunder Theme Deck exclusive"
     },
     {
       "name": "Regigigas",
       "number": "84/111",
       "rarity": "",
       "id": "sm4-ac-84-1",
-      "Description": "1st Place Reverse Holo Pokémon League League Challenge Promo"
+      "description": "1st Place Reverse Holo Pokémon League League Challenge Promo"
     },
     {
       "name": "Regigigas",
       "number": "84/111",
       "rarity": "",
       "id": "sm4-ac-84-2",
-      "Description": "2nd Place Reverse Holo Pokémon League League Challenge Promo"
+      "description": "2nd Place Reverse Holo Pokémon League League Challenge Promo"
     },
     {
       "name": "Regigigas",
       "number": "84/111",
       "rarity": "",
       "id": "sm4-ac-84-3",
-      "Description": "3rd Place Reverse Holo Pokémon League League Challenge Promo"
+      "description": "3rd Place Reverse Holo Pokémon League League Challenge Promo"
     },
     {
       "name": "Regigigas",
       "number": "84/111",
       "rarity": "",
       "id": "sm4-ac-84-4",
-      "Description": "4th Place Reverse Holo Pokémon League League Challenge Promo"
+      "description": "4th Place Reverse Holo Pokémon League League Challenge Promo"
     },
     {
       "name": "Type: Null",
       "number": "89/111",
       "rarity": "",
       "id": "sm4-ac-89",
-      "Description": "Non Holo Clanging Thunder Theme Deck exclusive"
+      "description": "Non Holo Clanging Thunder Theme Deck exclusive"
     },
     {
       "name": "Counter Catcher",
       "number": "91/111",
       "rarity": "",
       "id": "sm4-ac-91-1",
-      "Description": "Reverse Holo Pokémon League League Cup Promo"
+      "description": "Reverse Holo Pokémon League League Cup Promo"
     },
     {
       "name": "Counter Catcher",
       "number": "91/111",
       "rarity": "",
       "id": "sm4-ac-91-2",
-      "Description": "Reverse Holo Pokémon League League Cup Staff Promo"
+      "description": "Reverse Holo Pokémon League League Cup Staff Promo"
     },
     {
       "name": "Gladion",
       "number": "95/111",
       "rarity": "",
       "id": "sm4-ac-95-1",
-      "Description": "Region champ promo"
+      "description": "Region champ promo"
     },
     {
       "name": "Gladion",
       "number": "95/111",
       "rarity": "",
       "id": "sm4-ac-95-2",
-      "Description": "STAFF regional champ promo"
+      "description": "STAFF regional champ promo"
     }
   ],
   "misprints": []

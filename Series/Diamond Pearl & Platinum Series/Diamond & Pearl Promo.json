@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Have"
   ],
@@ -335,28 +335,28 @@
       "number": "DP16",
       "rarity": "Promo",
       "id": "dppromo-ac-16",
-      "Description": "Gold Snowflake Stamped Countdown calendar Exclusive"
+      "description": "Gold Snowflake Stamped Countdown calendar Exclusive"
     },
     {
       "name": "Darkrai (Non Holofoil)",
       "number": "DP24",
       "rarity": "Promo",
       "id": "dppromo-ac-24",
-      "Description": "non-holo"
+      "description": "non-holo"
     },
     {
       "name": "Dialga",
       "number": "DP26",
       "rarity": "Promo",
       "id": "dppromo-ac-26",
-      "Description": "cracked ice"
+      "description": "cracked ice"
     },
     {
       "name": "Palkia",
       "number": "DP27",
       "rarity": "Promo",
       "id": "dppromo-ac-27",
-      "Description": "cracked ice"
+      "description": "cracked ice"
     }
   ],
   "misprints": []

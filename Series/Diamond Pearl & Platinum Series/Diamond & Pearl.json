@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -803,238 +803,238 @@
       "number": "3/130",
       "rarity": "",
       "id": "dp1-ac-3-1",
-      "Description": "Regional Championships 2007-2008 promo"
+      "description": "Regional Championships 2007-2008 promo"
     },
     {
       "name": "Electivire",
       "number": "3/130",
       "rarity": "",
       "id": "dp1-ac-3-2",
-      "Description": "Staff Regional Championships 2007-2008 promo"
+      "description": "Staff Regional Championships 2007-2008 promo"
     },
     {
       "name": "Lucario",
       "number": "6/130",
       "rarity": "",
       "id": "dp1-ac-6",
-      "Description": "Reverse Holo Diamond & Pearl stamp Burger King Collection 2008"
+      "description": "Reverse Holo Diamond & Pearl stamp Burger King Collection 2008"
     },
     {
       "name": "Luxray",
       "number": "7/130",
       "rarity": "",
       "id": "dp1-ac-7-1",
-      "Description": "National Championships 2007-2008 promo"
+      "description": "National Championships 2007-2008 promo"
     },
     {
       "name": "Luxray",
       "number": "7/130",
       "rarity": "",
       "id": "dp1-ac-7-2",
-      "Description": "Staff National Championships 2007-2008 promo"
+      "description": "Staff National Championships 2007-2008 promo"
     },
     {
       "name": "Manaphy",
       "number": "9/130",
       "rarity": "",
       "id": "dp1-ac-9",
-      "Description": "Reverse Holo Diamond & Pearl stamp Burger King Collection 2008"
+      "description": "Reverse Holo Diamond & Pearl stamp Burger King Collection 2008"
     },
     {
       "name": "Pachirisu",
       "number": "35/130",
       "rarity": "",
       "id": "dp1-ac-35",
-      "Description": "Reverse Holo Diamond & Pearl stamp Burger King Collection 2008"
+      "description": "Reverse Holo Diamond & Pearl stamp Burger King Collection 2008"
     },
     {
       "name": "Grotle",
       "number": "49/130",
       "rarity": "",
       "id": "dp1-ac-49",
-      "Description": "Reverse Holo Diamond & Pearl stamp Burger King Collection 2008"
+      "description": "Reverse Holo Diamond & Pearl stamp Burger King Collection 2008"
     },
     {
       "name": "Luxio",
       "number": "52/130",
       "rarity": "",
       "id": "dp1-ac-52-1",
-      "Description": "Prerelease stamp Prerelease promo"
+      "description": "Prerelease stamp Prerelease promo"
     },
     {
       "name": "Luxio",
       "number": "52/130",
       "rarity": "",
       "id": "dp1-ac-52-2",
-      "Description": "Staff Prerelease stamp Prerelease promo"
+      "description": "Staff Prerelease stamp Prerelease promo"
     },
     {
       "name": "Luxio",
       "number": "52/130",
       "rarity": "",
       "id": "dp1-ac-52-3",
-      "Description": "State/Province/Territory Championships 2007-2008 promo"
+      "description": "State/Province/Territory Championships 2007-2008 promo"
     },
     {
       "name": "Luxio",
       "number": "52/130",
       "rarity": "",
       "id": "dp1-ac-52-4",
-      "Description": "Staff State/Province/Territory Championships 2007-2008 promo"
+      "description": "Staff State/Province/Territory Championships 2007-2008 promo"
     },
     {
       "name": "Monferno",
       "number": "56/130",
       "rarity": "",
       "id": "dp1-ac-56",
-      "Description": "Reverse Holo Diamond & Pearl stamp Burger King Collection 2008"
+      "description": "Reverse Holo Diamond & Pearl stamp Burger King Collection 2008"
     },
     {
       "name": "Prinplup",
       "number": "58/130",
       "rarity": "",
       "id": "dp1-ac-58",
-      "Description": "Reverse Holo Diamond & Pearl stamp Burger King Collection 2008"
+      "description": "Reverse Holo Diamond & Pearl stamp Burger King Collection 2008"
     },
     {
       "name": "Riolu",
       "number": "61/130",
       "rarity": "",
       "id": "dp1-ac-61",
-      "Description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
+      "description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
     },
     {
       "name": "Chimchar",
       "number": "76/130",
       "rarity": "",
       "id": "dp1-ac-76-1",
-      "Description": "Cosmos Holofoil North American 2007 Spring Collector's Tins/Special Edition Blisters/Classic Trio Boxes exclusive"
+      "description": "Cosmos Holofoil North American 2007 Spring Collector's Tins/Special Edition Blisters/Classic Trio Boxes exclusive"
     },
     {
       "name": "Chimchar",
       "number": "76/130",
       "rarity": "",
       "id": "dp1-ac-76-2",
-      "Description": "Italian Pokémon Day 2008 promo"
+      "description": "Italian Pokémon Day 2008 promo"
     },
     {
       "name": "Chimchar",
       "number": "76/130",
       "rarity": "",
       "id": "dp1-ac-76-3",
-      "Description": "Reverse Holo Diamond & Pearl stamp Burger King Collection 2008"
+      "description": "Reverse Holo Diamond & Pearl stamp Burger King Collection 2008"
     },
     {
       "name": "Glameow",
       "number": "83/130",
       "rarity": "",
       "id": "dp1-ac-83",
-      "Description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
+      "description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
     },
     {
       "name": "Piplup",
       "number": "93/130",
       "rarity": "",
       "id": "dp1-ac-93-1",
-      "Description": "Cosmos Holofoil North American 2007 Spring Collector's Tins/Special Edition Blisters/Classic Trio Boxes exclusive"
+      "description": "Cosmos Holofoil North American 2007 Spring Collector's Tins/Special Edition Blisters/Classic Trio Boxes exclusive"
     },
     {
       "name": "Piplup",
       "number": "93/130",
       "rarity": "",
       "id": "dp1-ac-93-2",
-      "Description": "San Diego 07 Pokémon USA annual distributor meeting promo"
+      "description": "San Diego 07 Pokémon USA annual distributor meeting promo"
     },
     {
       "name": "Piplup",
       "number": "93/130",
       "rarity": "",
       "id": "dp1-ac-93-3",
-      "Description": "Italian Pokémon Day 2008 promo"
+      "description": "Italian Pokémon Day 2008 promo"
     },
     {
       "name": "Piplup",
       "number": "93/130",
       "rarity": "",
       "id": "dp1-ac-93-4",
-      "Description": "Reverse Holo Diamond & Pearl stamp Burger King Collection 2008"
+      "description": "Reverse Holo Diamond & Pearl stamp Burger King Collection 2008"
     },
     {
       "name": "Shinx",
       "number": "98/130",
       "rarity": "",
       "id": "dp1-ac-98-1",
-      "Description": "City Championships 2007-2008 promo"
+      "description": "City Championships 2007-2008 promo"
     },
     {
       "name": "Shinx",
       "number": "98/130",
       "rarity": "",
       "id": "dp1-ac-98-2",
-      "Description": "Staff City Championships 2007-2008 promo"
+      "description": "Staff City Championships 2007-2008 promo"
     },
     {
       "name": "Shinx",
       "number": "98/130",
       "rarity": "",
       "id": "dp1-ac-98-3",
-      "Description": "Reverse Holo Diamond & Pearl stamp Burger King Collection 2008"
+      "description": "Reverse Holo Diamond & Pearl stamp Burger King Collection 2008"
     },
     {
       "name": "Skorupi",
       "number": "99/130",
       "rarity": "",
       "id": "dp1-ac-99",
-      "Description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
+      "description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
     },
     {
       "name": "Stunky",
       "number": "102/130",
       "rarity": "",
       "id": "dp1-ac-102",
-      "Description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
+      "description": "Gold snowflake stamp Pokémon Countdown Calendar exclusive"
     },
     {
       "name": "Turtwig",
       "number": "103/130",
       "rarity": "",
       "id": "dp1-ac-103-1",
-      "Description": "Cosmos Holofoil North American 2007 Spring Collector's Tins/Special Edition Blisters/Classic Trio Boxes exclusive"
+      "description": "Cosmos Holofoil North American 2007 Spring Collector's Tins/Special Edition Blisters/Classic Trio Boxes exclusive"
     },
     {
       "name": "Turtwig",
       "number": "103/130",
       "rarity": "",
       "id": "dp1-ac-103-2",
-      "Description": "New York 08 Pokémon USA annual distributor meeting promo"
+      "description": "New York 08 Pokémon USA annual distributor meeting promo"
     },
     {
       "name": "Turtwig",
       "number": "103/130",
       "rarity": "",
       "id": "dp1-ac-103-3",
-      "Description": "Italian Pokémon Day 2008 promo"
+      "description": "Italian Pokémon Day 2008 promo"
     },
     {
       "name": "Turtwig",
       "number": "103/130",
       "rarity": "",
       "id": "dp1-ac-103-4",
-      "Description": "Reverse Holo Diamond & Pearl stamp Burger King Collection 2008"
+      "description": "Reverse Holo Diamond & Pearl stamp Burger King Collection 2008"
     },
     {
       "name": "Professor Rowan",
       "number": "112/130",
       "rarity": "",
       "id": "dp1-ac-112-1",
-      "Description": "Professor Program 2007-2008 promo"
+      "description": "Professor Program 2007-2008 promo"
     },
     {
       "name": "Professor Rowan",
       "number": "112/130",
       "rarity": "",
       "id": "dp1-ac-112-2",
-      "Description": "Cosmos Holofoil Diamond & Pearl Collection exclusive"
+      "description": "Cosmos Holofoil Diamond & Pearl Collection exclusive"
     }
   ],
   "misprints": []

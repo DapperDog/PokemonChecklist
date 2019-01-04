@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -666,105 +666,105 @@
       "number": "1/106",
       "rarity": "",
       "id": "ex9-ac-1",
-      "Description": "Wildfire Theme deck exclusive"
+      "description": "Wildfire Theme deck exclusive"
     },
     {
       "name": "Exploud",
       "number": "3/106",
       "rarity": "",
       "id": "ex9-ac-3-1",
-      "Description": "National championships promo"
+      "description": "National championships promo"
     },
     {
       "name": "Exploud",
       "number": "3/106",
       "rarity": "",
       "id": "ex9-ac-2",
-      "Description": "Staff National Championships Promo"
+      "description": "Staff National Championships Promo"
     },
     {
       "name": "Manectric",
       "number": "7/106",
       "rarity": "",
       "id": "ex9-ac-7",
-      "Description": "Wildfire Theme deck exclusive"
+      "description": "Wildfire Theme deck exclusive"
     },
     {
       "name": "Sceptile",
       "number": "10/106",
       "rarity": "",
       "id": "ex9-ac-10",
-      "Description": "Hydro Bloom theme Deck Exclusive"
+      "description": "Hydro Bloom theme Deck Exclusive"
     },
     {
       "name": "Swampert",
       "number": "11/106",
       "rarity": "",
       "id": "ex9-ac-11",
-      "Description": "Feraligatr EX Epic Collection Deck Exclusive"
+      "description": "Feraligatr EX Epic Collection Deck Exclusive"
     },
     {
       "name": "Loudred",
       "number": "35/106",
       "rarity": "",
       "id": "ex9-ac-35-1",
-      "Description": "State Championships Promo"
+      "description": "State Championships Promo"
     },
     {
       "name": "Loudred",
       "number": "35/106",
       "rarity": "",
       "id": "ex9-ac-35-2",
-      "Description": "Regional Championships Promo"
+      "description": "Regional Championships Promo"
     },
     {
       "name": "Mudkip",
       "number": "56/106",
       "rarity": "",
       "id": "ex9-ac-56",
-      "Description": "Wizard World Philadelphia Stamped Promo"
+      "description": "Wizard World Philadelphia Stamped Promo"
     },
     {
       "name": "Pichu",
       "number": "59/106",
       "rarity": "",
       "id": "ex9-ac-59",
-      "Description": "Nintendo World May 2005 Stamped Promo"
+      "description": "Nintendo World May 2005 Stamped Promo"
     },
     {
       "name": "Pikachu",
       "number": "60/106",
       "rarity": "",
       "id": "ex9-ac-60",
-      "Description": "San Diego Comic Con International Stamped Promo"
+      "description": "San Diego Comic Con International Stamped Promo"
     },
     {
       "name": "torchic",
       "number": "69/106",
       "rarity": "",
       "id": "ex9-ac-69",
-      "Description": "Wizard World Chicago Stamped Promo"
+      "description": "Wizard World Chicago Stamped Promo"
     },
     {
       "name": "Treecko",
       "number": "70/106",
       "rarity": "",
       "id": "ex9-ac-70",
-      "Description": "Indianapolis GenCon Stamped Promo"
+      "description": "Indianapolis GenCon Stamped Promo"
     },
     {
       "name": "Whismur",
       "number": "73/106",
       "rarity": "",
       "id": "ex9-ac-73",
-      "Description": "City Championships Promo"
+      "description": "City Championships Promo"
     },
     {
       "name": "Professor Birch",
       "number": "82/106",
       "rarity": "",
       "id": "ex9-ac-82",
-      "Description": "Professor Program 2005-2006 Stamped Promo"
+      "description": "Professor Program 2005-2006 Stamped Promo"
     }
   ],
   "misprints": []

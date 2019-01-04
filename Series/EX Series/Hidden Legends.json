@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -634,42 +634,42 @@
       "number": "9/101",
       "rarity": "",
       "id": "ex5-ac-9-1",
-      "Description": "National Championships Promo"
+      "description": "National Championships Promo"
     },
     {
       "name": "Machamp",
       "number": "9/101",
       "rarity": "",
       "id": "ex5-ac-9-2",
-      "Description": "Staff National Championships Promo"
+      "description": "Staff National Championships Promo"
     },
     {
       "name": "Metagross",
       "number": "11/101",
       "rarity": "",
       "id": "ex5-ac-11",
-      "Description": "Wishmaker theme deck exclusive"
+      "description": "Wishmaker theme deck exclusive"
     },
     {
       "name": "Beldum",
       "number": "29/101",
       "rarity": "",
       "id": "ex5-ac-29",
-      "Description": "Gym Challenge Promo"
+      "description": "Gym Challenge Promo"
     },
     {
       "name": "Machoke",
       "number": "41/101",
       "rarity": "",
       "id": "ex5-ac-41",
-      "Description": "State Championships Promo"
+      "description": "State Championships Promo"
     },
     {
       "name": "Machop",
       "number": "64/101",
       "rarity": "",
       "id": "ex5-ac-64",
-      "Description": "City Championships Promo"
+      "description": "City Championships Promo"
     }
   ],
   "misprints": []

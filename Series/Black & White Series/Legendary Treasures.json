@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -891,98 +891,98 @@
       "number": "17/113",
       "rarity": "",
       "id": "bw11-ac-17",
-      "Description": "Build-A-Bear Workshop stamp promo"
+      "description": "Build-A-Bear Workshop stamp promo"
     },
     {
       "name": "Charizard",
       "number": "19/113",
       "rarity": "",
       "id": "bw11-ac-19",
-      "Description": "Cosmos Holo Mega Charizard Collection/Mega Charizard Box exclusive"
+      "description": "Cosmos Holo Mega Charizard Collection/Mega Charizard Box exclusive"
     },
     {
       "name": "Victini",
       "number": "23/113",
       "rarity": "",
       "id": "bw11-ac-23",
-      "Description": "Non Holo Battle Arena Decks: Rayquaza vs Keldeo excluisve"
+      "description": "Non Holo Battle Arena Decks: Rayquaza vs Keldeo excluisve"
     },
     {
       "name": "Kyurem",
       "number": "43/113",
       "rarity": "",
       "id": "bw11-ac-43",
-      "Description": "Non Holo Battle Arena Decks: Black Kyurem vs White Kyurem exclusive"
+      "description": "Non Holo Battle Arena Decks: Black Kyurem vs White Kyurem exclusive"
     },
     {
       "name": "Zapdos",
       "number": "46/113",
       "rarity": "",
       "id": "bw11-ac-46",
-      "Description": "Non Holo Battle Arena Decks: Rayquaza vs Keldeo exclusive"
+      "description": "Non Holo Battle Arena Decks: Rayquaza vs Keldeo exclusive"
     },
     {
       "name": "Thundurus",
       "number": "50/113",
       "rarity": "",
       "id": "bw11-ac-50",
-      "Description": "Non Holo Battle Arena Decks: Black Kyurem vs White Kyurem exclusive"
+      "description": "Non Holo Battle Arena Decks: Black Kyurem vs White Kyurem exclusive"
     },
     {
       "name": "Lucario",
       "number": "80/113",
       "rarity": "",
       "id": "bw11-ac-80",
-      "Description": "Cosmos Holo Mega Lucario Collection exclusive"
+      "description": "Cosmos Holo Mega Lucario Collection exclusive"
     },
     {
       "name": "Zoroark",
       "number": "90/113",
       "rarity": "",
       "id": "bw11-ac-90-1",
-      "Description": "Cosmos Holo Furious Fists Single Pack Blisters exclusive"
+      "description": "Cosmos Holo Furious Fists Single Pack Blisters exclusive"
     },
     {
       "name": "Zoroark",
       "number": "90/113",
       "rarity": "",
       "id": "bw11-ac-90-2",
-      "Description": "Non Holo Battle Arena Decks: Mewtwo vs Darkrai exclusive"
+      "description": "Non Holo Battle Arena Decks: Mewtwo vs Darkrai exclusive"
     },
     {
       "name": "Deino",
       "number": "97/113",
       "rarity": "",
       "id": "bw11-ac-97-1",
-      "Description": "1st Place Crosshatch Holo Pokémon League Yveltal/Chesnaught Season League Challenge promo"
+      "description": "1st Place Crosshatch Holo Pokémon League Yveltal/Chesnaught Season League Challenge promo"
     },
     {
       "name": "Deino",
       "number": "97/113",
       "rarity": "",
       "id": "bw11-ac-97-2",
-      "Description": "2nd Place Crosshatch Holo Pokémon League Yveltal/Chesnaught Season League Challenge promo"
+      "description": "2nd Place Crosshatch Holo Pokémon League Yveltal/Chesnaught Season League Challenge promo"
     },
     {
       "name": "Deino",
       "number": "97/113",
       "rarity": "",
       "id": "bw11-ac-97-3",
-      "Description": "3rd Place Crosshatch Holo Pokémon League Yveltal/Chesnaught Season League Challenge promo"
+      "description": "3rd Place Crosshatch Holo Pokémon League Yveltal/Chesnaught Season League Challenge promo"
     },
     {
       "name": "Deino",
       "number": "97/113",
       "rarity": "",
       "id": "bw11-ac-97-4",
-      "Description": "4th Place Crosshatch Holo Pokémon League Yveltal/Chesnaught Season League Challenge promo"
+      "description": "4th Place Crosshatch Holo Pokémon League Yveltal/Chesnaught Season League Challenge promo"
     },
     {
       "name": "Bianca",
       "number": "109/113",
       "rarity": "",
       "id": "bw11-ac-109",
-      "Description": "Mirror Holo Pokémon League Froakie Season (January 2014)"
+      "description": "Mirror Holo Pokémon League Froakie Season (January 2014)"
     }
   ],
   "misprints": []

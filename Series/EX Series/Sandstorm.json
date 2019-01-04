@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -619,98 +619,98 @@
       "number": "16/100",
       "rarity": "",
       "id": "ex2-ac-16",
-      "Description": "EX Battle Stadium/ Master Trainer Deck Exclusive"
+      "description": "EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Quilava",
       "number": "51/100",
       "rarity": "",
       "id": "ex2-ac-51",
-      "Description": "EX Battle Stadium/ Master Trainer Deck Exclusive"
+      "description": "EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Xatu",
       "number": "55/100",
       "rarity": "",
       "id": "ex2-ac-55",
-      "Description": "EX Battle Stadium/ Master Trainer Deck Exclusive"
+      "description": "EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Dunsparce",
       "number": "60/100",
       "rarity": "",
       "id": "ex2-ac-60",
-      "Description": "EX Battle Stadium/ Master Trainer Deck Exclusive"
+      "description": "EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Eevee",
       "number": "63/100",
       "rarity": "",
       "id": "ex2-ac-63",
-      "Description": "EX Battle Stadium/ Master Trainer Deck Exclusive"
+      "description": "EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Natu",
       "number": "69/100",
       "rarity": "",
       "id": "ex2-ac-69",
-      "Description": "EX Battle Stadium/ Master Trainer Deck Exclusive"
+      "description": "EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Onix",
       "number": "71/100",
       "rarity": "",
       "id": "ex2-ac-71",
-      "Description": "EX Battle Stadium/ Master Trainer Deck Exclusive"
+      "description": "EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Ralts",
       "number": "74/100",
       "rarity": "",
       "id": "ex2-ac-74",
-      "Description": "EX Battle Stadium/ Master Trainer Deck Exclusive"
+      "description": "EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Shroomish",
       "number": "78/100",
       "rarity": "",
       "id": "ex2-ac-78",
-      "Description": "EX Battle Stadium/ Master Trainer Deck Exclusive"
+      "description": "EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Double Full Heal",
       "number": "86/100",
       "rarity": "",
       "id": "ex2-ac-86",
-      "Description": "EX Battle Stadium/ Master Trainer Deck Exclusive"
+      "description": "EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Wallys training",
       "number": "89/100",
       "rarity": "",
       "id": "ex2-ac-89",
-      "Description": "EX Battle Stadium/ Master Trainer Deck Exclusive"
+      "description": "EX Battle Stadium/ Master Trainer Deck Exclusive"
     },
     {
       "name": "Multi Energy",
       "number": "93/100",
       "rarity": "",
       "id": "ex2-ac-93-1",
-      "Description": "League Promo"
+      "description": "League Promo"
     },
     {
       "name": "Multi Energy",
       "number": "93/100",
       "rarity": "",
       "id": "ex2-ac-93-2",
-      "Description": "Winner Stamped League Promo"
+      "description": "Winner Stamped League Promo"
     },
     {
       "name": "Multi Energy",
       "number": "93/100",
       "rarity": "",
       "id": "ex2-ac-93-3",
-      "Description": "Non holo Winner Stamped League Promo"
+      "description": "Non holo Winner Stamped League Promo"
     }
   ],
   "misprints": []

@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -624,126 +624,126 @@
       "number": "15/97",
       "rarity": "",
       "id": "ex3-ac-15-1",
-      "Description": "League Promo"
+      "description": "League Promo"
     },
     {
       "name": "Flygon",
       "number": "15/97",
       "rarity": "",
       "id": "ex3-ac-15-2",
-      "Description": "Winner Stamped League Promo"
+      "description": "Winner Stamped League Promo"
     },
     {
       "name": "Salamence",
       "number": "19/97",
       "rarity": "",
       "id": "ex3-ac-19-1",
-      "Description": "League Promo"
+      "description": "League Promo"
     },
     {
       "name": "Salamence",
       "number": "19/97",
       "rarity": "",
       "id": "ex3-ac-19-2",
-      "Description": "Winner Stamped League Promo"
+      "description": "Winner Stamped League Promo"
     },
     {
       "name": "Camerupt",
       "number": "24/97",
       "rarity": "",
       "id": "ex3-ac-24",
-      "Description": "EX Battle Stadium / Master Trainer Deck Exclusive"
+      "description": "EX Battle Stadium / Master Trainer Deck Exclusive"
     },
     {
       "name": "Cmbusken",
       "number": "25/97",
       "rarity": "",
       "id": "ex3-ac-25",
-      "Description": "EX Battle Stadium / Master Trainer Deck Exclusive"
+      "description": "EX Battle Stadium / Master Trainer Deck Exclusive"
     },
     {
       "name": "Seadra",
       "number": "29/97",
       "rarity": "",
       "id": "ex3-ac-29",
-      "Description": "EX Battle Stadium / Master Trainer Deck Exclusive"
+      "description": "EX Battle Stadium / Master Trainer Deck Exclusive"
     },
     {
       "name": "Bagon",
       "number": "50/97",
       "rarity": "",
       "id": "ex3-ac-50-1",
-      "Description": "Scrye Magazine Promo"
+      "description": "Scrye Magazine Promo"
     },
     {
       "name": "Bagon",
       "number": "50/97",
       "rarity": "",
       "id": "ex3-ac-50-2",
-      "Description": "Gencon Magazine Promo"
+      "description": "Gencon Magazine Promo"
     },
     {
       "name": "Bagon",
       "number": "50/97",
       "rarity": "",
       "id": "ex3-ac-50-3",
-      "Description": "Inquest Magazine Promo"
+      "description": "Inquest Magazine Promo"
     },
     {
       "name": "Bagon",
       "number": "50/97",
       "rarity": "",
       "id": "ex3-ac-50-5",
-      "Description": "Black Star"
+      "description": "Black Star"
     },
     {
       "name": "Horsea",
       "number": "58/97",
       "rarity": "",
       "id": "ex3-ac-58",
-      "Description": "EX Battle Stadium / Master Trainer Deck Exclusive"
+      "description": "EX Battle Stadium / Master Trainer Deck Exclusive"
     },
     {
       "name": "Numel",
       "number": "69/97",
       "rarity": "",
       "id": "ex3-ac-69",
-      "Description": "EX Battle Stadium / Master Trainer Deck Exclusive"
+      "description": "EX Battle Stadium / Master Trainer Deck Exclusive"
     },
     {
       "name": "High Pressure System",
       "number": "85/97",
       "rarity": "",
       "id": "ex3-ac-85",
-      "Description": "EX Battle Stadium / Master Trainer Deck Exclusive"
+      "description": "EX Battle Stadium / Master Trainer Deck Exclusive"
     },
     {
       "name": "Tv Reporter",
       "number": "88/97",
       "rarity": "",
       "id": "ex3-ac-88",
-      "Description": "EX Battle Stadium / Master Trainer Deck Exclusive"
+      "description": "EX Battle Stadium / Master Trainer Deck Exclusive"
     },
     {
       "name": "Charmander",
       "number": "98/97",
       "rarity": "",
       "id": "ex3-ac-98",
-      "Description": "City Championships Promo"
+      "description": "City Championships Promo"
     },
     {
       "name": "Charmeleon",
       "number": "99/97",
       "rarity": "",
       "id": "ex3-ac-99",
-      "Description": "State Championships Promo"
+      "description": "State Championships Promo"
     },
     {
       "name": "Charizard",
       "number": "100/97",
       "rarity": "",
       "id": "ex3-ac-100",
-      "Description": "Regional Championships Promo"
+      "description": "Regional Championships Promo"
     }
   ],
   "misprints": []

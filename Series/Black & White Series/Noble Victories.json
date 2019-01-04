@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -630,161 +630,161 @@
       "number": "3/101",
       "rarity": "",
       "id": "bw3-ac-3",
-      "Description": "Non Holo Fast Daze theme deck exclusive"
+      "description": "Non Holo Fast Daze theme deck exclusive"
     },
     {
       "name": "Karrablast",
       "number": "8/101",
       "rarity": "",
       "id": "bw3-ac-8-1",
-      "Description": "Crosshatch Holo City Championships 2011-2012 promo"
+      "description": "Crosshatch Holo City Championships 2011-2012 promo"
     },
     {
       "name": "Karrablast",
       "number": "8/101",
       "rarity": "",
       "id": "bw3-ac-8-2",
-      "Description": "Staff Crosshatch Holo City Championships 2011-2012 promo"
+      "description": "Staff Crosshatch Holo City Championships 2011-2012 promo"
     },
     {
       "name": "Shelmet",
       "number": "11/101",
       "rarity": "",
       "id": "bw3-ac-11-1",
-      "Description": "Crosshatch Holo Regional Championships 2011-2012 promo"
+      "description": "Crosshatch Holo Regional Championships 2011-2012 promo"
     },
     {
       "name": "Shelmet",
       "number": "11/101",
       "rarity": "",
       "id": "bw3-ac-11-2",
-      "Description": "Staff Crosshatch Holo Regional Championships 2011-2012 promo"
+      "description": "Staff Crosshatch Holo Regional Championships 2011-2012 promo"
     },
     {
       "name": "Accelgor",
       "number": "12/101",
       "rarity": "",
       "id": "bw3-ac-12-1",
-      "Description": "Cracked Ice Holo Fast Daze theme deck exclusive"
+      "description": "Cracked Ice Holo Fast Daze theme deck exclusive"
     },
     {
       "name": "Accelgor",
       "number": "12/101",
       "rarity": "",
       "id": "bw3-ac-12-2",
-      "Description": "Crosshatch Holo State/Province/Territory Championships 2011-2012 promo"
+      "description": "Crosshatch Holo State/Province/Territory Championships 2011-2012 promo"
     },
     {
       "name": "Accelgor",
       "number": "12/101",
       "rarity": "",
       "id": "bw3-ac-12-3",
-      "Description": "Staff Crosshatch State/Province/Territory Championships 2011-2012 promo"
+      "description": "Staff Crosshatch State/Province/Territory Championships 2011-2012 promo"
     },
     {
       "name": "Virizion",
       "number": "13/101",
       "rarity": "",
       "id": "bw3-ac-13",
-      "Description": "Cosmos Holo Black & White Two Pack Blister exclusive"
+      "description": "Cosmos Holo Black & White Two Pack Blister exclusive"
     },
     {
       "name": "Victini",
       "number": "15/101",
       "rarity": "",
       "id": "bw3-ac-15",
-      "Description": "Non Holo Battle Arena Decks: Rayquaza vs Keldeo exclusive"
+      "description": "Non Holo Battle Arena Decks: Rayquaza vs Keldeo exclusive"
     },
     {
       "name": "Cryogonal",
       "number": "32/101",
       "rarity": "",
       "id": "bw3-ac-32",
-      "Description": "Crosshatch Holo Pokémon League Freeze Season (June 2012)"
+      "description": "Crosshatch Holo Pokémon League Freeze Season (June 2012)"
     },
     {
       "name": "Kyurem",
       "number": "34/101",
       "rarity": "",
       "id": "bw3-ac-34",
-      "Description": "Cosmos Holo Legendary Dragons of Unova Collection exclusive"
+      "description": "Cosmos Holo Legendary Dragons of Unova Collection exclusive"
     },
     {
       "name": "Eelektross",
       "number": "41/101",
       "rarity": "",
       "id": "bw3-ac-41",
-      "Description": "Non Holo Furious Knights theme deck exclusive"
+      "description": "Non Holo Furious Knights theme deck exclusive"
     },
     {
       "name": "Victini",
       "number": "43/101",
       "rarity": "",
       "id": "bw3-ac-43-1",
-      "Description": "Noble Victories stamp Prerelease promo"
+      "description": "Noble Victories stamp Prerelease promo"
     },
     {
       "name": "Victini",
       "number": "43/101",
       "rarity": "",
       "id": "bw3-ac-43-2",
-      "Description": "Staff Noble Victories stamp Prerelease promo"
+      "description": "Staff Noble Victories stamp Prerelease promo"
     },
     {
       "name": "Terrakion",
       "number": "73/101",
       "rarity": "",
       "id": "bw3-ac-73",
-      "Description": "Cosmos Holo Black & White Two Pack Blister exclusive"
+      "description": "Cosmos Holo Black & White Two Pack Blister exclusive"
     },
     {
       "name": "Escavalier",
       "number": "80/101",
       "rarity": "",
       "id": "bw3-ac-80-1",
-      "Description": "Cracked Ice Holo Furious Knights theme deck exclusive"
+      "description": "Cracked Ice Holo Furious Knights theme deck exclusive"
     },
     {
       "name": "Escavalier",
       "number": "80/101",
       "rarity": "",
       "id": "bw3-ac-80-2",
-      "Description": "Crosshatch Holo National Championships 2011-2012 promo"
+      "description": "Crosshatch Holo National Championships 2011-2012 promo"
     },
     {
       "name": "Escavalier",
       "number": "80/101",
       "rarity": "",
       "id": "bw3-ac-80-3",
-      "Description": "Staff Crosshatch Holo National Championships 2011-2012 promo"
+      "description": "Staff Crosshatch Holo National Championships 2011-2012 promo"
     },
     {
       "name": "Cobalion",
       "number": "84/101",
       "rarity": "",
       "id": "bw3-ac-84-1",
-      "Description": "Cosmos Holo Black & White Two Pack Blister exclusive"
+      "description": "Cosmos Holo Black & White Two Pack Blister exclusive"
     },
     {
       "name": "Cobalion",
       "number": "84/101",
       "rarity": "",
       "id": "bw3-ac-84-2",
-      "Description": "Non Holo Ho-Oh Legendary Battle Deck exclusive"
+      "description": "Non Holo Ho-Oh Legendary Battle Deck exclusive"
     },
     {
       "name": "Fraxure",
       "number": "87/101",
       "rarity": "",
       "id": "bw3-ac-87",
-      "Description": "Crosshatch Holo Pokémon League Legend Season (July 2012)"
+      "description": "Crosshatch Holo Pokémon League Legend Season (July 2012)"
     },
     {
       "name": "Eviolite",
       "number": "91/101",
       "rarity": "",
       "id": "bw3-ac-91",
-      "Description": "Crosshatch Holo 2012 Player Rewards (Tier 2)"
+      "description": "Crosshatch Holo 2012 Player Rewards (Tier 2)"
     }
   ],
   "misprints": []

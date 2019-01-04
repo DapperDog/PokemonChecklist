@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -646,126 +646,126 @@
       "number": "4/98",
       "rarity": "",
       "id": "xy7-ac-4",
-      "Description": "Cosmos Holo Legacy Evolution Pin Collection exclusive"
+      "description": "Cosmos Holo Legacy Evolution Pin Collection exclusive"
     },
     {
       "name": "Virizion",
       "number": "12/98",
       "rarity": "",
       "id": "xy7-ac-12",
-      "Description": "Non Holo Stone Heart Theme Deck exclusive"
+      "description": "Non Holo Stone Heart Theme Deck exclusive"
     },
     {
       "name": "Flareon",
       "number": "13/98",
       "rarity": "",
       "id": "xy7-ac-13",
-      "Description": "Cosmos Holo Triple Effect Tins exclusive"
+      "description": "Cosmos Holo Triple Effect Tins exclusive"
     },
     {
       "name": "Entei",
       "number": "14/98",
       "rarity": "",
       "id": "xy7-ac-14",
-      "Description": "Cosmos Holo Legendary Beast 3 pack blister exclusive"
+      "description": "Cosmos Holo Legendary Beast 3 pack blister exclusive"
     },
     {
       "name": "Gyarados",
       "number": "20/98",
       "rarity": "",
       "id": "xy7-ac-20",
-      "Description": "Cosmos Holo Champions Tin exclusive"
+      "description": "Cosmos Holo Champions Tin exclusive"
     },
     {
       "name": "Gyarados",
       "number": "21/98",
       "rarity": "",
       "id": "xy7-ac-21-1",
-      "Description": "Cosmos Holo Mega Gyarados Collection exclusive"
+      "description": "Cosmos Holo Mega Gyarados Collection exclusive"
     },
     {
       "name": "Gyarados",
       "number": "21/98",
       "rarity": "",
       "id": "xy7-ac-21-2",
-      "Description": "Non Holo Iron Tide Theme Deck exclusive"
+      "description": "Non Holo Iron Tide Theme Deck exclusive"
     },
     {
       "name": "Vaporeon",
       "number": "22/98",
       "rarity": "",
       "id": "xy7-ac-22",
-      "Description": "Cosmos Holo Triple Effect Tins exclusive"
+      "description": "Cosmos Holo Triple Effect Tins exclusive"
     },
     {
       "name": "Jolteon",
       "number": "26/98",
       "rarity": "",
       "id": "xy7-ac-26",
-      "Description": "Cosmos Holo Triple Effect Tins exclusive"
+      "description": "Cosmos Holo Triple Effect Tins exclusive"
     },
     {
       "name": "Regirock",
       "number": "40/98",
       "rarity": "",
       "id": "xy7-ac-40",
-      "Description": "Cracked Ice Holo Stone Heart Theme Deck exclusive"
+      "description": "Cracked Ice Holo Stone Heart Theme Deck exclusive"
     },
     {
       "name": "Metagross",
       "number": "49/98",
       "rarity": "",
       "id": "xy7-ac-49",
-      "Description": "Cracked Ice Holo Iron Tide Theme Deck exclusive"
+      "description": "Cracked Ice Holo Iron Tide Theme Deck exclusive"
     },
     {
       "name": "Eevee",
       "number": "63/98",
       "rarity": "",
       "id": "xy7-ac-63",
-      "Description": "Build-A-Bear Workshop stamp promo"
+      "description": "Build-A-Bear Workshop stamp promo"
     },
     {
       "name": "Lugia",
       "number": "68/98",
       "rarity": "",
       "id": "xy7-ac-68",
-      "Description": "Sheen Holo Lugia Legendary Battle Deck exclusive"
+      "description": "Sheen Holo Lugia Legendary Battle Deck exclusive"
     },
     {
       "name": "Ace Trainer",
       "number": "69/98",
       "rarity": "",
       "id": "xy7-ac-69-1",
-      "Description": "Mirror Holo Autumn Regional Championships 2015-2016 promo"
+      "description": "Mirror Holo Autumn Regional Championships 2015-2016 promo"
     },
     {
       "name": "Ace Trainer",
       "number": "69/98",
       "rarity": "",
       "id": "xy7-ac-69-2",
-      "Description": "Staff Mirror Holo Autumn Regional Championships 2015-2016 promo"
+      "description": "Staff Mirror Holo Autumn Regional Championships 2015-2016 promo"
     },
     {
       "name": "Ace Trainer",
       "number": "69/98",
       "rarity": "",
       "id": "xy7-ac-69-3",
-      "Description": "Mirror Holo International Challenge 2015-2016 promo"
+      "description": "Mirror Holo International Challenge 2015-2016 promo"
     },
     {
       "name": "Ace Trainer",
       "number": "69/98",
       "rarity": "",
       "id": "xy7-ac-69-4",
-      "Description": "Staff Mirror Holo International Challenge 2015-2016 promo"
+      "description": "Staff Mirror Holo International Challenge 2015-2016 promo"
     },
     {
       "name": "Hex Maniac",
       "number": "75a/98",
       "rarity": "",
       "id": "xy7-ac-75a",
-      "Description": "Yellow A Alternate art Premium Trainer's XY Collection exclusive"
+      "description": "Yellow A Alternate art Premium Trainer's XY Collection exclusive"
     }
   ],
   "misprints": []

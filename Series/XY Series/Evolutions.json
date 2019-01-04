@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -716,273 +716,273 @@
       "number": "9/108",
       "rarity": "",
       "id": "xy12-ac-9",
-      "Description": "Cosmos Holo Toys R Us stamp exclusive (October 30, 2016)"
+      "description": "Cosmos Holo Toys R Us stamp exclusive (October 30, 2016)"
     },
     {
       "name": "Charizard",
       "number": "11/108",
       "rarity": "",
       "id": "xy12-ac-11-1",
-      "Description": "Evolutions stamp Prerelease promo"
+      "description": "Evolutions stamp Prerelease promo"
     },
     {
       "name": "Charizard",
       "number": "11/108",
       "rarity": "",
       "id": "xy12-ac-11-2",
-      "Description": "Staff Evolutions stamp Prerelease promo"
+      "description": "Staff Evolutions stamp Prerelease promo"
     },
     {
       "name": "Ninetales",
       "number": "15/108",
       "rarity": "",
       "id": "xy12-ac-15",
-      "Description": "Non Holo Evolutions Prerelease Kit exclusive"
+      "description": "Non Holo Evolutions Prerelease Kit exclusive"
     },
     {
       "name": "Poliwrath",
       "number": "25/108",
       "rarity": "",
       "id": "xy12-ac-25",
-      "Description": "Non Holo Evolutions Prerelease Kit exclusive"
+      "description": "Non Holo Evolutions Prerelease Kit exclusive"
     },
     {
       "name": "Gyarados",
       "number": "34/108",
       "rarity": "",
       "id": "xy12-ac-34-1",
-      "Description": "Evolutions stamp Prerelease promo"
+      "description": "Evolutions stamp Prerelease promo"
     },
     {
       "name": "Gyarados",
       "number": "34/108",
       "rarity": "",
       "id": "xy12-ac-34-2",
-      "Description": "Staff Evolutions stamp Prerelease promo"
+      "description": "Staff Evolutions stamp Prerelease promo"
     },
     {
       "name": "Pikachu",
       "number": "35/108",
       "rarity": "",
       "id": "xy12-ac-35",
-      "Description": "Cracked Ice Holo Pikachu Power Theme Deck exclusive"
+      "description": "Cracked Ice Holo Pikachu Power Theme Deck exclusive"
     },
     {
       "name": "Raichu",
       "number": "36/108",
       "rarity": "",
       "id": "xy12-ac-36",
-      "Description": "Non Holo Pikachu Power Theme Deck exclusive"
+      "description": "Non Holo Pikachu Power Theme Deck exclusive"
     },
     {
       "name": "Magneton",
       "number": "38/108",
       "rarity": "",
       "id": "xy12-ac-38",
-      "Description": "Non Holo Pikachu Power Theme Deck exclusive"
+      "description": "Non Holo Pikachu Power Theme Deck exclusive"
     },
     {
       "name": "Electabuzz",
       "number": "41/108",
       "rarity": "",
       "id": "xy12-ac-41",
-      "Description": "Cosmos Holo \"Toys R Us\" stamp exclusive (November 20, 2016)"
+      "description": "Cosmos Holo \"Toys R Us\" stamp exclusive (November 20, 2016)"
     },
     {
       "name": "Nidoking",
       "number": "45/108",
       "rarity": "",
       "id": "xy12-ac-45",
-      "Description": "Non Holo Evolutions Prerelease Kit/Mewtwo Mayhem Theme Deck exclusive"
+      "description": "Non Holo Evolutions Prerelease Kit/Mewtwo Mayhem Theme Deck exclusive"
     },
     {
       "name": "Mewtwo",
       "number": "51/108",
       "rarity": "",
       "id": "xy12-ac-51-1",
-      "Description": "Evolutions stamp Prerelease promo"
+      "description": "Evolutions stamp Prerelease promo"
     },
     {
       "name": "Mewtwo",
       "number": "51/108",
       "rarity": "",
       "id": "xy12-ac-51-2",
-      "Description": "Staff Evolutions stamp Prerelease promo"
+      "description": "Staff Evolutions stamp Prerelease promo"
     },
     {
       "name": "Mewtwo",
       "number": "51/108",
       "rarity": "",
       "id": "xy12-ac-51-3",
-      "Description": "Cracked Ice Holo Mewtwo Mayhem Theme Deck exclusive"
+      "description": "Cracked Ice Holo Mewtwo Mayhem Theme Deck exclusive"
     },
     {
       "name": "Mew",
       "number": "53/108",
       "rarity": "",
       "id": "xy12-ac-53-1",
-      "Description": "Non Holo Evolutions Prerelease Kit exclusive"
+      "description": "Non Holo Evolutions Prerelease Kit exclusive"
     },
     {
       "name": "Mew",
       "number": "53/108",
       "rarity": "",
       "id": "xy12-ac-53-2",
-      "Description": "Holofoil League Challenge 1st Place"
+      "description": "Holofoil League Challenge 1st Place"
     },
     {
       "name": "Mew",
       "number": "53/108",
       "rarity": "",
       "id": "xy12-ac-53-3",
-      "Description": "Holofoil League Challenge 2nd Place"
+      "description": "Holofoil League Challenge 2nd Place"
     },
     {
       "name": "Mew",
       "number": "53/108",
       "rarity": "",
       "id": "xy12-ac-53-4",
-      "Description": "Holofoil League Challenge 3rd Place"
+      "description": "Holofoil League Challenge 3rd Place"
     },
     {
       "name": "Mew",
       "number": "53/108",
       "rarity": "",
       "id": "xy12-ac-53-5",
-      "Description": "Holofoil League Challenge 4th Place"
+      "description": "Holofoil League Challenge 4th Place"
     },
     {
       "name": "Machamp",
       "number": "59/108",
       "rarity": "",
       "id": "xy12-ac-59-1",
-      "Description": "Evolutions stamp Prerelease promo"
+      "description": "Evolutions stamp Prerelease promo"
     },
     {
       "name": "Machamp",
       "number": "59/108",
       "rarity": "",
       "id": "xy12-ac-59-2",
-      "Description": "Staff Evolutions stamp Prerelease promo"
+      "description": "Staff Evolutions stamp Prerelease promo"
     },
     {
       "name": "Hitmonchan",
       "number": "62/108",
       "rarity": "",
       "id": "xy12-ac-62",
-      "Description": "Non Holo Evolutions Prerelease Kit/Mewtwo Mayhem Theme Deck exclusive"
+      "description": "Non Holo Evolutions Prerelease Kit/Mewtwo Mayhem Theme Deck exclusive"
     },
     {
       "name": "Double Colorless Energy",
       "number": "90/108",
       "rarity": "",
       "id": "xy12-ac-90-1",
-      "Description": "Holofoil International Championships London (December 9 to 11, 2016)"
+      "description": "Holofoil International Championships London (December 9 to 11, 2016)"
     },
     {
       "name": "Double Colorless Energy",
       "number": "90/108",
       "rarity": "",
       "id": "xy12-ac-90-2",
-      "Description": "Holofoil Staff International Championships London (December 9 to 11, 2016)"
+      "description": "Holofoil Staff International Championships London (December 9 to 11, 2016)"
     },
     {
       "name": "Double Colorless Energy",
       "number": "90/108",
       "rarity": "",
       "id": "xy12-ac-90-3",
-      "Description": "Holofoil Top 8 International Championships London (December 9 to 11, 2016)"
+      "description": "Holofoil Top 8 International Championships London (December 9 to 11, 2016)"
     },
     {
       "name": "Double Colorless Energy",
       "number": "90/108",
       "rarity": "",
       "id": "xy12-ac-90-4",
-      "Description": "Holofoil Champion International Championships London (December 9 to 11, 2016)"
+      "description": "Holofoil Champion International Championships London (December 9 to 11, 2016)"
     },
     {
       "name": "Double Colorless Energy",
       "number": "90/108",
       "rarity": "",
       "id": "xy12-ac-90-5",
-      "Description": "Holofoil International Championships Oceana(March 10 to 12, 2017)"
+      "description": "Holofoil International Championships Oceana(March 10 to 12, 2017)"
     },
     {
       "name": "Double Colorless Energy",
       "number": "90/108",
       "rarity": "",
       "id": "xy12-ac-90-6",
-      "Description": "Holofoil Staff International Championships Oceana(March 10 to 12, 2017)"
+      "description": "Holofoil Staff International Championships Oceana(March 10 to 12, 2017)"
     },
     {
       "name": "Double Colorless Energy",
       "number": "90/108",
       "rarity": "",
       "id": "xy12-ac-90-7",
-      "Description": "Holofoil Top 8 International Championships Oceana(March 10 to 12, 2017)"
+      "description": "Holofoil Top 8 International Championships Oceana(March 10 to 12, 2017)"
     },
     {
       "name": "Double Colorless Energy",
       "number": "90/108",
       "rarity": "",
       "id": "xy12-ac-90-8",
-      "Description": "Holofoil Champion International Championships Oceana(March 10 to 12, 2017"
+      "description": "Holofoil Champion International Championships Oceana(March 10 to 12, 2017"
     },
     {
       "name": "Double Colorless Energy",
       "number": "90/108",
       "rarity": "",
       "id": "xy12-ac-90-9",
-      "Description": "Holofoil International Championships Latin America(March 10 to 12, 2017)"
+      "description": "Holofoil International Championships Latin America(March 10 to 12, 2017)"
     },
     {
       "name": "Double Colorless Energy",
       "number": "90/108",
       "rarity": "",
       "id": "xy12-ac-90-10",
-      "Description": "Holofoil Staff International Championships Latin America (March 10 to 12, 2017)"
+      "description": "Holofoil Staff International Championships Latin America (March 10 to 12, 2017)"
     },
     {
       "name": "Double Colorless Energy",
       "number": "90/108",
       "rarity": "",
       "id": "xy12-ac-90-11",
-      "Description": "Holofoil Top 8 International Championships Latin America(March 10 to 12, 2017)"
+      "description": "Holofoil Top 8 International Championships Latin America(March 10 to 12, 2017)"
     },
     {
       "name": "Double Colorless Energy",
       "number": "90/108",
       "rarity": "",
       "id": "xy12-ac-90-12",
-      "Description": "Holofoil Champion International Championships Latin America(March 10 to 12, 2017"
+      "description": "Holofoil Champion International Championships Latin America(March 10 to 12, 2017"
     },
     {
       "name": "Double Colorless Energy",
       "number": "90/108",
       "rarity": "",
       "id": "xy12-ac-90-13",
-      "Description": "Holofoil International Championships North America(March 10 to 12, 2017)"
+      "description": "Holofoil International Championships North America(March 10 to 12, 2017)"
     },
     {
       "name": "Double Colorless Energy",
       "number": "90/108",
       "rarity": "",
       "id": "xy12-ac-90-14",
-      "Description": "Holofoil Staff International Championships NorthAmerica (March 10 to 12, 2017)"
+      "description": "Holofoil Staff International Championships NorthAmerica (March 10 to 12, 2017)"
     },
     {
       "name": "Double Colorless Energy",
       "number": "90/108",
       "rarity": "",
       "id": "xy12-ac-90-15",
-      "Description": "Holofoil Top 8 International Championships North America(March 10 to 12, 2017)"
+      "description": "Holofoil Top 8 International Championships North America(March 10 to 12, 2017)"
     },
     {
       "name": "Double Colorless Energy",
       "number": "90/108",
       "rarity": "",
       "id": "xy12-ac-90-16",
-      "Description": "Holofoil Champion International Championships North America(March 10 to 12, 2017"
+      "description": "Holofoil Champion International Championships North America(March 10 to 12, 2017"
     }
   ],
   "misprints": [
@@ -991,28 +991,28 @@
       "number": "40/108",
       "rarity": "misprint",
       "id": "xy12-mp-40-1",
-      "Description": "ability error - 'is attached to a ligthning Pokemon'"
+      "description": "ability error - 'is attached to a ligthning Pokemon'"
     },
     {
       "name": "Electrode",
       "number": "40/108",
       "rarity": "misprint - reverse",
       "id": "xy12-mp-40-2",
-      "Description": "ability error - 'is attached to a ligthning Pokemon'"
+      "description": "ability error - 'is attached to a ligthning Pokemon'"
     },
     {
       "name": "Devolution Spray",
       "number": 76,
       "rarity": "Uncommon",
       "id": "xy12-mp-76-1",
-      "Description": "Heavy Green ink on yellow bottle error"
+      "description": "Heavy Green ink on yellow bottle error"
     },
     {
       "name": "Devolution Spray",
       "number": 76,
       "rarity": "Uncommon - reverse",
       "id": "xy12-mp-76-2",
-      "Description": "Heavy Green ink on yellow bottle error"
+      "description": "Heavy Green ink on yellow bottle error"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -822,70 +822,70 @@
       "number": "7/127",
       "rarity": "",
       "id": "pl1-ac-7",
-      "Description": "Crosshatch Holo Pokémon League Cyrus Season (November 2009)"
+      "description": "Crosshatch Holo Pokémon League Cyrus Season (November 2009)"
     },
     {
       "name": "Gardevoir",
       "number": "8/127",
       "rarity": "",
       "id": "pl1-ac-8",
-      "Description": "Non Holo Rebellion theme deck exclusive"
+      "description": "Non Holo Rebellion theme deck exclusive"
     },
     {
       "name": "Giratina",
       "number": "28/127",
       "rarity": "",
       "id": "pl1-ac-28",
-      "Description": "Cosmos Holo Rebellion theme deck exclusive"
+      "description": "Cosmos Holo Rebellion theme deck exclusive"
     },
     {
       "name": "Shaymin",
       "number": "38/127",
       "rarity": "",
       "id": "pl1-ac-38",
-      "Description": "Cosmos Holo Flourish theme deck exclusive"
+      "description": "Cosmos Holo Flourish theme deck exclusive"
     },
     {
       "name": "Lucario",
       "number": "53/127",
       "rarity": "",
       "id": "pl1-ac-53-1",
-      "Description": "Prerelease stamp Prerelease promo"
+      "description": "Prerelease stamp Prerelease promo"
     },
     {
       "name": "Lucario",
       "number": "53/127",
       "rarity": "",
       "id": "pl1-ac-53-2",
-      "Description": "Staff Prerelease stamp Prerelease promo"
+      "description": "Staff Prerelease stamp Prerelease promo"
     },
     {
       "name": "Riolu",
       "number": "91/127",
       "rarity": "",
       "id": "pl1-ac-91-1",
-      "Description": "Comic-Con International: San Diego 2009 stamped promo"
+      "description": "Comic-Con International: San Diego 2009 stamped promo"
     },
     {
       "name": "Riolu",
       "number": "91/127",
       "rarity": "",
       "id": "pl1-ac-91-2",
-      "Description": "Staff Comic-Con International: San Diego 2009 stamped promo"
+      "description": "Staff Comic-Con International: San Diego 2009 stamped promo"
     },
     {
       "name": "Broken Time-Space",
       "number": "104/127",
       "rarity": "",
       "id": "pl1-ac-104",
-      "Description": "Crosshatch Holo Pokémon League Snivy Season (May 2011)"
+      "description": "Crosshatch Holo Pokémon League Snivy Season (May 2011)"
     },
     {
       "name": "PlusPower",
       "number": "112/127",
       "rarity": "",
       "id": "pl1-ac-112",
-      "Description": "Crosshatch Holo Player Rewards Program 2010-2011 (Tier Two)"
+      "description": "Crosshatch Holo Player Rewards Program 2010-2011 (Tier Two)"
     }
   ],
   "misprints": []

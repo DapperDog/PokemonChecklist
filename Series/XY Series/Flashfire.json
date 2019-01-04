@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -690,105 +690,105 @@
       "number": "23/106",
       "rarity": "",
       "id": "xy2-ac-23",
-      "Description": "Non Holo Mystic Typhoon Theme Deck exclusive"
+      "description": "Non Holo Mystic Typhoon Theme Deck exclusive"
     },
     {
       "name": "Avalugg",
       "number": "31/106",
       "rarity": "",
       "id": "xy2-ac-31-1",
-      "Description": "1st Place Crosshatch Holo Pokémon League Mauville/Lavaridge Season League Challenge promo"
+      "description": "1st Place Crosshatch Holo Pokémon League Mauville/Lavaridge Season League Challenge promo"
     },
     {
       "name": "Avalugg",
       "number": "31/106",
       "rarity": "",
       "id": "xy2-ac-31-2",
-      "Description": "2nd Place Crosshatch Holo Pokémon League Mauville/Lavaridge Season League Challenge promo"
+      "description": "2nd Place Crosshatch Holo Pokémon League Mauville/Lavaridge Season League Challenge promo"
     },
     {
       "name": "Avalugg",
       "number": "31/106",
       "rarity": "",
       "id": "xy2-ac-31-3",
-      "Description": "3rd Place Crosshatch Holo Pokémon League Mauville/Lavaridge Season League Challenge promo"
+      "description": "3rd Place Crosshatch Holo Pokémon League Mauville/Lavaridge Season League Challenge promo"
     },
     {
       "name": "Avalugg",
       "number": "31/106",
       "rarity": "",
       "id": "xy2-ac-31-4",
-      "Description": "4th Place Crosshatch Holo Pokémon League Mauville/Lavaridge Season League Challenge promo"
+      "description": "4th Place Crosshatch Holo Pokémon League Mauville/Lavaridge Season League Challenge promo"
     },
     {
       "name": "Heliolisk",
       "number": "37/106",
       "rarity": "",
       "id": "xy2-ac-37",
-      "Description": "Cracked Ice Holo Brilliant Thunder Theme Deck exclusive"
+      "description": "Cracked Ice Holo Brilliant Thunder Theme Deck exclusive"
     },
     {
       "name": "Meowstic",
       "number": "43/106",
       "rarity": "",
       "id": "xy2-ac-43",
-      "Description": "Cracked Ice Holo Mystic Typhoon Theme Deck exclusive"
+      "description": "Cracked Ice Holo Mystic Typhoon Theme Deck exclusive"
     },
     {
       "name": "Carbink",
       "number": "68/106",
       "rarity": "",
       "id": "xy2-ac-68",
-      "Description": "Non Holo Battle Arena Decks: Xerneas vs Yveltal exclusive"
+      "description": "Non Holo Battle Arena Decks: Xerneas vs Yveltal exclusive"
     },
     {
       "name": "Druddigon",
       "number": "70/106",
       "rarity": "",
       "id": "xy2-ac-70",
-      "Description": "Non Holo Ho-Oh Legendary Battle Deck exclusive"
+      "description": "Non Holo Ho-Oh Legendary Battle Deck exclusive"
     },
     {
       "name": "Blacksmith",
       "number": "88/106",
       "rarity": "",
       "id": "xy2-ac-88",
-      "Description": "Sheen Holo Pyroar Box exclusive"
+      "description": "Sheen Holo Pyroar Box exclusive"
     },
     {
       "name": "Blacksmith",
       "number": "88a/106",
       "rarity": "",
       "id": "xy2-ac-88a",
-      "Description": "Yellow A Alternate art Premium Trainer's XY Collection exclusive"
+      "description": "Yellow A Alternate art Premium Trainer's XY Collection exclusive"
     },
     {
       "name": "Fiery Torch",
       "number": "89/106",
       "rarity": "",
       "id": "xy2-ac-89-1",
-      "Description": "Sheen Holo Pyroar Box exclusive"
+      "description": "Sheen Holo Pyroar Box exclusive"
     },
     {
       "name": "Fiery Torch",
       "number": "89/106",
       "rarity": "",
       "id": "xy2-ac-89-2",
-      "Description": "Crosshatch Holo Pokémon League Lavaridge Season (April 2015)"
+      "description": "Crosshatch Holo Pokémon League Lavaridge Season (April 2015)"
     },
     {
       "name": "Magnetic Storm",
       "number": "91/106",
       "rarity": "",
       "id": "xy2-ac-91",
-      "Description": "Crosshatch Holo Pokémon League Mauville Season (February 2015)"
+      "description": "Crosshatch Holo Pokémon League Mauville Season (February 2015)"
     },
     {
       "name": "Pokémon Fan Club",
       "number": "94/106",
       "rarity": "",
       "id": "xy2-ac-94",
-      "Description": "Crosshatch Holo Pokémon League Petalburg Season (May 2015)"
+      "description": "Crosshatch Holo Pokémon League Petalburg Season (May 2015)"
     }
   ],
   "misprints": []

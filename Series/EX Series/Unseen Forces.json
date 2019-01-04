@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -927,49 +927,49 @@
       "number": "4/115",
       "rarity": "",
       "id": "ex10-ac-4",
-      "Description": "Feralligatr EX Epic Collection Deck Exclusive"
+      "description": "Feralligatr EX Epic Collection Deck Exclusive"
     },
     {
       "name": "Meganium",
       "number": "9/115",
       "rarity": "",
       "id": "ex10-ac-9",
-      "Description": "Silvery Ocean / Meganium EX epic collection Deck Exclusive"
+      "description": "Silvery Ocean / Meganium EX epic collection Deck Exclusive"
     },
     {
       "name": "Slowbro",
       "number": "13/115",
       "rarity": "",
       "id": "ex10-ac-13",
-      "Description": "Feraligatr EX Epic Collection Deck Exclusive"
+      "description": "Feraligatr EX Epic Collection Deck Exclusive"
     },
     {
       "name": "Typhlosion",
       "number": "17/115",
       "rarity": "",
       "id": "ex10-ac-17",
-      "Description": "Golden Sky / Typhlosion EX Epic Collection Deck Exclusive"
+      "description": "Golden Sky / Typhlosion EX Epic Collection Deck Exclusive"
     },
     {
       "name": "Hooh",
       "number": "27/115",
       "rarity": "",
       "id": "ex10-ac-27",
-      "Description": "Golden Skye Theme Deck Exclusive"
+      "description": "Golden Skye Theme Deck Exclusive"
     },
     {
       "name": "Lugia",
       "number": "29/115",
       "rarity": "",
       "id": "ex10-ac-29-1",
-      "Description": "Pokemon Rocks America 2005 Stamped Promo"
+      "description": "Pokemon Rocks America 2005 Stamped Promo"
     },
     {
       "name": "Lugia",
       "number": "29/115",
       "rarity": "",
       "id": "ex10-ac-29-2",
-      "Description": "Silvery Ocean Theme Deck Exclusive"
+      "description": "Silvery Ocean Theme Deck Exclusive"
     }
   ],
   "misprints": []

@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -694,28 +694,28 @@
       "number": "1/106",
       "rarity": "",
       "id": "",
-      "Description": "James Theme Deck Exclusive"
+      "description": "James Theme Deck Exclusive"
     },
     {
       "name": "Dark Marowak",
       "number": "7/106",
       "rarity": "",
       "id": "",
-      "Description": "Jessie Theme Deck Exclusive"
+      "description": "Jessie Theme Deck Exclusive"
     },
     {
       "name": "Dark Dragonite",
       "number": "15/106",
       "rarity": "",
       "id": "",
-      "Description": "James Theme Deck Exclusive"
+      "description": "James Theme Deck Exclusive"
     },
     {
       "name": "Dark Tyarnitar",
       "number": "20/106",
       "rarity": "",
       "id": "",
-      "Description": "Jessie Theme Deck Exclusive"
+      "description": "Jessie Theme Deck Exclusive"
     }
   ],
   "misprints": []

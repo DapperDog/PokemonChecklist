@@ -1,5 +1,5 @@
 {
-  "version": 1.1,
+  "version": 1.2,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -693,217 +693,217 @@
       "number": "1/108",
       "rarity": "",
       "id": "bw5-ac-1",
-      "Description": "Build-A-Bear Workshop stamp promo"
+      "description": "Build-A-Bear Workshop stamp promo"
     },
     {
       "name": "Venusaur",
       "number": "3/108",
       "rarity": "",
       "id": "bw5-ac-3",
-      "Description": "Cosmos Holo XY Two Pack Blisters/XY Knock Out Collection/XY Kanto Two Pack Blisters exclusive"
+      "description": "Cosmos Holo XY Two Pack Blisters/XY Knock Out Collection/XY Kanto Two Pack Blisters exclusive"
     },
     {
       "name": "Scyther",
       "number": "4/108",
       "rarity": "",
       "id": "bw5-ac-4-1",
-      "Description": "1st Place Crosshatch Holo Pokémon League Chespin/Fennekin Season League Challenge promo"
+      "description": "1st Place Crosshatch Holo Pokémon League Chespin/Fennekin Season League Challenge promo"
     },
     {
       "name": "Scyther",
       "number": "4/108",
       "rarity": "",
       "id": "bw5-ac-4-2",
-      "Description": "2nd Place Crosshatch Holo Pokémon League Chespin/Fennekin Season League Challenge promo"
+      "description": "2nd Place Crosshatch Holo Pokémon League Chespin/Fennekin Season League Challenge promo"
     },
     {
       "name": "Scyther",
       "number": "4/108",
       "rarity": "",
       "id": "bw5-ac-4-3",
-      "Description": "3rd Place Crosshatch Holo Pokémon League Chespin/Fennekin Season League Challenge promo"
+      "description": "3rd Place Crosshatch Holo Pokémon League Chespin/Fennekin Season League Challenge promo"
     },
     {
       "name": "Scyther",
       "number": "4/108",
       "rarity": "",
       "id": "bw5-ac-4-4",
-      "Description": "4th Place Crosshatch Holo Pokémon League Chespin/Fennekin Season League Challenge promo"
+      "description": "4th Place Crosshatch Holo Pokémon League Chespin/Fennekin Season League Challenge promo"
     },
     {
       "name": "Flareon",
       "number": "12/108",
       "rarity": "",
       "id": "bw5-ac-12-1",
-      "Description": "Crosshatch Holo Winter Regional Championships 2012-2013 promo"
+      "description": "Crosshatch Holo Winter Regional Championships 2012-2013 promo"
     },
     {
       "name": "Flareon",
       "number": "12/108",
       "rarity": "",
       "id": "bw5-ac-12-2",
-      "Description": "Staff Crosshatch Holo Winter Regional Championships 2012-2013 promo"
+      "description": "Staff Crosshatch Holo Winter Regional Championships 2012-2013 promo"
     },
     {
       "name": "Blaziken",
       "number": "17/108",
       "rarity": "",
       "id": "bw5-ac-17",
-      "Description": "Cosmos Holo Plasma Blast Single Pack Blisters exclusive"
+      "description": "Cosmos Holo Plasma Blast Single Pack Blisters exclusive"
     },
     {
       "name": "Vaporeon",
       "number": "25/108",
       "rarity": "",
       "id": "bw5-ac-25-1",
-      "Description": "Crosshatch Holo European Spring Regional Championships 2012-2013 promo"
+      "description": "Crosshatch Holo European Spring Regional Championships 2012-2013 promo"
     },
     {
       "name": "Vaporeon",
       "number": "25/108",
       "rarity": "",
       "id": "bw5-ac-25-2",
-      "Description": "Staff Crosshatch Holo European Spring Regional Championships 2012-2013 promo"
+      "description": "Staff Crosshatch Holo European Spring Regional Championships 2012-2013 promo"
     },
     {
       "name": "Vaporeon",
       "number": "25/108",
       "rarity": "",
       "id": "bw5-ac-25-3",
-      "Description": "Crosshatch Holo North American State•Province•Territory Championships 2012-2013 promo"
+      "description": "Crosshatch Holo North American State•Province•Territory Championships 2012-2013 promo"
     },
     {
       "name": "Vaporeon",
       "number": "25/108",
       "rarity": "",
       "id": "bw5-ac-25-4",
-      "Description": "Staff Crosshatch Holo North American State•Province•Territory Championships 2012-2013 promo"
+      "description": "Staff Crosshatch Holo North American State•Province•Territory Championships 2012-2013 promo"
     },
     {
       "name": "Empoleon",
       "number": "29/108",
       "rarity": "",
       "id": "bw5-ac-29",
-      "Description": "Non Holo Shadows theme deck exclusive"
+      "description": "Non Holo Shadows theme deck exclusive"
     },
     {
       "name": "Jolteon",
       "number": "37/108",
       "rarity": "",
       "id": "bw5-ac-37-1",
-      "Description": "Crosshatch Holo Autumn Regional Championships 2012-2013 promo"
+      "description": "Crosshatch Holo Autumn Regional Championships 2012-2013 promo"
     },
     {
       "name": "Jolteon",
       "number": "37/108",
       "rarity": "",
       "id": "bw5-ac-37-2",
-      "Description": "Staff Crosshatch Holo Autumn Regional Championships 2012-2013 promo"
+      "description": "Staff Crosshatch Holo Autumn Regional Championships 2012-2013 promo"
     },
     {
       "name": "Espeon",
       "number": "48/108",
       "rarity": "",
       "id": "bw5-ac-48-1",
-      "Description": "Crosshatch Holo National Championships 2012-2013 promo"
+      "description": "Crosshatch Holo National Championships 2012-2013 promo"
     },
     {
       "name": "Espeon",
       "number": "48/108",
       "rarity": "",
       "id": "bw5-ac-48-2",
-      "Description": "Staff Crosshatch Holo National Championships 2012-2013 promo"
+      "description": "Staff Crosshatch Holo National Championships 2012-2013 promo"
     },
     {
       "name": "Cofagrigus",
       "number": "52/108",
       "rarity": "",
       "id": "bw5-ac-52",
-      "Description": "Cracked Ice Holo Raiders theme deck exclusive"
+      "description": "Cracked Ice Holo Raiders theme deck exclusive"
     },
     {
       "name": "Umbreon",
       "number": "60/108",
       "rarity": "",
       "id": "bw5-ac-60-1",
-      "Description": "Crosshatch Holo Spring Regional Championships 2012-2013 promo"
+      "description": "Crosshatch Holo Spring Regional Championships 2012-2013 promo"
     },
     {
       "name": "Umbreon",
       "number": "60/108",
       "rarity": "",
       "id": "bw5-ac-60-2",
-      "Description": "Staff Crosshatch Holo Spring Regional Championships 2012-2013 promo"
+      "description": "Staff Crosshatch Holo Spring Regional Championships 2012-2013 promo"
     },
     {
       "name": "Darkrai",
       "number": "63/108",
       "rarity": "",
       "id": "bw5-ac-63",
-      "Description": "Sheen Holo Battle Arena Decks: Mewtwo vs Darkrai exclusive"
+      "description": "Sheen Holo Battle Arena Decks: Mewtwo vs Darkrai exclusive"
     },
     {
       "name": "Krookodile",
       "number": "66/108",
       "rarity": "",
       "id": "bw5-ac-66-1",
-      "Description": "Cosmos Holo Plasma Blast Single Pack Blisters exclusive"
+      "description": "Cosmos Holo Plasma Blast Single Pack Blisters exclusive"
     },
     {
       "name": "Krookodile",
       "number": "66/108",
       "rarity": "",
       "id": "bw5-ac-66-2",
-      "Description": "Non Holo Raiders theme deck exclusive"
+      "description": "Non Holo Raiders theme deck exclusive"
     },
     {
       "name": "Scraggy",
       "number": "67/108",
       "rarity": "",
       "id": "bw5-ac-67",
-      "Description": "Mirror Reverse Holo Black & White Variety Blisters exclusive"
+      "description": "Mirror Reverse Holo Black & White Variety Blisters exclusive"
     },
     {
       "name": "Zoroark",
       "number": "71/108",
       "rarity": "",
       "id": "bw5-ac-71",
-      "Description": "Cracked Ice Holo Shadows theme deck exclusive"
+      "description": "Cracked Ice Holo Shadows theme deck exclusive"
     },
     {
       "name": "Blissey",
       "number": "82/108",
       "rarity": "",
       "id": "bw5-ac-82",
-      "Description": "Non Holo Lugia Legendary Battle Deck exclusive"
+      "description": "Non Holo Lugia Legendary Battle Deck exclusive"
     },
     {
       "name": "Eevee",
       "number": "84/108",
       "rarity": "",
       "id": "bw5-ac-84-1",
-      "Description": "Crosshatch Holo City Championships 2012-2013 promo"
+      "description": "Crosshatch Holo City Championships 2012-2013 promo"
     },
     {
       "name": "Eevee",
       "number": "84/108",
       "rarity": "",
       "id": "bw5-ac-84-2",
-      "Description": "Staff Crosshatch Holo City Championships 2012-2013 promo"
+      "description": "Staff Crosshatch Holo City Championships 2012-2013 promo"
     },
     {
       "name": "Enhanced Hammer",
       "number": "94/108",
       "rarity": "",
       "id": "bw5-ac-94",
-      "Description": "Mirror Holo Pokémon League Xerneas Season (February 2014)"
+      "description": "Mirror Holo Pokémon League Xerneas Season (February 2014)"
     },
     {
       "name": "Professor Juniper",
       "number": "98/108",
       "rarity": "",
       "id": "bw5-ac-98",
-      "Description": "Crosshatch Holo Professor Program stamp promo (January 2013)"
+      "description": "Crosshatch Holo Professor Program stamp promo (January 2013)"
     }
   ],
   "misprints": []

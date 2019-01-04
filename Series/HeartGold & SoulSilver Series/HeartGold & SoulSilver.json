@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -775,161 +775,161 @@
       "number": "1/123",
       "rarity": "",
       "id": "hgss1-ac-1",
-      "Description": "Non Holo Ember Spark theme deck exclusive"
+      "description": "Non Holo Ember Spark theme deck exclusive"
     },
     {
       "name": "Gyarados",
       "number": "4/123",
       "rarity": "",
       "id": "hgss1-ac-4",
-      "Description": "Cracked Ice Holo Player's Collection exclusive"
+      "description": "Cracked Ice Holo Player's Collection exclusive"
     },
     {
       "name": "Ninetales",
       "number": "7/123",
       "rarity": "",
       "id": "hgss1-ac-7",
-      "Description": "Cracked Ice Holo Stage 1 Blisters exclusive"
+      "description": "Cracked Ice Holo Stage 1 Blisters exclusive"
     },
     {
       "name": "Noctowl",
       "number": "8/123",
       "rarity": "",
       "id": "hgss1-ac-8",
-      "Description": "Non Holo Ember Spark theme deck exclusive"
+      "description": "Non Holo Ember Spark theme deck exclusive"
     },
     {
       "name": "Raichu",
       "number": "10/123",
       "rarity": "",
       "id": "hgss1-ac-10",
-      "Description": "Cracked Ice Holo Player's Pack exclusive"
+      "description": "Cracked Ice Holo Player's Pack exclusive"
     },
     {
       "name": "Feraligatr",
       "number": "20/123",
       "rarity": "",
       "id": "hgss1-ac-20-1",
-      "Description": "Cosmos Holo Mind Flood theme deck exclusive"
+      "description": "Cosmos Holo Mind Flood theme deck exclusive"
     },
     {
       "name": "Feraligatr",
       "number": "20/123",
       "rarity": "",
       "id": "hgss1-ac-20-2",
-      "Description": "Cracked Ice Holo HeartGold & SoulSilver Series Collection exclusive"
+      "description": "Cracked Ice Holo HeartGold & SoulSilver Series Collection exclusive"
     },
     {
       "name": "Meganium",
       "number": "26/123",
       "rarity": "",
       "id": "hgss1-ac-26-1",
-      "Description": "Cosmos Holo Growth Clash theme deck exclusive"
+      "description": "Cosmos Holo Growth Clash theme deck exclusive"
     },
     {
       "name": "Meganium",
       "number": "26/123",
       "rarity": "",
       "id": "hgss1-ac-26-2",
-      "Description": "Cracked Ice Holo HeartGold & SoulSilver Series Collection exclusive"
+      "description": "Cracked Ice Holo HeartGold & SoulSilver Series Collection exclusive"
     },
     {
       "name": "Pichu",
       "number": "28/123",
       "rarity": "",
       "id": "hgss1-ac-28-1",
-      "Description": "HeartGold & SoulSilver stamp Prerelease promo"
+      "description": "HeartGold & SoulSilver stamp Prerelease promo"
     },
     {
       "name": "Pichu",
       "number": "28/123",
       "rarity": "",
       "id": "hgss1-ac-28-2",
-      "Description": "Staff HeartGold & SoulSilver stamp Prerelease promo"
+      "description": "Staff HeartGold & SoulSilver stamp Prerelease promo"
     },
     {
       "name": "Typhlosion",
       "number": "32/123",
       "rarity": "",
       "id": "hgss1-ac-32-1",
-      "Description": "Cosmos Holo Ember Spark theme deck exclusive"
+      "description": "Cosmos Holo Ember Spark theme deck exclusive"
     },
     {
       "name": "Typhlosion",
       "number": "32/123",
       "rarity": "",
       "id": "hgss1-ac-32-2",
-      "Description": "Cracked Ice Holo HeartGold & SoulSilver Series Collection exclusive"
+      "description": "Cracked Ice Holo HeartGold & SoulSilver Series Collection exclusive"
     },
     {
       "name": "Delibird",
       "number": "39/123",
       "rarity": "",
       "id": "hgss1-ac-39",
-      "Description": "Crosshatch Holo Pokémon League Snow Throw Season (December 2010)"
+      "description": "Crosshatch Holo Pokémon League Snow Throw Season (December 2010)"
     },
     {
       "name": "Donphan",
       "number": "40/123",
       "rarity": "",
       "id": "hgss1-ac-40",
-      "Description": "Crosshatch Holo Pokémon League Ring Drop Season (September 2010)"
+      "description": "Crosshatch Holo Pokémon League Ring Drop Season (September 2010)"
     },
     {
       "name": "Pikachu",
       "number": "78/123",
       "rarity": "",
       "id": "hgss1-ac-78",
-      "Description": "Pokémon Day 2010 stamped promo"
+      "description": "Pokémon Day 2010 stamped promo"
     },
     {
       "name": "Copycat",
       "number": "90/123",
       "rarity": "",
       "id": "hgss1-ac-90",
-      "Description": "Crosshatch Holo Pokémon League Tepig Season (June 2011)"
+      "description": "Crosshatch Holo Pokémon League Tepig Season (June 2011)"
     },
     {
       "name": "Pokémon Collector",
       "number": "97/123",
       "rarity": "",
       "id": "hgss1-ac-97",
-      "Description": "Crosshatch Holo Player Rewards Program 2011-2012 (Tier Two)"
+      "description": "Crosshatch Holo Player Rewards Program 2011-2012 (Tier Two)"
     },
     {
       "name": "Pokémon Communication",
       "number": "98/123",
       "rarity": "",
       "id": "hgss1-ac-98",
-      "Description": "Crosshatch Holo Player Rewards Program 2010-2011 (Tier Two)"
+      "description": "Crosshatch Holo Player Rewards Program 2010-2011 (Tier Two)"
     },
     {
       "name": "Professor Elm's Training Method",
       "number": "100/123",
       "rarity": "",
       "id": "hgss1-ac-100",
-      "Description": "Crosshatch Holo Professor Program stamp promo (March 2011)"
+      "description": "Crosshatch Holo Professor Program stamp promo (March 2011)"
     },
     {
       "name": "Professor Oak's New Theory",
       "number": "101/123",
       "rarity": "",
       "id": "hgss1-ac-101",
-      "Description": "Crosshatch Holo Professor Program stamp promo (March 2011)"
+      "description": "Crosshatch Holo Professor Program stamp promo (March 2011)"
     },
     {
       "name": "Double Colorless Energy",
       "number": "103/123",
       "rarity": "",
       "id": "hgss1-ac-103",
-      "Description": "Crosshatch Holo Pokémon League Oshawott Season (July 2011)"
+      "description": "Crosshatch Holo Pokémon League Oshawott Season (July 2011)"
     },
     {
       "name": "Rainbow Energy",
       "number": "104/123",
       "rarity": "",
       "id": "hgss1-ac-104",
-      "Description": "Crosshatch Holo Player Rewards Program 2011-2012 (Tier Three)"
+      "description": "Crosshatch Holo Player Rewards Program 2011-2012 (Tier Three)"
     }
   ],
   "misprints": []
