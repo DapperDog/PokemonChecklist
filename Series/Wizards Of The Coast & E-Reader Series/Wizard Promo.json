@@ -1,324 +1,324 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Have"
   ],
   "coreCards": [
     {
       "id": "basep-1",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Pikachu",
       "number": "1"
     },
     {
       "id": "basep-2",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Electabuzz",
       "number": "2"
     },
     {
       "id": "basep-3",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Mewtwo",
       "number": "3"
     },
     {
       "id": "basep-4",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Pikachu",
       "number": "4"
     },
     {
       "id": "basep-5",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Dragonite",
       "number": "5"
     },
     {
       "id": "basep-6",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Arcanine",
       "number": "6"
     },
     {
       "id": "basep-7",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Jigglypuff",
       "number": "7"
     },
     {
       "id": "basep-8",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Mew",
       "number": "8"
     },
     {
       "id": "basep-9",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Mew",
       "number": "9"
     },
     {
       "id": "basep-10",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Meowth",
       "number": "10"
     },
     {
       "id": "basep-11",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Eevee",
       "number": "11"
     },
     {
       "id": "basep-12",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Mewtwo",
       "number": "12"
     },
     {
       "id": "basep-13",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Venusaur",
       "number": "13"
     },
     {
       "id": "basep-14",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Mewtwo",
       "number": "14"
     },
     {
       "id": "basep-15",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Cool Porygon",
       "number": "15"
     },
     {
       "id": "basep-16",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Computer Error",
       "number": "16"
     },
     {
       "id": "basep-17",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Dark Persian",
       "number": "17"
     },
     {
       "id": "basep-18",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Team Rocket's Meowth",
       "number": "18"
     },
     {
       "id": "basep-19",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Sabrina's Abra",
       "number": "19"
     },
     {
       "id": "basep-20",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Psyduck",
       "number": "20"
     },
     {
       "id": "basep-21",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Moltres",
       "number": "21"
     },
     {
       "id": "basep-22",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Articuno",
       "number": "22"
     },
     {
       "id": "basep-23",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Zapdos",
       "number": "23"
     },
     {
       "id": "basep-24",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "___________'s Pikachu",
       "number": "24"
     },
     {
       "id": "basep-25",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Flying Pikachu",
       "number": "25"
     },
     {
       "id": "basep-26",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Pikachu",
       "number": "26"
     },
     {
       "id": "basep-27",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Pikachu",
       "number": "27"
     },
     {
       "id": "basep-28",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Surfing Pikachu",
       "number": "28"
     },
     {
       "id": "basep-29",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Marill",
       "number": "29"
     },
     {
       "id": "basep-30",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Togepi",
       "number": "30"
     },
     {
       "id": "basep-31",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Cleffa",
       "number": "31"
     },
     {
       "id": "basep-32",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Smeargle",
       "number": "32"
     },
     {
       "id": "basep-33",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Scizor",
       "number": "33"
     },
     {
       "id": "basep-34",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Entei",
       "number": "34"
     },
     {
       "id": "basep-35",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Pichu",
       "number": "35"
     },
     {
       "id": "basep-36",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Igglybuff",
       "number": "36"
     },
     {
       "id": "basep-37",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Hitmontop",
       "number": "37"
     },
     {
       "id": "basep-38",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Unown [J]",
       "number": "38"
     },
     {
       "id": "basep-39",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Misdreavus",
       "number": "39"
     },
     {
       "id": "basep-40",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Pok\u00e9mon Center",
       "number": "40"
     },
     {
       "id": "basep-41",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Lucky Stadium",
       "number": "41"
     },
     {
       "id": "basep-42",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Pok\u00e9mon Tower",
       "number": "42"
     },
     {
       "id": "basep-43",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Machamp",
       "number": "43"
     },
     {
       "id": "basep-44",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Magmar",
       "number": "44"
     },
     {
       "id": "basep-45",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Scyther",
       "number": "45"
     },
     {
       "id": "basep-46",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Electabuzz",
       "number": "46"
     },
     {
       "id": "basep-47",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Mew",
       "number": "47"
     },
     {
       "id": "basep-48",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Articuno",
       "number": "48"
     },
     {
       "id": "basep-49",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Snorlax",
       "number": "49"
     },
     {
       "id": "basep-50",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Celebi",
       "number": "50"
     },
     {
       "id": "basep-51",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Rapidash",
       "number": "51"
     },
     {
       "id": "basep-52",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Ho-oh",
       "number": "52"
     },
     {
       "id": "basep-53",
-      "rarity": "unknown",
+      "rarity": "Promo",
       "name": "Suicune",
       "number": "53"
     }
@@ -327,35 +327,35 @@
     {
      "name": "Pikachu",
      "number": "1",
-     "rarity": "",
+     "rarity": "Promo",
      "id": "basep-ac-1",
      "description": "First Edition Logo Printed"
    },
    {
      "name": "Mewtwo",
      "number": "3",
-     "rarity": "",
+     "rarity": "Promo",
      "id": "basep-ac-3",
      "description": "Movie Logo Printed Upside Down"
    },
    {
      "name": "_______'s Pikachu",
      "number": "24",
-     "rarity": "",
+     "rarity": "Promo",
      "id": "basep-ac-24",
      "description": "Tail Stamped - Pikachu World Collection"
    },
    {
      "name": "Rapidash",
      "number": "51",
-     "rarity": "",
+     "rarity": "Promo",
      "id": "basep-ac-51",
      "description": "Pokemon Center New York Promo"
    },
    {
      "name": "Ho-oh",
      "number": "52",
-     "rarity": "",
+     "rarity": "Promo",
      "id": "basep-ac-52",
      "description": "Pokemon Center New York Promo"
    },
@@ -369,7 +369,7 @@
    {
      "name": "Ancient Mew",
      "number": "movie",
-     "rarity": "",
+     "rarity": "Promo",
      "id": "basep-ac-moviemew",
      "description": ""
    }
@@ -378,28 +378,28 @@
     {
       "name": "Dark Persion",
       "number": "17",
-      "rarity": "",
+      "rarity": "Promo",
       "id": "basep-mp-17",
       "description": "Holo Misprint - No HP"
     },
     {
       "name": "Moltres",
       "number": "21",
-      "rarity": "",
+      "rarity": "Promo",
       "id": "basep-mp-21",
       "description": "Wrong Illustrator - Toshinao Aoki instead of Naoyo Kimura"
     },
     {
       "name": "Articuno",
       "number": "22",
-      "rarity": "",
+      "rarity": "Promo",
       "id": "basep-mp-22",
       "description": "Wrong Illustrator - Toshinao Aoki instead of Naoyo Kimura"
     },
     {
       "name": "Zapdos",
       "number": "23",
-      "rarity": "",
+      "rarity": "Promo",
       "id": "basep-mp-23",
       "description": "Wrong Illustrator - Toshinao Aoki instead of Naoyo Kimura"
     }

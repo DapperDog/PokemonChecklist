@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Unlimited",
     "1st Edition"
@@ -7,97 +7,97 @@
   "coreCards": [
     {
       "id": "neo4-1",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Dark Ampharos",
       "number": "1/105"
     },
     {
       "id": "neo4-2",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Dark Crobat",
       "number": "2/105"
     },
     {
       "id": "neo4-3",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Dark Donphan",
       "number": "3/105"
     },
     {
       "id": "neo4-4",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Dark Espeon",
       "number": "4/105"
     },
     {
       "id": "neo4-5",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Dark Feraligatr",
       "number": "5/105"
     },
     {
       "id": "neo4-6",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Dark Gengar",
       "number": "6/105"
     },
     {
       "id": "neo4-7",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Dark Houndoom",
       "number": "7/105"
     },
     {
       "id": "neo4-8",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Dark Porygon2",
       "number": "8/105"
     },
     {
       "id": "neo4-9",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Dark Scizor",
       "number": "9/105"
     },
     {
       "id": "neo4-10",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Dark Typhlosion",
       "number": "10/105"
     },
     {
       "id": "neo4-11",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Dark Tyranitar",
       "number": "11/105"
     },
     {
       "id": "neo4-12",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Light Arcanine",
       "number": "12/105"
     },
     {
       "id": "neo4-13",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Light Azumarill",
       "number": "13/105"
     },
     {
       "id": "neo4-14",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Light Dragonite",
       "number": "14/105"
     },
     {
       "id": "neo4-15",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Light Togetic",
       "number": "15/105"
     },
     {
       "id": "neo4-16",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Miracle Energy",
       "number": "16/105"
     },

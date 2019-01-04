@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Unlimited",
     "1st Edition"
@@ -7,103 +7,103 @@
   "coreCards": [
     {
       "id": "neo2-1",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Espeon",
       "number": "1/75"
     },
     {
       "id": "neo2-2",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Forretress",
       "number": "2/75"
     },
     {
       "id": "neo2-3",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Hitmontop",
       "number": "3/75"
     },
     {
       "id": "neo2-4",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Houndoom",
       "number": "4/75"
     },
     {
       "id": "neo2-5",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Houndour",
       "number": "5/75"
     },
     {
       "id": "neo2-6",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Kabutops",
       "number": "6/75"
     },
     {
       "id": "neo2-7",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Magnemite",
       "number": "7/75"
     },
     {
       "id": "neo2-8",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Politoed",
       "number": "8/75"
     },
     {
       "id": "neo2-9",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Poliwrath",
       "number": "9/75"
     },
     {
       "id": "neo2-10",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Scizor",
       "number": "10/75"
     },
     {
       "id": "neo2-11",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Smeargle",
       "number": "11/75"
     },
     {
       "id": "neo2-12",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Tyranitar",
       "number": "12/75"
     },
     {
       "id": "neo2-13",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Umbreon",
       "number": "13/75"
     },
     {
       "id": "neo2-14",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Unown [A]",
       "number": "14/75"
     },
     {
       "id": "neo2-15",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Ursaring",
       "number": "15/75"
     },
     {
       "id": "neo2-16",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Wobbuffet",
       "number": "16/75"
     },
     {
       "id": "neo2-17",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Yanma",
       "number": "17/75"
     },

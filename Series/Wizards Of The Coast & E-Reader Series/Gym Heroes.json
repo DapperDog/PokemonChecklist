@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Unlimited",
     "1st Edition"
@@ -7,115 +7,115 @@
   "coreCards": [
     {
       "id": "gym1-1",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Blaine's Moltres",
       "number": "1/132"
     },
     {
       "id": "gym1-2",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Brock's Rhydon",
       "number": "2/132"
     },
     {
       "id": "gym1-3",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Erika's Clefable",
       "number": "3/132"
     },
     {
       "id": "gym1-4",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Erika's Dragonair",
       "number": "4/132"
     },
     {
       "id": "gym1-5",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Erika's Vileplume",
       "number": "5/132"
     },
     {
       "id": "gym1-6",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Lt. Surge's Electabuzz",
       "number": "6/132"
     },
     {
       "id": "gym1-7",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Lt. Surge's Fearow",
       "number": "7/132"
     },
     {
       "id": "gym1-8",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Lt. Surge's Magneton",
       "number": "8/132"
     },
     {
       "id": "gym1-9",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Misty's Seadra",
       "number": "9/132"
     },
     {
       "id": "gym1-10",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Misty's Tentacruel",
       "number": "10/132"
     },
     {
       "id": "gym1-11",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Rocket's Hitmonchan",
       "number": "11/132"
     },
     {
       "id": "gym1-12",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Rocket's Moltres",
       "number": "12/132"
     },
     {
       "id": "gym1-13",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Rocket's Scyther",
       "number": "13/132"
     },
     {
       "id": "gym1-14",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Sabrina's Gengar",
       "number": "14/132"
     },
     {
       "id": "gym1-15",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Brock",
       "number": "15/132"
     },
     {
       "id": "gym1-16",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Erika",
       "number": "16/132"
     },
     {
       "id": "gym1-17",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Lt. Surge",
       "number": "17/132"
     },
     {
       "id": "gym1-18",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Misty",
       "number": "18/132"
     },
     {
       "id": "gym1-19",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "The Rocket's Trap",
       "number": "19/132"
     },

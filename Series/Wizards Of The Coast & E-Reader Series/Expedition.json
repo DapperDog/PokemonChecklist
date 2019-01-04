@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -7,193 +7,193 @@
   "coreCards": [
     {
       "id": "ecard1-1",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Alakazam",
       "number": "1/165"
     },
     {
       "id": "ecard1-2",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Ampharos",
       "number": "2/165"
     },
     {
       "id": "ecard1-3",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Arbok",
       "number": "3/165"
     },
     {
       "id": "ecard1-4",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Blastoise",
       "number": "4/165"
     },
     {
       "id": "ecard1-5",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Butterfree",
       "number": "5/165"
     },
     {
       "id": "ecard1-6",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Charizard",
       "number": "6/165"
     },
     {
       "id": "ecard1-7",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Clefable",
       "number": "7/165"
     },
     {
       "id": "ecard1-8",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Cloyster",
       "number": "8/165"
     },
     {
       "id": "ecard1-9",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Dragonite",
       "number": "9/165"
     },
     {
       "id": "ecard1-10",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Dugtrio",
       "number": "10/165"
     },
     {
       "id": "ecard1-11",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Fearow",
       "number": "11/165"
     },
     {
       "id": "ecard1-12",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Feraligatr",
       "number": "12/165"
     },
     {
       "id": "ecard1-13",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Gengar",
       "number": "13/165"
     },
     {
       "id": "ecard1-14",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Golem",
       "number": "14/165"
     },
     {
       "id": "ecard1-15",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Kingler",
       "number": "15/165"
     },
     {
       "id": "ecard1-16",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Machamp",
       "number": "16/165"
     },
     {
       "id": "ecard1-17",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Magby",
       "number": "17/165"
     },
     {
       "id": "ecard1-18",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Meganium",
       "number": "18/165"
     },
     {
       "id": "ecard1-19",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Mew",
       "number": "19/165"
     },
     {
       "id": "ecard1-20",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Mewtwo",
       "number": "20/165"
     },
     {
       "id": "ecard1-21",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Ninetales",
       "number": "21/165"
     },
     {
       "id": "ecard1-22",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Pichu",
       "number": "22/165"
     },
     {
       "id": "ecard1-23",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Pidgeot",
       "number": "23/165"
     },
     {
       "id": "ecard1-24",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Poliwrath",
       "number": "24/165"
     },
     {
       "id": "ecard1-25",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Raichu",
       "number": "25/165"
     },
     {
       "id": "ecard1-26",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Rapidash",
       "number": "26/165"
     },
     {
       "id": "ecard1-27",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Skarmory",
       "number": "27/165"
     },
     {
       "id": "ecard1-28",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Typhlosion",
       "number": "28/165"
     },
     {
       "id": "ecard1-29",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Tyranitar",
       "number": "29/165"
     },
     {
       "id": "ecard1-30",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Venusaur",
       "number": "30/165"
     },
     {
       "id": "ecard1-31",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Vileplume",
       "number": "31/165"
     },
     {
       "id": "ecard1-32",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Weezing",
       "number": "32/165"
     },

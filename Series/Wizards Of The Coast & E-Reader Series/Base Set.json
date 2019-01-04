@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Unlimited",
     "1st Edition",
@@ -9,98 +9,98 @@
   "coreCards": [
     {
       "id": "base1-1",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Alakazam",
       "number": "1/102"
     },
     {
       "id": "base1-2",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Blastoise",
       "number": "2/102"
     },
     {
       "id": "base1-3",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Chansey",
       "number": "3/102"
     },
     {
       "id": "base1-4",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Charizard",
       "number": "4/102"
     },
     {
       "id": "base1-5",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Clefairy",
       "number": "5/102"
     },
     {
       "id": "base1-6",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Gyarados",
       "number": "6/102"
     },
     {
       "id": "base1-7",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Hitmonchan",
       "number": "7/102"
     },
     {
       "id": "base1-8",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Machamp",
       "number": "8/102",
       "exclusions":["Unlimited"]
     },
     {
       "id": "base1-9",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Magneton",
       "number": "9/102"
     },
     {
       "id": "base1-10",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Mewtwo",
       "number": "10/102"
     },
     {
       "id": "base1-11",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Nidoking",
       "number": "11/102"
     },
     {
       "id": "base1-12",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Ninetales",
       "number": "12/102"
     },
     {
       "id": "base1-13",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Poliwrath",
       "number": "13/102"
     },
     {
       "id": "base1-14",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Raichu",
       "number": "14/102"
     },
     {
       "id": "base1-15",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Venusaur",
       "number": "15/102"
     },
     {
       "id": "base1-16",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Zapdos",
       "number": "16/102"
     },
@@ -654,29 +654,29 @@
     {
       "name": "Pidgeotto",
       "number": "22/102",
-      "rarity": "base1-ac-tdb-22",
-      "id": "",
+      "rarity": "Unlimited",
+      "id": "base1-ac-tdb-22",
       "description": "Trainer Deck B Exclusive Black Red Border and red Lettering"
     },
     {
       "name": "Machoke",
       "number": "34/102",
-      "rarity": "base1-ac-tdb-34",
-      "id": "",
+      "rarity": "Unlimited",
+      "id": "base1-ac-tdb-34",
       "description": "Trainer Deck B Exclusive Black Red Border and red Lettering"
     },
     {
       "name": "raticate",
       "number": "40/102",
-      "rarity": "base1-ac-tda-40",
-      "id": "",
+      "rarity": "Unlimited",
+      "id": "base1-ac-tda-40",
       "description": "Trainer Deck A Exclusive - Back Red Border and Red Lettering"
     },
     {
       "name": "Seel",
       "number": "41/102",
-      "rarity": "base1-ac-tdb-41",
-      "id": "",
+      "rarity": "Unlimited",
+      "id": "base1-ac-tdb-41",
       "description": "Trainer Deck B Exclusive Black Red Border and red Lettering"
     },
     {
@@ -888,7 +888,7 @@
       "name": "Growlithe",
       "number": "28/102",
       "rarity": "Unlimited",
-      "id": "",
+      "id": "base1-mp-28",
       "description": "Flavor text typo extra apos \"Very prote'ctive of its territory."
     },
     {

@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Unlimited",
     "1st Edition"
@@ -7,103 +7,103 @@
   "coreCards": [
     {
       "id": "base5-1",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Dark Alakazam",
       "number": "1/82"
     },
     {
       "id": "base5-2",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Dark Arbok",
       "number": "2/82"
     },
     {
       "id": "base5-3",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Dark Blastoise",
       "number": "3/82"
     },
     {
       "id": "base5-4",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Dark Charizard",
       "number": "4/82"
     },
     {
       "id": "base5-5",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Dark Dragonite",
       "number": "5/82"
     },
     {
       "id": "base5-6",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Dark Dugtrio",
       "number": "6/82"
     },
     {
       "id": "base5-7",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Dark Golbat",
       "number": "7/82"
     },
     {
       "id": "base5-8",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Dark Gyarados",
       "number": "8/82"
     },
     {
       "id": "base5-9",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Dark Hypno",
       "number": "9/82"
     },
     {
       "id": "base5-10",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Dark Machamp",
       "number": "10/82"
     },
     {
       "id": "base5-11",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Dark Magneton",
       "number": "11/82"
     },
     {
       "id": "base5-12",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Dark Slowbro",
       "number": "12/82"
     },
     {
       "id": "base5-13",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Dark Vileplume",
       "number": "13/82"
     },
     {
       "id": "base5-14",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Dark Weezing",
       "number": "14/82"
     },
     {
       "id": "base5-15",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Here Comes Team Rocket!",
       "number": "15/82"
     },
     {
       "id": "base5-16",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Rocket's Sneak Attack",
       "number": "16/82"
     },
     {
       "id": "base5-17",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Rainbow Energy",
       "number": "17/82"
     },

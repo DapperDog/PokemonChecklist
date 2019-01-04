@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Unlimited",
     "1st Edition"
@@ -7,115 +7,115 @@
   "coreCards": [
     {
       "id": "neo1-1",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Ampharos",
       "number": "1/111"
     },
     {
       "id": "neo1-2",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Azumarill",
       "number": "2/111"
     },
     {
       "id": "neo1-3",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Bellossom",
       "number": "3/111"
     },
     {
       "id": "neo1-4",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Feraligatr",
       "number": "4/111"
     },
     {
       "id": "neo1-5",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Feraligatr",
       "number": "5/111"
     },
     {
       "id": "neo1-6",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Heracross",
       "number": "6/111"
     },
     {
       "id": "neo1-7",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Jumpluff",
       "number": "7/111"
     },
     {
       "id": "neo1-8",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Kingdra",
       "number": "8/111"
     },
     {
       "id": "neo1-9",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Lugia",
       "number": "9/111"
     },
     {
       "id": "neo1-10",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Meganium",
       "number": "10/111"
     },
     {
       "id": "neo1-11",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Meganium",
       "number": "11/111"
     },
     {
       "id": "neo1-12",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Pichu",
       "number": "12/111"
     },
     {
       "id": "neo1-13",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Skarmory",
       "number": "13/111"
     },
     {
       "id": "neo1-14",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Slowking",
       "number": "14/111"
     },
     {
       "id": "neo1-15",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Steelix",
       "number": "15/111"
     },
     {
       "id": "neo1-16",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Togetic",
       "number": "16/111"
     },
     {
       "id": "neo1-17",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Typhlosion",
       "number": "17/111"
     },
     {
       "id": "neo1-18",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Typhlosion",
       "number": "18/111"
     },
     {
       "id": "neo1-19",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Metal Energy",
       "number": "19/111"
     },

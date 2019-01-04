@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Unlimited",
     "1st Edition"
@@ -7,85 +7,85 @@
   "coreCards": [
     {
       "id": "neo3-1",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Ampharos",
       "number": "1/64"
     },
     {
       "id": "neo3-2",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Blissey",
       "number": "2/64"
     },
     {
       "id": "neo3-3",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Celebi",
       "number": "3/64"
     },
     {
       "id": "neo3-4",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Crobat",
       "number": "4/64"
     },
     {
       "id": "neo3-5",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Delibird",
       "number": "5/64"
     },
     {
       "id": "neo3-6",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Entei",
       "number": "6/64"
     },
     {
       "id": "neo3-7",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Ho-oh",
       "number": "7/64"
     },
     {
       "id": "neo3-8",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Houndoom",
       "number": "8/64"
     },
     {
       "id": "neo3-9",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Jumpluff",
       "number": "9/64"
     },
     {
       "id": "neo3-10",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Magneton",
       "number": "10/64"
     },
     {
       "id": "neo3-11",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Misdreavus",
       "number": "11/64"
     },
     {
       "id": "neo3-12",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Porygon2",
       "number": "12/64"
     },
     {
       "id": "neo3-13",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Raikou",
       "number": "13/64"
     },
     {
       "id": "neo3-14",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Suicune",
       "number": "14/64"
     },

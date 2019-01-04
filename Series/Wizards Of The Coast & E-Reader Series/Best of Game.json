@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Have"
   ],
@@ -8,103 +8,103 @@
       "name": "Electabuzz",
       "number": 1,
       "rarity": "Promo",
-      "id": ""
+      "id": "bog-1"
     },
     {
       "name": "Hitmonchan",
       "number": 2,
       "rarity": "Promo",
-      "id": ""
+      "id": "bog-2"
     },
     {
       "name": "Professor Elm",
       "number": 3,
       "rarity": "Promo",
-      "id": ""
+      "id": "bog-3"
     },
     {
       "name": "Rocket's Scizor",
       "number": 4,
       "rarity": "Promo",
-      "id": ""
+      "id": "bog-4"
     },
     {
       "name": "Rocket's Sneasel",
       "number": 5,
       "rarity": "Promo",
-      "id": ""
+      "id": "bog-5"
     },
     {
       "name": "Dark Ivysaur",
       "number": 6,
       "rarity": "Promo",
-      "id": ""
+      "id": "bog-6"
     },
     {
       "name": "Dark Venusaur",
       "number": 7,
       "rarity": "Promo",
-      "id": ""
+      "id": "bog-7"
     },
     {
       "name": "Rocket's Mewtwo",
       "number": 8,
       "rarity": "Promo",
-      "id": ""
+      "id": "bog-8"
     },
     {
       "name": "Electabuzz (Winner)",
       "number": 1,
       "rarity": "Promo",
-      "id": ""
+      "id": "bog-win-1"
     },
     {
       "name": "Hitmonchan (Winner)",
       "number": 2,
       "rarity": "Promo",
-      "id": ""
+      "id": "bog-win-2"
     },
     {
       "name": "Professor Elm (Winner)",
       "number": 3,
       "rarity": "Promo",
-      "id": ""
+      "id": "bog-win-3"
     },
     {
       "name": "Rocket's Scizor (Winner)",
       "number": 4,
       "rarity": "Promo",
-      "id": ""
+      "id": "bog-win-4"
     },
     {
       "name": "Rocket's Sneasel (Winner)",
       "number": 5,
       "rarity": "Promo",
-      "id": ""
+      "id": "bog-win-5"
     },
     {
       "name": "Dark Ivysaur (Winner)",
       "number": 6,
       "rarity": "Promo",
-      "id": ""
+      "id": "bog-win-6"
     },
     {
       "name": "Dark Venusaur (Winner)",
       "number": 7,
       "rarity": "Promo",
-      "id": ""
+      "id": "bog-win-7"
     },
     {
       "name": "Rocket's Mewtwo (Winner)",
       "number": 8,
       "rarity": "Promo",
-      "id": ""
+      "id": "bog-win-8"
     },
     {
       "name": "Rocket's Hitmonchan (Winner)",
       "number": 9,
       "rarity": "Promo",
-      "id": ""
+      "id": "bog-win-9"
     }
   ],
   "additionalCards": [
@@ -112,56 +112,56 @@
       "name": "Electabuzz",
       "number": 1,
       "rarity": "Oversized Promo",
-      "id": "",
+      "id": "bog-ac-1",
       "description": "Non-Holo Winner Stamped - BattleZone Tournaments Promo"
     },
     {
       "name": "Hitmonchan",
       "number": 2,
       "rarity": "Oversized Promo",
-      "id": "",
+      "id": "bog-ac-2",
       "description": "Non-Holo Winner Stamped - BattleZone Tournaments Promo"
     },
     {
       "name": "Rocket's Scizor",
       "number": 4,
       "rarity": "Oversized Promo",
-      "id": "",
+      "id": "bog-ac-4",
       "description": "Non-Holo Winner Stamped - BattleZone Tournaments Promo"
     },
     {
       "name": "Rocket's Sneasel",
       "number": 5,
       "rarity": "Oversized Promo",
-      "id": "",
+      "id": "bog-ac-5",
       "description": "Non-Holo Winner Stamped - BattleZone Tournaments Promo"
     },
     {
       "name": "Dark Ivysaur",
       "number": 6,
       "rarity": "Oversized Promo",
-      "id": "",
+      "id": "bog-ac-6",
       "description": "Non-Holo Winner Stamped - BattleZone Tournaments Promo"
     },
     {
       "name": "Dark Venusaur",
       "number": 7,
       "rarity": "Oversized Promo",
-      "id": "",
+      "id": "bog-ac-7",
       "description": "Non-Holo Winner Stamped - BattleZone Tournaments Promo"
     },
     {
       "name": "Rocket's Mewtwo (Winner)",
       "number": 8,
       "rarity": "Oversized Promo",
-      "id": "",
+      "id": "bog-ac-8",
       "description": "Non-Holo Winner Stamped - BattleZone Tournaments Promo"
     },
     {
       "name": "Rocket's Hitmonchan (Winner)",
       "number": 9,
       "rarity": "Oversized Promo",
-      "id": "",
+      "id": "bog-ac-9",
       "description": "Non-Holo Winner Stamped - BattleZone Tournaments Promo"
     }
   ],

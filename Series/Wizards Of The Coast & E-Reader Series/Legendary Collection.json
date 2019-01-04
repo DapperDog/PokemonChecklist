@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -7,115 +7,115 @@
   "coreCards": [
     {
       "id": "base6-1",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Alakazam",
       "number": "1/110"
     },
     {
       "id": "base6-2",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Articuno",
       "number": "2/110"
     },
     {
       "id": "base6-3",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Charizard",
       "number": "3/110"
     },
     {
       "id": "base6-4",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Dark Blastoise",
       "number": "4/110"
     },
     {
       "id": "base6-5",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Dark Dragonite",
       "number": "5/110"
     },
     {
       "id": "base6-6",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Dark Persian",
       "number": "6/110"
     },
     {
       "id": "base6-7",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Dark Raichu",
       "number": "7/110"
     },
     {
       "id": "base6-8",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Dark Slowbro",
       "number": "8/110"
     },
     {
       "id": "base6-9",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Dark Vaporeon",
       "number": "9/110"
     },
     {
       "id": "base6-10",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Flareon",
       "number": "10/110"
     },
     {
       "id": "base6-11",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Gengar",
       "number": "11/110"
     },
     {
       "id": "base6-12",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Gyarados",
       "number": "12/110"
     },
     {
       "id": "base6-13",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Hitmonlee",
       "number": "13/110"
     },
     {
       "id": "base6-14",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Jolteon",
       "number": "14/110"
     },
     {
       "id": "base6-15",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Machamp",
       "number": "15/110"
     },
     {
       "id": "base6-16",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Muk",
       "number": "16/110"
     },
     {
       "id": "base6-17",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Ninetales",
       "number": "17/110"
     },
     {
       "id": "base6-18",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Venusaur",
       "number": "18/110"
     },
     {
       "id": "base6-19",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Zapdos",
       "number": "19/110"
     },

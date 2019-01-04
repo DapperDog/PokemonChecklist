@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Unlimited",
     "1st Edition"
@@ -7,121 +7,121 @@
   "coreCards": [
     {
       "id": "gym2-1",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Blaine's Arcanine",
       "number": "1/132"
     },
     {
       "id": "gym2-2",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Blaine's Charizard",
       "number": "2/132"
     },
     {
       "id": "gym2-3",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Brock's Ninetales",
       "number": "3/132"
     },
     {
       "id": "gym2-4",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Erika's Venusaur",
       "number": "4/132"
     },
     {
       "id": "gym2-5",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Giovanni's Gyarados",
       "number": "5/132"
     },
     {
       "id": "gym2-6",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Giovanni's Machamp",
       "number": "6/132"
     },
     {
       "id": "gym2-7",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Giovanni's Nidoking",
       "number": "7/132"
     },
     {
       "id": "gym2-8",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Giovanni's Persian",
       "number": "8/132"
     },
     {
       "id": "gym2-9",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Koga's Beedrill",
       "number": "9/132"
     },
     {
       "id": "gym2-10",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Koga's Ditto",
       "number": "10/132"
     },
     {
       "id": "gym2-11",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Lt. Surge's Raichu",
       "number": "11/132"
     },
     {
       "id": "gym2-12",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Misty's Golduck",
       "number": "12/132"
     },
     {
       "id": "gym2-13",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Misty's Gyarados",
       "number": "13/132"
     },
     {
       "id": "gym2-14",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Rocket's Mewtwo",
       "number": "14/132"
     },
     {
       "id": "gym2-15",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Rocket's Zapdos",
       "number": "15/132"
     },
     {
       "id": "gym2-16",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Sabrina's Alakazam",
       "number": "16/132"
     },
     {
       "id": "gym2-17",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Blaine",
       "number": "17/132"
     },
     {
       "id": "gym2-18",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Giovanni",
       "number": "18/132"
     },
     {
       "id": "gym2-19",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Koga",
       "number": "19/132"
     },
     {
       "id": "gym2-20",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Sabrina",
       "number": "20/132"
     },

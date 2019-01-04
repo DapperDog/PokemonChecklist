@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Unlimited",
     "1st Edition"
@@ -7,97 +7,97 @@
   "coreCards": [
     {
       "id": "base2-1",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Clefable",
       "number": "1/64"
     },
     {
       "id": "base2-2",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Electrode",
       "number": "2/64"
     },
     {
       "id": "base2-3",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Flareon",
       "number": "3/64"
     },
     {
       "id": "base2-4",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Jolteon",
       "number": "4/64"
     },
     {
       "id": "base2-5",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Kangaskhan",
       "number": "5/64"
     },
     {
       "id": "base2-6",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Mr. Mime",
       "number": "6/64"
     },
     {
       "id": "base2-7",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Nidoqueen",
       "number": "7/64"
     },
     {
       "id": "base2-8",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Pidgeot",
       "number": "8/64"
     },
     {
       "id": "base2-9",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Pinsir",
       "number": "9/64"
     },
     {
       "id": "base2-10",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Scyther",
       "number": "10/64"
     },
     {
       "id": "base2-11",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Snorlax",
       "number": "11/64"
     },
     {
       "id": "base2-12",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Vaporeon",
       "number": "12/64"
     },
     {
       "id": "base2-13",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Venomoth",
       "number": "13/64"
     },
     {
       "id": "base2-14",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Victreebel",
       "number": "14/64"
     },
     {
       "id": "base2-15",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Vileplume",
       "number": "15/64"
     },
     {
       "id": "base2-16",
-      "rarity": "Rare",
+      "rarity": "Holo Rare",
       "name": "Wigglytuff",
       "number": "16/64"
     },
