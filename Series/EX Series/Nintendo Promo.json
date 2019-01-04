@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -225,7 +225,7 @@
       "name": "Kyogre ex",
       "number": "37",
       "rarity": "Promo",
-      "id": "nintendo-1-37"
+      "id": "nintendo-37"
     },
     {
       "name": "Groudon ex",
