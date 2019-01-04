@@ -159,7 +159,8 @@
       "id": "xy11-26",
       "rarity": "EX",
       "name": "Volcanion-EX",
-      "number": "26/114"
+      "number": "26/114",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy11-27",
@@ -405,13 +406,15 @@
       "id": "xy11-67",
       "rarity": "EX",
       "name": "Steelix-EX",
-      "number": "67/114"
+      "number": "67/114",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy11-68",
       "rarity": "EX",
       "name": "M Steelix-EX",
-      "number": "68/114"
+      "number": "68/114",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy11-69",
@@ -453,7 +456,8 @@
       "id": "xy11-75",
       "rarity": "EX",
       "name": "Magearna-EX",
-      "number": "75/114"
+      "number": "75/114",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy11-76",
@@ -471,13 +475,15 @@
       "id": "xy11-78",
       "rarity": "EX",
       "name": "Gardevoir-EX",
-      "number": "78/114"
+      "number": "78/114",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy11-79",
       "rarity": "EX",
       "name": "M Gardevoir-EX",
-      "number": "79/114"
+      "number": "79/114",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy11-80",
@@ -645,61 +651,71 @@
       "id": "xy11-107",
       "rarity": "Full Art",
       "name": "Volcanion-EX",
-      "number": "107/114"
+      "number": "107/114",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy11-108",
       "rarity": "Full Art",
       "name": "Steelix-EX",
-      "number": "108/114"
+      "number": "108/114",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy11-109",
       "rarity": "Full Art",
       "name": "M Steelix-EX",
-      "number": "109/114"
+      "number": "109/114",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy11-110",
       "rarity": "Full Art",
       "name": "Magearna-EX",
-      "number": "110/114"
+      "number": "110/114",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy11-111",
       "rarity": "Full Art",
       "name": "Gardevoir-EX",
-      "number": "111/114"
+      "number": "111/114",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy11-112",
       "rarity": "Full Art",
       "name": "M Gardevoir-EX",
-      "number": "112/114"
+      "number": "112/114",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy11-113",
       "rarity": "Full Art",
       "name": "Pok\u00e9mon Ranger",
-      "number": "113/114"
+      "number": "113/114",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy11-114",
       "rarity": "Full Art",
       "name": "Professor Sycamore",
-      "number": "114/114"
+      "number": "114/114",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy11-115",
       "rarity": "Secret Rare",
       "name": "Volcanion-EX",
-      "number": "115/114"
+      "number": "115/114",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy11-116",
       "rarity": "EX",
       "name": "Gardevoir-EX",
-      "number": "116/114"
+      "number": "116/114",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

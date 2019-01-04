@@ -585,13 +585,15 @@
       "id": "bw2-97",
       "rarity": "Full Art",
       "name": "Thundurus",
-      "number": "97/98"
+      "number": "97/98",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw2-98",
       "rarity": "Full Art",
       "name": "Tornadus",
-      "number": "98/98"
+      "number": "98/98",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

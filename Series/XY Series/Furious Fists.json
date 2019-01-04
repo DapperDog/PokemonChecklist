@@ -27,13 +27,15 @@
       "id": "xy3-4",
       "rarity": "EX",
       "name": "Heracross-EX",
-      "number": "4/111"
+      "number": "4/111",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy3-5",
       "rarity": "EX",
       "name": "M Heracross-EX",
-      "number": "5/111"
+      "number": "5/111",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy3-6",
@@ -123,7 +125,8 @@
       "id": "xy3-20",
       "rarity": "EX",
       "name": "Seismitoad-EX",
-      "number": "20/111"
+      "number": "20/111",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy3-21",
@@ -327,19 +330,15 @@
       "id": "xy3-54",
       "rarity": "EX",
       "name": "Lucario-EX",
-      "number": "54/111"
+      "number": "54/111",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy3-55",
       "rarity": "EX",
       "name": "M Lucario-EX",
-      "number": "55/111"
-    },
-    {
-      "id": "xy3-55a",
-      "rarity": "EX",
-      "name": "M Lucario-EX",
-      "number": "55/111a"
+      "number": "55/111",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy3-56",
@@ -393,7 +392,8 @@
       "id": "xy3-64",
       "rarity": "EX",
       "name": "Hawlucha-EX",
-      "number": "64/111"
+      "number": "64/111",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy3-65",
@@ -453,7 +453,8 @@
       "id": "xy3-74",
       "rarity": "EX",
       "name": "Dragonite-EX",
-      "number": "74/111"
+      "number": "74/111",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy3-75",
@@ -639,55 +640,64 @@
       "id": "xy3-105",
       "rarity": "Full Art",
       "name": "Heracross-EX",
-      "number": "105/111"
+      "number": "105/111",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy3-106",
       "rarity": "Full Art",
       "name": "Seismitoad-EX",
-      "number": "106/111"
+      "number": "106/111",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy3-107",
       "rarity": "Full Art",
       "name": "Lucario-EX",
-      "number": "107/111"
+      "number": "107/111",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy3-108",
       "rarity": "Full Art",
       "name": "Dragonite-EX",
-      "number": "108/111"
+      "number": "108/111",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy3-109",
       "rarity": "Full Art",
       "name": "Battle Reporter",
-      "number": "109/111"
+      "number": "109/111",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy3-110",
       "rarity": "Full Art",
       "name": "Fossil Researcher",
-      "number": "110/111"
+      "number": "110/111",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy3-111",
       "rarity": "Full Art",
       "name": "Korrina",
-      "number": "111/111"
+      "number": "111/111",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy3-112",
       "rarity": "Secret Rare",
       "name": "M Heracross-EX",
-      "number": "112/111"
+      "number": "112/111",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy3-113",
       "rarity": "Secret Rare",
       "name": "M Lucario-EX",
-      "number": "113/111"
+      "number": "113/111",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

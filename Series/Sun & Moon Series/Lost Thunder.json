@@ -105,7 +105,8 @@
       "id": "sm8-17",
       "rarity": "GX",
       "name": "Shuckle-GX",
-      "number": "17/214"
+      "number": "17/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-18",
@@ -135,7 +136,8 @@
       "id": "sm8-22",
       "rarity": "GX",
       "name": "Sceptile-GX",
-      "number": "22/214"
+      "number": "22/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-23",
@@ -207,7 +209,8 @@
       "id": "sm8-34",
       "rarity": "GX",
       "name": "Virizion-GX",
-      "number": "34/214"
+      "number": "34/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-35",
@@ -267,7 +270,8 @@
       "id": "sm8-44",
       "rarity": "GX",
       "name": "Magcargo-GX",
-      "number": "44/214"
+      "number": "44/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-45",
@@ -315,7 +319,8 @@
       "id": "sm8-52",
       "rarity": "GX",
       "name": "Blacephalon-GX",
-      "number": "52/214"
+      "number": "52/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-53",
@@ -363,7 +368,8 @@
       "id": "sm8-60",
       "rarity": "GX",
       "name": "Suicune-GX",
-      "number": "60/214"
+      "number": "60/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-61",
@@ -417,7 +423,8 @@
       "id": "sm8-69",
       "rarity": "Rare",
       "name": "Toxapex",
-      "number": "69/214"
+      "number": "69/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-70",
@@ -519,7 +526,8 @@
       "id": "sm8-86",
       "rarity": "GX",
       "name": "Zeraora-GX",
-      "number": "86/214"
+      "number": "86/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-87",
@@ -591,7 +599,8 @@
       "id": "sm8-98",
       "rarity": "GX",
       "name": "Sigilyph-GX",
-      "number": "98/214"
+      "number": "98/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-99",
@@ -729,7 +738,8 @@
       "id": "sm8-121",
       "rarity": "GX",
       "name": "Tyranitar-GX",
-      "number": "121/214"
+      "number": "121/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-122",
@@ -783,7 +793,8 @@
       "id": "sm8-130",
       "rarity": "GX",
       "name": "Genesect-GX",
-      "number": "130/214"
+      "number": "130/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-131",
@@ -795,7 +806,8 @@
       "id": "sm8-132",
       "rarity": "GX",
       "name": "Alolan Ninetales-GX",
-      "number": "132/214"
+      "number": "132/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-133",
@@ -897,7 +909,8 @@
       "id": "sm8-149",
       "rarity": "GX",
       "name": "Mimikyu-GX",
-      "number": "149/214"
+      "number": "149/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-150",
@@ -957,7 +970,8 @@
       "id": "sm8-159",
       "rarity": "GX",
       "name": "Lugia-GX",
-      "number": "159/214"
+      "number": "159/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-160",
@@ -1069,9 +1083,10 @@
     },
     {
       "id": "sm8-178",
-      "rarity": "Holo Rare",
+      "rarity": "Prism Star",
       "name": "Heat Factory \u25c7",
-      "number": "178/214"
+      "number": "178/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-179",
@@ -1081,9 +1096,10 @@
     },
     {
       "id": "sm8-180",
-      "rarity": "Holo Rare",
+      "rarity": "Prism Star",
       "name": "Life Forest \u25c7",
-      "number": "180/214"
+      "number": "180/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-181",
@@ -1093,9 +1109,10 @@
     },
     {
       "id": "sm8-182",
-      "rarity": "Holo Rare",
+      "rarity": "Prism Star",
       "name": "Lusamine \u25c7",
-      "number": "182/214"
+      "number": "182/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-183",
@@ -1147,9 +1164,10 @@
     },
     {
       "id": "sm8-191",
-      "rarity": "Holo Rare",
+      "rarity": "Prism Star",
       "name": "Thunder Mountain \u25c7",
-      "number": "191/214"
+      "number": "191/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-192",
@@ -1173,253 +1191,295 @@
       "id": "sm8-195",
       "rarity": "Full Art",
       "name": "Shuckle-GX",
-      "number": "195/214"
+      "number": "195/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-196",
       "rarity": "Full Art",
       "name": "Sceptile-GX",
-      "number": "196/214"
+      "number": "196/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-197",
       "rarity": "Full Art",
       "name": "Virizion-GX",
-      "number": "197/214"
+      "number": "197/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-198",
       "rarity": "Full Art",
       "name": "Magcargo-GX",
-      "number": "198/214"
+      "number": "198/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-199",
       "rarity": "Full Art",
       "name": "Blacephalon-GX",
-      "number": "199/214"
+      "number": "199/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-200",
       "rarity": "Full Art",
       "name": "Suicune-GX",
-      "number": "200/214"
+      "number": "200/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-201",
       "rarity": "Full Art",
       "name": "Zeraora-GX",
-      "number": "201/214"
+      "number": "201/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-202",
       "rarity": "Full Art",
       "name": "Sigilyph-GX",
-      "number": "202/214"
+      "number": "202/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-203",
       "rarity": "Full Art",
       "name": "Tyranitar-GX",
-      "number": "203/214"
+      "number": "203/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-204",
       "rarity": "Full Art",
       "name": "Genesect-GX",
-      "number": "204/214"
+      "number": "204/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-205",
       "rarity": "Full Art",
       "name": "Alolan Ninetales-GX",
-      "number": "205/214"
+      "number": "205/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-206",
       "rarity": "Full Art",
       "name": "Mimikyu-GX",
-      "number": "206/214"
+      "number": "206/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-207",
       "rarity": "Full Art",
       "name": "Lugia-GX",
-      "number": "207/214"
+      "number": "207/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-208",
       "rarity": "Full Art",
       "name": "Faba",
-      "number": "208/214"
+      "number": "208/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-209",
       "rarity": "Full Art",
       "name": "Judge",
-      "number": "209/214"
+      "number": "209/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-210",
       "rarity": "Full Art",
       "name": "Kahili",
-      "number": "210/214"
+      "number": "210/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-211",
       "rarity": "Full Art",
       "name": "Mina",
-      "number": "211/214"
+      "number": "211/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-212",
       "rarity": "Full Art",
       "name": "Morty",
-      "number": "212/214"
+      "number": "212/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-213",
       "rarity": "Full Art",
       "name": "Professor Elm's Lecture",
-      "number": "213/214"
+      "number": "213/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-214",
       "rarity": "Full Art",
       "name": "Whitney",
-      "number": "214/214"
+      "number": "214/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-215",
       "rarity": "Secret Rare",
       "name": "Shuckle-GX",
-      "number": "215/214"
+      "number": "215/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-216",
       "rarity": "Secret Rare",
       "name": "Sceptile-GX",
-      "number": "216/214"
+      "number": "216/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-217",
       "rarity": "Secret Rare",
       "name": "Virizion-GX",
-      "number": "217/214"
+      "number": "217/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-218",
       "rarity": "Secret Rare",
       "name": "Magcargo-GX",
-      "number": "218/214"
+      "number": "218/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-219",
       "rarity": "Secret Rare",
       "name": "Blacephalon-GX",
-      "number": "219/214"
+      "number": "219/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-220",
       "rarity": "Secret Rare",
       "name": "Suicune-GX",
-      "number": "220/214"
+      "number": "220/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-221",
       "rarity": "Secret Rare",
       "name": "Zeraora-GX",
-      "number": "221/214"
+      "number": "221/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-222",
       "rarity": "Secret Rare",
       "name": "Sigilyph-GX",
-      "number": "222/214"
+      "number": "222/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-223",
       "rarity": "Secret Rare",
       "name": "Tyranitar-GX",
-      "number": "223/214"
+      "number": "223/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-224",
       "rarity": "Secret Rare",
       "name": "Genesect-GX",
-      "number": "224/214"
+      "number": "224/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-225",
       "rarity": "Secret Rare",
       "name": "Alolan Ninetales-GX",
-      "number": "225/214"
+      "number": "225/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-226",
       "rarity": "Secret Rare",
       "name": "Mimikyu-GX",
-      "number": "226/214"
+      "number": "226/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-227",
       "rarity": "Secret Rare",
       "name": "Lugia-GX",
-      "number": "227/214"
+      "number": "227/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-228",
       "rarity": "Secret Rare",
       "name": "Adventure Bag",
-      "number": "228/214"
+      "number": "228/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-229",
       "rarity": "Secret Rare",
       "name": "Choice Helmet",
-      "number": "229/214"
+      "number": "229/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-230",
       "rarity": "Secret Rare",
       "name": "Counter Gain",
-      "number": "230/214"
+      "number": "230/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-231",
       "rarity": "Secret Rare",
       "name": "Custom Catcher",
-      "number": "231/214"
+      "number": "231/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-232",
       "rarity": "Secret Rare",
       "name": "Electropower",
-      "number": "232/214"
+      "number": "232/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-233",
       "rarity": "Secret Rare",
       "name": "Lost Blender",
-      "number": "233/214"
+      "number": "233/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-234",
       "rarity": "Secret Rare",
       "name": "Net Ball",
-      "number": "234/214"
+      "number": "234/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-235",
       "rarity": "Secret Rare",
       "name": "Spell Tag",
-      "number": "235/214"
+      "number": "235/214",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm8-236",
       "rarity": "Secret Rare",
       "name": "Wait and See Hammer",
-      "number": "236/214"
+      "number": "236/214",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [],

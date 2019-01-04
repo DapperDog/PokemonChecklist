@@ -621,25 +621,29 @@
       "id": "dp4-103",
       "rarity": "Level X",
       "name": "Cresselia",
-      "number": "103/106"
+      "number": "103/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp4-104",
       "rarity": "Level X",
       "name": "Darkrai",
-      "number": "104/106"
+      "number": "104/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp4-105",
       "rarity": "Level X",
       "name": "Dialga",
-      "number": "105/106"
+      "number": "105/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp4-106",
       "rarity": "Level X",
       "name": "Palkia",
-      "number": "106/106"
+      "number": "106/106",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

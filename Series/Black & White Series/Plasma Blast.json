@@ -55,9 +55,10 @@
     },
     {
       "id": "bw10-9",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Virizion-EX",
-      "number": "9/101"
+      "number": "9/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw10-10",
@@ -67,9 +68,10 @@
     },
     {
       "id": "bw10-11",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Genesect-EX",
-      "number": "11/101"
+      "number": "11/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw10-12",
@@ -181,9 +183,10 @@
     },
     {
       "id": "bw10-30",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Kyurem-EX",
-      "number": "30/101"
+      "number": "30/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw10-31",
@@ -361,9 +364,10 @@
     },
     {
       "id": "bw10-60",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Jirachi-EX",
-      "number": "60/101"
+      "number": "60/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw10-61",
@@ -391,15 +395,17 @@
     },
     {
       "id": "bw10-65",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Dialga-EX",
-      "number": "65/101"
+      "number": "65/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw10-66",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Palkia-EX",
-      "number": "66/101"
+      "number": "66/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw10-67",
@@ -579,61 +585,71 @@
       "id": "bw10-96",
       "rarity": "Full Art",
       "name": "Virizion-EX",
-      "number": "96/101"
+      "number": "96/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw10-97",
       "rarity": "Full Art",
       "name": "Genesect-EX",
-      "number": "97/101"
+      "number": "97/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw10-98",
       "rarity": "Full Art",
       "name": "Jirachi-EX",
-      "number": "98/101"
+      "number": "98/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw10-99",
       "rarity": "Full Art",
       "name": "Dialga-EX",
-      "number": "99/101"
+      "number": "99/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw10-100",
       "rarity": "Full Art",
       "name": "Palkia-EX",
-      "number": "100/101"
+      "number": "100/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw10-101",
       "rarity": "Full Art",
       "name": "Iris",
-      "number": "101/101"
+      "number": "101/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw10-102",
       "rarity": "Secret Rare",
       "name": "Exeggcute",
-      "number": "102/101"
+      "number": "102/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw10-103",
       "rarity": "Secret Rare",
       "name": "Virizion",
-      "number": "103/101"
+      "number": "103/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw10-104",
       "rarity": "Secret Rare",
       "name": "Dusknoir",
-      "number": "104/101"
+      "number": "104/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw10-105",
       "rarity": "Secret Rare",
       "name": "Rare Candy",
-      "number": "105/101"
+      "number": "105/101",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

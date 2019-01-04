@@ -723,19 +723,22 @@
       "id": "dp1-120",
       "rarity": "Level X",
       "name": "Empoleon",
-      "number": "120/130"
+      "number": "120/130",
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp1-121",
       "rarity": "Level X",
       "name": "Infernape",
-      "number": "121/130"
+      "number": "121/130",
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp1-122",
       "rarity": "Level X",
       "name": "Torterra",
-      "number": "122/130"
+      "number": "122/130",
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp1-123",

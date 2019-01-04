@@ -597,37 +597,43 @@
       "id": "ex13-99",
       "rarity": "EX",
       "name": "Crawdaunt ex",
-      "number": "99/110"
+      "number": "99/110",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex13-100",
       "rarity": "EX",
       "name": "Mew ex",
-      "number": "100/110"
+      "number": "100/110",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex13-101",
       "rarity": "EX",
       "name": "Mightyena ex",
-      "number": "101/110"
+      "number": "101/110",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex13-102",
       "rarity": "Gold Star",
       "name": "Gyarados Star",
-      "number": "102/110"
+      "number": "102/110",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex13-103",
       "rarity": "Gold Star",
       "name": "Mewtwo Star",
-      "number": "103/110"
+      "number": "103/110",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex13-104",
       "rarity": "Gold Star",
       "name": "Pikachu Star",
-      "number": "104/110"
+      "number": "104/110",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex13-105",
@@ -675,7 +681,8 @@
       "id": "ex13-111",
       "rarity": "Secret Rare",
       "name": "Mew",
-      "number": "111/110"
+      "number": "111/110",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

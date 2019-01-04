@@ -123,7 +123,8 @@
       "id": "sm6-20",
       "rarity": "GX",
       "name": "Palkia-GX",
-      "number": "20/131"
+      "number": "20/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-21",
@@ -147,7 +148,8 @@
       "id": "sm6-24",
       "rarity": "GX",
       "name": "Greninja-GX",
-      "number": "24/131"
+      "number": "24/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-25",
@@ -187,9 +189,10 @@
     },
     {
       "id": "sm6-31",
-      "rarity": "Holo Rare",
+      "rarity": "Prism Star",
       "name": "Volcanion \u25c7",
-      "number": "31/131"
+      "number": "31/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-32",
@@ -339,7 +342,8 @@
       "id": "sm6-56",
       "rarity": "GX",
       "name": "Naganadel-GX",
-      "number": "56/131"
+      "number": "56/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-57",
@@ -441,13 +445,15 @@
       "id": "sm6-73",
       "rarity": "GX",
       "name": "Zygarde-GX",
-      "number": "73/131"
+      "number": "73/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-74",
-      "rarity": "Holo Rare",
+      "rarity": "Prism Star",
       "name": "Diancie \u25c7",
-      "number": "74/131"
+      "number": "74/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-75",
@@ -477,7 +483,8 @@
       "id": "sm6-79",
       "rarity": "GX",
       "name": "Yveltal-GX",
-      "number": "79/131"
+      "number": "79/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-80",
@@ -495,7 +502,8 @@
       "id": "sm6-82",
       "rarity": "GX",
       "name": "Dialga-GX",
-      "number": "82/131"
+      "number": "82/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-83",
@@ -543,7 +551,8 @@
       "id": "sm6-90",
       "rarity": "GX",
       "name": "Xerneas-GX",
-      "number": "90/131"
+      "number": "90/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-91",
@@ -573,13 +582,15 @@
       "id": "sm6-95",
       "rarity": "GX",
       "name": "Ultra Necrozma-GX",
-      "number": "95/131"
+      "number": "95/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-96",
-      "rarity": "Holo Rare",
+      "rarity": "Prism Star",
       "name": "Arceus \u25c7",
-      "number": "96/131"
+      "number": "96/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-97",
@@ -661,9 +672,10 @@
     },
     {
       "id": "sm6-110",
-      "rarity": "Holo Rare",
+      "rarity": "Prism Star",
       "name": "Lysandre \u25c7",
-      "number": "110/131"
+      "number": "110/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-111",
@@ -703,9 +715,10 @@
     },
     {
       "id": "sm6-117",
-      "rarity": "Holo Rare",
+      "rarity": "Prism Star",
       "name": "Beast Energy \u25c7",
-      "number": "117/131"
+      "number": "117/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-118",
@@ -717,169 +730,197 @@
       "id": "sm6-119",
       "rarity": "Full Art",
       "name": "Palkia-GX",
-      "number": "119/131"
+      "number": "119/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-120",
       "rarity": "Full Art",
       "name": "Greninja-GX",
-      "number": "120/131"
+      "number": "120/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-121",
       "rarity": "Full Art",
       "name": "Naganadel-GX",
-      "number": "121/131"
+      "number": "121/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-122",
       "rarity": "Full Art",
       "name": "Lucario-GX",
-      "number": "122/131"
+      "number": "122/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-123",
       "rarity": "Full Art",
       "name": "Zygarde-GX",
-      "number": "123/131"
+      "number": "123/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-124",
       "rarity": "Full Art",
       "name": "Yveltal-GX",
-      "number": "124/131"
+      "number": "124/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-125",
       "rarity": "Full Art",
       "name": "Dialga-GX",
-      "number": "125/131"
+      "number": "125/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-126",
       "rarity": "Full Art",
       "name": "Xerneas-GX",
-      "number": "126/131"
+      "number": "126/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-127",
       "rarity": "Full Art",
       "name": "Ultra Necrozma-GX",
-      "number": "127/131"
+      "number": "127/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-128",
       "rarity": "Full Art",
       "name": "Bonnie",
-      "number": "128/131"
+      "number": "128/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-129",
       "rarity": "Full Art",
       "name": "Crasher Wake",
-      "number": "129/131"
+      "number": "129/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-130",
       "rarity": "Full Art",
       "name": "Diantha",
-      "number": "130/131"
+      "number": "130/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-131",
       "rarity": "Full Art",
       "name": "Ultra Recon Squad",
-      "number": "131/131"
+      "number": "131/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-132",
       "rarity": "Secret Rare",
       "name": "Palkia-GX",
-      "number": "132/131"
+      "number": "132/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-133",
       "rarity": "Secret Rare",
       "name": "Greninja-GX",
-      "number": "133/131"
+      "number": "133/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-134",
       "rarity": "Secret Rare",
       "name": "Naganadel-GX",
-      "number": "134/131"
+      "number": "134/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-135",
       "rarity": "Secret Rare",
       "name": "Lucario-GX",
-      "number": "135/131"
+      "number": "135/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-136",
       "rarity": "Secret Rare",
       "name": "Zygarde-GX",
-      "number": "136/131"
+      "number": "136/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-137",
       "rarity": "Secret Rare",
       "name": "Yveltal-GX",
-      "number": "137/131"
+      "number": "137/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-138",
       "rarity": "Secret Rare",
       "name": "Dialga-GX",
-      "number": "138/131"
+      "number": "138/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-139",
       "rarity": "Secret Rare",
       "name": "Xerneas-GX",
-      "number": "139/131"
+      "number": "139/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-140",
       "rarity": "Secret Rare",
       "name": "Ultra Necrozma-GX",
-      "number": "140/131"
+      "number": "140/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-141",
       "rarity": "Secret Rare",
       "name": "Beast Ring",
-      "number": "141/131"
+      "number": "141/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-142",
       "rarity": "Secret Rare",
       "name": "Eneporter",
-      "number": "142/131"
+      "number": "142/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-143",
       "rarity": "Secret Rare",
       "name": "Energy Recycler",
-      "number": "143/131"
+      "number": "143/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-144",
       "rarity": "Secret Rare",
       "name": "Metal Frying Pan",
-      "number": "144/131"
+      "number": "144/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-145",
       "rarity": "Secret Rare",
       "name": "Mysterious Treasure",
-      "number": "145/131"
+      "number": "145/131",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm6-146",
       "rarity": "Secret Rare",
       "name": "Unit Energy FightingDarknessFairy",
-      "number": "146/131"
+      "number": "146/131",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

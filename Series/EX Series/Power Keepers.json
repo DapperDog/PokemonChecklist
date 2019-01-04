@@ -555,67 +555,78 @@
       "id": "ex16-92",
       "rarity": "EX",
       "name": "Absol ex",
-      "number": "92/108"
+      "number": "92/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex16-93",
       "rarity": "EX",
       "name": "Claydol ex",
-      "number": "93/108"
+      "number": "93/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex16-94",
       "rarity": "EX",
       "name": "Flygon ex",
-      "number": "94/108"
+      "number": "94/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex16-95",
       "rarity": "EX",
       "name": "Metagross ex",
-      "number": "95/108"
+      "number": "95/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex16-96",
       "rarity": "EX",
       "name": "Salamence ex",
-      "number": "96/108"
+      "number": "96/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex16-97",
       "rarity": "EX",
       "name": "Shiftry ex",
-      "number": "97/108"
+      "number": "97/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex16-98",
       "rarity": "EX",
       "name": "Skarmory ex",
-      "number": "98/108"
+      "number": "98/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex16-99",
       "rarity": "EX",
       "name": "Walrein ex",
-      "number": "99/108"
+      "number": "99/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex16-100",
       "rarity": "Gold Star",
       "name": "Flareon Star",
-      "number": "100/108"
+      "number": "100/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex16-101",
       "rarity": "Gold Star",
       "name": "Jolteon Star",
-      "number": "101/108"
+      "number": "101/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex16-102",
       "rarity": "Gold Star",
       "name": "Vaporeon Star",
-      "number": "102/108"
+      "number": "102/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex16-103",

@@ -567,109 +567,127 @@
       "id": "pl4-94",
       "rarity": "Level X",
       "name": "Arceus",
-      "number": "94/99"
+      "number": "94/99",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl4-95",
       "rarity": "Level X",
       "name": "Arceus",
-      "number": "95/99"
+      "number": "95/99",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl4-96",
       "rarity": "Level X",
       "name": "Arceus",
-      "number": "96/99"
+      "number": "96/99",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl4-97",
       "rarity": "Level X",
       "name": "Gengar",
-      "number": "97/99"
+      "number": "97/99",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl4-98",
       "rarity": "Level X",
       "name": "Salamence",
-      "number": "98/99"
+      "number": "98/99",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl4-99",
       "rarity": "Level X",
       "name": "Tangrowth",
-      "number": "99/99"
+      "number": "99/99",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl4-SH10",
       "rarity": "Secret Rare",
       "name": "Bagon",
-      "number": "SH10"
+      "number": "SH10",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl4-SH11",
       "rarity": "Secret Rare",
       "name": "Ponyta",
-      "number": "SH11"
+      "number": "SH11",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl4-SH12",
       "rarity": "Secret Rare",
       "name": "Shinx",
-      "number": "SH12"
+      "number": "SH12",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl4-AR1",
       "rarity": "Secret Rare",
       "name": "Arceus",
-      "number": "AR1"
+      "number": "AR1",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl4-AR2",
       "rarity": "Secret Rare",
       "name": "Arceus",
-      "number": "AR2"
+      "number": "AR2",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl4-AR3",
       "rarity": "Secret Rare",
       "name": "Arceus",
-      "number": "AR3"
+      "number": "AR3",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl4-AR4",
       "rarity": "Secret Rare",
       "name": "Arceus",
-      "number": "AR4"
+      "number": "AR4",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl4-AR5",
       "rarity": "Secret Rare",
       "name": "Arceus",
-      "number": "AR5"
+      "number": "AR5",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl4-AR6",
       "rarity": "Secret Rare",
       "name": "Arceus",
-      "number": "AR6"
+      "number": "AR6",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl4-AR7",
       "rarity": "Secret Rare",
       "name": "Arceus",
-      "number": "AR7"
+      "number": "AR7",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl4-AR8",
       "rarity": "Secret Rare",
       "name": "Arceus",
-      "number": "AR8"
+      "number": "AR8",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl4-AR9",
       "rarity": "Secret Rare",
       "name": "Arceus",
-      "number": "AR9"
+      "number": "AR9",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

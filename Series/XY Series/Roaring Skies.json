@@ -159,7 +159,8 @@
       "id": "xy6-26",
       "rarity": "EX",
       "name": "Thundurus-EX",
-      "number": "26/108"
+      "number": "26/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy6-27",
@@ -207,13 +208,15 @@
       "id": "xy6-34",
       "rarity": "EX",
       "name": "Gallade-EX",
-      "number": "34/108"
+      "number": "34/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy6-35",
       "rarity": "EX",
       "name": "M Gallade-EX",
-      "number": "35/108"
+      "number": "35/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy6-36",
@@ -351,31 +354,36 @@
       "id": "xy6-58",
       "rarity": "EX",
       "name": "Latios-EX",
-      "number": "58/108"
+      "number": "58/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy6-59",
       "rarity": "EX",
       "name": "M Latios-EX",
-      "number": "59/108"
+      "number": "59/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy6-60",
       "rarity": "EX",
       "name": "Rayquaza-EX",
-      "number": "60/108"
+      "number": "60/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy6-61",
       "rarity": "EX",
       "name": "M Rayquaza-EX",
-      "number": "61/108"
+      "number": "61/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy6-62",
       "rarity": "EX",
       "name": "Hydreigon-EX",
-      "number": "62/108"
+      "number": "62/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy6-63",
@@ -453,25 +461,22 @@
       "id": "xy6-75",
       "rarity": "EX",
       "name": "Rayquaza-EX",
-      "number": "75/108"
+      "number": "75/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy6-76",
       "rarity": "EX",
       "name": "M Rayquaza-EX",
-      "number": "76/108"
+      "number": "76/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy6-77",
       "rarity": "EX",
       "name": "Shaymin-EX",
-      "number": "77/108"
-    },
-    {
-      "id": "xy6-77a",
-      "rarity": "EX",
-      "name": "Shaymin-EX",
-      "number": "77/108a"
+      "number": "77/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy6-78",
@@ -603,79 +608,92 @@
       "id": "xy6-98",
       "rarity": "Full Art",
       "name": "Thundurus-EX",
-      "number": "98/108"
+      "number": "98/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy6-99",
       "rarity": "Full Art",
       "name": "Gallade-EX",
-      "number": "99/108"
+      "number": "99/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy6-100",
       "rarity": "Full Art",
       "name": "M Gallade-EX",
-      "number": "100/108"
+      "number": "100/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy6-101",
       "rarity": "Full Art",
       "name": "Latios-EX",
-      "number": "101/108"
+      "number": "101/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy6-102",
       "rarity": "Full Art",
       "name": "M Latios-EX",
-      "number": "102/108"
+      "number": "102/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy6-103",
       "rarity": "Full Art",
       "name": "Hydreigon-EX",
-      "number": "103/108"
+      "number": "103/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy6-104",
       "rarity": "Full Art",
       "name": "Rayquaza-EX",
-      "number": "104/108"
+      "number": "104/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy6-105",
       "rarity": "Full Art",
       "name": "M Rayquaza-EX",
-      "number": "105/108"
+      "number": "105/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy6-106",
       "rarity": "Full Art",
       "name": "Shaymin-EX",
-      "number": "106/108"
+      "number": "106/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy6-107",
       "rarity": "Full Art",
       "name": "Wally",
-      "number": "107/108"
+      "number": "107/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy6-108",
       "rarity": "Full Art",
       "name": "Winona",
-      "number": "108/108"
+      "number": "108/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy6-109",
       "rarity": "Secret Rare",
       "name": "Energy Switch",
-      "number": "109/108"
+      "number": "109/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy6-110",
       "rarity": "Secret Rare",
       "name": "VS Seeker",
-      "number": "110/108"
+      "number": "110/108",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

@@ -133,9 +133,10 @@
     },
     {
       "id": "bw6-22",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Ho-Oh-EX",
-      "number": "22/124"
+      "number": "22/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw6-23",
@@ -277,9 +278,10 @@
     },
     {
       "id": "bw6-46",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Mew-EX",
-      "number": "46/124"
+      "number": "46/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw6-47",
@@ -427,9 +429,10 @@
     },
     {
       "id": "bw6-71",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Terrakion-EX",
-      "number": "71/124"
+      "number": "71/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw6-72",
@@ -487,9 +490,10 @@
     },
     {
       "id": "bw6-81",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Registeel-EX",
-      "number": "81/124"
+      "number": "81/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw6-82",
@@ -511,9 +515,10 @@
     },
     {
       "id": "bw6-85",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Rayquaza-EX",
-      "number": "85/124"
+      "number": "85/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw6-86",
@@ -553,9 +558,10 @@
     },
     {
       "id": "bw6-92",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Giratina-EX",
-      "number": "92/124"
+      "number": "92/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw6-93",
@@ -717,61 +723,71 @@
       "id": "bw6-119",
       "rarity": "Full Art",
       "name": "Ho-Oh-EX",
-      "number": "119/124"
+      "number": "119/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw6-120",
       "rarity": "Full Art",
       "name": "Mew-EX",
-      "number": "120/124"
+      "number": "120/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw6-121",
       "rarity": "Full Art",
       "name": "Terrakion-EX",
-      "number": "121/124"
+      "number": "121/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw6-122",
       "rarity": "Full Art",
       "name": "Registeel-EX",
-      "number": "122/124"
+      "number": "122/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw6-123",
       "rarity": "Full Art",
       "name": "Rayquaza-EX",
-      "number": "123/124"
+      "number": "123/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw6-124",
       "rarity": "Full Art",
       "name": "Giratina-EX",
-      "number": "124/124"
+      "number": "124/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw6-125",
       "rarity": "Secret Rare",
       "name": "Serperior",
-      "number": "125/124"
+      "number": "125/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw6-126",
       "rarity": "Secret Rare",
       "name": "Reuniclus",
-      "number": "126/124"
+      "number": "126/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw6-127",
       "rarity": "Secret Rare",
       "name": "Krookodile",
-      "number": "127/124"
+      "number": "127/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw6-128",
       "rarity": "Secret Rare",
       "name": "Rayquaza",
-      "number": "128/124"
+      "number": "128/124",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

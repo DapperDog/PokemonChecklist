@@ -45,13 +45,15 @@
       "id": "xy7-7",
       "rarity": "EX",
       "name": "Sceptile-EX",
-      "number": "7/98"
+      "number": "7/98",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy7-8",
       "rarity": "EX",
       "name": "M Sceptile-EX",
-      "number": "8/98"
+      "number": "8/98",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy7-9",
@@ -153,7 +155,8 @@
       "id": "xy7-25",
       "rarity": "EX",
       "name": "Kyurem-EX",
-      "number": "25/98"
+      "number": "25/98",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy7-26",
@@ -165,13 +168,15 @@
       "id": "xy7-27",
       "rarity": "EX",
       "name": "Ampharos-EX",
-      "number": "27/98"
+      "number": "27/98",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy7-28",
       "rarity": "EX",
       "name": "M Ampharos-EX",
-      "number": "28/98"
+      "number": "28/98",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy7-29",
@@ -219,13 +224,15 @@
       "id": "xy7-36",
       "rarity": "EX",
       "name": "Hoopa-EX",
-      "number": "36/98"
+      "number": "36/98",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy7-37",
       "rarity": "EX",
       "name": "Machamp-EX",
-      "number": "37/98"
+      "number": "37/98",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy7-38",
@@ -255,13 +262,15 @@
       "id": "xy7-42",
       "rarity": "EX",
       "name": "Tyranitar-EX",
-      "number": "42/98"
+      "number": "42/98",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy7-43",
       "rarity": "EX",
       "name": "M Tyranitar-EX",
-      "number": "43/98"
+      "number": "43/98",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy7-44",
@@ -345,7 +354,8 @@
       "id": "xy7-57",
       "rarity": "EX",
       "name": "Giratina-EX",
-      "number": "57/98"
+      "number": "57/98",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy7-58",
@@ -411,7 +421,8 @@
       "id": "xy7-68",
       "rarity": "EX",
       "name": "Lugia-EX",
-      "number": "68/98"
+      "number": "68/98",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy7-69",
@@ -513,103 +524,120 @@
       "id": "xy7-84",
       "rarity": "Full Art",
       "name": "Sceptile-EX",
-      "number": "84/98"
+      "number": "84/98",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy7-85",
       "rarity": "Full Art",
       "name": "M Sceptile-EX",
-      "number": "85/98"
+      "number": "85/98",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy7-86",
       "rarity": "Full Art",
       "name": "Kyurem-EX",
-      "number": "86/98"
+      "number": "86/98",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy7-87",
       "rarity": "Full Art",
       "name": "Ampharos-EX",
-      "number": "87/98"
+      "number": "87/98",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy7-88",
       "rarity": "Full Art",
       "name": "M Ampharos-EX",
-      "number": "88/98"
+      "number": "88/98",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy7-89",
       "rarity": "Full Art",
       "name": "Hoopa-EX",
-      "number": "89/98"
+      "number": "89/98",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy7-90",
       "rarity": "Full Art",
       "name": "Machamp-EX",
-      "number": "90/98"
+      "number": "90/98",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy7-91",
       "rarity": "Full Art",
       "name": "Tyranitar-EX",
-      "number": "91/98"
+      "number": "91/98",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy7-92",
       "rarity": "Full Art",
       "name": "M Tyranitar-EX",
-      "number": "92/98"
+      "number": "92/98",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy7-93",
       "rarity": "Full Art",
       "name": "Giratina-EX",
-      "number": "93/98"
+      "number": "93/98",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy7-94",
       "rarity": "Full Art",
       "name": "Lugia-EX",
-      "number": "94/98"
+      "number": "94/98",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy7-95",
       "rarity": "Full Art",
       "name": "Steven",
-      "number": "95/98"
+      "number": "95/98",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy7-96",
       "rarity": "Full Art",
       "name": "Primal Kyogre-EX",
-      "number": "96/98"
+      "number": "96/98",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy7-97",
       "rarity": "Full Art",
       "name": "Primal Groudon-EX",
-      "number": "97/98"
+      "number": "97/98",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy7-98",
       "rarity": "Full Art",
       "name": "M Rayquaza-EX",
-      "number": "98/98"
+      "number": "98/98",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy7-99",
       "rarity": "Secret Rare",
       "name": "Energy Retrieval",
-      "number": "99/98"
+      "number": "99/98",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy7-100",
       "rarity": "Secret Rare",
       "name": "Trainers' Mail",
-      "number": "100/98"
+      "number": "100/98",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

@@ -39,7 +39,8 @@
       "id": "dc1-6",
       "rarity": "EX",
       "name": "Team Aqua's Kyogre-ex",
-      "number": "6/34"
+      "number": "6/34",
+      "exclusions":["Reverse"]
     },
     {
       "id": "dc1-7",
@@ -93,7 +94,8 @@
       "id": "dc1-15",
       "rarity": "EX",
       "name": "Team Magma's Groudon-ex",
-      "number": "15/34"
+      "number": "15/34",
+      "exclusions":["Reverse"]
     },
     {
       "id": "dc1-16",

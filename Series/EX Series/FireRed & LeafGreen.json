@@ -627,55 +627,64 @@
       "id": "ex6-104",
       "rarity": "EX",
       "name": "Blastoise ex",
-      "number": "104/116"
+      "number": "104/116",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex6-105",
       "rarity": "EX",
       "name": "Charizard ex",
-      "number": "105/116"
+      "number": "105/116",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex6-106",
       "rarity": "EX",
       "name": "Clefable ex",
-      "number": "106/116"
+      "number": "106/116",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex6-107",
       "rarity": "EX",
       "name": "Electrode ex",
-      "number": "107/116"
+      "number": "107/116",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex6-108",
       "rarity": "EX",
       "name": "Gengar ex",
-      "number": "108/116"
+      "number": "108/116",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex6-109",
       "rarity": "EX",
       "name": "Gyarados ex",
-      "number": "109/116"
+      "number": "109/116",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex6-110",
       "rarity": "EX",
       "name": "Mr. Mime ex",
-      "number": "110/116"
+      "number": "110/116",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex6-111",
       "rarity": "EX",
       "name": "Mr. Mime ex",
-      "number": "111/116"
+      "number": "111/116",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex6-112",
       "rarity": "EX",
       "name": "Venusaur ex",
-      "number": "112/116"
+      "number": "112/116",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex6-113",
@@ -688,19 +697,22 @@
       "id": "ex6-114",
       "rarity": "EX",
       "name": "Articuno ex",
-      "number": "114/116"
+      "number": "114/116",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex6-115",
       "rarity": "EX",
       "name": "Moltres ex",
-      "number": "115/116"
+      "number": "115/116",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex6-116",
       "rarity": "EX",
       "name": "Zapdos ex",
-      "number": "116/116"
+      "number": "116/116",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

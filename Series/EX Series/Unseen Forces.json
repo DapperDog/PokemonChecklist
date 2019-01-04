@@ -609,271 +609,316 @@
       "id": "ex10-101",
       "rarity": "EX",
       "name": "Blissey ex",
-      "number": "101/115"
+      "number": "101/115",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-102",
       "rarity": "EX",
       "name": "Espeon ex",
-      "number": "102/115"
+      "number": "102/115",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-103",
       "rarity": "EX",
       "name": "Feraligatr ex",
-      "number": "103/115"
+      "number": "103/115",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-104",
       "rarity": "EX",
       "name": "Ho-Oh ex",
-      "number": "104/115"
+      "number": "104/115",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-105",
       "rarity": "EX",
       "name": "Lugia ex",
-      "number": "105/115"
+      "number": "105/115",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-106",
       "rarity": "EX",
       "name": "Meganium ex",
-      "number": "106/115"
+      "number": "106/115",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-107",
       "rarity": "EX",
       "name": "Politoed ex",
-      "number": "107/115"
+      "number": "107/115",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-108",
       "rarity": "EX",
       "name": "Scizor ex",
-      "number": "108/115"
+      "number": "108/115",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-109",
       "rarity": "EX",
       "name": "Steelix ex",
-      "number": "109/115"
+      "number": "109/115",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-110",
       "rarity": "EX",
       "name": "Typhlosion ex",
-      "number": "110/115"
+      "number": "110/115",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-111",
       "rarity": "EX",
       "name": "Tyranitar ex",
-      "number": "111/115"
+      "number": "111/115",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-112",
       "rarity": "EX",
       "name": "Umbreon ex",
-      "number": "112/115"
+      "number": "112/115",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-113",
       "rarity": "Gold Star",
       "name": "Entei Star",
-      "number": "113/115"
+      "number": "113/115",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-114",
       "rarity": "Gold Star",
       "name": "Raikou Star",
-      "number": "114/115"
+      "number": "114/115",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-115",
       "rarity": "Gold Star",
       "name": "Suicune Star",
-      "number": "115/115"
+      "number": "115/115",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-116",
       "rarity": "Secret Rare",
       "name": "Rocket's Persian ex",
-      "number": "116/115"
+      "number": "116/115",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-117",
       "rarity": "Secret Rare",
       "name": "Celebi ex",
-      "number": "117/115"
+      "number": "117/115",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-A",
       "rarity": "Secret Rare",
       "name": "Unown",
-      "number": "A"
+      "number": "A",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-B",
       "rarity": "Secret Rare",
       "name": "Unown",
-      "number": "B"
+      "number": "B",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-C",
       "rarity": "Secret Rare",
       "name": "Unown",
-      "number": "C"
+      "number": "C",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-D",
       "rarity": "Secret Rare",
       "name": "Unown",
-      "number": "D"
+      "number": "D",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-E",
       "rarity": "Secret Rare",
       "name": "Unown",
-      "number": "E"
+      "number": "E",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-F",
       "rarity": "Secret Rare",
       "name": "Unown",
-      "number": "F"
+      "number": "F",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-G",
       "rarity": "Secret Rare",
       "name": "Unown",
-      "number": "G"
+      "number": "G",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-H",
       "rarity": "Secret Rare",
       "name": "Unown",
-      "number": "H"
+      "number": "H",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-I",
       "rarity": "Secret Rare",
       "name": "Unown",
-      "number": "I"
+      "number": "I",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-J",
       "rarity": "Secret Rare",
       "name": "Unown",
-      "number": "J"
+      "number": "J",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-K",
       "rarity": "Secret Rare",
       "name": "Unown",
-      "number": "K"
+      "number": "K",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-L",
       "rarity": "Secret Rare",
       "name": "Unown",
-      "number": "L"
+      "number": "L",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-M",
       "rarity": "Secret Rare",
       "name": "Unown",
-      "number": "M"
+      "number": "M",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-N",
       "rarity": "Secret Rare",
       "name": "Unown",
-      "number": "N"
+      "number": "N",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-O",
       "rarity": "Secret Rare",
       "name": "Unown",
-      "number": "O"
+      "number": "O",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-P",
       "rarity": "Secret Rare",
       "name": "Unown",
-      "number": "P"
+      "number": "P",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-Q",
       "rarity": "Secret Rare",
       "name": "Unown",
-      "number": "Q"
+      "number": "Q",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-R",
       "rarity": "Secret Rare",
       "name": "Unown",
-      "number": "R"
+      "number": "R",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-S",
       "rarity": "Secret Rare",
       "name": "Unown",
-      "number": "S"
+      "number": "S",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-T",
       "rarity": "Secret Rare",
       "name": "Unown",
-      "number": "T"
+      "number": "T",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-U",
       "rarity": "Secret Rare",
       "name": "Unown",
-      "number": "U"
+      "number": "U",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-V",
       "rarity": "Secret Rare",
       "name": "Unown",
-      "number": "V"
+      "number": "V",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-W",
       "rarity": "Secret Rare",
       "name": "Unown",
-      "number": "W"
+      "number": "W",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-X",
       "rarity": "Secret Rare",
       "name": "Unown",
-      "number": "X"
+      "number": "X",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-Y",
       "rarity": "Secret Rare",
       "name": "Unown",
-      "number": "Y"
+      "number": "Y",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-Z",
       "rarity": "Secret Rare",
       "name": "Unown",
-      "number": "Z"
+      "number": "Z",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-!",
       "rarity": "Secret Rare",
       "name": "Unown",
-      "number": "!"
+      "number": "!",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex10-?",
       "rarity": "Secret Rare",
       "name": "Unown",
-      "number": "?"
+      "number": "?",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

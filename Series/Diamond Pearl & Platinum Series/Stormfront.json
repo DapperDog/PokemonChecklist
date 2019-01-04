@@ -579,67 +579,78 @@
       "id": "dp7-96",
       "rarity": "Level X",
       "name": "Dusknoir",
-      "number": "96/100"
+      "number": "96/100",
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp7-97",
       "rarity": "Level X",
       "name": "Heatran",
-      "number": "97/100"
+      "number": "97/100",
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp7-98",
       "rarity": "Level X",
       "name": "Machamp",
-      "number": "98/100"
+      "number": "98/100",
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp7-99",
       "rarity": "Level X",
       "name": "Raichu",
-      "number": "99/100"
+      "number": "99/100",
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp7-100",
       "rarity": "Level X",
       "name": "Regigigas",
-      "number": "100/100"
+      "number": "100/100",
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp7-101",
       "rarity": "Secret Rare",
       "name": "Charmander",
-      "number": "101/100"
+      "number": "101/100",
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp7-102",
       "rarity": "Secret Rare",
       "name": "Charmeleon",
-      "number": "102/100"
+      "number": "102/100",
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp7-103",
       "rarity": "Secret Rare",
       "name": "Charizard",
-      "number": "103/100"
+      "number": "103/100",
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp7-SH1",
       "rarity": "Secret Rare",
       "name": "Drifloon",
-      "number": "SH1"
+      "number": "SH1",
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp7-SH2",
       "rarity": "Secret Rare",
       "name": "Duskull",
-      "number": "SH2"
+      "number": "SH2",
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp7-SH3",
       "rarity": "Secret Rare",
       "name": "Voltorb",
-      "number": "SH3"
+      "number": "SH3",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

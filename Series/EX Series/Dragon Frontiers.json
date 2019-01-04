@@ -543,73 +543,85 @@
       "id": "ex15-90",
       "rarity": "EX",
       "name": "Altaria ex \u03b4",
-      "number": "90/101"
+      "number": "90/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex15-91",
       "rarity": "EX",
       "name": "Dragonite ex \u03b4",
-      "number": "91/101"
+      "number": "91/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex15-92",
       "rarity": "EX",
       "name": "Flygon ex \u03b4",
-      "number": "92/101"
+      "number": "92/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex15-93",
       "rarity": "EX",
       "name": "Gardevoir ex \u03b4",
-      "number": "93/101"
+      "number": "93/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex15-94",
       "rarity": "EX",
       "name": "Kingdra ex \u03b4",
-      "number": "94/101"
+      "number": "94/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex15-95",
       "rarity": "EX",
       "name": "Latias ex \u03b4",
-      "number": "95/101"
+      "number": "95/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex15-96",
       "rarity": "EX",
       "name": "Latios ex \u03b4",
-      "number": "96/101"
+      "number": "96/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex15-97",
       "rarity": "EX",
       "name": "Rayquaza ex \u03b4",
-      "number": "97/101"
+      "number": "97/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex15-98",
       "rarity": "EX",
       "name": "Salamence ex \u03b4",
-      "number": "98/101"
+      "number": "98/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex15-99",
       "rarity": "EX",
       "name": "Tyranitar ex \u03b4",
-      "number": "99/101"
+      "number": "99/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex15-100",
       "rarity": "Gold Star",
       "name": "Charizard Star \u03b4",
-      "number": "100/101"
+      "number": "100/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex15-101",
       "rarity": "Gold Star",
       "name": "Mew Star \u03b4",
-      "number": "101/101"
+      "number": "101/101",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

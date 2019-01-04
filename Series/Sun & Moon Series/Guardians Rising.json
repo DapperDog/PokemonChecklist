@@ -111,7 +111,8 @@
       "id": "sm2-18",
       "rarity": "GX",
       "name": "Turtonator-GX",
-      "number": "18/145"
+      "number": "18/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-19",
@@ -135,7 +136,8 @@
       "id": "sm2-22",
       "rarity": "GX",
       "name": "Alolan Ninetales-GX",
-      "number": "22/145"
+      "number": "22/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-23",
@@ -231,7 +233,8 @@
       "id": "sm2-38",
       "rarity": "GX",
       "name": "Wishiwashi-GX",
-      "number": "38/145"
+      "number": "38/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-39",
@@ -273,7 +276,8 @@
       "id": "sm2-45",
       "rarity": "GX",
       "name": "Vikavolt-GX",
-      "number": "45/145"
+      "number": "45/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-46",
@@ -285,7 +289,8 @@
       "id": "sm2-47",
       "rarity": "GX",
       "name": "Tapu Koko-GX",
-      "number": "47/145"
+      "number": "47/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-48",
@@ -345,7 +350,8 @@
       "id": "sm2-57",
       "rarity": "GX",
       "name": "Toxapex-GX",
-      "number": "57/145"
+      "number": "57/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-58",
@@ -363,7 +369,8 @@
       "id": "sm2-60",
       "rarity": "GX",
       "name": "Tapu Lele-GX",
-      "number": "60/145"
+      "number": "60/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-61",
@@ -447,7 +454,8 @@
       "id": "sm2-74",
       "rarity": "GX",
       "name": "Lycanroc-GX",
-      "number": "74/145"
+      "number": "74/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-75",
@@ -513,7 +521,8 @@
       "id": "sm2-85",
       "rarity": "GX",
       "name": "Metagross-GX",
-      "number": "85/145"
+      "number": "85/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-86",
@@ -555,7 +564,8 @@
       "id": "sm2-92",
       "rarity": "GX",
       "name": "Sylveon-GX",
-      "number": "92/145"
+      "number": "92/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-93",
@@ -603,7 +613,8 @@
       "id": "sm2-100",
       "rarity": "GX",
       "name": "Kommo-o-GX",
-      "number": "100/145"
+      "number": "100/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-101",
@@ -693,7 +704,8 @@
       "id": "sm2-115",
       "rarity": "GX",
       "name": "Drampa-GX",
-      "number": "115/145"
+      "number": "115/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-116",
@@ -789,235 +801,274 @@
       "id": "sm2-131",
       "rarity": "Full Art",
       "name": "Turtonator-GX",
-      "number": "131/145"
+      "number": "131/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-132",
       "rarity": "Full Art",
       "name": "Alolan Ninetales-GX",
-      "number": "132/145"
+      "number": "132/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-133",
       "rarity": "Full Art",
       "name": "Wishiwashi-GX",
-      "number": "133/145"
+      "number": "133/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-134",
       "rarity": "Full Art",
       "name": "Vikavolt-GX",
-      "number": "134/145"
+      "number": "134/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-135",
       "rarity": "Full Art",
       "name": "Tapu Koko-GX",
-      "number": "135/145"
+      "number": "135/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-136",
       "rarity": "Full Art",
       "name": "Toxapex-GX",
-      "number": "136/145"
+      "number": "136/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-137",
       "rarity": "Full Art",
       "name": "Tapu Lele-GX",
-      "number": "137/145"
+      "number": "137/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-138",
       "rarity": "Full Art",
       "name": "Lycanroc-GX",
-      "number": "138/145"
+      "number": "138/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-139",
       "rarity": "Full Art",
       "name": "Metagross-GX",
-      "number": "139/145"
+      "number": "139/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-140",
       "rarity": "Full Art",
       "name": "Sylveon-GX",
-      "number": "140/145"
+      "number": "140/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-141",
       "rarity": "Full Art",
       "name": "Kommo-o-GX",
-      "number": "141/145"
+      "number": "141/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-142",
       "rarity": "Full Art",
       "name": "Drampa-GX",
-      "number": "142/145"
+      "number": "142/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-143",
       "rarity": "Full Art",
       "name": "Hala",
-      "number": "143/145"
+      "number": "143/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-144",
       "rarity": "Full Art",
       "name": "Hau",
-      "number": "144/145"
+      "number": "144/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-145",
       "rarity": "Full Art",
       "name": "Mallow",
-      "number": "145/145"
+      "number": "145/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-146",
       "rarity": "Secret Rare",
       "name": "Decidueye-GX",
-      "number": "146/145"
+      "number": "146/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-147",
       "rarity": "Secret Rare",
       "name": "Incineroar-GX",
-      "number": "147/145"
+      "number": "147/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-148",
       "rarity": "Secret Rare",
       "name": "Turtonator-GX",
-      "number": "148/145"
+      "number": "148/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-149",
       "rarity": "Secret Rare",
       "name": "Primarina-GX",
-      "number": "149/145"
+      "number": "149/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-150",
       "rarity": "Secret Rare",
       "name": "Alolan Ninetales-GX",
-      "number": "150/145"
+      "number": "150/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-151",
       "rarity": "Secret Rare",
       "name": "Wishiwashi-GX",
-      "number": "151/145"
+      "number": "151/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-152",
       "rarity": "Secret Rare",
       "name": "Vikavolt-GX",
-      "number": "152/145"
+      "number": "152/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-153",
       "rarity": "Secret Rare",
       "name": "Tapu Koko-GX",
-      "number": "153/145"
+      "number": "153/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-154",
       "rarity": "Secret Rare",
       "name": "Toxapex-GX",
-      "number": "154/145"
+      "number": "154/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-155",
       "rarity": "Secret Rare",
       "name": "Tapu Lele-GX",
-      "number": "155/145"
+      "number": "155/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-156",
       "rarity": "Secret Rare",
       "name": "Lycanroc-GX",
-      "number": "156/145"
+      "number": "156/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-157",
       "rarity": "Secret Rare",
       "name": "Metagross-GX",
-      "number": "157/145"
+      "number": "157/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-158",
       "rarity": "Secret Rare",
       "name": "Sylveon-GX",
-      "number": "158/145"
+      "number": "158/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-159",
       "rarity": "Secret Rare",
       "name": "Kommo-o-GX",
-      "number": "159/145"
+      "number": "159/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-160",
       "rarity": "Secret Rare",
       "name": "Drampa-GX",
-      "number": "160/145"
+      "number": "160/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-161",
       "rarity": "Secret Rare",
       "name": "Aqua Patch",
-      "number": "161/145"
+      "number": "161/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-162",
       "rarity": "Secret Rare",
       "name": "Enhanced Hammer",
-      "number": "162/145"
+      "number": "162/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-163",
       "rarity": "Secret Rare",
       "name": "Field Blower",
-      "number": "163/145"
+      "number": "163/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-164",
       "rarity": "Secret Rare",
       "name": "Max Potion",
-      "number": "164/145"
+      "number": "164/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-165",
       "rarity": "Full Art",
       "name": "Rare Candy",
-      "number": "165/145"
+      "number": "165/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-166",
       "rarity": "Secret Rare",
       "name": "Double Colorless Energy",
-      "number": "166/145"
+      "number": "166/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-167",
       "rarity": "Secret Rare",
       "name": "Grass Energy",
-      "number": "167/145"
+      "number": "167/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-168",
       "rarity": "Secret Rare",
       "name": "Lightning Energy",
-      "number": "168/145"
+      "number": "168/145",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm2-169",
       "rarity": "Secret Rare",
       "name": "Fighting Energy",
-      "number": "169/145"
+      "number": "169/145",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

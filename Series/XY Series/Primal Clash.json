@@ -117,7 +117,8 @@
       "id": "xy5-19",
       "rarity": "EX",
       "name": "Trevenant-EX",
-      "number": "19/160"
+      "number": "19/160",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy5-20",
@@ -177,7 +178,8 @@
       "id": "xy5-29",
       "rarity": "EX",
       "name": "Camerupt-EX",
-      "number": "29/160"
+      "number": "29/160",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy5-30",
@@ -231,7 +233,8 @@
       "id": "xy5-38",
       "rarity": "EX",
       "name": "Wailord-EX",
-      "number": "38/160"
+      "number": "38/160",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy5-39",
@@ -327,13 +330,15 @@
       "id": "xy5-54",
       "rarity": "EX",
       "name": "Kyogre-EX",
-      "number": "54/160"
+      "number": "54/160",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy5-55",
       "rarity": "EX",
       "name": "Primal Kyogre-EX",
-      "number": "55/160"
+      "number": "55/160",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy5-56",
@@ -513,13 +518,15 @@
       "id": "xy5-85",
       "rarity": "EX",
       "name": "Groudon-EX",
-      "number": "85/160"
+      "number": "85/160",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy5-86",
       "rarity": "EX",
       "name": "Primal Groudon-EX",
-      "number": "86/160"
+      "number": "86/160",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy5-87",
@@ -549,7 +556,8 @@
       "id": "xy5-91",
       "rarity": "EX",
       "name": "Sharpedo-EX",
-      "number": "91/160"
+      "number": "91/160",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy5-92",
@@ -561,13 +569,15 @@
       "id": "xy5-93",
       "rarity": "EX",
       "name": "Aggron-EX",
-      "number": "93/160"
+      "number": "93/160",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy5-94",
       "rarity": "EX",
       "name": "M Aggron-EX",
-      "number": "94/160"
+      "number": "94/160",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy5-95",
@@ -633,13 +643,15 @@
       "id": "xy5-105",
       "rarity": "EX",
       "name": "Gardevoir-EX",
-      "number": "105/160"
+      "number": "105/160",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy5-106",
       "rarity": "EX",
       "name": "M Gardevoir-EX",
-      "number": "106/160"
+      "number": "106/160",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy5-107",
@@ -873,121 +885,141 @@
       "id": "xy5-145",
       "rarity": "Full Art",
       "name": "Trevenant-EX",
-      "number": "145/160"
+      "number": "145/160",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy5-146",
       "rarity": "Full Art",
       "name": "Camerupt-EX",
-      "number": "146/160"
+      "number": "146/160",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy5-147",
       "rarity": "Full Art",
       "name": "Wailord-EX",
-      "number": "147/160"
+      "number": "147/160",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy5-148",
       "rarity": "Full Art",
       "name": "Kyogre-EX",
-      "number": "148/160"
+      "number": "148/160",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy5-149",
       "rarity": "Full Art",
       "name": "Primal Kyogre-EX",
-      "number": "149/160"
+      "number": "149/160",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy5-150",
       "rarity": "Full Art",
       "name": "Groudon-EX",
-      "number": "150/160"
+      "number": "150/160",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy5-151",
       "rarity": "Full Art",
       "name": "Primal Groudon-EX",
-      "number": "151/160"
+      "number": "151/160",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy5-152",
       "rarity": "Full Art",
       "name": "Sharpedo-EX",
-      "number": "152/160"
+      "number": "152/160",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy5-153",
       "rarity": "Full Art",
       "name": "Aggron-EX",
-      "number": "153/160"
+      "number": "153/160",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy5-154",
       "rarity": "Full Art",
       "name": "M Aggron-EX",
-      "number": "154/160"
+      "number": "154/160",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy5-155",
       "rarity": "Full Art",
       "name": "Gardevoir-EX",
-      "number": "155/160"
+      "number": "155/160",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy5-156",
       "rarity": "Full Art",
       "name": "M Gardevoir-EX",
-      "number": "156/160"
+      "number": "156/160",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy5-157",
       "rarity": "Full Art",
       "name": "Archie's Ace in the Hole",
-      "number": "157/160"
+      "number": "157/160",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy5-158",
       "rarity": "Full Art",
       "name": "Maxie's Hidden Ball Trick",
-      "number": "158/160"
+      "number": "158/160",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy5-159",
       "rarity": "Full Art",
       "name": "Professor Birch's Observations",
-      "number": "159/160"
+      "number": "159/160",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy5-160",
       "rarity": "Full Art",
       "name": "Teammates",
-      "number": "160/160"
+      "number": "160/160",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy5-161",
       "rarity": "Secret Rare",
       "name": "Dive Ball",
-      "number": "161/160"
+      "number": "161/160",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy5-162",
       "rarity": "Secret Rare",
       "name": "Enhanced Hammer",
-      "number": "162/160"
+      "number": "162/160",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy5-163",
       "rarity": "Secret Rare",
       "name": "Switch",
-      "number": "163/160"
+      "number": "163/160",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy5-164",
       "rarity": "Secret Rare",
       "name": "Weakness Policy",
-      "number": "164/160"
+      "number": "164/160",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

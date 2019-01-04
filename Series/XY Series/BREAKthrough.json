@@ -129,13 +129,15 @@
       "id": "xy8-21",
       "rarity": "EX",
       "name": "Houndoom-EX",
-      "number": "21/162"
+      "number": "21/162",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy8-22",
       "rarity": "EX",
       "name": "M Houndoom-EX",
-      "number": "22/162"
+      "number": "22/162",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy8-23",
@@ -207,13 +209,15 @@
       "id": "xy8-34",
       "rarity": "EX",
       "name": "Glalie-EX",
-      "number": "34/162"
+      "number": "34/162",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy8-35",
       "rarity": "EX",
       "name": "M Glalie-EX",
-      "number": "35/162"
+      "number": "35/162",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy8-36",
@@ -369,25 +373,29 @@
       "id": "xy8-61",
       "rarity": "EX",
       "name": "Mewtwo-EX",
-      "number": "61/162"
+      "number": "61/162",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy8-62",
       "rarity": "EX",
       "name": "Mewtwo-EX",
-      "number": "62/162"
+      "number": "62/162",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy8-63",
       "rarity": "EX",
       "name": "M Mewtwo-EX",
-      "number": "63/162"
+      "number": "63/162",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy8-64",
       "rarity": "EX",
       "name": "M Mewtwo-EX",
-      "number": "64/162"
+      "number": "64/162",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy8-65",
@@ -921,73 +929,85 @@
       "id": "xy8-153",
       "rarity": "Full Art",
       "name": "Houndoom-EX",
-      "number": "153/162"
+      "number": "153/162",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy8-154",
       "rarity": "Full Art",
       "name": "M Houndoom-EX",
-      "number": "154/162"
+      "number": "154/162",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy8-155",
       "rarity": "Full Art",
       "name": "Glalie-EX",
-      "number": "155/162"
+      "number": "155/162",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy8-156",
       "rarity": "Full Art",
       "name": "M Glalie-EX",
-      "number": "156/162"
+      "number": "156/162",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy8-157",
       "rarity": "Full Art",
       "name": "Mewtwo-EX",
-      "number": "157/162"
+      "number": "157/162",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy8-158",
       "rarity": "Full Art",
       "name": "Mewtwo-EX",
-      "number": "158/162"
+      "number": "158/162",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy8-159",
       "rarity": "Full Art",
       "name": "M Mewtwo-EX",
-      "number": "159/162"
+      "number": "159/162",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy8-160",
       "rarity": "Full Art",
       "name": "M Mewtwo-EX",
-      "number": "160/162"
+      "number": "160/162",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy8-161",
       "rarity": "Full Art",
       "name": "Brigette",
-      "number": "161/162"
+      "number": "161/162",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy8-162",
       "rarity": "Full Art",
       "name": "Giovanni's Scheme",
-      "number": "162/162"
+      "number": "162/162",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy8-163",
-      "rarity": "Holo Rare",
+      "rarity": "Secret Rare",
       "name": "Mewtwo-EX",
-      "number": "163/162"
+      "number": "163/162",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy8-164",
-      "rarity": "Holo Rare",
+      "rarity": "Secret Rare",
       "name": "Mewtwo-EX",
-      "number": "164/162"
+      "number": "164/162",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

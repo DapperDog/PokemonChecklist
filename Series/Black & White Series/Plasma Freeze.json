@@ -79,9 +79,10 @@
     },
     {
       "id": "bw9-13",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Heatran-EX",
-      "number": "13/116"
+      "number": "13/116",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw9-14",
@@ -229,9 +230,10 @@
     },
     {
       "id": "bw9-38",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Thundurus-EX",
-      "number": "38/116"
+      "number": "38/116",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw9-39",
@@ -319,9 +321,10 @@
     },
     {
       "id": "bw9-53",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Deoxys-EX",
-      "number": "53/116"
+      "number": "53/116",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw9-54",
@@ -511,15 +514,17 @@
     },
     {
       "id": "bw9-85",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Latias-EX",
-      "number": "85/116"
+      "number": "85/116",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw9-86",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Latios-EX",
-      "number": "86/116"
+      "number": "86/116",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw9-87",
@@ -589,9 +594,10 @@
     },
     {
       "id": "bw9-98",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Tornadus-EX",
-      "number": "98/116"
+      "number": "98/116",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw9-99",
@@ -657,85 +663,99 @@
       "id": "bw9-109",
       "rarity": "Full Art",
       "name": "Heatran-EX",
-      "number": "109/116"
+      "number": "109/116",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw9-110",
       "rarity": "Full Art",
       "name": "Thundurus-EX",
-      "number": "110/116"
+      "number": "110/116",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw9-111",
       "rarity": "Full Art",
       "name": "Deoxys-EX",
-      "number": "111/116"
+      "number": "111/116",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw9-112",
       "rarity": "Full Art",
       "name": "Latias-EX",
-      "number": "112/116"
+      "number": "112/116",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw9-113",
       "rarity": "Full Art",
       "name": "Latios-EX",
-      "number": "113/116"
+      "number": "113/116",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw9-114",
       "rarity": "Full Art",
       "name": "Tornadus-EX",
-      "number": "114/116"
+      "number": "114/116",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw9-115",
       "rarity": "Full Art",
       "name": "Ghetsis",
-      "number": "115/116"
+      "number": "115/116",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw9-116",
       "rarity": "Full Art",
       "name": "Professor Juniper",
-      "number": "116/116"
+      "number": "116/116",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw9-117",
       "rarity": "Secret Rare",
       "name": "Empoleon",
-      "number": "117/116"
+      "number": "117/116",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw9-118",
       "rarity": "Secret Rare",
       "name": "Sigilyph",
-      "number": "118/116"
+      "number": "118/116",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw9-119",
       "rarity": "Secret Rare",
       "name": "Garbodor",
-      "number": "119/116"
+      "number": "119/116",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw9-120",
       "rarity": "Secret Rare",
       "name": "Garchomp",
-      "number": "120/116"
+      "number": "120/116",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw9-121",
       "rarity": "Secret Rare",
       "name": "Max Potion",
-      "number": "121/116"
+      "number": "121/116",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw9-122",
       "rarity": "Secret Rare",
       "name": "Ultra Ball",
-      "number": "122/116"
+      "number": "122/116",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

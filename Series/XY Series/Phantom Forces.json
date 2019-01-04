@@ -141,19 +141,15 @@
       "id": "xy4-23",
       "rarity": "EX",
       "name": "Manectric-EX",
-      "number": "23/119"
+      "number": "23/119",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy4-24",
       "rarity": "EX",
       "name": "M Manectric-EX",
-      "number": "24/119"
-    },
-    {
-      "id": "xy4-24a",
-      "rarity": "EX",
-      "name": "M Manectric-EX",
-      "number": "24/119a"
+      "number": "24/119",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy4-25",
@@ -213,13 +209,15 @@
       "id": "xy4-34",
       "rarity": "EX",
       "name": "Gengar-EX",
-      "number": "34/119"
+      "number": "34/119",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy4-35",
       "rarity": "EX",
       "name": "M Gengar-EX",
-      "number": "35/119"
+      "number": "35/119",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy4-36",
@@ -357,7 +355,8 @@
       "id": "xy4-58",
       "rarity": "EX",
       "name": "Malamar-EX",
-      "number": "58/119"
+      "number": "58/119",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy4-59",
@@ -381,7 +380,8 @@
       "id": "xy4-62",
       "rarity": "EX",
       "name": "Dialga-EX",
-      "number": "62/119"
+      "number": "62/119",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy4-63",
@@ -399,13 +399,8 @@
       "id": "xy4-65",
       "rarity": "EX",
       "name": "Aegislash-EX",
-      "number": "65/119"
-    },
-    {
-      "id": "xy4-65a",
-      "rarity": "EX",
-      "name": "Aegislash-EX",
-      "number": "65/119a"
+      "number": "65/119",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy4-66",
@@ -417,7 +412,8 @@
       "id": "xy4-67",
       "rarity": "EX",
       "name": "Florges-EX",
-      "number": "67/119"
+      "number": "67/119",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy4-68",
@@ -693,61 +689,71 @@
       "id": "xy4-113",
       "rarity": "Full Art",
       "name": "Manectric-EX",
-      "number": "113/119"
+      "number": "113/119",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy4-114",
       "rarity": "Full Art",
       "name": "Gengar-EX",
-      "number": "114/119"
+      "number": "114/119",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy4-115",
       "rarity": "Full Art",
       "name": "Malamar-EX",
-      "number": "115/119"
+      "number": "115/119",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy4-116",
       "rarity": "Full Art",
       "name": "Florges-EX",
-      "number": "116/119"
+      "number": "116/119",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy4-117",
       "rarity": "Full Art",
       "name": "AZ",
-      "number": "117/119"
+      "number": "117/119",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy4-118",
       "rarity": "Full Art",
       "name": "Lysandre's Trump Card",
-      "number": "118/119"
+      "number": "118/119",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy4-119",
       "rarity": "Full Art",
       "name": "Xerosic",
-      "number": "119/119"
+      "number": "119/119",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy4-120",
       "rarity": "Secret Rare",
       "name": "Mega Manetric EX",
-      "number": "120/119"
+      "number": "120/119",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy4-121",
       "rarity": "Secret Rare",
       "name": "Mega Gengar EX",
-      "number": "121/119"
+      "number": "121/119",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy4-122",
       "rarity": "Secret Rare",
       "name": "Dialga EX",
-      "number": "122/119"
+      "number": "122/119",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

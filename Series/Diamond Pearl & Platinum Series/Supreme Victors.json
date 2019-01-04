@@ -849,79 +849,92 @@
       "id": "pl3-141",
       "rarity": "Level X",
       "name": "Absol G",
-      "number": "141/147"
+      "number": "141/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl3-142",
       "rarity": "Level X",
       "name": "Blaziken FB",
-      "number": "142/147"
+      "number": "142/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl3-143",
       "rarity": "Level X",
       "name": "Charizard G",
-      "number": "143/147"
+      "number": "143/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl3-144",
       "rarity": "Level X",
       "name": "Electivire FB",
-      "number": "144/147"
+      "number": "144/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl3-145",
       "rarity": "Level X",
       "name": "Garchomp C",
-      "number": "145/147"
+      "number": "145/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl3-146",
       "rarity": "Level X",
       "name": "Rayquaza C",
-      "number": "146/147"
+      "number": "146/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl3-147",
       "rarity": "Level X",
       "name": "Staraptor FB",
-      "number": "147/147"
+      "number": "147/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl3-148",
       "rarity": "Secret Rare",
       "name": "Articuno",
-      "number": "148/147"
+      "number": "148/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl3-149",
       "rarity": "Secret Rare",
       "name": "Moltres",
-      "number": "149/147"
+      "number": "149/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl3-150",
       "rarity": "Secret Rare",
       "name": "Zapdos",
-      "number": "150/147"
+      "number": "150/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl3-SH7",
       "rarity": "Secret Rare",
       "name": "Milotic",
-      "number": "SH7"
+      "number": "SH7",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl3-SH8",
       "rarity": "Secret Rare",
       "name": "Relicanth",
-      "number": "SH8"
+      "number": "SH8",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl3-SH9",
       "rarity": "Secret Rare",
       "name": "Yanma",
-      "number": "SH9"
+      "number": "SH9",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

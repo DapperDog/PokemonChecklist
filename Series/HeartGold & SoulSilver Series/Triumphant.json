@@ -549,79 +549,92 @@
       "id": "hgss4-91",
       "rarity": "Prime",
       "name": "Absol",
-      "number": "91/102"
+      "number": "91/102",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss4-92",
       "rarity": "Prime",
       "name": "Celebi",
-      "number": "92/102"
+      "number": "92/102",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss4-93",
       "rarity": "Prime",
       "name": "Electrode",
-      "number": "93/102"
+      "number": "93/102",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss4-94",
       "rarity": "Prime",
       "name": "Gengar",
-      "number": "94/102"
+      "number": "94/102",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss4-95",
       "rarity": "Prime",
       "name": "Machamp",
-      "number": "95/102"
+      "number": "95/102",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss4-96",
       "rarity": "Prime",
       "name": "Magnezone",
-      "number": "96/102"
+      "number": "96/102",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss4-97",
       "rarity": "Prime",
       "name": "Mew",
-      "number": "97/102"
+      "number": "97/102",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss4-98",
       "rarity": "Prime",
       "name": "Yanmega",
-      "number": "98/102"
+      "number": "98/102",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss4-99",
       "rarity": "LEGEND",
       "name": "Darkrai & Cresselia LEGEND",
-      "number": "99/102"
+      "number": "99/102",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss4-100",
       "rarity": "LEGEND",
       "name": "Darkrai & Cresselia LEGEND",
-      "number": "100/102"
+      "number": "100/102",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss4-101",
       "rarity": "LEGEND",
       "name": "Palkia & Dialga LEGEND",
-      "number": "101/102"
+      "number": "101/102",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss4-102",
       "rarity": "LEGEND",
       "name": "Palkia & Dialga LEGEND",
-      "number": "102/102"
+      "number": "102/102",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss4-FOUR",
       "rarity": "Secret Rare",
       "name": "Alph Lithograph",
-      "number": "FOUR"
+      "number": "FOUR",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

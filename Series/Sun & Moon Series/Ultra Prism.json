@@ -81,7 +81,8 @@
       "id": "sm5-13",
       "rarity": "GX",
       "name": "Leafeon-GX",
-      "number": "13/156"
+      "number": "13/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-14",
@@ -237,7 +238,8 @@
       "id": "sm5-39",
       "rarity": "GX",
       "name": "Glaceon-GX",
-      "number": "39/156"
+      "number": "39/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-40",
@@ -349,9 +351,10 @@
     },
     {
       "id": "sm5-58",
-      "rarity": "Holo Rare",
+      "rarity": "Prism Star",
       "name": "Giratina \u25c7",
-      "number": "58/156"
+      "number": "58/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-59",
@@ -373,15 +376,17 @@
     },
     {
       "id": "sm5-62",
-      "rarity": "Holo Rare",
+      "rarity": "Prism Star",
       "name": "Lunala \u25c7",
-      "number": "62/156"
+      "number": "62/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-63",
       "rarity": "GX",
       "name": "Dawn Wings Necrozma-GX",
-      "number": "63/156"
+      "number": "63/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-64",
@@ -463,9 +468,10 @@
     },
     {
       "id": "sm5-77",
-      "rarity": "Holo Rare",
+      "rarity": "Prism Star",
       "name": "Darkrai \u25c7",
-      "number": "77/156"
+      "number": "77/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-78",
@@ -535,15 +541,17 @@
     },
     {
       "id": "sm5-89",
-      "rarity": "Holo Rare",
+      "rarity": "Prism Star",
       "name": "Solgaleo \u25c7",
-      "number": "89/156"
+      "number": "89/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-90",
       "rarity": "GX",
       "name": "Dusk Mane Necrozma-GX",
-      "number": "90/156"
+      "number": "90/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-91",
@@ -603,13 +611,15 @@
       "id": "sm5-100",
       "rarity": "GX",
       "name": "Dialga-GX",
-      "number": "100/156"
+      "number": "100/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-101",
       "rarity": "GX",
       "name": "Palkia-GX",
-      "number": "101/156"
+      "number": "101/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-102",
@@ -699,7 +709,8 @@
       "id": "sm5-116",
       "rarity": "GX",
       "name": "Silvally-GX",
-      "number": "116/156"
+      "number": "116/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-117",
@@ -721,9 +732,10 @@
     },
     {
       "id": "sm5-120",
-      "rarity": "Holo Rare",
+      "rarity": "Prism Star",
       "name": "Cyrus \u25c7",
-      "number": "120/156"
+      "number": "120/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-121",
@@ -817,9 +829,10 @@
     },
     {
       "id": "sm5-136",
-      "rarity": "Holo Rare",
+      "rarity": "Prism Star",
       "name": "Super Boost Energy \u25c7",
-      "number": "136/156"
+      "number": "136/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-137",
@@ -837,211 +850,246 @@
       "id": "sm5-139",
       "rarity": "Full Art",
       "name": "Leafeon-GX",
-      "number": "139/156"
+      "number": "139/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-140",
       "rarity": "Full Art",
       "name": "Pheromosa-GX",
-      "number": "140/156"
+      "number": "140/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-141",
       "rarity": "Full Art",
       "name": "Glaceon-GX",
-      "number": "141/156"
+      "number": "141/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-142",
       "rarity": "Full Art",
       "name": "Xurkitree-GX",
-      "number": "142/156"
+      "number": "142/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-143",
       "rarity": "Full Art",
       "name": "Dawn Wings Necrozma-GX",
-      "number": "143/156"
+      "number": "143/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-144",
       "rarity": "Full Art",
       "name": "Celesteela-GX",
-      "number": "144/156"
+      "number": "144/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-145",
       "rarity": "Full Art",
       "name": "Dusk Mane Necrozma-GX",
-      "number": "145/156"
+      "number": "145/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-146",
       "rarity": "Full Art",
       "name": "Dialga-GX",
-      "number": "146/156"
+      "number": "146/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-147",
       "rarity": "Full Art",
       "name": "Palkia-GX",
-      "number": "147/156"
+      "number": "147/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-148",
       "rarity": "Full Art",
       "name": "Cynthia",
-      "number": "148/156"
+      "number": "148/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-149",
       "rarity": "Full Art",
       "name": "Gardenia",
-      "number": "149/156"
+      "number": "149/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-150",
       "rarity": "Full Art",
       "name": "Lana",
-      "number": "150/156"
+      "number": "150/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-151",
       "rarity": "Full Art",
       "name": "Lillie",
-      "number": "151/156"
+      "number": "151/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-152",
       "rarity": "Full Art",
       "name": "Looker",
-      "number": "152/156"
+      "number": "152/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-153",
       "rarity": "Full Art",
       "name": "Lusamine",
-      "number": "153/156"
+      "number": "153/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-154",
       "rarity": "Full Art",
       "name": "Mars",
-      "number": "154/156"
+      "number": "154/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-155",
       "rarity": "Full Art",
       "name": "Pok\u00e9mon Fan Club",
-      "number": "155/156"
+      "number": "155/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-156",
       "rarity": "Full Art",
       "name": "Volkner",
-      "number": "156/156"
+      "number": "156/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-157",
       "rarity": "Secret Rare",
       "name": "Leafeon-GX",
-      "number": "157/156"
+      "number": "157/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-158",
       "rarity": "Secret Rare",
       "name": "Pheromosa-GX",
-      "number": "158/156"
+      "number": "158/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-159",
       "rarity": "Secret Rare",
       "name": "Glaceon-GX",
-      "number": "159/156"
+      "number": "159/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-160",
       "rarity": "Secret Rare",
       "name": "Xurkitree-GX",
-      "number": "160/156"
+      "number": "160/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-161",
       "rarity": "Secret Rare",
       "name": "Dawn Wings Necrozma-GX",
-      "number": "161/156"
+      "number": "161/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-162",
       "rarity": "Secret Rare",
       "name": "Celesteela-GX",
-      "number": "162/156"
+      "number": "162/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-163",
       "rarity": "Secret Rare",
       "name": "Dusk Mane Necrozma-GX",
-      "number": "163/156"
+      "number": "163/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-164",
       "rarity": "Secret Rare",
       "name": "Dialga-GX",
-      "number": "164/156"
+      "number": "164/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-165",
       "rarity": "Secret Rare",
       "name": "Palkia-GX",
-      "number": "165/156"
+      "number": "165/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-166",
       "rarity": "Secret Rare",
       "name": "Crushing Hammer",
-      "number": "166/156"
+      "number": "166/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-167",
       "rarity": "Secret Rare",
       "name": "Escape Board",
-      "number": "167/156"
+      "number": "167/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-168",
       "rarity": "Secret Rare",
       "name": "Missing Clover",
-      "number": "168/156"
+      "number": "168/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-169",
       "rarity": "Secret Rare",
       "name": "Peeking Red Card",
-      "number": "169/156"
+      "number": "169/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-170",
       "rarity": "Secret Rare",
       "name": "Unit Energy GrassFireWater",
-      "number": "170/156"
+      "number": "170/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-171",
       "rarity": "Secret Rare",
       "name": "Unit Energy LightningPsychicMetal",
-      "number": "171/156"
+      "number": "171/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-172",
       "rarity": "Secret Rare",
       "name": "Lunala-GX",
-      "number": "172/156"
+      "number": "172/156",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm5-173",
       "rarity": "Secret Rare",
       "name": "Solgaleo-GX",
-      "number": "173/156"
+      "number": "173/156",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

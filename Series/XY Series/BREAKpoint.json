@@ -87,7 +87,8 @@
       "id": "xy9-14",
       "rarity": "EX",
       "name": "Emboar-EX",
-      "number": "14/122"
+      "number": "14/122",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy9-15",
@@ -159,13 +160,15 @@
       "id": "xy9-26",
       "rarity": "EX",
       "name": "Gyarados-EX",
-      "number": "26/122"
+      "number": "26/122",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy9-27",
       "rarity": "EX",
       "name": "M Gyarados-EX",
-      "number": "27/122"
+      "number": "27/122",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy9-28",
@@ -189,13 +192,15 @@
       "id": "xy9-31",
       "rarity": "EX",
       "name": "Palkia-EX",
-      "number": "31/122"
+      "number": "31/122",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy9-32",
       "rarity": "EX",
       "name": "Manaphy-EX",
-      "number": "32/122"
+      "number": "32/122",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy9-33",
@@ -315,7 +320,8 @@
       "id": "xy9-52",
       "rarity": "EX",
       "name": "Espeon-EX",
-      "number": "52/122"
+      "number": "52/122",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy9-53",
@@ -447,7 +453,8 @@
       "id": "xy9-74",
       "rarity": "EX",
       "name": "Darkrai-EX",
-      "number": "74/122"
+      "number": "74/122",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy9-75",
@@ -459,13 +466,15 @@
       "id": "xy9-76",
       "rarity": "EX",
       "name": "Scizor-EX",
-      "number": "76/122"
+      "number": "76/122",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy9-77",
       "rarity": "EX",
       "name": "M Scizor-EX",
-      "number": "77/122"
+      "number": "77/122",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy9-78",
@@ -501,7 +510,8 @@
       "id": "xy9-83",
       "rarity": "EX",
       "name": "Togekiss-EX",
-      "number": "83/122"
+      "number": "83/122",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy9-84",
@@ -555,7 +565,8 @@
       "id": "xy9-92",
       "rarity": "EX",
       "name": "Ho-Oh-EX",
-      "number": "92/122"
+      "number": "92/122",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy9-93",
@@ -699,61 +710,71 @@
       "id": "xy9-114",
       "rarity": "Full Art",
       "name": "Gyarados-EX",
-      "number": "114/122"
+      "number": "114/122",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy9-115",
       "rarity": "Full Art",
       "name": "M Gyarados-EX",
-      "number": "115/122"
+      "number": "115/122",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy9-116",
       "rarity": "Full Art",
       "name": "Manaphy-EX",
-      "number": "116/122"
+      "number": "116/122",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy9-117",
       "rarity": "Full Art",
       "name": "Espeon-EX",
-      "number": "117/122"
+      "number": "117/122",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy9-118",
       "rarity": "Full Art",
       "name": "Darkrai-EX",
-      "number": "118/122"
+      "number": "118/122",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy9-119",
       "rarity": "Full Art",
       "name": "Scizor-EX",
-      "number": "119/122"
+      "number": "119/122",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy9-120",
       "rarity": "Full Art",
       "name": "M Scizor-EX",
-      "number": "120/122"
+      "number": "120/122",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy9-121",
       "rarity": "Full Art",
       "name": "Ho-Oh-EX",
-      "number": "121/122"
+      "number": "121/122",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy9-122",
       "rarity": "Full Art",
       "name": "Skyla",
-      "number": "122/122"
+      "number": "122/122",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy9-123",
       "rarity": "Holo Rare",
       "name": "Gyarados-EX",
-      "number": "123/122"
+      "number": "123/122",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

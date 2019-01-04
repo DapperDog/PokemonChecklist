@@ -123,7 +123,8 @@
       "id": "xy10-20",
       "rarity": "EX",
       "name": "Glaceon-EX",
-      "number": "20/124"
+      "number": "20/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy10-21",
@@ -153,13 +154,15 @@
       "id": "xy10-25",
       "rarity": "EX",
       "name": "Alakazam-EX",
-      "number": "25/124"
+      "number": "25/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy10-26",
       "rarity": "EX",
       "name": "M Alakazam-EX",
-      "number": "26/124"
+      "number": "26/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy10-27",
@@ -261,13 +264,8 @@
       "id": "xy10-43",
       "rarity": "EX",
       "name": "Regirock-EX",
-      "number": "43/124"
-    },
-    {
-      "id": "xy10-43a",
-      "rarity": "EX",
-      "name": "Regirock-EX",
-      "number": "43/124a"
+      "number": "43/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy10-44",
@@ -333,19 +331,15 @@
       "id": "xy10-54",
       "rarity": "EX",
       "name": "Zygarde-EX",
-      "number": "54/124"
-    },
-    {
-      "id": "xy10-54a",
-      "rarity": "EX",
-      "name": "Zygarde-EX",
-      "number": "54/124a"
+      "number": "54/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy10-55",
       "rarity": "EX",
       "name": "Umbreon-EX",
-      "number": "55/124"
+      "number": "55/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy10-56",
@@ -399,7 +393,8 @@
       "id": "xy10-64",
       "rarity": "EX",
       "name": "Genesect-EX",
-      "number": "64/124"
+      "number": "64/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy10-65",
@@ -429,7 +424,8 @@
       "id": "xy10-69",
       "rarity": "EX",
       "name": "M Altaria-EX",
-      "number": "69/124"
+      "number": "69/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy10-70",
@@ -447,13 +443,15 @@
       "id": "xy10-72",
       "rarity": "EX",
       "name": "Diancie-EX",
-      "number": "72/124"
+      "number": "72/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy10-73",
       "rarity": "EX",
       "name": "Kingdra-EX",
-      "number": "73/124"
+      "number": "73/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy10-74",
@@ -513,19 +511,22 @@
       "id": "xy10-83",
       "rarity": "EX",
       "name": "Altaria-EX",
-      "number": "83/124"
+      "number": "83/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy10-84",
       "rarity": "EX",
       "name": "Audino-EX",
-      "number": "84/124"
+      "number": "84/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy10-85",
       "rarity": "EX",
       "name": "M Audino-EX",
-      "number": "85/124"
+      "number": "85/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy10-86",
@@ -648,12 +649,6 @@
       "number": "105/124"
     },
     {
-      "id": "xy10-105a",
-      "rarity": "Full Art",
-      "name": "N",
-      "number": "105/124a"
-    },
-    {
       "id": "xy10-106",
       "rarity": "Uncommon",
       "name": "Old Amber Aerodactyl",
@@ -723,61 +718,71 @@
       "id": "xy10-116",
       "rarity": "Full Art",
       "name": "Glaceon-EX",
-      "number": "116/124"
+      "number": "116/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy10-117",
       "rarity": "Full Art",
       "name": "Alakazam-EX",
-      "number": "117/124"
+      "number": "117/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy10-118",
       "rarity": "Full Art",
       "name": "M Alakazam-EX",
-      "number": "118/124"
+      "number": "118/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy10-119",
       "rarity": "Full Art",
       "name": "Umbreon-EX",
-      "number": "119/124"
+      "number": "119/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy10-120",
       "rarity": "Full Art",
       "name": "Genesect-EX",
-      "number": "120/124"
+      "number": "120/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy10-121",
       "rarity": "Full Art",
       "name": "M Altaria-EX",
-      "number": "121/124"
+      "number": "121/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy10-122",
       "rarity": "Full Art",
       "name": "Kingdra-EX",
-      "number": "122/124"
+      "number": "122/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy10-123",
       "rarity": "Full Art",
       "name": "Altaria-EX",
-      "number": "123/124"
+      "number": "123/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy10-124",
       "rarity": "Full Art",
       "name": "Team Rocket's Handiwork",
-      "number": "124/124"
+      "number": "124/124",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy10-125",
       "rarity": "Secret Rare",
       "name": "Alakazam-EX",
-      "number": "125/124"
+      "number": "125/124",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

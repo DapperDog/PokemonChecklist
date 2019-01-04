@@ -585,37 +585,43 @@
       "id": "bw3-97",
       "rarity": "Full Art",
       "name": "Virizion",
-      "number": "97/101"
+      "number": "97/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw3-98",
       "rarity": "Full Art",
       "name": "Victini",
-      "number": "98/101"
+      "number": "98/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw3-99",
       "rarity": "Full Art",
       "name": "Terrakion",
-      "number": "99/101"
+      "number": "99/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw3-100",
       "rarity": "Full Art",
       "name": "Cobalion",
-      "number": "100/101"
+      "number": "100/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw3-101",
       "rarity": "Full Art",
       "name": "N",
-      "number": "101/101"
+      "number": "101/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw3-102",
       "rarity": "Secret Rare",
       "name": "Meowth",
-      "number": "102/101"
+      "number": "102/101",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

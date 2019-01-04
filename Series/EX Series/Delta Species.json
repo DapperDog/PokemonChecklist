@@ -651,43 +651,50 @@
       "id": "ex11-108",
       "rarity": "EX",
       "name": "Flareon ex",
-      "number": "108/113"
+      "number": "108/113",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex11-109",
       "rarity": "EX",
       "name": "Jolteon ex",
-      "number": "109/113"
+      "number": "109/113",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex11-110",
       "rarity": "EX",
       "name": "Vaporeon ex",
-      "number": "110/113"
+      "number": "110/113",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex11-111",
       "rarity": "Gold Star",
       "name": "Groudon Star",
-      "number": "111/113"
+      "number": "111/113",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex11-112",
       "rarity": "Gold Star",
       "name": "Kyogre Star",
-      "number": "112/113"
+      "number": "112/113",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex11-113",
       "rarity": "Gold Star",
       "name": "Metagross Star",
-      "number": "113/113"
+      "number": "113/113",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex11-114",
       "rarity": "Secret Rare",
       "name": "Azumarill",
-      "number": "114/113"
+      "number": "114/113",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

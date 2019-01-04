@@ -145,9 +145,10 @@
     },
     {
       "id": "bw11-24",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Victini-EX",
-      "number": "24/113"
+      "number": "24/113",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-25",
@@ -175,9 +176,10 @@
     },
     {
       "id": "bw11-29",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Reshiram-EX",
-      "number": "29/113"
+      "number": "29/113",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-30",
@@ -265,15 +267,17 @@
     },
     {
       "id": "bw11-44",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Kyurem-EX",
-      "number": "44/113"
+      "number": "44/113",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-45",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Keldeo-EX",
-      "number": "45/113"
+      "number": "45/113",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-46",
@@ -313,9 +317,10 @@
     },
     {
       "id": "bw11-52",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Zekrom-EX",
-      "number": "52/113"
+      "number": "52/113",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-53",
@@ -325,9 +330,10 @@
     },
     {
       "id": "bw11-54",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Mewtwo-EX",
-      "number": "54/113"
+      "number": "54/113",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-55",
@@ -463,9 +469,10 @@
     },
     {
       "id": "bw11-77",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Chandelure-EX",
-      "number": "77/113"
+      "number": "77/113",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-78",
@@ -493,9 +500,10 @@
     },
     {
       "id": "bw11-82",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Excadrill-EX",
-      "number": "82/113"
+      "number": "82/113",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-83",
@@ -529,9 +537,10 @@
     },
     {
       "id": "bw11-88",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Darkrai-EX",
-      "number": "88/113"
+      "number": "88/113",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-89",
@@ -601,21 +610,24 @@
     },
     {
       "id": "bw11-100",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Black Kyurem-EX",
-      "number": "100/113"
+      "number": "100/113",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-101",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "White Kyurem-EX",
-      "number": "101/113"
+      "number": "101/113",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-102",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Lugia-EX",
-      "number": "102/113"
+      "number": "102/113",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-103",
@@ -687,163 +699,190 @@
       "id": "bw11-114",
       "rarity": "Secret Rare",
       "name": "Reshiram",
-      "number": "114/113"
+      "number": "114/113",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-115",
       "rarity": "Secret Rare",
       "name": "Zekrom",
-      "number": "115/113"
+      "number": "115/113",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-RC1",
       "rarity": "Common",
       "name": "Snivy",
-      "number": "RC1"
+      "number": "RC1",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-RC2",
       "rarity": "Common",
       "name": "Servine",
-      "number": "RC2"
+      "number": "RC2",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-RC3",
       "rarity": "Uncommon",
       "name": "Serperior",
-      "number": "RC3"
+      "number": "RC3",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-RC4",
       "rarity": "Uncommon",
       "name": "Growlithe",
-      "number": "RC4"
+      "number": "RC4",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-RC5",
       "rarity": "Common",
       "name": "Torchic",
-      "number": "RC5"
+      "number": "RC5",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-RC6",
       "rarity": "Uncommon",
       "name": "Piplup",
-      "number": "RC6"
+      "number": "RC6",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-RC7",
       "rarity": "Uncommon",
       "name": "Pikachu",
-      "number": "RC7"
+      "number": "RC7",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-RC8",
       "rarity": "Common",
       "name": "Ralts",
-      "number": "RC8"
+      "number": "RC8",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-RC9",
       "rarity": "Common",
       "name": "Kirlia",
-      "number": "RC9"
+      "number": "RC9",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-RC10",
       "rarity": "Uncommon",
       "name": "Gardevoir",
-      "number": "RC10"
+      "number": "RC10",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-RC11",
-      "rarity": "Rare",
+      "rarity": "EX",
       "name": "Meloetta-EX",
-      "number": "RC11"
+      "number": "RC11",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-RC12",
       "rarity": "Uncommon",
       "name": "Stunfisk",
-      "number": "RC12"
+      "number": "RC12",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-RC13",
       "rarity": "Uncommon",
       "name": "Purrloin",
-      "number": "RC13"
+      "number": "RC13",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-RC14",
       "rarity": "Uncommon",
       "name": "Eevee",
-      "number": "RC14"
+      "number": "RC14",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-RC15",
       "rarity": "Common",
       "name": "Teddiursa",
-      "number": "RC15"
+      "number": "RC15",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-RC16",
       "rarity": "Common",
       "name": "Ursaring",
-      "number": "RC16"
+      "number": "RC16",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-RC17",
       "rarity": "Common",
       "name": "Audino",
-      "number": "RC17"
+      "number": "RC17",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-RC18",
       "rarity": "Common",
       "name": "Minccino",
-      "number": "RC18"
+      "number": "RC18",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-RC19",
       "rarity": "Uncommon",
       "name": "Cinccino",
-      "number": "RC19"
+      "number": "RC19",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-RC20",
       "rarity": "Common",
       "name": "Elesa",
-      "number": "RC20"
+      "number": "RC20",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-RC21",
       "rarity": "Full Art",
       "name": "Shaymin-EX",
-      "number": "RC21"
+      "number": "RC21",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-RC22",
       "rarity": "Full Art",
       "name": "Reshiram",
-      "number": "RC22"
+      "number": "RC22",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-RC23",
       "rarity": "Full Art",
       "name": "Emolga",
-      "number": "RC23"
+      "number": "RC23",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-RC24",
       "rarity": "Full Art",
       "name": "Mew-EX",
-      "number": "RC24"
+      "number": "RC24",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw11-RC25",
       "rarity": "Full Art",
       "name": "Meloetta-EX",
-      "number": "RC25"
+      "number": "RC25",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

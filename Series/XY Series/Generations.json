@@ -9,13 +9,15 @@
       "id": "g1-1",
       "rarity": "EX",
       "name": "Venusaur-EX",
-      "number": "1/83"
+      "number": "1/83",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-2",
       "rarity": "EX",
       "name": "M Venusaur-EX",
-      "number": "2/83"
+      "number": "2/83",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-3",
@@ -63,25 +65,29 @@
       "id": "g1-10",
       "rarity": "EX",
       "name": "Leafeon-EX",
-      "number": "10/83"
+      "number": "10/83",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-11",
       "rarity": "EX",
       "name": "Charizard-EX",
-      "number": "11/83"
+      "number": "11/83",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-12",
       "rarity": "EX",
       "name": "M Charizard-EX",
-      "number": "12/83"
+      "number": "12/83",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-13",
       "rarity": "EX",
       "name": "Ninetales-EX",
-      "number": "13/83"
+      "number": "13/83",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-14",
@@ -105,13 +111,15 @@
       "id": "g1-17",
       "rarity": "EX",
       "name": "Blastoise-EX",
-      "number": "17/83"
+      "number": "17/83",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-18",
       "rarity": "EX",
       "name": "M Blastoise-EX",
-      "number": "18/83"
+      "number": "18/83",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-19",
@@ -147,13 +155,15 @@
       "id": "g1-24",
       "rarity": "EX",
       "name": "Vaporeon-EX",
-      "number": "24/83"
+      "number": "24/83",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-25",
       "rarity": "Full Art",
       "name": "Articuno",
-      "number": "25/83"
+      "number": "25/83",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-26",
@@ -171,19 +181,15 @@
       "id": "g1-28",
       "rarity": "EX",
       "name": "Jolteon-EX",
-      "number": "28/83"
-    },
-    {
-      "id": "g1-28a",
-      "rarity": "EX",
-      "name": "Jolteon-EX",
-      "number": "28/83a"
+      "number": "28/83",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-29",
       "rarity": "Full Art",
       "name": "Zapdos",
-      "number": "29/83"
+      "number": "29/83",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-30",
@@ -231,7 +237,8 @@
       "id": "g1-37",
       "rarity": "EX",
       "name": "Meowstic-EX",
-      "number": "37/83"
+      "number": "37/83",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-38",
@@ -285,7 +292,8 @@
       "id": "g1-46",
       "rarity": "EX",
       "name": "Golem-EX",
-      "number": "46/83"
+      "number": "46/83",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-47",
@@ -519,193 +527,225 @@
       "id": "g1-rc1",
       "rarity": "Common",
       "name": "Chikorita",
-      "number": "RC1"
+      "number": "RC1",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-rc2",
       "rarity": "Common",
       "name": "Shroomish",
-      "number": "RC2"
+      "number": "RC2",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-rc3",
       "rarity": "Common",
       "name": "Charmander",
-      "number": "RC3"
+      "number": "RC3",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-rc4",
       "rarity": "Common",
       "name": "Charmeleon",
-      "number": "RC4"
+      "number": "RC4",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-rc5",
       "rarity": "Uncommon",
       "name": "Charizard",
-      "number": "RC5"
+      "number": "RC5",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-rc6",
       "rarity": "EX",
       "name": "Flareon-EX",
-      "number": "RC6"
+      "number": "RC6",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-rc7",
       "rarity": "Common",
       "name": "Snorunt",
-      "number": "RC7"
+      "number": "RC7",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-rc8",
       "rarity": "Uncommon",
       "name": "Froslass",
-      "number": "RC8"
+      "number": "RC8",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-rc9",
       "rarity": "Common",
       "name": "Raichu",
-      "number": "RC9"
+      "number": "RC9",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-rc10",
       "rarity": "Uncommon",
       "name": "Dedenne",
-      "number": "RC10"
+      "number": "RC10",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-rc11",
       "rarity": "Common",
       "name": "Wobbuffet",
-      "number": "RC11"
+      "number": "RC11",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-rc12",
       "rarity": "Common",
       "name": "Gulpin",
-      "number": "RC12"
+      "number": "RC12",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-rc13",
       "rarity": "Uncommon",
       "name": "Jirachi",
-      "number": "RC13"
+      "number": "RC13",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-rc14",
       "rarity": "Common",
       "name": "Espurr",
-      "number": "RC14"
+      "number": "RC14",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-rc15",
       "rarity": "Uncommon",
       "name": "Meowstic",
-      "number": "RC15"
+      "number": "RC15",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-rc16",
       "rarity": "Uncommon",
       "name": "Yveltal",
-      "number": "RC16"
+      "number": "RC16",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-rc17",
       "rarity": "Common",
       "name": "Flab\u00e9b\u00e9",
-      "number": "RC17"
+      "number": "RC17",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-rc18",
       "rarity": "Uncommon",
       "name": "Floette",
-      "number": "RC18"
+      "number": "RC18",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-rc19",
       "rarity": "Uncommon",
       "name": "Swirlix",
-      "number": "RC19"
+      "number": "RC19",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-rc20",
       "rarity": "Uncommon",
       "name": "Slurpuff",
-      "number": "RC20"
+      "number": "RC20",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-rc21",
       "rarity": "EX",
       "name": "Sylveon-EX",
-      "number": "RC21"
+      "number": "RC21",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-rc22",
       "rarity": "Uncommon",
       "name": "Diancie",
-      "number": "RC22"
+      "number": "RC22",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-rc23",
       "rarity": "Common",
       "name": "Swablu",
-      "number": "RC23"
+      "number": "RC23",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-rc24",
       "rarity": "Uncommon",
       "name": "Altaria",
-      "number": "RC24"
+      "number": "RC24",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-rc25",
       "rarity": "Common",
       "name": "Fletchling",
-      "number": "RC25"
+      "number": "RC25",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-rc26",
       "rarity": "Common",
       "name": "Floral Crown",
-      "number": "RC26"
+      "number": "RC26",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-rc27",
       "rarity": "Uncommon",
       "name": "Wally",
-      "number": "RC27"
+      "number": "RC27",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-rc28",
       "rarity": "Full Art",
       "name": "Flareon-EX",
-      "number": "RC28"
+      "number": "RC28",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-rc29",
       "rarity": "Full Art",
       "name": "Pikachu",
-      "number": "RC29"
+      "number": "RC29",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-rc30",
       "rarity": "Full Art",
       "name": "Gardevoir-EX",
-      "number": "RC30"
+      "number": "RC30",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-rc31",
       "rarity": "Full Art",
       "name": "M Gardevoir-EX",
-      "number": "RC31"
+      "number": "RC31",
+      "exclusions":["Reverse"]
     },
     {
       "id": "g1-rc32",
       "rarity": "Full Art",
       "name": "Sylveon-EX",
-      "number": "RC32"
+      "number": "RC32",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

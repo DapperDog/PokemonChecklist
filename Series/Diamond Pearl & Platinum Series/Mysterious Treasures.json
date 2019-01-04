@@ -729,25 +729,29 @@
       "id": "dp2-121",
       "rarity": "Level X",
       "name": "Electivire",
-      "number": "121/123"
+      "number": "121/123",
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp2-122",
       "rarity": "Level X",
       "name": "Lucario",
-      "number": "122/123"
+      "number": "122/123",
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp2-123",
       "rarity": "Level X",
       "name": "Magmortar",
-      "number": "123/123"
+      "number": "123/123",
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp2-124",
       "rarity": "Secret Rare",
       "name": "Time-Space Distortion",
-      "number": "124/123"
+      "number": "124/123",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

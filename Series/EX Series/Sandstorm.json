@@ -567,43 +567,50 @@
       "id": "ex2-94",
       "rarity": "EX",
       "name": "Aerodactyl ex",
-      "number": "94/100"
+      "number": "94/100",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex2-95",
       "rarity": "EX",
       "name": "Aggron ex",
-      "number": "95/100"
+      "number": "95/100",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex2-96",
       "rarity": "EX",
       "name": "Gardevoir ex",
-      "number": "96/100"
+      "number": "96/100",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex2-97",
       "rarity": "EX",
       "name": "Kabutops ex",
-      "number": "97/100"
+      "number": "97/100",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex2-98",
       "rarity": "EX",
       "name": "Raichu ex",
-      "number": "98/100"
+      "number": "98/100",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex2-99",
       "rarity": "EX",
       "name": "Typhlosion ex",
-      "number": "99/100"
+      "number": "99/100",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex2-100",
       "rarity": "EX",
       "name": "Wailord ex",
-      "number": "100/100"
+      "number": "100/100",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

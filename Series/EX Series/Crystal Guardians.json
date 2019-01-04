@@ -537,73 +537,85 @@
       "id": "ex14-89",
       "rarity": "EX",
       "name": "Aggron ex",
-      "number": "89/100"
+      "number": "89/100",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex14-90",
       "rarity": "EX",
       "name": "Blaziken ex",
-      "number": "90/100"
+      "number": "90/100",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex14-91",
       "rarity": "EX",
       "name": "Delcatty ex",
-      "number": "91/100"
+      "number": "91/100",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex14-92",
       "rarity": "EX",
       "name": "Exploud ex",
-      "number": "92/100"
+      "number": "92/100",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex14-93",
       "rarity": "EX",
       "name": "Groudon ex",
-      "number": "93/100"
+      "number": "93/100",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex14-94",
       "rarity": "EX",
       "name": "Jirachi ex",
-      "number": "94/100"
+      "number": "94/100",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex14-95",
       "rarity": "EX",
       "name": "Kyogre ex",
-      "number": "95/100"
+      "number": "95/100",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex14-96",
       "rarity": "EX",
       "name": "Sceptile ex \u03b4",
-      "number": "96/100"
+      "number": "96/100",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex14-97",
       "rarity": "EX",
       "name": "Shiftry ex",
-      "number": "97/100"
+      "number": "97/100",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex14-98",
       "rarity": "EX",
       "name": "Swampert ex",
-      "number": "98/100"
+      "number": "98/100",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex14-99",
       "rarity": "Gold Star",
       "name": "Alakazam Star",
-      "number": "99/100"
+      "number": "99/100",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex14-100",
       "rarity": "Gold Star",
       "name": "Celebi Star",
-      "number": "100/100"
+      "number": "100/100",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

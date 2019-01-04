@@ -585,25 +585,29 @@
       "id": "dp5-97",
       "rarity": "Level X",
       "name": "Garchomp",
-      "number": "97/100"
+      "number": "97/100",
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp5-98",
       "rarity": "Level X",
       "name": "Glaceon",
-      "number": "98/100"
+      "number": "98/100",
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp5-99",
       "rarity": "Level X",
       "name": "Leafeon",
-      "number": "99/100"
+      "number": "99/100",
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp5-100",
       "rarity": "Level X",
       "name": "Porygon-Z",
-      "number": "100/100"
+      "number": "100/100",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

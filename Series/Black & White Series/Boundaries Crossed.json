@@ -57,7 +57,8 @@
       "id": "bw7-9",
       "rarity": "Rare Holo EX",
       "name": "Celebi-EX",
-      "number": "9/149"
+      "number": "9/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw7-10",
@@ -297,7 +298,8 @@
       "id": "bw7-49",
       "rarity": "Rare Holo EX",
       "name": "Keldeo-EX",
-      "number": "49/149"
+      "number": "49/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw7-50",
@@ -405,7 +407,8 @@
       "id": "bw7-67",
       "rarity": "Rare Holo EX",
       "name": "Cresselia-EX",
-      "number": "67/149"
+      "number": "67/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw7-68",
@@ -537,7 +540,8 @@
       "id": "bw7-89",
       "rarity": "Rare Holo EX",
       "name": "Landorus-EX",
-      "number": "89/149"
+      "number": "89/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw7-90",
@@ -609,7 +613,8 @@
       "id": "bw7-101",
       "rarity": "Rare Holo EX",
       "name": "Black Kyurem-EX",
-      "number": "101/149"
+      "number": "101/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw7-102",
@@ -621,7 +626,8 @@
       "id": "bw7-103",
       "rarity": "Rare Holo EX",
       "name": "White Kyurem-EX",
-      "number": "103/149"
+      "number": "103/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw7-104",
@@ -849,79 +855,92 @@
       "id": "bw7-141",
       "rarity": "Full Art",
       "name": "Celebi-EX",
-      "number": "141/149"
+      "number": "141/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw7-142",
       "rarity": "Full Art",
       "name": "Keldeo-EX",
-      "number": "142/149"
+      "number": "142/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw7-143",
       "rarity": "Full Art",
       "name": "Cresselia-EX",
-      "number": "143/149"
+      "number": "143/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw7-144",
       "rarity": "Full Art",
       "name": "Landorus-EX",
-      "number": "144/149"
+      "number": "144/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw7-145",
       "rarity": "Full Art",
       "name": "Black Kyurem-EX",
-      "number": "145/149"
+      "number": "145/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw7-146",
       "rarity": "Full Art",
       "name": "White Kyurem-EX",
-      "number": "146/149"
+      "number": "146/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw7-147",
       "rarity": "Full Art",
       "name": "Bianca",
-      "number": "147/149"
+      "number": "147/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw7-148",
       "rarity": "Full Art",
       "name": "Cheren",
-      "number": "148/149"
+      "number": "148/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw7-149",
       "rarity": "Full Art",
       "name": "Skyla",
-      "number": "149/149"
+      "number": "149/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw7-150",
       "rarity": "Secret Rare",
       "name": "Golurk",
-      "number": "150/149"
+      "number": "150/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw7-151",
       "rarity": "Secret Rare",
       "name": "Terrakion",
-      "number": "151/149"
+      "number": "151/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw7-152",
       "rarity": "Secret Rare",
       "name": "Altaria",
-      "number": "152/149"
+      "number": "152/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw7-153",
       "rarity": "Secret Rare",
       "name": "Rocky Helmet",
-      "number": "153/149"
+      "number": "153/149",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

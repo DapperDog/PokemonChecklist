@@ -69,19 +69,22 @@
       "id": "xy2-11",
       "rarity": "EX",
       "name": "Charizard-EX",
-      "number": "11/106"
+      "number": "11/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy2-12",
       "rarity": "EX",
       "name": "Charizard-EX",
-      "number": "12/106"
+      "number": "12/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy2-13",
       "rarity": "EX",
       "name": "M Charizard-EX",
-      "number": "13/106"
+      "number": "13/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy2-14",
@@ -213,7 +216,8 @@
       "id": "xy2-35",
       "rarity": "EX",
       "name": "Magnezone-EX",
-      "number": "35/106"
+      "number": "35/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy2-36",
@@ -249,7 +253,8 @@
       "id": "xy2-41",
       "rarity": "EX",
       "name": "Toxicroak-EX",
-      "number": "41/106"
+      "number": "41/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy2-42",
@@ -417,7 +422,8 @@
       "id": "xy2-69",
       "rarity": "EX",
       "name": "M Charizard-EX",
-      "number": "69/106"
+      "number": "69/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy2-70",
@@ -471,13 +477,15 @@
       "id": "xy2-78",
       "rarity": "EX",
       "name": "Kangaskhan-EX",
-      "number": "78/106"
+      "number": "78/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy2-79",
       "rarity": "EX",
       "name": "M Kangaskhan-EX",
-      "number": "79/106"
+      "number": "79/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy2-80",
@@ -609,61 +617,71 @@
       "id": "xy2-100",
       "rarity": "Full Art",
       "name": "Charizard-EX",
-      "number": "100/106"
+      "number": "100/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy2-101",
       "rarity": "Full Art",
       "name": "Magnezone-EX",
-      "number": "101/106"
+      "number": "101/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy2-102",
       "rarity": "Full Art",
       "name": "Toxicroak-EX",
-      "number": "102/106"
+      "number": "102/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy2-103",
       "rarity": "Full Art",
       "name": "Kangaskhan-EX",
-      "number": "103/106"
+      "number": "103/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy2-104",
       "rarity": "Full Art",
       "name": "Lysandre",
-      "number": "104/106"
+      "number": "104/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy2-105",
       "rarity": "Full Art",
       "name": "Pok\u00e9mon Center Lady",
-      "number": "105/106"
+      "number": "105/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy2-106",
       "rarity": "Full Art",
       "name": "Pok\u00e9mon Fan Club",
-      "number": "106/106"
+      "number": "106/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy2-107",
       "rarity": "Secret Rare",
       "name": "M Charizard-EX",
-      "number": "107/106"
+      "number": "107/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy2-108",
       "rarity": "Secret Rare",
       "name": "M Charizard-EX",
-      "number": "108/106"
+      "number": "108/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy2-109",
       "rarity": "Secret Rare",
       "name": "M Kangaskhan-EX",
-      "number": "109/106"
+      "number": "109/106",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

@@ -681,19 +681,22 @@
       "id": "bw1-113",
       "rarity": "Full Art",
       "name": "Reshiram",
-      "number": "113/114"
+      "number": "113/114",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw1-114",
       "rarity": "Full Art",
       "name": "Zekrom",
-      "number": "114/114"
+      "number": "114/114",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw1-115",
       "rarity": "Secret Rare",
       "name": "Pikachu",
-      "number": "115/114"
+      "number": "115/114",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

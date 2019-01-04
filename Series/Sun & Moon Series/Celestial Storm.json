@@ -87,7 +87,8 @@
       "id": "sm7-14",
       "rarity": "GX",
       "name": "Shiftry-GX",
-      "number": "14/168"
+      "number": "14/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-15",
@@ -171,7 +172,8 @@
       "id": "sm7-28",
       "rarity": "GX",
       "name": "Blaziken-GX",
-      "number": "28/168"
+      "number": "28/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-29",
@@ -189,7 +191,8 @@
       "id": "sm7-31",
       "rarity": "GX",
       "name": "Articuno-GX",
-      "number": "31/168"
+      "number": "31/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-32",
@@ -291,7 +294,8 @@
       "id": "sm7-48",
       "rarity": "GX",
       "name": "Electrode-GX",
-      "number": "48/168"
+      "number": "48/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-49",
@@ -339,7 +343,8 @@
       "id": "sm7-56",
       "rarity": "GX",
       "name": "Mr. Mime-GX",
-      "number": "56/168"
+      "number": "56/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-57",
@@ -399,7 +404,8 @@
       "id": "sm7-66",
       "rarity": "GX",
       "name": "Banette-GX",
-      "number": "66/168"
+      "number": "66/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-67",
@@ -495,7 +501,8 @@
       "id": "sm7-82",
       "rarity": "GX",
       "name": "Palossand-GX",
-      "number": "82/168"
+      "number": "82/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-83",
@@ -513,7 +520,8 @@
       "id": "sm7-85",
       "rarity": "GX",
       "name": "Alolan Raticate-GX",
-      "number": "85/168"
+      "number": "85/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-86",
@@ -543,7 +551,8 @@
       "id": "sm7-90",
       "rarity": "GX",
       "name": "Scizor-GX",
-      "number": "90/168"
+      "number": "90/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-91",
@@ -583,9 +592,10 @@
     },
     {
       "id": "sm7-97",
-      "rarity": "Holo Rare",
+      "rarity": "Prism Star",
       "name": "Jirachi \u25c7",
-      "number": "97/168"
+      "number": "97/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-98",
@@ -615,7 +625,8 @@
       "id": "sm7-102",
       "rarity": "GX",
       "name": "Stakataka-GX",
-      "number": "102/168"
+      "number": "102/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-103",
@@ -643,21 +654,24 @@
     },
     {
       "id": "sm7-107",
-      "rarity": "Holo Rare",
+      "rarity": "Prism Star",
       "name": "Latias \u25c7",
-      "number": "107/168"
+      "number": "107/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-108",
-      "rarity": "Holo Rare",
+      "rarity": "Prism Star",
       "name": "Latios \u25c7",
-      "number": "108/168"
+      "number": "108/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-109",
       "rarity": "GX",
       "name": "Rayquaza-GX",
-      "number": "109/168"
+      "number": "109/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-110",
@@ -915,193 +929,225 @@
       "id": "sm7-152",
       "rarity": "Full Art",
       "name": "Shiftry-GX",
-      "number": "152/168"
+      "number": "152/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-153",
       "rarity": "Full Art",
       "name": "Blaziken-GX",
-      "number": "153/168"
+      "number": "153/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-154",
       "rarity": "Full Art",
       "name": "Articuno-GX",
-      "number": "154/168"
+      "number": "154/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-155",
       "rarity": "Full Art",
       "name": "Electrode-GX",
-      "number": "155/168"
+      "number": "155/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-156",
       "rarity": "Full Art",
       "name": "Mr. Mime-GX",
-      "number": "156/168"
+      "number": "156/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-157",
       "rarity": "Full Art",
       "name": "Banette-GX",
-      "number": "157/168"
+      "number": "157/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-158",
       "rarity": "Full Art",
       "name": "Scizor-GX",
-      "number": "158/168"
+      "number": "158/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-159",
       "rarity": "Full Art",
       "name": "Stakataka-GX",
-      "number": "159/168"
+      "number": "159/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-160",
       "rarity": "Full Art",
       "name": "Rayquaza-GX",
-      "number": "160/168"
+      "number": "160/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-161",
       "rarity": "Full Art",
       "name": "Apricorn Maker",
-      "number": "161/168"
+      "number": "161/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-162",
       "rarity": "Full Art",
       "name": "Bill's Maintenance",
-      "number": "162/168"
+      "number": "162/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-163",
       "rarity": "Full Art",
       "name": "Copycat",
-      "number": "163/168"
+      "number": "163/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-164",
       "rarity": "Full Art",
       "name": "Lisia",
-      "number": "164/168"
+      "number": "164/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-165",
       "rarity": "Full Art",
       "name": "Steven's Resolve",
-      "number": "165/168"
+      "number": "165/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-166",
       "rarity": "Full Art",
       "name": "Tate & Liza",
-      "number": "166/168"
+      "number": "166/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-167",
       "rarity": "Full Art",
       "name": "TV Reporter",
-      "number": "167/168"
+      "number": "167/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-168",
       "rarity": "Full Art",
       "name": "Underground Expedition",
-      "number": "168/168"
+      "number": "168/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-169",
       "rarity": "Secret Rare",
       "name": "Shiftry-GX",
-      "number": "169/168"
+      "number": "169/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-170",
       "rarity": "Secret Rare",
       "name": "Blaziken-GX",
-      "number": "170/168"
+      "number": "170/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-171",
       "rarity": "Secret Rare",
       "name": "Articuno-GX",
-      "number": "171/168"
+      "number": "171/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-172",
       "rarity": "Secret Rare",
       "name": "Electrode-GX",
-      "number": "172/168"
+      "number": "172/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-173",
       "rarity": "Secret Rare",
       "name": "Mr. Mime-GX",
-      "number": "173/168"
+      "number": "173/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-174",
       "rarity": "Secret Rare",
       "name": "Banette-GX",
-      "number": "174/168"
+      "number": "174/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-175",
       "rarity": "Secret Rare",
       "name": "Scizor-GX",
-      "number": "175/168"
+      "number": "175/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-176",
       "rarity": "Secret Rare",
       "name": "Stakataka-GX",
-      "number": "176/168"
+      "number": "176/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-177",
       "rarity": "Secret Rare",
       "name": "Rayquaza-GX",
-      "number": "177/168"
+      "number": "177/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-178",
       "rarity": "Secret Rare",
       "name": "Acro Bike",
-      "number": "178/168"
+      "number": "178/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-179",
       "rarity": "Secret Rare",
       "name": "Hustle Belt",
-      "number": "179/168"
+      "number": "179/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-180",
       "rarity": "Secret Rare",
       "name": "Life Herb",
-      "number": "180/168"
+      "number": "180/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-181",
       "rarity": "Secret Rare",
       "name": "Pok\u00e9Nav",
-      "number": "181/168"
+      "number": "181/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-182",
       "rarity": "Secret Rare",
       "name": "Rainbow Brush",
-      "number": "182/168"
+      "number": "182/168",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm7-183",
       "rarity": "Secret Rare",
       "name": "Rainbow Energy",
-      "number": "183/168"
+      "number": "183/168",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [],

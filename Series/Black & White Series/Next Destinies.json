@@ -31,9 +31,10 @@
     },
     {
       "id": "bw4-5",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Shaymin-EX",
-      "number": "5/99"
+      "number": "5/99",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw4-6",
@@ -133,9 +134,10 @@
     },
     {
       "id": "bw4-22",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Reshiram-EX",
-      "number": "22/99"
+      "number": "22/99",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw4-23",
@@ -229,9 +231,10 @@
     },
     {
       "id": "bw4-38",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Kyurem-EX",
-      "number": "38/99"
+      "number": "38/99",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw4-39",
@@ -307,9 +310,10 @@
     },
     {
       "id": "bw4-51",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Zekrom-EX",
-      "number": "51/99"
+      "number": "51/99",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw4-52",
@@ -325,9 +329,10 @@
     },
     {
       "id": "bw4-54",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Mewtwo-EX",
-      "number": "54/99"
+      "number": "54/99",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw4-55",
@@ -493,9 +498,10 @@
     },
     {
       "id": "bw4-82",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Regigigas-EX",
-      "number": "82/99"
+      "number": "82/99",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw4-83",
@@ -567,43 +573,50 @@
       "id": "bw4-94",
       "rarity": "Full Art",
       "name": "Shaymin-EX",
-      "number": "94/99"
+      "number": "94/99",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw4-95",
-      "rarity": "Rare Holo EX",
+      "rarity": "Full Art",
       "name": "Reshiram-EX",
-      "number": "95/99"
+      "number": "95/99",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw4-96",
       "rarity": "Full Art",
       "name": "Kyurem-EX",
-      "number": "96/99"
+      "number": "96/99",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw4-97",
-      "rarity": "Rare Holo EX",
+      "rarity": "Full Art",
       "name": "Zekrom-EX",
-      "number": "97/99"
+      "number": "97/99",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw4-98",
       "rarity": "Full Art",
       "name": "Mewtwo-EX",
-      "number": "98/99"
+      "number": "98/99",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw4-99",
       "rarity": "Full Art",
       "name": "Regigigas-EX",
-      "number": "99/99"
+      "number": "99/99",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw4-100",
       "rarity": "Secret Rare",
       "name": "Emboar",
-      "number": "100/99"
+      "number": "100/99",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

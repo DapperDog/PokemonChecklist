@@ -63,7 +63,8 @@
       "id": "sm35-10",
       "rarity": "GX",
       "name": "Entei-GX",
-      "number": "10/73"
+      "number": "10/73",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm35-11",
@@ -177,7 +178,8 @@
       "id": "sm35-29",
       "rarity": "GX",
       "name": "Raichu-GX",
-      "number": "29/73"
+      "number": "29/73",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm35-30",
@@ -237,7 +239,8 @@
       "id": "sm35-39",
       "rarity": "GX",
       "name": "Mewtwo-GX",
-      "number": "39/73"
+      "number": "39/73",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm35-40",
@@ -321,7 +324,8 @@
       "id": "sm35-53",
       "rarity": "GX",
       "name": "Zoroark-GX",
-      "number": "53/73"
+      "number": "53/73",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm35-54",
@@ -429,49 +433,57 @@
       "id": "sm35-71",
       "rarity": "Full Art",
       "name": "Entei-GX",
-      "number": "71/73"
+      "number": "71/73",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm35-72",
       "rarity": "Full Art",
       "name": "Mewtwo-GX",
-      "number": "72/73"
+      "number": "72/73",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm35-73",
       "rarity": "Full Art",
       "name": "Pok\u00e9mon Breeder",
-      "number": "73/73"
+      "number": "73/73",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm35-74",
       "rarity": "Secret Rare",
       "name": "Entei-GX",
-      "number": "74/73"
+      "number": "74/73",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm35-75",
       "rarity": "Secret Rare",
       "name": "Raichu-GX",
-      "number": "75/73"
+      "number": "75/73",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm35-76",
       "rarity": "Secret Rare",
       "name": "Mewtwo-GX",
-      "number": "76/73"
+      "number": "76/73",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm35-77",
       "rarity": "Secret Rare",
       "name": "Zoroark-GX",
-      "number": "77/73"
+      "number": "77/73",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm35-78",
       "rarity": "Secret Rare",
       "name": "Mewtwo-GX",
-      "number": "78/73"
+      "number": "78/73",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

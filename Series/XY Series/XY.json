@@ -9,13 +9,15 @@
       "id": "xy1-1",
       "rarity": "EX",
       "name": "Venusaur-EX",
-      "number": "1/146"
+      "number": "1/146",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy1-2",
       "rarity": "EX",
       "name": "M Venusaur-EX",
-      "number": "2/146"
+      "number": "2/146",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy1-3",
@@ -177,13 +179,15 @@
       "id": "xy1-29",
       "rarity": "EX",
       "name": "Blastoise-EX",
-      "number": "29/146"
+      "number": "29/146",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy1-30",
       "rarity": "EX",
       "name": "M Blastoise-EX",
-      "number": "30/146"
+      "number": "30/146",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy1-31",
@@ -279,7 +283,8 @@
       "id": "xy1-46",
       "rarity": "EX",
       "name": "Emolga-EX",
-      "number": "46/146"
+      "number": "46/146",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy1-47",
@@ -477,13 +482,15 @@
       "id": "xy1-79",
       "rarity": "EX",
       "name": "Yveltal-EX",
-      "number": "79/146"
+      "number": "79/146",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy1-80",
       "rarity": "EX",
       "name": "Skarmory-EX",
-      "number": "80/146"
+      "number": "80/146",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy1-81",
@@ -585,7 +592,8 @@
       "id": "xy1-97",
       "rarity": "EX",
       "name": "Xerneas-EX",
-      "number": "97/146"
+      "number": "97/146",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy1-98",
@@ -849,37 +857,43 @@
       "id": "xy1-141",
       "rarity": "Full Art",
       "name": "Venusaur-EX",
-      "number": "141/146"
+      "number": "141/146",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy1-142",
       "rarity": "Full Art",
       "name": "Blastoise-EX",
-      "number": "142/146"
+      "number": "142/146",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy1-143",
       "rarity": "Full Art",
       "name": "Emolga-EX",
-      "number": "143/146"
+      "number": "143/146",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy1-144",
       "rarity": "Full Art",
       "name": "Yveltal-EX",
-      "number": "144/146"
+      "number": "144/146",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy1-145",
       "rarity": "Full Art",
       "name": "Skarmory-EX",
-      "number": "145/146"
+      "number": "145/146",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy1-146",
       "rarity": "Full Art",
       "name": "Xerneas-EX",
-      "number": "146/146"
+      "number": "146/146",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

@@ -501,67 +501,78 @@
       "id": "ex12-83",
       "rarity": "EX",
       "name": "Arcanine ex",
-      "number": "83/92"
+      "number": "83/92",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex12-84",
       "rarity": "EX",
       "name": "Armaldo ex",
-      "number": "84/92"
+      "number": "84/92",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex12-85",
       "rarity": "EX",
       "name": "Banette ex",
-      "number": "85/92"
+      "number": "85/92",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex12-86",
       "rarity": "EX",
       "name": "Dustox ex",
-      "number": "86/92"
+      "number": "86/92",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex12-87",
       "rarity": "EX",
       "name": "Flygon ex",
-      "number": "87/92"
+      "number": "87/92",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex12-88",
       "rarity": "EX",
       "name": "Mew ex",
-      "number": "88/92"
+      "number": "88/92",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex12-89",
       "rarity": "EX",
       "name": "Walrein ex",
-      "number": "89/92"
+      "number": "89/92",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex12-90",
       "rarity": "Gold Star",
       "name": "Regice Star",
-      "number": "90/92"
+      "number": "90/92",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex12-91",
       "rarity": "Gold Star",
       "name": "Regirock Star",
-      "number": "91/92"
+      "number": "91/92",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex12-92",
       "rarity": "Gold Star",
       "name": "Registeel Star",
-      "number": "92/92"
+      "number": "92/92",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex12-93",
       "rarity": "Secret Rare",
       "name": "Pikachu \u03b4",
-      "number": "93/92"
+      "number": "93/92",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

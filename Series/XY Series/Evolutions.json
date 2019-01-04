@@ -9,13 +9,15 @@
       "id": "xy12-1",
       "rarity": "EX",
       "name": "Venusaur-EX",
-      "number": "1/108"
+      "number": "1/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy12-2",
       "rarity": "EX",
       "name": "M Venusaur-EX",
-      "number": "2/108"
+      "number": "2/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy12-3",
@@ -75,13 +77,15 @@
       "id": "xy12-12",
       "rarity": "EX",
       "name": "Charizard-EX",
-      "number": "12/108"
+      "number": "12/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy12-13",
       "rarity": "EX",
       "name": "M Charizard-EX",
-      "number": "13/108"
+      "number": "13/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy12-14",
@@ -129,13 +133,15 @@
       "id": "xy12-21",
       "rarity": "EX",
       "name": "Blastoise-EX",
-      "number": "21/108"
+      "number": "21/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy12-22",
       "rarity": "EX",
       "name": "M Blastoise-EX",
-      "number": "22/108"
+      "number": "22/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy12-23",
@@ -159,13 +165,15 @@
       "id": "xy12-26",
       "rarity": "EX",
       "name": "Slowbro-EX",
-      "number": "26/108"
+      "number": "26/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy12-27",
       "rarity": "EX",
       "name": "M Slowbro-EX",
-      "number": "27/108"
+      "number": "27/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy12-28",
@@ -315,7 +323,8 @@
       "id": "xy12-52",
       "rarity": "EX",
       "name": "Mewtwo-EX",
-      "number": "52/108"
+      "number": "52/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy12-53",
@@ -387,13 +396,15 @@
       "id": "xy12-64",
       "rarity": "EX",
       "name": "Pidgeot-EX",
-      "number": "64/108"
+      "number": "64/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy12-65",
       "rarity": "EX",
       "name": "M Pidgeot-EX",
-      "number": "65/108"
+      "number": "65/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy12-66",
@@ -435,7 +446,8 @@
       "id": "xy12-72",
       "rarity": "EX",
       "name": "Dragonite-EX",
-      "number": "72/108"
+      "number": "72/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy12-73",
@@ -603,85 +615,99 @@
       "id": "xy12-100",
       "rarity": "Full Art",
       "name": "M Venusaur-EX",
-      "number": "100/108"
+      "number": "100/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy12-101",
       "rarity": "Full Art",
       "name": "M Charizard-EX",
-      "number": "101/108"
+      "number": "101/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy12-102",
       "rarity": "Full Art",
       "name": "M Blastoise-EX",
-      "number": "102/108"
+      "number": "102/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy12-103",
       "rarity": "Full Art",
       "name": "Mewtwo-EX",
-      "number": "103/108"
+      "number": "103/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy12-104",
       "rarity": "Full Art",
       "name": "Pidgeot-EX",
-      "number": "104/108"
+      "number": "104/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy12-105",
       "rarity": "Full Art",
       "name": "M Pidgeot-EX",
-      "number": "105/108"
+      "number": "105/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy12-106",
       "rarity": "Full Art",
       "name": "Dragonite-EX",
-      "number": "106/108"
+      "number": "106/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy12-107",
       "rarity": "Full Art",
       "name": "Brock's Grit",
-      "number": "107/108"
+      "number": "107/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy12-108",
       "rarity": "Full Art",
       "name": "Misty's Determination",
-      "number": "108/108"
+      "number": "108/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy12-109",
-      "rarity": "Holo Rare",
+      "rarity": "Secret Rare",
       "name": "\u30ca\u30c3\u30b7\u30fc[Exeggutor]",
-      "number": "109/108"
+      "number": "109/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy12-110",
       "rarity": "Secret Rare",
       "name": "Flying Pikachu",
-      "number": "110/108"
+      "number": "110/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy12-111",
       "rarity": "Secret Rare",
       "name": "Surfing Pikachu",
-      "number": "111/108"
+      "number": "111/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy12-112",
       "rarity": "Secret Rare",
       "name": "Imakuni?'s Doduo",
-      "number": "112/108"
+      "number": "112/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "xy12-113",
       "rarity": "Secret Rare",
       "name": "Here Comes Team Rocket!",
-      "number": "113/108"
+      "number": "113/108",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

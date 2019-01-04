@@ -543,67 +543,78 @@
       "id": "ex9-90",
       "rarity": "EX",
       "name": "Altaria ex",
-      "number": "90/106"
+      "number": "90/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex9-91",
       "rarity": "EX",
       "name": "Cacturne ex",
-      "number": "91/106"
+      "number": "91/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex9-92",
       "rarity": "EX",
       "name": "Camerupt ex",
-      "number": "92/106"
+      "number": "92/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex9-93",
       "rarity": "EX",
       "name": "Deoxys ex",
-      "number": "93/106"
+      "number": "93/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex9-94",
       "rarity": "EX",
       "name": "Dusclops ex",
-      "number": "94/106"
+      "number": "94/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex9-95",
       "rarity": "EX",
       "name": "Medicham ex",
-      "number": "95/106"
+      "number": "95/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex9-96",
       "rarity": "EX",
       "name": "Milotic ex",
-      "number": "96/106"
+      "number": "96/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex9-97",
       "rarity": "EX",
       "name": "Raichu ex",
-      "number": "97/106"
+      "number": "97/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex9-98",
       "rarity": "EX",
       "name": "Regice ex",
-      "number": "98/106"
+      "number": "98/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex9-99",
       "rarity": "EX",
       "name": "Regirock ex",
-      "number": "99/106"
+      "number": "99/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex9-100",
       "rarity": "EX",
       "name": "Registeel ex",
-      "number": "100/106"
+      "number": "100/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex9-101",
@@ -645,7 +656,8 @@
       "id": "ex9-107",
       "rarity": "Secret Rare",
       "name": "Farfetch'd",
-      "number": "107/106"
+      "number": "107/106",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

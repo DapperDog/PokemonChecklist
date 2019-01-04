@@ -105,7 +105,8 @@
       "id": "sm3-17",
       "rarity": "GX",
       "name": "Golisopod-GX",
-      "number": "17/147"
+      "number": "17/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-18",
@@ -123,13 +124,15 @@
       "id": "sm3-20",
       "rarity": "GX",
       "name": "Charizard-GX",
-      "number": "20/147"
+      "number": "20/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-21",
       "rarity": "GX",
       "name": "Ho-Oh-GX",
-      "number": "21/147"
+      "number": "21/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-22",
@@ -153,7 +156,8 @@
       "id": "sm3-25",
       "rarity": "GX",
       "name": "Salazzle-GX",
-      "number": "25/147"
+      "number": "25/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-26",
@@ -237,7 +241,8 @@
       "id": "sm3-39",
       "rarity": "GX",
       "name": "Tapu Fini-GX",
-      "number": "39/147"
+      "number": "39/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-40",
@@ -381,13 +386,15 @@
       "id": "sm3-63",
       "rarity": "GX",
       "name": "Necrozma-GX",
-      "number": "63/147"
+      "number": "63/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-64",
       "rarity": "GX",
       "name": "Machamp-GX",
-      "number": "64/147"
+      "number": "64/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-65",
@@ -483,7 +490,8 @@
       "id": "sm3-80",
       "rarity": "GX",
       "name": "Marshadow-GX",
-      "number": "80/147"
+      "number": "80/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-81",
@@ -507,7 +515,8 @@
       "id": "sm3-84",
       "rarity": "GX",
       "name": "Alolan Muk-GX",
-      "number": "84/147"
+      "number": "84/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-85",
@@ -531,7 +540,8 @@
       "id": "sm3-88",
       "rarity": "GX",
       "name": "Darkrai-GX",
-      "number": "88/147"
+      "number": "88/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-89",
@@ -561,7 +571,8 @@
       "id": "sm3-93",
       "rarity": "GX",
       "name": "Gardevoir-GX",
-      "number": "93/147"
+      "number": "93/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-94",
@@ -597,7 +608,8 @@
       "id": "sm3-99",
       "rarity": "GX",
       "name": "Noivern-GX",
-      "number": "99/147"
+      "number": "99/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-100",
@@ -777,247 +789,288 @@
       "id": "sm3-129",
       "rarity": "Full Art",
       "name": "Golisopod-GX",
-      "number": "129/147"
+      "number": "129/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-130",
       "rarity": "Full Art",
       "name": "Tapu Bulu-GX",
-      "number": "130/147"
+      "number": "130/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-131",
       "rarity": "Full Art",
       "name": "Ho-Oh-GX",
-      "number": "131/147"
+      "number": "131/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-132",
       "rarity": "Full Art",
       "name": "Salazzle-GX",
-      "number": "132/147"
+      "number": "132/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-133",
       "rarity": "Full Art",
       "name": "Tapu Fini-GX",
-      "number": "133/147"
+      "number": "133/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-134",
       "rarity": "Full Art",
       "name": "Necrozma-GX",
-      "number": "134/147"
+      "number": "134/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-135",
       "rarity": "Full Art",
       "name": "Machamp-GX",
-      "number": "135/147"
+      "number": "135/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-136",
       "rarity": "Full Art",
       "name": "Lycanroc-GX",
-      "number": "136/147"
+      "number": "136/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-137",
       "rarity": "Full Art",
       "name": "Marshadow-GX",
-      "number": "137/147"
+      "number": "137/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-138",
       "rarity": "Full Art",
       "name": "Alolan Muk-GX",
-      "number": "138/147"
+      "number": "138/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-139",
       "rarity": "Full Art",
       "name": "Darkrai-GX",
-      "number": "139/147"
+      "number": "139/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-140",
       "rarity": "Full Art",
       "name": "Gardevoir-GX",
-      "number": "140/147"
+      "number": "140/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-141",
       "rarity": "Full Art",
       "name": "Noivern-GX",
-      "number": "141/147"
+      "number": "141/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-142",
       "rarity": "Full Art",
       "name": "Acerola",
-      "number": "142/147"
+      "number": "142/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-143",
       "rarity": "Full Art",
       "name": "Guzma",
-      "number": "143/147"
+      "number": "143/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-144",
       "rarity": "Full Art",
       "name": "Kiawe",
-      "number": "144/147"
+      "number": "144/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-145",
       "rarity": "Full Art",
       "name": "Plumeria",
-      "number": "145/147"
+      "number": "145/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-146",
       "rarity": "Full Art",
       "name": "Sophocles",
-      "number": "146/147"
+      "number": "146/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-147",
       "rarity": "Full Art",
       "name": "Wicke",
-      "number": "147/147"
+      "number": "147/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-148",
       "rarity": "Secret Rare",
       "name": "Golisopod-GX",
-      "number": "148/147"
+      "number": "148/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-149",
       "rarity": "Secret Rare",
       "name": "Tapu Bulu-GX",
-      "number": "149/147"
+      "number": "149/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-150",
       "rarity": "Secret Rare",
       "name": "Charizard GX",
-      "number": "150/147"
+      "number": "150/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-151",
       "rarity": "Secret Rare",
       "name": "Salazzle-GX",
-      "number": "151/147"
+      "number": "151/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-152",
       "rarity": "Secret Rare",
       "name": "Tapu Fini-GX",
-      "number": "152/147"
+      "number": "152/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-153",
       "rarity": "Secret Rare",
       "name": "Necrozma-GX",
-      "number": "153/147"
+      "number": "153/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-154",
       "rarity": "Secret Rare",
       "name": "Machamp-GX",
-      "number": "154/147"
+      "number": "154/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-155",
       "rarity": "Secret Rare",
       "name": "Lycanroc-GX",
-      "number": "155/147"
+      "number": "155/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-156",
       "rarity": "Secret Rare",
       "name": "Marshadow-GX",
-      "number": "156/147"
+      "number": "156/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-157",
       "rarity": "Secret Rare",
       "name": "Alolan Muk-GX",
-      "number": "157/147"
+      "number": "157/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-158",
       "rarity": "Secret Rare",
       "name": "Darkrai-GX",
-      "number": "158/147"
+      "number": "158/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-159",
       "rarity": "Secret Rare",
       "name": "Gardevoir-GX",
-      "number": "159/147"
+      "number": "159/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-160",
       "rarity": "Secret Rare",
       "name": "Noivern-GX",
-      "number": "160/147"
+      "number": "160/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-161",
       "rarity": "Secret Rare",
       "name": "Bodybuilding Dumbbells",
-      "number": "161/147"
+      "number": "161/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-162",
       "rarity": "Secret Rare",
       "name": "Choice Band",
-      "number": "162/147"
+      "number": "162/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-163",
       "rarity": "Secret Rare",
       "name": "Escape Rope",
-      "number": "163/147"
+      "number": "163/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-164",
       "rarity": "Secret Rare",
       "name": "Multi Switch",
-      "number": "164/147"
+      "number": "164/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-165",
       "rarity": "Secret Rare",
       "name": "Rescue Stretcher",
-      "number": "165/147"
+      "number": "165/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-166",
       "rarity": "Secret Rare",
       "name": "Super Scoop Up",
-      "number": "166/147"
+      "number": "166/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-167",
       "rarity": "Secret Rare",
       "name": "Fire Energy",
-      "number": "167/147"
+      "number": "167/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-168",
       "rarity": "Secret Rare",
       "name": "Darkness Energy",
-      "number": "168/147"
+      "number": "168/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm3-169",
       "rarity": "Secret Rare",
       "name": "Fairy Energy",
-      "number": "169/147"
+      "number": "169/147",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

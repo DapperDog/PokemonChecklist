@@ -735,73 +735,85 @@
       "id": "pl1-122",
       "rarity": "Level X",
       "name": "Dialga G",
-      "number": "122/127"
+      "number": "122/127",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl1-123",
       "rarity": "Level X",
       "name": "Drapion",
-      "number": "123/127"
+      "number": "123/127",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl1-124",
       "rarity": "Level X",
       "name": "Giratina",
-      "number": "124/127"
+      "number": "124/127",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl1-125",
       "rarity": "Level X",
       "name": "Palkia G",
-      "number": "125/127"
+      "number": "125/127",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl1-126",
       "rarity": "Level X",
       "name": "Shaymin",
-      "number": "126/127"
+      "number": "126/127",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl1-127",
       "rarity": "Level X",
       "name": "Shaymin",
-      "number": "127/127"
+      "number": "127/127",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl1-128",
       "rarity": "Secret Rare",
       "name": "Electabuzz",
-      "number": "128/127"
+      "number": "128/127",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl1-129",
       "rarity": "Secret Rare",
       "name": "Hitmonchan",
-      "number": "129/127"
+      "number": "129/127",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl1-130",
       "rarity": "Secret Rare",
       "name": "Scyther",
-      "number": "130/127"
+      "number": "130/127",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl1-SH4",
       "rarity": "Secret Rare",
       "name": "Lotad",
-      "number": "SH4"
+      "number": "SH4",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl1-SH5",
       "rarity": "Secret Rare",
       "name": "Swablu",
-      "number": "SH5"
+      "number": "SH5",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl1-SH6",
       "rarity": "Secret Rare",
       "name": "Vulpix",
-      "number": "SH6"
+      "number": "SH6",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

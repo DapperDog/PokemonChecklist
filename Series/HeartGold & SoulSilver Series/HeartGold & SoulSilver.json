@@ -633,61 +633,71 @@
       "id": "hgss1-105",
       "rarity": "Prime",
       "name": "Ampharos",
-      "number": "105/123"
+      "number": "105/123",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss1-106",
       "rarity": "Prime",
       "name": "Blissey",
-      "number": "106/123"
+      "number": "106/123",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss1-107",
       "rarity": "Prime",
       "name": "Donphan",
-      "number": "107/123"
+      "number": "107/123",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss1-108",
       "rarity": "Prime",
       "name": "Feraligatr",
-      "number": "108/123"
+      "number": "108/123",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss1-109",
       "rarity": "Prime",
       "name": "Meganium",
-      "number": "109/123"
+      "number": "109/123",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss1-110",
       "rarity": "Prime",
       "name": "Typhlosion",
-      "number": "110/123"
+      "number": "110/123",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss1-111",
       "rarity": "LEGEND",
       "name": "Ho-Oh LEGEND",
-      "number": "111/123"
+      "number": "111/123",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss1-112",
       "rarity": "LEGEND",
       "name": "Ho-Oh LEGEND",
-      "number": "112/123"
+      "number": "112/123",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss1-113",
       "rarity": "LEGEND",
       "name": "Lugia LEGEND",
-      "number": "113/123"
+      "number": "113/123",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss1-114",
       "rarity": "LEGEND",
       "name": "Lugia LEGEND",
-      "number": "114/123"
+      "number": "114/123",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss1-115",
@@ -755,7 +765,8 @@
       "id": "hgss1-ONE",
       "rarity": "Secret Rare",
       "name": "Alph Lithograph",
-      "number": "ONE"
+      "number": "ONE",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

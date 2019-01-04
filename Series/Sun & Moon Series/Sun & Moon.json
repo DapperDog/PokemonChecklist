@@ -75,7 +75,8 @@
       "id": "sm1-12",
       "rarity": "GX",
       "name": "Decidueye-GX",
-      "number": "12/149"
+      "number": "12/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-13",
@@ -93,7 +94,8 @@
       "id": "sm1-15",
       "rarity": "GX",
       "name": "Lurantis-GX",
-      "number": "15/149"
+      "number": "15/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-16",
@@ -165,7 +167,8 @@
       "id": "sm1-27",
       "rarity": "GX",
       "name": "Incineroar-GX",
-      "number": "27/149"
+      "number": "27/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-28",
@@ -213,7 +216,8 @@
       "id": "sm1-35",
       "rarity": "GX",
       "name": "Lapras-GX",
-      "number": "35/149"
+      "number": "35/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-36",
@@ -255,7 +259,8 @@
       "id": "sm1-42",
       "rarity": "GX",
       "name": "Primarina-GX",
-      "number": "42/149"
+      "number": "42/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-43",
@@ -369,7 +374,8 @@
       "id": "sm1-61",
       "rarity": "GX",
       "name": "Espeon-GX",
-      "number": "61/149"
+      "number": "61/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-62",
@@ -381,7 +387,8 @@
       "id": "sm1-63",
       "rarity": "Holo Rare",
       "name": "Toxapex",
-      "number": "63/149"
+      "number": "63/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-64",
@@ -399,7 +406,8 @@
       "id": "sm1-66",
       "rarity": "GX",
       "name": "Lunala-GX",
-      "number": "66/149"
+      "number": "66/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-67",
@@ -483,7 +491,8 @@
       "id": "sm1-80",
       "rarity": "GX",
       "name": "Umbreon-GX",
-      "number": "80/149"
+      "number": "80/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-81",
@@ -537,7 +546,8 @@
       "id": "sm1-89",
       "rarity": "GX",
       "name": "Solgaleo-GX",
-      "number": "89/149"
+      "number": "89/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-90",
@@ -603,7 +613,8 @@
       "id": "sm1-100",
       "rarity": "GX",
       "name": "Tauros-GX",
-      "number": "100/149"
+      "number": "100/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-101",
@@ -663,7 +674,8 @@
       "id": "sm1-110",
       "rarity": "GX",
       "name": "Gumshoos-GX",
-      "number": "110/149"
+      "number": "110/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-111",
@@ -789,7 +801,8 @@
       "id": "sm1-131",
       "rarity": "Uncommon",
       "name": "Rotom Dex",
-      "number": "131/149"
+      "number": "131/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-132",
@@ -831,157 +844,183 @@
       "id": "sm1-138",
       "rarity": "Full Art",
       "name": "Lurantis-GX",
-      "number": "138/149"
+      "number": "138/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-139",
       "rarity": "Full Art",
       "name": "Lapras-GX",
-      "number": "139/149"
+      "number": "139/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-140",
       "rarity": "Full Art",
       "name": "Espeon-GX",
-      "number": "140/149"
+      "number": "140/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-141",
       "rarity": "Full Art",
       "name": "Lunala-GX",
-      "number": "141/149"
+      "number": "141/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-142",
       "rarity": "Full Art",
       "name": "Umbreon-GX",
-      "number": "142/149"
+      "number": "142/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-143",
       "rarity": "Full Art",
       "name": "Solgaleo-GX",
-      "number": "143/149"
+      "number": "143/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-144",
       "rarity": "Full Art",
       "name": "Tauros-GX",
-      "number": "144/149"
+      "number": "144/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-145",
       "rarity": "Full Art",
       "name": "Gumshoos-GX",
-      "number": "145/149"
+      "number": "145/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-146",
       "rarity": "Full Art",
       "name": "Ilima",
-      "number": "146/149"
+      "number": "146/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-147",
       "rarity": "Full Art",
       "name": "Lillie",
-      "number": "147/149"
+      "number": "147/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-148",
       "rarity": "Full Art",
       "name": "Professor Kukui",
-      "number": "148/149"
+      "number": "148/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-149",
       "rarity": "Full Art",
       "name": "Team Skull Grunt",
-      "number": "149/149"
+      "number": "149/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-150",
       "rarity": "Secret Rare",
       "name": "Lurantis-GX",
-      "number": "150/149"
+      "number": "150/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-151",
       "rarity": "Secret Rare",
       "name": "Lapras-GX",
-      "number": "151/149"
+      "number": "151/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-152",
       "rarity": "Secret Rare",
       "name": "Espeon-GX",
-      "number": "152/149"
+      "number": "152/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-153",
       "rarity": "Secret Rare",
       "name": "Lunala-GX",
-      "number": "153/149"
+      "number": "153/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-154",
       "rarity": "Secret Rare",
       "name": "Umbreon-GX",
-      "number": "154/149"
+      "number": "154/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-155",
       "rarity": "Full Art",
       "name": "Solgaleo-GX",
-      "number": "155/149"
+      "number": "155/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-156",
       "rarity": "Secret Rare",
       "name": "Tauros-GX",
-      "number": "156/149"
+      "number": "156/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-157",
       "rarity": "Secret Rare",
       "name": "Gumshoos-GX",
-      "number": "157/149"
+      "number": "157/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-158",
       "rarity": "Secret Rare",
       "name": "Nest Ball",
-      "number": "158/149"
+      "number": "158/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-159",
       "rarity": "Secret Rare",
       "name": "Rotom Dex",
-      "number": "159/149"
+      "number": "159/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-160",
       "rarity": "Secret Rare",
       "name": "Switch",
-      "number": "160/149"
+      "number": "160/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-161",
       "rarity": "Secret Rare",
       "name": "Ultra Ball",
-      "number": "161/149"
+      "number": "161/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-162",
       "rarity": "Secret Rare",
       "name": "Psychic Energy",
-      "number": "162/149"
+      "number": "162/149",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm1-163",
       "rarity": "Secret Rare",
       "name": "Metal Energy",
-      "number": "163/149"
+      "number": "163/149",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

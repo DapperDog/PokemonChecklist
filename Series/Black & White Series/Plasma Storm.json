@@ -85,9 +85,10 @@
     },
     {
       "id": "bw8-14",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Moltres-EX",
-      "number": "14/135"
+      "number": "14/135",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw8-15",
@@ -109,9 +110,10 @@
     },
     {
       "id": "bw8-18",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Victini-EX",
-      "number": "18/135"
+      "number": "18/135",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw8-19",
@@ -151,9 +153,10 @@
     },
     {
       "id": "bw8-25",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Articuno-EX",
-      "number": "25/135"
+      "number": "25/135",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw8-26",
@@ -289,9 +292,10 @@
     },
     {
       "id": "bw8-48",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Zapdos-EX",
-      "number": "48/135"
+      "number": "48/135",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw8-49",
@@ -559,9 +563,10 @@
     },
     {
       "id": "bw8-93",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Cobalion-EX",
-      "number": "93/135"
+      "number": "93/135",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw8-94",
@@ -571,15 +576,17 @@
     },
     {
       "id": "bw8-95",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Black Kyurem-EX",
-      "number": "95/135"
+      "number": "95/135",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw8-96",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "White Kyurem-EX",
-      "number": "96/135"
+      "number": "96/135",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw8-97",
@@ -649,9 +656,10 @@
     },
     {
       "id": "bw8-108",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Lugia-EX",
-      "number": "108/135"
+      "number": "108/135",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw8-109",
@@ -789,49 +797,57 @@
       "id": "bw8-131",
       "rarity": "Full Art",
       "name": "Victini-EX",
-      "number": "131/135"
+      "number": "131/135",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw8-132",
       "rarity": "Full Art",
       "name": "Articuno-EX",
-      "number": "132/135"
+      "number": "132/135",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw8-133",
       "rarity": "Full Art",
       "name": "Cobalion-EX",
-      "number": "133/135"
+      "number": "133/135",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw8-134",
       "rarity": "Full Art",
       "name": "Lugia-EX",
-      "number": "134/135"
+      "number": "134/135",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw8-135",
       "rarity": "Full Art",
       "name": "Colress",
-      "number": "135/135"
+      "number": "135/135",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw8-136",
       "rarity": "Secret Rare",
       "name": "Charizard",
-      "number": "136/135"
+      "number": "136/135",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw8-137",
       "rarity": "Secret Rare",
       "name": "Blastoise",
-      "number": "137/135"
+      "number": "137/135",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw8-138",
       "rarity": "Secret Rare",
       "name": "Random Receiver",
-      "number": "138/135"
+      "number": "138/135",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

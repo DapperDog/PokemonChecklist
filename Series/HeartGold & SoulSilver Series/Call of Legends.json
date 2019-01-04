@@ -587,67 +587,78 @@
       "id": "col1-SL1",
       "rarity": "Secret Rare",
       "name": "Deoxys",
-      "number": "SL1"
+      "number": "SL1",
+      "exclusions":["Reverse"]
     },
     {
       "id": "col1-SL2",
       "rarity": "Secret Rare",
       "name": "Dialga",
-      "number": "SL2"
+      "number": "SL2",
+      "exclusions":["Reverse"]
     },
     {
       "id": "col1-SL3",
       "rarity": "Secret Rare",
       "name": "Entei",
-      "number": "SL3"
+      "number": "SL3",
+      "exclusions":["Reverse"]
     },
     {
       "id": "col1-SL4",
       "rarity": "Secret Rare",
       "name": "Groudon",
-      "number": "SL4"
+      "number": "SL4",
+      "exclusions":["Reverse"]
     },
     {
       "id": "col1-SL5",
       "rarity": "Secret Rare",
       "name": "Ho-Oh",
-      "number": "SL5"
+      "number": "SL5",
+      "exclusions":["Reverse"]
     },
     {
       "id": "col1-SL6",
       "rarity": "Secret Rare",
       "name": "Kyogre",
-      "number": "SL6"
+      "number": "SL6",
+      "exclusions":["Reverse"]
     },
     {
       "id": "col1-SL7",
       "rarity": "Secret Rare",
       "name": "Lugia",
-      "number": "SL7"
+      "number": "SL7",
+      "exclusions":["Reverse"]
     },
     {
       "id": "col1-SL8",
       "rarity": "Secret Rare",
       "name": "Palkia",
-      "number": "SL8"
+      "number": "SL8",
+      "exclusions":["Reverse"]
     },
     {
       "id": "col1-SL9",
       "rarity": "Secret Rare",
       "name": "Raikou",
-      "number": "SL9"
+      "number": "SL9",
+      "exclusions":["Reverse"]
     },
     {
       "id": "col1-SL10",
       "rarity": "Secret Rare",
       "name": "Rayquaza",
-      "number": "SL10"
+      "number": "SL10",
+      "exclusions":["Reverse"]
     },
     {
       "id": "col1-SL11",
       "rarity": "Secret Rare",
       "name": "Suicune",
-      "number": "SL11"
+      "number": "SL11",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

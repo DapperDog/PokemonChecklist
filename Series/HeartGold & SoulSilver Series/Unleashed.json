@@ -507,79 +507,92 @@
       "id": "hgss2-84",
       "rarity": "Prime",
       "name": "Crobat",
-      "number": "84/95"
+      "number": "84/95",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss2-85",
       "rarity": "Prime",
       "name": "Kingdra",
-      "number": "85/95"
+      "number": "85/95",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss2-86",
       "rarity": "Prime",
       "name": "Lanturn",
-      "number": "86/95"
+      "number": "86/95",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss2-87",
       "rarity": "Prime",
       "name": "Steelix",
-      "number": "87/95"
+      "number": "87/95",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss2-88",
       "rarity": "Prime",
       "name": "Tyranitar",
-      "number": "88/95"
+      "number": "88/95",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss2-89",
       "rarity": "Prime",
       "name": "Ursaring",
-      "number": "89/95"
+      "number": "89/95",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss2-90",
       "rarity": "LEGEND",
       "name": "Entei & Raikou LEGEND",
-      "number": "90/95"
+      "number": "90/95",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss2-91",
       "rarity": "LEGEND",
       "name": "Entei & Raikou LEGEND",
-      "number": "91/95"
+      "number": "91/95",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss2-92",
       "rarity": "LEGEND",
       "name": "Raikou & Suicune LEGEND",
-      "number": "92/95"
+      "number": "92/95",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss2-93",
       "rarity": "LEGEND",
       "name": "Raikou & Suicune LEGEND",
-      "number": "93/95"
+      "number": "93/95",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss2-94",
       "rarity": "LEGEND",
       "name": "Suicune & Entei LEGEND",
-      "number": "94/95"
+      "number": "94/95",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss2-95",
       "rarity": "LEGEND",
       "name": "Suicune & Entei LEGEND",
-      "number": "95/95"
+      "number": "95/95",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss2-TWO",
       "rarity": "Holo Rare",
       "name": "Alph Lithograph",
-      "number": "TWO"
+      "number": "TWO",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

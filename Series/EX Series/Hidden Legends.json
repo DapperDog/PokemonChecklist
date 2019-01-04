@@ -561,61 +561,71 @@
       "id": "ex5-93",
       "rarity": "EX",
       "name": "Groudon ex",
-      "number": "93/101"
+      "number": "93/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex5-94",
       "rarity": "EX",
       "name": "Kyogre ex",
-      "number": "94/101"
+      "number": "94/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex5-95",
       "rarity": "EX",
       "name": "Metagross ex",
-      "number": "95/101"
+      "number": "95/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex5-96",
       "rarity": "EX",
       "name": "Ninetales ex",
-      "number": "96/101"
+      "number": "96/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex5-97",
       "rarity": "EX",
       "name": "Regice ex",
-      "number": "97/101"
+      "number": "97/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex5-98",
       "rarity": "EX",
       "name": "Regirock ex",
-      "number": "98/101"
+      "number": "98/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex5-99",
       "rarity": "EX",
       "name": "Registeel ex",
-      "number": "99/101"
+      "number": "99/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex5-100",
       "rarity": "EX",
       "name": "Vileplume ex",
-      "number": "100/101"
+      "number": "100/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex5-101",
       "rarity": "EX",
       "name": "Wigglytuff ex",
-      "number": "101/101"
+      "number": "101/101",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex5-102",
       "rarity": "Secret Rare",
       "name": "Groudon",
-      "number": "102/101"
+      "number": "102/101",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

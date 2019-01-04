@@ -891,211 +891,246 @@
       "id": "ecard2-148",
       "rarity": "Secret Rare",
       "name": "Kingdra",
-      "number": "148/147"
+      "number": "148/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-149",
       "rarity": "Secret Rare",
       "name": "Lugia",
-      "number": "149/147"
+      "number": "149/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-150",
       "rarity": "Secret Rare",
       "name": "Nidoking",
-      "number": "150/147"
+      "number": "150/147",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-151",
       "rarity": "Secret Rare",
       "name": "Ampharos",
-      "number": "H1"
+      "number": "H1",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-152",
       "rarity": "Secret Rare",
       "name": "Arcanine",
-      "number": "H2"
+      "number": "H2",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-153",
       "rarity": "Secret Rare",
       "name": "Ariados",
-      "number": "H3"
+      "number": "H3",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-154",
       "rarity": "Secret Rare",
       "name": "Azumarill",
-      "number": "H4"
+      "number": "H4",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-155",
       "rarity": "Secret Rare",
       "name": "Bellossom",
-      "number": "H5"
+      "number": "H5",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-156",
       "rarity": "Secret Rare",
       "name": "Blissey",
-      "number": "H6"
+      "number": "H6",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-157",
       "rarity": "Secret Rare",
       "name": "Electrode",
-      "number": "H7"
+      "number": "H7",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-158",
       "rarity": "Secret Rare",
       "name": "Entei",
-      "number": "H8"
+      "number": "H8",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-159",
       "rarity": "Secret Rare",
       "name": "Espeon",
-      "number": "H9"
+      "number": "H9",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-160",
       "rarity": "Secret Rare",
       "name": "Exeggutor",
-      "number": "H10"
+      "number": "H10",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-161",
       "rarity": "Secret Rare",
       "name": "Houndoom",
-      "number": "H11"
+      "number": "H11",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-162",
       "rarity": "Secret Rare",
       "name": "Hypno",
-      "number": "H12"
+      "number": "H12",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-163",
       "rarity": "Secret Rare",
       "name": "Jumpluff",
-      "number": "H13"
+      "number": "H13",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-164",
       "rarity": "Secret Rare",
       "name": "Kingdra",
-      "number": "H14"
+      "number": "H14",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-165",
       "rarity": "Secret Rare",
       "name": "Lanturn",
-      "number": "H15"
+      "number": "H15",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-166",
       "rarity": "Secret Rare",
       "name": "Magneton",
-      "number": "H16"
+      "number": "H16",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-167",
       "rarity": "Secret Rare",
       "name": "Muk",
-      "number": "H17"
+      "number": "H17",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-168",
       "rarity": "Secret Rare",
       "name": "Nidoking",
-      "number": "H18"
+      "number": "H18",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-169",
       "rarity": "Secret Rare",
       "name": "Ninetales",
-      "number": "H19"
+      "number": "H19",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-170",
       "rarity": "Secret Rare",
       "name": "Octillery",
-      "number": "H20"
+      "number": "H20",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-171",
       "rarity": "Secret Rare",
       "name": "Scizor",
-      "number": "H21"
+      "number": "H21",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-172",
       "rarity": "Secret Rare",
       "name": "Slowking",
-      "number": "H22"
+      "number": "H22",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-173",
       "rarity": "Secret Rare",
       "name": "Steelix",
-      "number": "H23"
+      "number": "H23",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-174",
       "rarity": "Secret Rare",
       "name": "Sudowoodo",
-      "number": "H24"
+      "number": "H24",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-175",
       "rarity": "Secret Rare",
       "name": "Suicune",
-      "number": "H25"
+      "number": "H25",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-176",
       "rarity": "Secret Rare",
       "name": "Tentacruel",
-      "number": "H26"
+      "number": "H26",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-177",
       "rarity": "Secret Rare",
       "name": "Togetic",
-      "number": "H27"
+      "number": "H27",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-178",
       "rarity": "Secret Rare",
       "name": "Tyranitar",
-      "number": "H28"
+      "number": "H28",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-179",
       "rarity": "Secret Rare",
       "name": "Umbreon",
-      "number": "H29"
+      "number": "H29",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-180",
       "rarity": "Secret Rare",
       "name": "Victreebel",
-      "number": "H30"
+      "number": "H30",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-181",
       "rarity": "Secret Rare",
       "name": "Vileplume",
-      "number": "H31"
+      "number": "H31",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ecard2-182",
       "rarity": "Secret Rare",
       "name": "Zapdos",
-      "number": "H32"
+      "number": "H32",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [],

@@ -489,67 +489,78 @@
       "id": "hgss3-81",
       "rarity": "Prime",
       "name": "Espeon",
-      "number": "81/90"
+      "number": "81/90",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss3-82",
       "rarity": "Prime",
       "name": "Houndoom",
-      "number": "82/90"
+      "number": "82/90",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss3-83",
       "rarity": "Prime",
       "name": "Raichu",
-      "number": "83/90"
+      "number": "83/90",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss3-84",
       "rarity": "Prime",
       "name": "Scizor",
-      "number": "84/90"
+      "number": "84/90",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss3-85",
       "rarity": "Prime",
       "name": "Slowking",
-      "number": "85/90"
+      "number": "85/90",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss3-86",
       "rarity": "Prime",
       "name": "Umbreon",
-      "number": "86/90"
+      "number": "86/90",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss3-87",
       "rarity": "LEGEND",
       "name": "Kyogre & Groudon LEGEND",
-      "number": "87/90"
+      "number": "87/90",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss3-88",
       "rarity": "LEGEND",
       "name": "Kyogre & Groudon LEGEND",
-      "number": "88/90"
+      "number": "88/90",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss3-89",
       "rarity": "LEGEND",
       "name": "Rayquaza & Deoxys LEGEND",
-      "number": "89/90"
+      "number": "89/90",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss3-90",
       "rarity": "LEGEND",
       "name": "Rayquaza & Deoxys LEGEND",
-      "number": "90/90"
+      "number": "90/90",
+      "exclusions":["Reverse"]
     },
     {
       "id": "hgss3-THREE",
       "rarity": "Secret Rare",
       "name": "Alph Lithograph",
-      "number": "THREE"
+      "number": "THREE",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

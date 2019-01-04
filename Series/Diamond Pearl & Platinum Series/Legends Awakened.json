@@ -843,43 +843,50 @@
       "id": "dp6-140",
       "rarity": "Level X",
       "name": "Azelf",
-      "number": "140/146"
+      "number": "140/146",
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp6-141",
       "rarity": "Level X",
       "name": "Gliscor",
-      "number": "141/146"
+      "number": "141/146",
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp6-142",
       "rarity": "Level X",
       "name": "Magnezone",
-      "number": "142/146"
+      "number": "142/146",
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp6-143",
       "rarity": "Level X",
       "name": "Mesprit",
-      "number": "143/146"
+      "number": "143/146",
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp6-144",
       "rarity": "Level X",
       "name": "Mewtwo",
-      "number": "144/146"
+      "number": "144/146",
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp6-145",
       "rarity": "Level X",
       "name": "Rhyperior",
-      "number": "145/146"
+      "number": "145/146",
+      "exclusions":["Reverse"]
     },
     {
       "id": "dp6-146",
       "rarity": "Level X",
       "name": "Uxie",
-      "number": "146/146"
+      "number": "146/146",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

@@ -621,109 +621,127 @@
       "id": "pl2-103",
       "rarity": "Level X",
       "name": "Alakazam 4",
-      "number": "103/111"
+      "number": "103/111",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl2-104",
       "rarity": "Level X",
       "name": "Floatzel GL",
-      "number": "104/111"
+      "number": "104/111",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl2-105",
       "rarity": "Level X",
       "name": "Flygon",
-      "number": "105/111"
+      "number": "105/111",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl2-106",
       "rarity": "Level X",
       "name": "Gallade 4",
-      "number": "106/111"
+      "number": "106/111",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl2-107",
       "rarity": "Level X",
       "name": "Hippowdon",
-      "number": "107/111"
+      "number": "107/111",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl2-108",
       "rarity": "Level X",
       "name": "Infernape 4",
-      "number": "108/111"
+      "number": "108/111",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl2-109",
       "rarity": "Level X",
       "name": "Luxray GL",
-      "number": "109/111"
+      "number": "109/111",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl2-110",
       "rarity": "Level X",
       "name": "Mismagius GL",
-      "number": "110/111"
+      "number": "110/111",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl2-111",
       "rarity": "Level X",
       "name": "Snorlax",
-      "number": "111/111"
+      "number": "111/111",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl2-112",
       "rarity": "Secret Rare",
       "name": "Pikachu",
-      "number": "112/111"
+      "number": "112/111",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl2-113",
       "rarity": "Secret Rare",
       "name": "Flying Pikachu",
-      "number": "113/111"
+      "number": "113/111",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl2-114",
       "rarity": "Secret Rare",
       "name": "Surfing Pikachu",
-      "number": "114/111"
+      "number": "114/111",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl2-RT1",
       "rarity": "Secret Rare",
       "name": "Fan Rotom",
-      "number": "RT1"
+      "number": "RT1",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl2-RT2",
       "rarity": "Secret Rare",
       "name": "Frost Rotom",
-      "number": "RT2"
+      "number": "RT2",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl2-RT3",
       "rarity": "Secret Rare",
       "name": "Heat Rotom",
-      "number": "RT3"
+      "number": "RT3",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl2-RT4",
       "rarity": "Secret Rare",
       "name": "Mow Rotom",
-      "number": "RT4"
+      "number": "RT4",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl2-RT5",
       "rarity": "Secret Rare",
       "name": "Wash Rotom",
-      "number": "RT5"
+      "number": "RT5",
+      "exclusions":["Reverse"]
     },
     {
       "id": "pl2-RT6",
       "rarity": "Secret Rare",
       "name": "Charon's Choice",
-      "number": "RT6"
+      "number": "RT6",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

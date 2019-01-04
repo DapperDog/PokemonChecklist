@@ -579,97 +579,113 @@
       "id": "ex7-96",
       "rarity": "EX",
       "name": "Rocket's Articuno ex",
-      "number": "96/106"
+      "number": "96/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex7-97",
       "rarity": "EX",
       "name": "Rocket's Entei ex",
-      "number": "97/106"
+      "number": "97/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex7-98",
       "rarity": "EX",
       "name": "Rocket's Hitmonchan ex",
-      "number": "98/106"
+      "number": "98/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex7-99",
       "rarity": "EX",
       "name": "Rocket's Mewtwo ex",
-      "number": "99/106"
+      "number": "99/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex7-100",
       "rarity": "EX",
       "name": "Rocket's Moltres ex",
-      "number": "100/106"
+      "number": "100/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex7-101",
       "rarity": "EX",
       "name": "Rocket's Scizor ex",
-      "number": "101/106"
+      "number": "101/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex7-102",
       "rarity": "EX",
       "name": "Rocket's Scyther ex",
-      "number": "102/106"
+      "number": "102/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex7-103",
       "rarity": "EX",
       "name": "Rocket's Sneasel ex",
-      "number": "103/106"
+      "number": "103/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex7-104",
       "rarity": "EX",
       "name": "Rocket's Snorlax ex",
-      "number": "104/106"
+      "number": "104/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex7-105",
       "rarity": "EX",
       "name": "Rocket's Suicune ex",
-      "number": "105/106"
+      "number": "105/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex7-106",
       "rarity": "EX",
       "name": "Rocket's Zapdos ex",
-      "number": "106/106"
+      "number": "106/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex7-107",
       "rarity": "Gold Star",
       "name": "Mudkip Star",
-      "number": "107/106"
+      "number": "107/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex7-108",
       "rarity": "Gold Star",
       "name": "Torchic Star",
-      "number": "108/106"
+      "number": "108/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex7-109",
       "rarity": "Gold Star",
       "name": "Treecko Star",
-      "number": "109/106"
+      "number": "109/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex7-110",
       "rarity": "Secret Rare",
       "name": "Charmeleon",
-      "number": "110/106"
+      "number": "110/106",
+      "exclusions":["Reverse"]
     },
     {
       "id": "ex7-111",
       "rarity": "Secret Rare",
       "name": "Here Comes Team Rocket",
-      "number": "111/106"
+      "number": "111/106",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [

@@ -43,9 +43,10 @@
     },
     {
       "id": "sm75-7",
-      "rarity": "Holo Rare",
+      "rarity": "Prism Star",
       "name": "Victini \u25c7",
-      "number": "7/70"
+      "number": "7/70",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm75-8",
@@ -69,7 +70,8 @@
       "id": "sm75-11",
       "rarity": "GX",
       "name": "Reshiram-GX",
-      "number": "11/70"
+      "number": "11/70",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm75-12",
@@ -111,7 +113,8 @@
       "id": "sm75-18",
       "rarity": "GX",
       "name": "Kingdra-GX",
-      "number": "18/70"
+      "number": "18/70",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm75-19",
@@ -225,7 +228,8 @@
       "id": "sm75-37",
       "rarity": "GX",
       "name": "Dragonite-GX",
-      "number": "37/70"
+      "number": "37/70",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm75-38",
@@ -249,7 +253,8 @@
       "id": "sm75-41",
       "rarity": "GX",
       "name": "Altaria-GX",
-      "number": "41/70"
+      "number": "41/70",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm75-42",
@@ -267,7 +272,8 @@
       "id": "sm75-44",
       "rarity": "GX",
       "name": "Salamence-GX",
-      "number": "44/70"
+      "number": "44/70",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm75-45",
@@ -291,7 +297,8 @@
       "id": "sm75-48",
       "rarity": "GX",
       "name": "White Kyurem-GX",
-      "number": "48/70"
+      "number": "48/70",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm75-49",
@@ -367,9 +374,10 @@
     },
     {
       "id": "sm75-61",
-      "rarity": "Holo Rare",
+      "rarity": "Prism Star",
       "name": "Lance \u25c7",
-      "number": "61/70"
+      "number": "61/70",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm75-62",
@@ -393,85 +401,99 @@
       "id": "sm75-65",
       "rarity": "Full Art",
       "name": "Reshiram-GX",
-      "number": "65/70"
+      "number": "65/70",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm75-66",
       "rarity": "Full Art",
       "name": "Kingdra-GX",
-      "number": "66/70"
+      "number": "66/70",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm75-67",
       "rarity": "Full Art",
       "name": "Dragonite-GX",
-      "number": "67/70"
+      "number": "67/70",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm75-68",
       "rarity": "Full Art",
       "name": "Altaria-GX",
-      "number": "68/70"
+      "number": "68/70",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm75-69",
       "rarity": "Full Art",
       "name": "Blaine's Last Stand",
-      "number": "69/70"
+      "number": "69/70",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm75-70",
       "rarity": "Full Art",
       "name": "Zinnia",
-      "number": "70/70"
+      "number": "70/70",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm75-71",
       "rarity": "Secret Rare",
       "name": "Reshiram-GX",
-      "number": "71/70"
+      "number": "71/70",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm75-72",
       "rarity": "Secret Rare",
       "name": "Altaria-GX",
-      "number": "72/70"
+      "number": "72/70",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm75-73",
       "rarity": "Secret Rare",
       "name": "Salamence-GX",
-      "number": "73/70"
+      "number": "73/70",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm75-74",
       "rarity": "Secret Rare",
       "name": "White Kyurem-GX",
-      "number": "74/70"
+      "number": "74/70",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm75-75",
       "rarity": "Secret Rare",
       "name": "Dragon Talon",
-      "number": "75/70"
+      "number": "75/70",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm75-76",
       "rarity": "Secret Rare",
       "name": "Fiery Flint",
-      "number": "76/70"
+      "number": "76/70",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm75-77",
       "rarity": "Secret Rare",
       "name": "Switch Raft",
-      "number": "77/70"
+      "number": "77/70",
+      "exclusions":["Reverse"]
     },
     {
       "id": "sm75-78",
       "rarity": "Secret Rare",
       "name": "Ultra Necrozma-GX",
-      "number": "78/70"
+      "number": "78/70",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [],

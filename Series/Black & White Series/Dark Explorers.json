@@ -81,7 +81,8 @@
       "id": "bw5-13",
       "rarity": "Rare Holo EX",
       "name": "Entei-EX",
-      "number": "13/108"
+      "number": "13/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw5-14",
@@ -159,7 +160,8 @@
       "id": "bw5-26",
       "rarity": "Rare Holo EX",
       "name": "Kyogre-EX",
-      "number": "26/108"
+      "number": "26/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw5-27",
@@ -231,7 +233,8 @@
       "id": "bw5-38",
       "rarity": "Rare Holo EX",
       "name": "Raikou-EX",
-      "number": "38/108"
+      "number": "38/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw5-39",
@@ -327,7 +330,8 @@
       "id": "bw5-54",
       "rarity": "Rare Holo EX",
       "name": "Groudon-EX",
-      "number": "54/108"
+      "number": "54/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw5-55",
@@ -381,7 +385,8 @@
       "id": "bw5-63",
       "rarity": "Rare Holo EX",
       "name": "Darkrai-EX",
-      "number": "63/108"
+      "number": "63/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw5-64",
@@ -543,7 +548,8 @@
       "id": "bw5-90",
       "rarity": "Rare Holo EX",
       "name": "Tornadus-EX",
-      "number": "90/108"
+      "number": "90/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw5-91",
@@ -621,55 +627,64 @@
       "id": "bw5-103",
       "rarity": "Full Art",
       "name": "Entei-EX",
-      "number": "103/108"
+      "number": "103/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw5-104",
       "rarity": "Full Art",
       "name": "Kyogre-EX",
-      "number": "104/108"
+      "number": "104/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw5-105",
       "rarity": "Full Art",
       "name": "Raikou-EX",
-      "number": "105/108"
+      "number": "105/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw5-106",
       "rarity": "Full Art",
       "name": "Groudon-EX",
-      "number": "106/108"
+      "number": "106/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw5-107",
       "rarity": "Full Art",
       "name": "Darkrai-EX",
-      "number": "107/108"
+      "number": "107/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw5-108",
       "rarity": "Full Art",
       "name": "Tornadus-EX",
-      "number": "108/108"
+      "number": "108/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw5-109",
       "rarity": "Secret Rare",
       "name": "Gardevoir",
-      "number": "109/108"
+      "number": "109/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw5-110",
       "rarity": "Secret Rare",
       "name": "Archeops",
-      "number": "110/108"
+      "number": "110/108",
+      "exclusions":["Reverse"]
     },
     {
       "id": "bw5-111",
       "rarity": "Secret Rare",
       "name": "Pok\u00e9mon Catcher",
-      "number": "111/108"
+      "number": "111/108",
+      "exclusions":["Reverse"]
     }
   ],
   "additionalCards": [
