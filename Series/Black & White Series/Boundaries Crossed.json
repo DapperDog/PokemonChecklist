@@ -55,7 +55,7 @@
     },
     {
       "id": "bw7-9",
-      "rarity": "Rare Holo EX",
+      "rarity": "EX",
       "name": "Celebi-EX",
       "number": "9/149",
       "exclusions":["Reverse"]
@@ -829,25 +829,25 @@
     },
     {
       "id": "bw7-137",
-      "rarity": "Rare ACE",
+      "rarity": "ACE",
       "name": "Computer Search",
       "number": "137/149"
     },
     {
       "id": "bw7-138",
-      "rarity": "Rare ACE",
+      "rarity": "ACE",
       "name": "Crystal Edge",
       "number": "138/149"
     },
     {
       "id": "bw7-139",
-      "rarity": "Rare ACE",
+      "rarity": "ACE",
       "name": "Crystal Wall",
       "number": "139/149"
     },
     {
       "id": "bw7-140",
-      "rarity": "Rare ACE",
+      "rarity": "ACE",
       "name": "Gold Potion",
       "number": "140/149"
     },

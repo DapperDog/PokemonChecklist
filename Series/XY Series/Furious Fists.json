@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -830,15 +830,15 @@
     {
       "name": "Lucario",
       "number": "55a/111",
-      "rarity": "xy3-ac-55a",
-      "id": "x",
+      "rarity": "",
+      "id": "xy3-ac-55a",
       "Description": "Yellow A Alternate art Mega Powers Collection exclusive"
     },
     {
       "name": "Landorus",
       "number": "58/111",
-      "rarity": "xy3-ac-58",
-      "id": "",
+      "rarity": "",
+      "id": "xy3-ac-55a",
       "Description": "Non Holo Dark Hammer Theme Deck exclusive"
     },
     {

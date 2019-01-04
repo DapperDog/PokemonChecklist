@@ -1,5 +1,5 @@
 {
-  "version": 1.1,
+  "version": 1.2,
   "cardVariants": [
     "Unlimited",
     "1st Edition"
@@ -802,14 +802,14 @@
     {
       "name": "Seadra",
       "number": "9/132",
-      "rarity": "prerelease",
+      "rarity": "Pre-Release",
       "id": "gym1-ac-9",
       "description": "Holo Prerelease"
     },
     {
       "name": "Misty's Psyduck",
       "number": "54/132",
-      "rarity": "promo",
+      "rarity": "Promo",
       "id": "gym1-ac-54",
       "description": "W Stamped"
     }

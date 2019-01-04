@@ -1,5 +1,5 @@
 {
-  "version": 1.1,
+  "version": 1.2,
   "cardVariants": [
     "Unlimited",
     "1st Edition"
@@ -802,7 +802,7 @@
     {
       "name": "Brock's Vulpix",
       "number": "37/132",
-      "rarity": "promo",
+      "rarity": "Promo",
       "id": "gym2-ac-37",
       "description": "W Stamped"
     }
@@ -811,7 +811,7 @@
     {
       "name": "Blain'es Charizard",
       "number": "2/132",
-      "rarity": "misprint",
+      "rarity": "",
       "id": "gym2-mp-2",
       "description": "Majority of these cards have 'discard a fighting energy' in its first attack, later corrected to discard a fire energy (this card)"
     }

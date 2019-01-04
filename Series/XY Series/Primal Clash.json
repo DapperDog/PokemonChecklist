@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "cardVariants": [
     "Core",
     "Reverse"
@@ -1089,8 +1089,8 @@
     {
       "name": "Flygon",
       "number": "110/160",
-      "rarity": "xy5-ac-110",
-      "id": "",
+      "rarity": "",
+      "id": "xy5-ac-110",
       "Description": "Cosmos Holo Two Pack Dragon Blister"
     }
   ],
