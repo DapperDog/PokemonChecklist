@@ -20,7 +20,7 @@
       {"setName":"Sample E-Reader Set", "version":"1.1"},
       {"setName":"Expedition", "version":"1.1"},
       {"setName":"Best of Game", "version":"1.1"},
-      {"setName":"Aquapolis", "version":"1.1"},
+      {"setName":"Aquapolis", "version":"1.0"},
       {"setName":"Skyridge", "version":"1.0"},
       {"setName":"Box Topper", "version":"1.0"}
     ]
@@ -55,7 +55,7 @@
       {"setName":"Crystal Guardians", "version":"1.1"},
       {"setName":"Dragon Frontiers", "version":"1.1"},
       {"setName":"Power Keepers", "version":"1.1"},
-      {"setName":"POP 5", "version":"1.1"}
+      {"setName":"POP 5", "version":"1.0"}
     ]
   },
   {
@@ -80,7 +80,7 @@
       {"setName":"Rising Rivals", "version":"1.1"},
       {"setName":"Supreme Victors", "version":"1.1"},
       {"setName":"Arceus", "version":"1.1"},
-      {"setName":"Pokemon Rumble", "version":"1.1"}
+      {"setName":"Pokemon Rumble", "version":"1.0"}
     ]
   },
   {
@@ -169,7 +169,7 @@
       {"setName":"Crimson Invasion", "version":"1.1"},
       {"setName":"Ultra Prism", "version":"1.1"},
       {"setName":"Forbidden Light", "version":"1.1"},
-      {"setName":"Celestial Storm", "version":"1.1"},
+      {"setName":"Celestial Storm", "version":"1.0"},
       {"setName":"Dragon Majesty", "version":"1.0"},
       {"setName":"McDonalds Collection 2018", "version":"1.0"},
       {"setName":"Lost Thunder", "version":"1.0"}
